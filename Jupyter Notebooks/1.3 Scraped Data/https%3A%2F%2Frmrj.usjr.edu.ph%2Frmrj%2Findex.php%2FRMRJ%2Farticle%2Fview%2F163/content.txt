@@ -1,0 +1,103 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/163
+Inverse Clique Domination in Graphs
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 4 No. 2 (2016)
+/
+Articles
+Inverse Clique Domination in Graphs
+Authors
+Carmelita Loquias
+University of San Carlos
+Enrico Enriquez
+University of San Carlos
+Jonecis Dayap
+University of San Jose-Recoletos
+DOI:
+https://doi.org/10.32871/rmrj1604.02.03
+Keywords:
+dominating set, 											clique dominating set, 											inverse clique dominating set
+Abstract
+Let G be a connected simple graph. A nonempty subset S of the vertex set V (G) is a clique in G if the graph <S> induced by S is complete. A clique S in G is a clique dominating set if it is a dominating set. Let C be a minimum clique dominating set in G. The clique dominating setÂ Â Â  SâŠ†V(G)\C is called an inverse clique dominating set with respect to C. The minimum cardinality of inverse clique dominating set is called an inverse clique domination number of G and is denoted by Î³cl âˆ’1 (G). An inverse clique dominating set of cardinality Î³cl âˆ’1(G) is called Î³cl âˆ’1-set of G. In this paper we investigate the concept and give some important results.
+References
+[1] E.J. Cockayne, R.M. Dawes and S.T. Hedetniemi, Total domination in graphs, Networks 10, (1980) 211-219.
+[2] E.J. Cockayne, and S.T. Hedetniemi, Towards a theory of domination in graphs, Networks 7, (1977) 247-261.
+[3] E.S. Wolk, A note on the comparability graph of a tree, Proc. Amer. Math. Sot. 16 (1965) 17-20.
+[4] L.L. Kelleher and M.B. Cozzens, Dominating sets in social network graphs, Math. Social Sci., Vol. 16, no. 3 1988, 267-279.
+[5] M.B. Cozzens and L. Kelleher, Dominating cliques in graphs, Discrete Mathematics, 86 (1990), 101 - 116. http://dx.doi.org/10.
+[6] O. Ore. Theory of Graphs. American Mathematical Society, Provedence, R.I., 1962.13
+[7] T. V. Daniel and Sergio R. Canoy, Jr., Clique domination in a Graph, Applied Mathematical Sciences, Vol. 9, 2015, no. 116, 5749 - 5755
+Downloads
+PDF
+Published
+2016-12-31
+How to Cite
+Loquias, C., Enriquez, E., & Dayap, J. (2016). Inverse Clique Domination in Graphs. Recoletos Multidisciplinary Research Journal, 4(2). https://doi.org/10.32871/rmrj1604.02.03
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 4 No. 2 (2016)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Most read articles by the same author(s)
+Jonecis Dayap,
+Enrico Enriquez,
+Disjoint Secure Domination in the Join of Graphs
+,
+Recoletos Multidisciplinary Research Journal: Vol. 4 No. 2 (2016)
+Enrico Enriquez,
+Valerie Fernandez,
+Teodora Punzalan,
+Jonecis Dayap,
+Perfect Outer-connected Domination in the Join and Corona of Graphs
+,
+Recoletos Multidisciplinary Research Journal: Vol. 4 No. 2 (2016)
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

@@ -1,0 +1,179 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/106
+A Predictive Model on the Spread of HIV in Cebu City
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 3 No. 2 (2015)
+/
+Articles
+A Predictive Model on the Spread of HIV in Cebu City
+Authors
+Jose D. Velez Jr.
+University of San Jose-Recoletos
+Ricky B. Villeta
+University of San Jose-Recoletos
+Roberto N. Padua
+Richard Hao
+University of San Jose-Recoletos
+Marielle Colina
+University of San Jose-Recoletos
+DOI:
+https://doi.org/10.32871/rmrj1503.02.10
+Keywords:
+predictive model, 											Acquired Immune Deficiency Syndrome (AIDS)
+Abstract
+Human Immunodeficiency Virus (HIV), which can be spread by peopleâ€™s lifestyle, causes Acquired Immune Deficiency Syndrome (AIDS). Social lifestyles such as multiple sexual partnerships, commitment, protected sex practices, and health checkups are lifestyle factors that can impact on the rate at which entry into any of the epidemiologic compartments S, I or D (death) slows or accelerates. Functional relationships between these social parameters and the disease parameters determined the model developed in this study and used predictive agent-based model to simulate the level of spread of HIV cases in Cebu with base data of the risky lifestyle of BPO agents in the region that could make them vulnerable to infections. Simulation results revealed that there is a rise on the incidence of HIV infections every year, which could become an epidemic in the future if no immediate intervention will be done. Â This high incidence of HIV cases in Cebu as evidenced by simulation results reflect the lack of awareness, prompt action, and policy in Cebu City with regards to mitigating the spread of the virus. Sans any intervention, the incidence of HIV infection can accelerate further in the future.
+Author Biographies
+Jose D. Velez Jr., University of San Jose-Recoletos
+is a full-time teacher of the Department of Journalism and Communication. He has been a research presenter at the National Multi-Disciplinary Research Conference held at Marco Polo Hotel in 2014. His paper, Berger and Craig: To Construct or Deconstruct a Grand Theory of Communication in a Post-Structuralist Milieu has been published in the CNU Journal of Higher Education. He has co-authored a book on the History of Cebu City published by the Cebu Provincial Government as part of the Cebu History Series launchedin 2015. Prior to joining the academe, he served a writer and researcher of the Ramon Aboitiz Foundation, Inc., a Consultant to the Offi ce of the Governor of Cebu, Art Director, Feature Writer, and Heritage Columnist of Sun.Star Cebu.
+Ricky B. Villeta, University of San Jose-Recoletos
+graduated from Mindanao State University â€“ Iligan Institute of Technology (MSU-IIT) with a degree of Bachelor of Science in Mathematics (Pure Mathematics) in 2003 as a fulltime scholar, City Mayorâ€™s scholar (Iligan City) granted from having graduated in high school as class valedictorian and CHED-COE (Center of Excellence in Mathematics) scholar awarded by MSU-IIT mathematics and statistics department. He also obtained his Master of Science in Mathematics degree in 2007, with a specialization in abstract algebra (group theory) at MSU-IIT. He had served as Mathematics Lecturer from 2003 to 2005 and as graduate teaching assistant from 2005 to 2006 at the Mathematics and Statistics Department of the College of Science and Mathematics of MSU-IIT. Since 2006 to present, he is a faculty member of the Department of Mathematics and Sciences of the College of Arts and Sciences at University of San Jose â€“ Recoletos (USJ-R), Cebu City. He has been teaching research methods, design of experiments and statistical models in the graduate school, differential equation, differential calculus, integral calculus, applied statistics in business, behavioral statistics, biostatistics, computer aided analysis, linear algebra, abstract algebra, number theory, probability theory, quantitative analysis in business, mathematical investigations and modeling, among others. He is also a trainer for basic and tertiary non-deped teachers on senior high curriculum in mathematics, statistics and probability areas in the Visayas region. His research works and interests are in abstract algebra (group theory), graph theory, differential equation, mathematical modeling and simulation, fractal statistics, data mining and theory development. He also serves as researcher and research statistician at the Center for Policy, Research and Development Studies in USJ-R.
+Roberto N. Padua
+Dr. Roberto Natividad Padua, scientist, received his PhD in Mathematical Statistics from Clemson University, South Carolina, USA under the Fullbright-Hays scholarship grant. He is an accomplished author, a multi-awarded researcher and an internationally acclaimed lecturer. Dr. Padua is a former Commissioner of CHED and currently a consultant to several state and private universities. He is also conducting lectures on research and Fractal Statistics. Dr. Padua is a Summa Cum Laude, BS in Mathematics Teaching graduate from the Philippine Normal College under the National Science Development Board (NSDB) program. He obtained his MS in Mathematics Education Degree from the Centro Escolar University as a Presidential Scholar.
+References
+Anderson & Dahlberg, High-risk Sexual Behavior in the General Population (Results from a 	National Survey, 1988-1990), 1992
+Apalisok, M.G. (2015, May 7), HIV Epidemic. Cebu Daily News
+Joint United Nations Programme on HIV and AIDS (UNAIDS),
+Report on AIDS , 2006
+Joint United Nations Programme on HIV and AIDS (UNAIDS), The Cities Report, 2014
+Miasco, M. (2015, June 15), Cebu has most Phl HIV cases among male sexual partners. The Freeman
+R. Isea and Karl E. Lonngren (2013). "Epidemic modeling using data from the 2001-2002 measles outbreak in Venezuela". Research & Reviews in BioSciences. Vol 7, Iss 1, pp.15-18.
+RaÃºl Isea and Karl E. Lonngren, On the Mathematical Interpretation of
+Epidemics by Kermack and McKendrick Gen. Math. Notes, Vol. 19, No. 2, December, 2013, pp.83-87.
+Retrieved online at http://www.geman.in
+University of the Philippines (UP) Population Institute, Lifestyle, Health Status and Behavior of Young
+Workers in Call Centers and Other Industries: Metro Manila and Metro Cebu, 2010
+Wilensky, U. (1997). NetLogo AIDS model. http://ccl.northwestern.edu/netlogo/models/AIDS. Center for Connected Learning and Computer-Based Modeling, Northwestern University, Evanston, 	IL.
+Wilensky, U. (1999). NetLogo. http://ccl.northwestern.edu/netlogo/. Center for Connected 	Learning and Computer-Based Modeling, Northwestern University, Evanston, IL
+Downloads
+PDF
+Published
+2015-12-03
+How to Cite
+Velez Jr., J. D., Villeta, R. B., Padua, R. N., Hao, R., & Colina, M. (2015). A Predictive Model on the Spread of HIV in Cebu City. Recoletos Multidisciplinary Research Journal, 3(2). https://doi.org/10.32871/rmrj1503.02.10
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 3 No. 2 (2015)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Most read articles by the same author(s)
+Beverly F. Basalo,
+Mark Ian C. Andres,
+Roramie V. Arco,
+Ricky B. Villeta,
+Joyce C. Unabia,
+Verification on the Impact of Plant Cover Variability to the Anuran Diversity in Bohol, Philippines Using Fractal Analysis
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Anna Rose P. Nillama,
+Mark S. Borres,
+Ricky B. Villeta,
+Roramie V. Arco,
+Joyce C. Unabia,
+Validation of Lepidopteran Classification by Morphological Fractal Dimension Analysis
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Roberto N. Padua,
+Mark S. Borres,
+Randy K. Salazar,
+A Generalized Bootstrap Technique for Dependent Observations
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Roberto N. Padua,
+Mark S. Borres,
+Efren O. Barabat,
+On a Logistic Approximation to the Normal and Other Cumulative Distribution Functions
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Englevert Pongan Reyes,
+Jose D. Velez Jr.,
+Ma. Aira Chenessa C. Benitez,
+Drug Trafficking and the Socio-Political Economic Contexts in Selected Countries
+,
+Recoletos Multidisciplinary Research Journal: Vol. 4 No. 2 (2016)
+Jose D. Velez Jr.,
+Disrupting Education: Which between technological innovations and the â€˜incredulity towards metanarrativesâ€™ is disrupting education?
+,
+Recoletos Multidisciplinary Research Journal: Vol. 3 No. 1 (2015)
+Eduardo D. Piedad Jr.,
+Ricky B. Villeta,
+Displacement and Illumination Levels Effect on Short-distance Measurement Errors of Using a Camera
+,
+Recoletos Multidisciplinary Research Journal: Vol. 4 No. 1 (2016)
+Jose D. Velez Jr.,
+Mark N. Abadiano,
+Social Media in the National and International Arenas
+,
+Recoletos Multidisciplinary Research Journal: Vol. 4 No. 2 (2016)
+Roberto N. Padua,
+Mark S. Borres,
+From Fractal Geometry to Statistical Fractal
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 1 (2013)
+Roberto N. Padua,
+Miraluna L. Herrera,
+Adriano V. Patac Jr.,
+Michael V. Sabugaa,
+Gibson T. Maglasang,
+Mark S. Borres,
+Jay M. Ontolan,
+On Fractional and Fractal Derivatives in Relation to the Physics of Fractals
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+1 2 3 > >>
+Similar Articles
+Rhoniel Ryan Ymbong,
+Jake Joshua Chi Garces,
+Global Patterns in Spatial Expansion of Dengue Serotype-I in Response to Increasing Surface Temperature
+,
+Recoletos Multidisciplinary Research Journal: Vol. 4 No. 1 (2016)
+You may also start an advanced similarity search for this article.
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

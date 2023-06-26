@@ -1,0 +1,174 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/72
+The Density of Primes Less or Equal to a Positive Integer up to 20,000: Fractal Approximation
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 1 No. 2 (2013)
+/
+Articles
+The Density of Primes Less or Equal to a Positive Integer up to 20,000: Fractal Approximation
+Authors
+Rodel B. Azura
+Mindanao University of Science and Technology
+Dennis A. Tarepe
+Mindanao University of Science and Technology
+Mark S. Borres
+University of San Jose-Recoletos
+Jocelyn T. Panduyos
+Surigao del Sur State University
+DOI:
+https://doi.org/10.32871/rmrj1301.02.21
+Keywords:
+density of primes, 											prime number theorem, 											multifractal distribution AMS classification, 											number theory, 											applied mathematics
+Abstract
+The highly irregular and rough fluctuations of the number of primes less or equal to a positive integer x for smaller values of x ( xâ‰¤20,000) renders the approximations through the Prime Number Theorem quite unreliable. A fractal probability distribution more specifically, a multifractal fit to the density of primes less or equal to x for small values of x, is tried in this study. Results reveal that the multifractal fit to the density of primes in this situation outperforms the Prime Number Theorem approximation by almost 200% viz. theprediction error incurred by using the PNT approximation is double that of the multifractal fit to the density of primes. The study strongly suggests that a better multifractal distribution exists, even for large x, than the Prime Number approximation to the density of primes.
+Author Biography
+Mark S. Borres, University of San Jose-Recoletos
+graduated Bachelor of Science in Mathematicsâ€“major in Pure Mathematics at the University of the Philippines, Cebu College. Since 2009, he worked for the University of San Jose- Recoletos as a faculty member of the College of Arts and Sciences and handled Mathematics subjects such as College Algebra, Advanced Algebra, Abstract Algebra, Analytical Geometry, Euclidean geometry, Trigonometry, Business Mathematics, Linear Programming, Mathematics of Investment, Discrete Structure, and Statistics across colleges.
+References
+Chris K. Caldwell. ( 2010)â€Conditional Calculation Chris K. Caldwell. ( 2010)â€Conditional Calculation of pi(1024)â€..: â€œComputing Ï€(x) Analytically)â€. Retrieved Jul. 25, 2012.
+D. J. Newman (1980). â€œSimple analytic proof of the prime number theoremâ€. American Mathematical Monthly 87 (9): 693â€“696.
+Glaisher, J. W. L.(1891) â€œOn the Sums of Inverse Powers of the Prime Numbers.â€ Quart. J. Math. 25, 347-362.
+Graybill, W. (1980). General Linear Models. (Wiley Series, NY)
+Hardy, G. H. & Littlewood, J. E. (1916). â€œContributions to the Theory of the Riemann Zeta-Function and the Theory of the Distribution of Primesâ€. Acta Mathematica 41: 119â€“196.
+Ingham, A.E. (1990). The Distribution of Prime Numbers. Cambridge University Press. pp. 2â€“5.
+Merrifield, C. W. (1881)â€The Sums of the Series of Reciprocals of the Prime Numbers and of Their Powers.â€ Proc. Roy. Soc. London 33, 4-10.
+Nils (2009) â€œFormalizing an analytic proof of the Prime Number Theoremâ€. Journal of Automated Reasoning. volume 43, pp. 243â€“â€“261.
+O. Shanker (2006). â€œRandom matrices, generalized zeta functions and self-similarity of zero distributionsâ€. J. Phys. A: Math. Gen. 39 (45): 13983â€“13997.
+Padua, R, Palompon, D and Ontoy, D. (2012). â€œData Roughness and Fractal Statisticsâ€ (CNU Journal of Higher Education, CHED-JAS â€“ Category A, Vol. 6, No. 2).
+Pierre Dusart (1999). â€œThe kth prime is greater than k(ln k + ln ln kâˆ’1) for k â‰¥ 2â€. Mathematics of Computation 68: 411â€“415.
+Tao, Terence (2007) â€œVideo and slides of Taoâ€™s lecture on primesâ€, UCLA January 2007.
+Downloads
+full paper
+Published
+2013-12-31
+How to Cite
+Azura, R. B., Tarepe, D. A., Borres, M. S., & Panduyos, J. T. (2013). The Density of Primes Less or Equal to a Positive Integer up to 20,000: Fractal Approximation. Recoletos Multidisciplinary Research Journal, 1(2). https://doi.org/10.32871/rmrj1301.02.21
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 1 No. 2 (2013)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Most read articles by the same author(s)
+Mark S. Borres,
+Felix M. Diano Jr.,
+Evolutionary Models for the Interaction of the Higher Education Labor Force and Higher Education Market
+,
+Recoletos Multidisciplinary Research Journal: Vol. 3 No. 1 (2015)
+Anna Rose P. Nillama,
+Mark S. Borres,
+Ricky B. Villeta,
+Roramie V. Arco,
+Joyce C. Unabia,
+Validation of Lepidopteran Classification by Morphological Fractal Dimension Analysis
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Mark S. Borres,
+Jergen D. Orias,
+Alvin Mercado,
+A Mathematical Model on Social Integration Explaining Global Suicide Rate Among Men and Women
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Randy K. Salazar,
+Rosario L. Cabillada,
+Mark S. Borres,
+Anthony Jagures,
+Fractal Dimensions of Voice Patterns and Voice Recognition
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Roberto N. Padua,
+Mark S. Borres,
+Randy K. Salazar,
+A Generalized Bootstrap Technique for Dependent Observations
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Mark S. Borres,
+Robert John G. Tupas,
+Joel B. Serad,
+Aspects of Climate Change Induced by Human Activities: Impact on Global Natural Disaster Mortality
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Mark S. Borres,
+Queen Heneylour S. Relatorres,
+Efren O. Barabat,
+Societal Offenders In Prison: Global In-Country Analysis By Fractals
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Roberto N. Padua,
+Mark S. Borres,
+Efren O. Barabat,
+On a Logistic Approximation to the Normal and Other Cumulative Distribution Functions
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Roberto N. Padua,
+Mark S. Borres,
+From Fractal Geometry to Statistical Fractal
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 1 (2013)
+Roberto N. Padua,
+Miraluna L. Herrera,
+Adriano V. Patac Jr.,
+Michael V. Sabugaa,
+Gibson T. Maglasang,
+Mark S. Borres,
+Jay M. Ontolan,
+On Fractional and Fractal Derivatives in Relation to the Physics of Fractals
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+1 2 > >>
+Similar Articles
+Agnes C. SequiÃ±o,
+Zosima A. PaÃ±ares,
+The Palm Oil Industry in Southeast Asia: Challenges and Opportunities
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 1 (2013)
+You may also start an advanced similarity search for this article.
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

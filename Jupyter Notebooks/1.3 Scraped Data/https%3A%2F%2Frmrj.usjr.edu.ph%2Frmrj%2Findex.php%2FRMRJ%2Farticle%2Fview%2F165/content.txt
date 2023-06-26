@@ -1,0 +1,100 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/165
+Perfect Outer-connected Domination in the Join and Corona of Graphs
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 4 No. 2 (2016)
+/
+Articles
+Perfect Outer-connected Domination in the Join and Corona of Graphs
+Authors
+Enrico Enriquez
+University of San Carlos
+Valerie Fernandez
+University of San Carlos
+Teodora Punzalan
+University of San Carlos
+Jonecis Dayap
+University of San Jose-Recoletos
+DOI:
+https://doi.org/10.32871/rmrj1604.02.01
+Keywords:
+perfect dominating set, 											outer-connected dominating set, 											perfect outer-connected dominating set
+Abstract
+References
+[1] B. Arriola, and S. Canoy, Jr., Doubly Connected Domination in the Corona and Lexicographic Product of Graphs. Applied Mathematical Sciences, Vol. 8, 2014, no. 31, 1521-1533.
+[2] E.J. Cockayne, B.L. Hartnell, S.T. Hedetniemi and R. Laskar, Perfect domination in graphs, J. Combin. Inform. System Sci. 18(1993), 136-148.
+[3] E.J. Cockayne, and S.T. Hedetniemi Towards a theory of domination in graphs, Networks, (1977) 247-261.
+[4] D.P. Salve and E.L. Enriquez Inverse Perfect Domination in Graphs, Global Journal of Pure and Applied Mathematics. Vol. 12, No. 1 (2016), pp. 1-10. http://www.ripublication.com/gjpam.
+Downloads
+PDF
+Published
+2016-12-31
+How to Cite
+Enriquez, E., Fernandez, V., Punzalan, T., & Dayap, J. (2016). Perfect Outer-connected Domination in the Join and Corona of Graphs. Recoletos Multidisciplinary Research Journal, 4(2). https://doi.org/10.32871/rmrj1604.02.01
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 4 No. 2 (2016)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Most read articles by the same author(s)
+Carmelita Loquias,
+Enrico Enriquez,
+Jonecis Dayap,
+Inverse Clique Domination in Graphs
+,
+Recoletos Multidisciplinary Research Journal: Vol. 4 No. 2 (2016)
+Jonecis Dayap,
+Enrico Enriquez,
+Disjoint Secure Domination in the Join of Graphs
+,
+Recoletos Multidisciplinary Research Journal: Vol. 4 No. 2 (2016)
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

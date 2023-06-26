@@ -1,0 +1,157 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/26
+Simulation Model for the Maintenance of Government and Private Facilities in the Philippine Context
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 3 No. 1 (2015)
+/
+Articles
+Simulation Model for the Maintenance of Government and Private Facilities in the Philippine Context
+Authors
+Jesse S. Susada
+University of San Jose-Recoletos
+Marisa A. Mahilum
+University of San Jose-Recoletos
+Dionisel Y. Regalado
+DOI:
+https://doi.org/10.32871/rmrj1503.01.14
+Keywords:
+simulation model, 											facilities, 											maintenance, 											motivation
+Abstract
+The contrasting practices of private and public institutions affect individuals motivation to work on the maintenance of its facilities. This paper attempts to develop a model that could predict how many years a facility (private or government) would last based on the given number of assumptions and random data. The study used an experimental design using simulation modeling. Assumptions were formulated to measure different variables. Findings revealed that government facilities tend to deteriorate faster compared to its private counterparts. Government facilities would only last approximately up to six (6) years then reach its critical level. This is due to the assumption that only 40% of government institutions are effective workers. Low percentage of effective workers would translate to less motivation of the worker to pursue any transaction that could possibly help the current state of the facility. On the other hand, more than half of the Private facilities would last more than five years before reaching a critical level. This is due to the assumption that private workers are 20% higher compared to government workers in terms of percentage of effective workers. A highly motivated worker will always be willing to spend time, even extra time, to perform his job. Benign neglect of a less motivated workforce would result to non performance of his assigned task. Therefore, increasing the level of motivation of an employee is the primordial concern of every organization whether private or public because an increase of well motivated and effective workforce would encourage everyone to help maintain and to extend the life of every facility.
+Author Biographies
+Jesse S. Susada, University of San Jose-Recoletos
+is a graduate of Bachelor of Science in Commerce Major In Computer Science in 2000 from the University of San Jose-Recoletos and finished his Masters Business Administration (MBA) last 2003 from the same school. He is assigned at the Center for Policy, Research, and Development Studies (formerly Research Center) of the same University and teaches Part-time of the College of Commerce. As a staff of the Center, he is the Turnitin in-charge and the same time the ITSO Technical staff.
+Marisa A. Mahilum, University of San Jose-Recoletos
+graduated Cum laude in Bachelor of Science in Computer Science major in Natural Language Processing at the University of San Jose - Recoletos (USJ-R) in March 2012. She is a member of Recoletos Educational Assistance for Deserving Students (READS). She worked for one year as a Software Engineer developing Microsoft supported projects. She is now finishing her Master in Computer Science in Cebu Institute of Technology - University. She is currently a full-time faculty member of USJ-R, College of Information, Computer and Communications Technology.
+Dionisel Y. Regalado
+is a research assistant and a graduate from Mindanao University of Science and Technology with a degree in Bachelor of Science in Mathematics Teaching.
+References
+Arrowsmith, (2003). â€œTransparency in government procurement: The objectives of regulation and the boundaries of the World Trade Organization.â€ Journal of World Trade 37.2: 283-303.
+Buelens, M., & Van, d. B. (2007). An analysis of differences in work motivation between public and private sector organizations. Public
+Administration Review,Â 67(1), 65-74. Retrieved from http://search.proquest.com/docview/197174625?accountid=33262
+Camilleri, E. (2004).Â Organisational commitment, motivation and performance in the public sector. the case of maltaÂ (Order No. 3118443). Available from ABI/INFORM Global; ProQuest Central. (305047852). Retrieved from http://search.proquest.com/docview/305047852?accountid=33262\
+Drucker, P. (1989). The New Realities: in Government and Politics, in Economics and Business, in Society and World View (New York: Harper & Row)
+Emanuel, R. (2012). How to motivate people: Rahm emanuel.Â Business Week,Â , 1. Retrieved from http://search.proquest.com/docview/1008897605?accountid=33262
+Filson, B. (2003). Motivating people.Â Executive Excellence,Â 20(6), 18. Retrieved from http://search.proquest.com/docview/204510671?accountid=33262
+Funk, J. (2015). Job satisfaction is tied to more than pay: Study.Â The Plain DealerÂ Retrieved from http://search.proquest.com/docview/1690181429?accountid=33262
+Happy workers provide good customer service. (2015, May 02).Â The Straits TimesÂ Retrieved from http://search.proquest.com/docview/1677643140?accountid=33262
+Lindner, J. R. (1998). Understanding employee motivation.Â Journal of extension,Â 36(3), 1-8.
+Jurkiewicz, C. L., Massey,Tom K.,,Jr, & Brown, R. G. (1998). Motivation in public and private organizations: A comparative study.Public Productivity & Management Review,Â 21(3), 230-250. Retrieved from http://search.proquest.com/docview/209773660?accountid=33262
+Krtalic, S., & Kelebuda, M. (2010). The role of the public-private partnership in providing of public goods: possibilities and constraints. Paper presented at the19-1cm,2cm,3cm,4cm,5cm,6cm,7cm,8cm,9cm,10cm,11cm,12cm,13cm,14cm,15cm,16cm,17cm,18cm,19cm.Retrievedf romhttp://search.Proquest.Com/ docview/1017707911?Accountid=33262
+Li, Bing, and Akintola Akintoye (2008). â€œAn overview of public-private 1 partnership.â€Public-private partnerships: managing risks and opportunitiesÂ : 1.
+Moon, M. Jae. 2000. Organizational Commitment Revisited in NewÂ PublicÂ Management:Â Motivation, Organizational Culture, and Managerial Level.Â PublicÂ Performance and Management Review 24(2): 177-94.
+Puno, Carlito S. (2003). Proceedings of the Conference of Rationalization of Public Higher Education. Commission on Higher Education.
+Picus, Lawrence O. School Facilities. Overview, Maintenance, and Modernization of.
+http://education.stateuniversity.com/pages/2394/School-Facilities.htmlâ€>School Facilities - OVERVIEW, MAINTENANCE AND MODERNIZATION OF
+Ren Yongsheng; Dai Qiyi and Zhang Xingqi (2013). â€œ1089. Modeling and dynamic analysis of rotating composite shaftâ€, Journal of Vibroengineering,.
+Smith, R. D., & Chief Scientist, M. (1999). Simulation: The engine behind the virtual world.Â GEN,Â 1, 72.
+Ab Wahid, R. and Corner, J. (2009) â€œCritical success factors and problems in ISO 9000 maintenanceâ€,International Journal of Quality & Reliability Management, Vol. 26 Iss: 9, pp.881 â€“ 893
+Winsberg, E. (2003). Simulated experiments: Methodology for a virtual world.Philosophy of science,Â 70(1), 105-125.
+Zeffane, Rachid (1994). Patterns of Organizational Commitment and Perceived Management Style: A Comparison of Public and Private Sector Employees. Human Relations 47(8): 977-1010.
+Downloads
+PDF
+Published
+2015-06-30
+How to Cite
+Susada, J. S., Mahilum, M. A., & Regalado, D. Y. (2015). Simulation Model for the Maintenance of Government and Private Facilities in the Philippine Context. Recoletos Multidisciplinary Research Journal, 3(1). https://doi.org/10.32871/rmrj1503.01.14
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 3 No. 1 (2015)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Most read articles by the same author(s)
+Jessica M. Avenido,
+Jesse S. Susada,
+Efren O. Barabat,
+Classical-Romantic Compositions: A Musical Variation Analysis
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+Roberto N. Padua,
+Joel G. Adanza,
+Efren O. Barabat,
+Dionisel Y. Regalado,
+Construction of a Simple Multifractal Spectrum as an Alternative to the Legendre Spectra in Multifractal Formalisms
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 1 (2013)
+Albie Mae G. Sumaylo,
+Christine Mae S. Babon,
+Marivic L. Bayaras,
+Ella Michelle E. Pedrigal,
+Aleshia Klyne S. Pening,
+Mary Joy C. Teodosio,
+Jesse S. Susada,
+Digital Finance on Stability among Philippine Banks
+,
+Recoletos Multidisciplinary Research Journal: Vol. 10 No. 2 (2022)
+Dionisel Y. Regalado,
+Rodel Azura,
+An Analytic Approximation to the Density of Twin Primes
+,
+Recoletos Multidisciplinary Research Journal: Vol. 6 No. 2 (2018)
+Dionisel Y. Regalado,
+Approximate Analytic Solution to the Three Species Lotka â€“ Volterra Differential Equation Model
+,
+Recoletos Multidisciplinary Research Journal: Vol. 9 No. 2 (2021)
+Similar Articles
+Melvin R. de Castro,
+Tonette M. Villanueva,
+Performance on the Philippine Nursesâ€™ Licensure Examination: Variability and Roughness Analysis
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Helmae N. Etulle-Tapanan,
+Kristine June D. Uy,
+Sandy Valmores,
+Assessment of Studentsâ€™ Learning on a Fractal Viewpoint
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+You may also start an advanced similarity search for this article.
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

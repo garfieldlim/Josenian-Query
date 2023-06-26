@@ -1,0 +1,170 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/97
+On Technological Readiness of ASEAN Countries for Global Competitiveness
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 2 No. 2 (2014)
+/
+Articles
+On Technological Readiness of ASEAN Countries for Global Competitiveness
+Authors
+Ricky B. Villeta
+University of San Jose-Recoletos
+Roramie V. Arco
+University of San Jose-Recoletos
+Gallardo E. Gulay
+University of San Jose-Recoletos
+Percia A. Leyte
+University of San Jose-Recoletos
+DOI:
+https://doi.org/10.32871/rmrj1402.02.18
+Keywords:
+competitiveness, 											technological readiness, 											productivity, 											technology
+Abstract
+This study utilized exploratory data analysis or data mining using multivariatefactor, cluster and principal components analyses in order to determine the technological readiness of the ASEAN member countries based on the World Economic Forum 2013 -2014 edition. Factor analysis was able to identify three factors namely, technology competence, access to technology and technology users which were used as bases for clustering the ASEAN member Countries. The means of each cluster for each factor were further utilized to assess the extent of technological readiness of the ASEAN member states through amodel obtained using the principal components analysis. With this model, Singapore, the only nation that belongs to Cluster 3, emerged as the most technologically ready among the ASEAN countries. Group 2 ASEAN nations comprising Thailand and the Philippines, are the next two countries with a very high technological readiness, respectively as compared to Cluster 1 ASEAN member states. On the other hand, ASEAN member states belonging to Cluster 1 are found to be relatively least technologically ready, except for Malaysia,Indonesia, and Vietnam that ranked fourth, fifth and sixth, respectively with a slightly competitive technological readiness. It was found out that technological readiness of an ASEAN country varies directly with the countryâ€™s technological competence, access to technology, and level of technology utilization. More specifically, technological readiness is mainly determined by access to technology which is related to both culture and economy. Meanwhile, global competitiveness highly correlates with technological readiness. Thus, while economic productivity mainly drives global competitiveness, both culture andeconomic productivity determines technological readiness. The high correlation between technological readiness and global competitiveness is also limited with culture as much as it is driven by economic productivity.
+Author Biographies
+Ricky B. Villeta, University of San Jose-Recoletos
+graduated from Mindanao State University â€“ Iligan Institute of Technology (MSU-IIT) with a degree of Bachelor of Science in Mathematics (Pure Mathematics) in 2003 as a fulltime scholar, City Mayorâ€™s scholar (Iligan City) granted from having graduated in high school as class valedictorian and CHED-COE (Center of Excellence in Mathematics) scholar awarded by MSU-IIT mathematics and statistics department. He also obtained his Master of Science in Mathematics degree in 2007, with a specialization in abstract algebra (group theory) at MSU-IIT. He had served as Mathematics Lecturer from 2003 to 2005 and as graduate teaching assistant from 2005 to 2006 at the Mathematics and Statistics Department of the College of Science and Mathematics of MSU-IIT. Since 2006 to present, he is a faculty member of the Department of Mathematics and Sciences of the College of Arts and Sciences at University of San Jose â€“ Recoletos (USJ-R), Cebu City. He has been teaching research methods, design of experiments and statistical models in the graduate school, differential equation, differential calculus, integral calculus, applied statistics in business, behavioral statistics, biostatistics, computer aided analysis, linear algebra, abstract algebra, number theory, probability theory, quantitative analysis in business, mathematical investigations and modeling, among others. He is also a trainer for basic and tertiary non-deped teachers on senior high curriculum in mathematics, statistics and probability areas in the Visayas region. His research works and interests are in abstract algebra (group theory), graph theory, differential equation, mathematical modeling and simulation, fractal statistics, data mining and theory development. He also serves as researcher and research statistician at the Center for Policy, Research and Development Studies in USJ-R.
+Roramie V. Arco, University of San Jose-Recoletos
+is a science instructor at the Department of Mathematicsand Sciences of the University of San Jose- Recoletos. She obtained her Bachelor of Science in Biology from the University of the Philippines Tacloban College. She earned academic units in Master of Science in Wildlife Studiesat the University of the Philippines at Los Banos. She fi nished her Master of Arts in Education major in Science and Technology from the University of the Visayas through the Expanded Tertiary Education Equivalency and Accreditation Program. Her research interest focuses on microbiology and wildlife conservation. She has attended several training seminars and workshops on science education, instructional materials development and research trends. She is a member of several scientifi c organizations and has participated in training courses and conferences.
+References
+Aw, B.-Y. (2003), Technological Acquisition and Development in Taiwan, in Competitiveness, FDI and Technological Activity in East Asia, S. Lall and S. Urata, eds., Edgward Elgar, Northampton.
+Amable, B. & B. Verspagen (1995) The Role of Technology in Market Share Dynamics, Applied Economics, Vol. 27, pp. 197-204.
+Cantwell, J. (1989) Technological Innovation and Multinational Corporations, Oxford: Basil Blackwell.
+Kim, L. (2003). The Dynamics of Technology Development: Lessons from the Korean Experience, in Competitiveness, FDI and Technological Activity in East Asia, S. Lall and S. Urata, eds., Edgward Elgar,
+Northampton.
+Narula, R. (1993) Technology, international business and Porterâ€™s diamondâ€™: synthesising a dynamic competitive development model, Management International Review, Vol. 33, 93/2, 85--107.
+Global Competitiveness Report 2013-2014 Â© 2010 World Economic Forum
+Downloads
+PDF
+Published
+2014-12-28
+How to Cite
+Villeta, R. B., Arco, R. V., Gulay, G. E., & Leyte, P. A. (2014). On Technological Readiness of ASEAN Countries for Global Competitiveness. Recoletos Multidisciplinary Research Journal, 2(2). https://doi.org/10.32871/rmrj1402.02.18
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 2 No. 2 (2014)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Most read articles by the same author(s)
+Glenn G. Pajares,
+Percia A. Leyte,
+Richard B. Fernandez,
+The Anglo-American Elements in Jose Rizalâ€™s Poem Education Gives Luster to the Motherland
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Beverly F. Basalo,
+Mark Ian C. Andres,
+Roramie V. Arco,
+Ricky B. Villeta,
+Joyce C. Unabia,
+Verification on the Impact of Plant Cover Variability to the Anuran Diversity in Bohol, Philippines Using Fractal Analysis
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Anna Rose P. Nillama,
+Mark S. Borres,
+Ricky B. Villeta,
+Roramie V. Arco,
+Joyce C. Unabia,
+Validation of Lepidopteran Classification by Morphological Fractal Dimension Analysis
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Jose D. Velez Jr.,
+Ricky B. Villeta,
+Roberto N. Padua,
+Richard Hao,
+Marielle Colina,
+A Predictive Model on the Spread of HIV in Cebu City
+,
+Recoletos Multidisciplinary Research Journal: Vol. 3 No. 2 (2015)
+Gallardo E. Gulay,
+Richard B. Fernandez,
+Percia A. Leyte,
+Anthropocentric Concepts of Some Philippine-Based Environmental Organizations
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 2 (2014)
+Eduardo D. Piedad Jr.,
+Ricky B. Villeta,
+Displacement and Illumination Levels Effect on Short-distance Measurement Errors of Using a Camera
+,
+Recoletos Multidisciplinary Research Journal: Vol. 4 No. 1 (2016)
+Mark Ian C. Andres,
+Brendalyn R. Basilan,
+Camille Yvonne D. Cubar,
+Ricky B. Villeta,
+Levels of Multidrug-Resistant Tuberculosis Treatment Success among ASEAN Countries
+,
+Recoletos Multidisciplinary Research Journal: Vol. 3 No. 2 (2015)
+Roramie V. Arco,
+Ricky B. Villeta,
+Marisa M. Mahilum,
+Microbial Modeling and Monte Carlo Simulation to Determine Microbial Performance Criteria on Wooden Cutting Boards
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 2 (2014)
+Gallardo E. Gulay,
+Percia A. Leyte,
+Ricky B. Villeta,
+Roramie V. Arco,
+Factors Affecting Business Stability among ASEAN Member States
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 2 (2014)
+Ricky B. Villeta,
+On Some Results of a Torsion-Free Abelian Kernel Group
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 2 (2014)
+1 2 > >>
+Similar Articles
+Albert Albina,
+Moral Culture in Kantâ€™s On Education (1803): Implications and Antitheses
+,
+Recoletos Multidisciplinary Research Journal: Vol. 3 No. 2 (2015)
+You may also start an advanced similarity search for this article.
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

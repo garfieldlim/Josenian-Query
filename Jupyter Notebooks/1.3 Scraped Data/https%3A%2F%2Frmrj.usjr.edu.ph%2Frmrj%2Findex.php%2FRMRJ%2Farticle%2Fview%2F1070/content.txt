@@ -1,0 +1,143 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/1070
+Modeling Employee Retention Amidst COVID-19 Pandemic: An Econometric Approach
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 10 No. 1 (2022)
+/
+Articles
+Modeling Employee Retention Amidst COVID-19 Pandemic: An Econometric Approach
+Authors
+Dennis T. Caredo
+Visayas State University, Visca, Baybay City, Leyte, Philippines
+https://orcid.org/0000-0003-0891-028X
+Argina M. Pomida
+Visayas State University, Visca, Baybay City, Leyte, Philippines
+https://orcid.org/0000-0001-9275-8043
+Angelita L. Paradero
+Visayas State University, Visca, Baybay City, Leyte, Philippines
+https://orcid.org/0000-0002-3414-7671
+Leomarich F. Casinillo
+Visayas State University, Visca, Baybay City, Leyte, Philippines
+https://orcid.org/0000-0003-3966-8836
+DOI:
+https://doi.org/10.32871/rmrj2210.01.09
+Keywords:
+employee retention, 											econometric modeling, 											COVID-19 pandemic, 											Baybay City
+Abstract
+Employee retention is one of the human resource management (HRM) issues. This study determines the factors that significantly influence employee retention amidst the COVID-19 pandemic. The study employs complete enumeration and uses primary data. After which, the results are analyzed using descriptive statistics and econometric modeling. Results reveal that employees are satisfied to do their respective jobs (M=4.09, SD=0.48). In addition, they show that the determinants such as other income (p-value=0.024), length of service (p-value=0.099), as well as reward and recognition (p-value=0.015), are significant influences to employeesâ€™ retention. Hence, these conclude that better remuneration (and the increase thereof) are more likely to retain existing employees and attract employees from other organizations. Furthermore, the study specifically recommends that employee retention be improved by further refining reward and recognition that surely meet the needs and well-being of the employees.
+References
+Agustiningsih, H. N., Thoyib, A., Djumilah , H., & Noermijati, N. (2016). The effect of remuneration, job satisfaction and OCB on the employee performance. Science Journal of Business and Management, 4(6), 212â€“222. https://doi.org/10.11648/j.sjbm.20160406.16
+Akin, A. (2008). Employee turnover: Calculation of turnover rates and costs. In D. V. Tesone (Ed.), Handbook of Hospitality Human Resources Management (pp. 223â€“250). Elsevier.
+Allison, P. D. (2012). Logistic regression using SAS theory and application (2nd ed.). SAS Institute.
+Armstrong-Stassen, M., & Lee, S. H. (2009). The effect of relational age on older Canadian employees' perceptions of human resource practices and sense of worth to their organization. The International Journal of Human Resource Management, 20(8), 1753â€“1769. https://doi.org/10.1080/09585190903087156
+Carnevale, J. B., & Hatak, I. (2020). Employee adjustment and well-being in the era of COVID-19: Implications for human resource management. Journal of Business Research, 116, 183â€“187. https://doi.org/10.1016/j.jbusres.2020.05.037
+Casinillo, L. F. (2020). Econometric modelling on satisfaction in rice farming under Philippine rice tariffication law. Journal of Research and Multidisciplinary, 32(2), 326â€“336. https://journal.alhikam.net/index.php/jrm/article/view/38
+Casinillo, L.F., & Aure, M. R. (2018). Econometric evidence on academic performance in basic calculus of science, technology, engineering and mathematics (STEM) senior high students. Journal of Educational and Human Resource Development (JEHRD), 6, 238â€“249. http://www.ijterm.org/index.php/jehrd/article/view/101
+Casinillo, L. F., Casinillo, E. L., & Casinillo, M. F. (2020). On happiness in teaching: An ordered logit modeling approach. JPI (Jurnal Pendidikan Indonesia), 9(2), 290â€“300. https://doi.org/10.23887/jpi-undiksha.v9i2.25630
+Chow, S. K., Francis, B., Ng, Y. H., Naim, N., Beh, H. C., Ariffin, M. A., Yusuf, M. H., Lee, J. W., & Sulaiman, A. H. (2021). Religious coping, depression and anxiety among healthcare workers during the COVID-19 pandemic: A Malaysian perspective. Healthcare, 9(1), 79. https://doi.org/10.3390/healthcare9010079
+de Graaf-Zijl, M. (2012). Job satisfaction and contingent employment. De Economist, 160(2), 197â€“218. https://doi.org/10.1007/s10645-011-9180-7
+Deckop, J. R., Konrad, A. M., Perlmutter, F. D., & Freely, J. L. (2006). The effect of human resource management practices on the job retention of former welfare clients. Human Resource Management, 45(4), 539â€“559. https://doi.org/10.1002/hrm.20131
+Dirani, K. M., Abadi, M., Alizadeh, A., Barhate, B., Garza, R. C., Gunasekara, N., Ibrahim, G., & Majzun, Z. (2020). Leadership competencies and the essential role of human resource development in times of crisis: A response to covid-19 pandemic. Human Resource Development International, 23(4), 380â€“394. https://doi.org/10.1080/13678868.2020.1780078
+Elsafty, A., & Ragheb, M. (2020). The role of human resource management towards employees retention during covid-19 pandemic in medical supplies sector - egypt. Business and Management Studies, 6(2), 5059. https://doi.org/10.11114/bms.v6i2.4899
+The Great Game of Business. (n.d.). Employee retention. Retrieved May 27, 2022, from https://www.greatgame.com/the-fundamentals/employee-retention
+Gruman, J. A., & Saks, A. M. (2011). Performance management and employee engagement. Human Resource Management Review, 21(2), 123â€“136. https://doi.org/10.1016/j.hrmr.2010.09.004
+Jarosz, J. (2021). The impact of coaching on well-being and performance of managers and their teams during pandemic. International Journal of Evidence Based Coaching and Mentoring, 19(1), 4â€“27. https://doi.org/https://doi.org/10.24384/n5ht-2722
+Johari, J., Yean, T. F., Adnan, Z., Yahya, K. K., & Ahmad, M. M. (2012). Promoting employee intention to stay: Do human resource management practices matter? International Journal of Economics and Management, 6(2), 396â€“416.
+Kadiresan, V., Selamat, M. H., Selladurai, S., Ramendran , C., & Mohamed, R. K. (2015). Performance appraisal and training and development of human resource management practices (HRM) on organizational commitment and turnover intention. Asian Social Science, 11(24), 162. https://doi.org/10.5539/ass.v11n24p162
+Kossivi, B., Xu, M., & Kalgora, B. (2016). Study on determining factors of employee retention. Open Journal of Social Sciences, 04(05), 261â€“268. https://doi.org/10.4236/jss.2016.45029
+Kyndt, E., Dochy, F., Michielsen, M., & Moeyaert, B. (2009). Employee retention: Organisational and personal perspectives. Vocations and Learning, 2(3), 195â€“215. https://doi.org/10.1007/s12186-009-9024-7
+Lee, F. H., Lee, T. Z., & Wu, W. Y. (2010). The relationship between human resource management practices, business strategy and firm performance: evidence from steel industry in Taiwan. The International journal of human resource management, 21(9), 1351-1372. https://doi.org/10.1080/09585192.2010.488428
+Liu, Y., Liu, J., & Wu, L. (2010). Are you willing and able? Roles of motivation, power, and politics in career growth. Journal of Management, 36(6), 1432â€“1460. https://doi.org/10.1177/0149206309359810
+Markova, G., & Ford, C. (2011). Is money the panacea? Rewards for knowledge workers. International Journal of Productivity and Performance Management, 60(8), 813-823. https://doi.org/10.1108/17410401111182206
+Martono, S., Khoiruddin, M., & Wulansari, N. N. (2018). Remuneration reward management system as a driven factor of employee performance. International Journal of Business and Society, 19(4), 535â€“545. https://doi.org/http://www.ijbs.unimas.my/images/repository/pdf/Vol19-S4-paper3.pdf
+MaÌtyaÌs L., & Sevestre, P. (Eds.). (1992). The econometrics of panel data: Handbook of theory and applications (Vol. 28). Springer Science & Business Media.
+Monica, D. B., & Reddy, M. G. S. (2021). Factors of employee retention in IT industry. Journal of Contemporary Issues in Business and Government, 26(2), 489â€“494. https://doi.org/10.47750/cibg.2020.26.02.065
+Nouri, H., & Parker, R. J. (2013). Career growth opportunities and employee turnover intentions in public accounting firms. The British Accounting Review, 45(2), 138â€“148. https://doi.org/10.1016/j.bar.2013.03.002
+Petersen, J. (2020). Recommendations for retention strategies in correctional agencies in order to decrease staff vacancies with a specific focus on younger generations of candidates. [Masteral thesis, University of Wisconsin-Platteville]. Minds@UW
+Rombaut, E., & Guerry, M.-A. (2020). The effectiveness of employee retention through an uplift modeling approach. International Journal of Manpower, 41(8), 1199â€“1220. https://doi.org/10.1108/ijm-04-2019-0184
+Rotas, E., & Cahapay, M. (2020). Difficulties in Remote Learning: Voices of Philippine University Students in the Wake of COVID-19 Crisis. Asian Journal of Distance Education, 15(2), 147â€“158. https://doi.org/https://eric.ed.gov/?id=EJ1285295
+Sandhya, K., & Kumar , D. P. (2011). Employee retention by motivation. Indian Journal of Science and Technology, 4(12), 1778â€“1782. https://doi.org/10.17485/ijst/2011/v4i12.34
+Sapkal, R. S. (2020). Saving jobs and averting lay-offs amidst COVID-19 lockdown. Economic and Political Weekly, 55(19), 25â€“27. https://www.gmfc.ac.in/wp-content/uploads/2020/08/MAY-9-2020.pdf#page=25
+Sinha, C., & Sinha, R. (2012). Factors affecting employee retention: A comparative analysis of two organizations from Heavy Engineering Industry. European Journal of Business and Management, 4(3), 145â€“162. https://www.iiste.org/Journals/index.php/EJBM/article/view/1324
+Sishuwa, Y., & Phiri, J. (2020). Factors influencing employee retention in the transport and Logistics Industry. Open Journal of Social Sciences, 8(6), 145â€“160. https://doi.org/10.4236/jss.2020.86013
+Stoker, J. I., Van der Velde, M., & Lammers, J. (2012). Factors relating to managerial stereotypes: The role of gender of the employee and the manager and management gender ratio. Journal of Business and Psychology, 27(1), 31â€“42. https://doi.org/10.1007/s10869-011-9210-0
+Tadesse, W. M. (2018). Factors affecting employee retention in Ethiopian Public Organizations. Journal of Strategic Human Resource Management, 7(3), 22â€“32. https://doi.org/http://www.publishingindia.com/GetBrochure.aspx?query=UERGQnJvY2h1cmVzfC80NzUwLnBkZnwvNDc1MC5wZGY=
+Tessema, M. T., Ready, K. J., & Embaye, A. B. (2013). The effects of employee recognition, pay and benefits on job satisfaction: Cross country evidence. Journal of Business and Economics, 4(1), 1â€“12. https://doi.org/http://www.academicstar.us/UploadFile/Picture/2014-6/2014615104651386.pdf
+TrÃ¶ster, B. (2020, January 1). Commodity-dependent countries in the COVID-19 crisis. EconStor. https://www.econstor.eu/handle/10419/218825
+Weng, Q., & Hu, B. (2009). The structure of career growth and its impact on employees' turnover intention. Industrial Engineering Management, 14(1), 14â€“21. http://en.cnki.com.cn/Article_en/CJFDTOTAL-GYGC200901023.htm
+Weng, Q., & McElroy, J. C. (2012). Organizational career growth, affective occupational commitment and turnover intentions. Journal of Vocational Behavior, 80(2), 256â€“265. https://doi.org/10.1016/j.jvb.2012.01.014
+Weng, Q., McElroy, J. C., Morrow, P. C., & Liu, R. (2010). The relationship between career growth and organizational commitment. Journal of Vocational Behavior, 77(3), 391â€“400. https://doi.org/10.1016/j.jvb.2010.05.003
+Wilson, J. M., Lee, J., Fitzgerald, H. N., Oosterhoff, B., Sevi, B., & Shook, N. J. (2020). Job insecurity and financial concern during the COVID-19 pandemic are associated with worse mental health. Journal of Occupational and Environmental Medicine, 62(9), 686â€“691. https://doi.org/10.1097/jom.0000000000001962
+Witte, H. D., Verhofstadt, E., & Omey, E. (2007). Testing Karasek's learning and strain hypotheses on young workers in their first job. Work & Stress, 21(2), 131â€“141. https://doi.org/10.1080/02678370701405866
+Downloads
+FULL PAPER
+Published
+2022-06-27
+How to Cite
+Caredo, D. T., Pomida, A. M., Paradero, A. L., & Casinillo, L. F. (2022). Modeling Employee Retention Amidst COVID-19 Pandemic: An Econometric Approach. Recoletos Multidisciplinary Research Journal, 10(1), 115–129. https://doi.org/10.32871/rmrj2210.01.09
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 10 No. 1 (2022)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Most read articles by the same author(s)
+Melvin D. Hagonob,
+Leomarich F. Casinillo,
+Utilization of Wastewater from Different Sources as Potential Electrical Energy Source
+,
+Recoletos Multidisciplinary Research Journal: Vol. 9 No. 1 (2021)
+Jerry B. Guanco,
+Leomarich F. Casinillo,
+Performance Evaluation of a Rice Hull-fueled Cabinet Food Dryer
+,
+Recoletos Multidisciplinary Research Journal: Vol. 9 No. 1 (2021)
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

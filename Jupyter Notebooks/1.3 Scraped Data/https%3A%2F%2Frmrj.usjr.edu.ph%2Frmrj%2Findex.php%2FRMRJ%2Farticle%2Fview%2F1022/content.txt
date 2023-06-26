@@ -1,0 +1,146 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/1022
+Approximate Analytic Solution to the Three Species Lotka â€“ Volterra Differential Equation Model
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 9 No. 2 (2021)
+/
+Articles
+Approximate Analytic Solution to the Three Species Lotka â€“ Volterra Differential Equation Model
+Authors
+Dionisel Y. Regalado
+Northwestern Mindanao State College of Science and Technology, Tangub City, Misamis Occidental, Philippines
+https://orcid.org/0000-0003-3378-2881
+DOI:
+https://doi.org/10.32871/rmrj.2109.02.09
+Keywords:
+approximation, 											analytic solution, 											Lotka-Volterra, 											differential equation model
+Abstract
+This paper provides an approximate analytic solution to the three species Lotka â€“ Volterra differential equations by symbolic regression. The approximate analytic solution through symbolic regression is made as close as desired to the actual analytic solution by using the Jacobian system. This is proposed as the equilibrium will be stabilized if and only if the real parts of each of the eigenvalues are negative. As a result, the symbolic regression approach is found to provide an approximation to the faster convergence that can be expected with a more refined Euler numerical approach.
+References
+Cassol, M., Wortmann, S., & Rizza, U. (2009). Analytic
+modeling of two-dimensional transient
+atmospheric pollutant dispersion by double
+GITT and Laplace Transform techniques.
+Environmental Modelling & Software, 24(1), 144-151.
+https://doi.org/10.1016/j.envsoft.2008.06.001
+Chauvet, E., Paullet, J. E., Previte, J. P., & Walls, Z. (2002, October).
+A Lotka-Volterra three species food chain.
+Mathematics Magazine, 75(4), 243-55.
+https://doi.org/10.2307/3219158
+Cotta, R.M., & Mikhailov, M.D. (1993). Integral transform method.
+Applied Mathematical Modelling, 17(3), 156-161.
+https://doi.org/10.1016/0307-904X(93)90041-E
+Devireddy, L. (2016). Extending the Lotka-Volterra equations.
+University of Washington, Department of Mathematics.
+https://sites.math.washington.edu/~morrow/336_16/2016papers/lalith.pdf
+Guerrero, J. S. P., Skaggs, T. H., & van Genuchten, M. (2009).
+Analytical solution for multi-species contaminant transport
+subject to sequential first-order decay reactions in finite media.
+Transport in Porous Media, 80, 373-387.
+https://doi.org/10.1007/s11242-009-9368-3
+Hsu, S. B., Ruan, S., & Yang, T. H. (2015). Analysis of
+three species Lotkaâ€“Volterra food web models with omnivory.
+Journal of Mathematical Analysis and Applications, 426(2), 659-687.
+https://doi.org/10.1016/j.jmaa.2015.01.035
+Lotka, A. J. (1925). Elements of physical biology. Williams & Wilkins Company.
+https://archive.org/details/elementsofphysic017171mbp
+Pekalski, A., & Stauffer, D. (1998). Three species Lotkaâ€“Volterra Model.
+International Journal of Modern Physics, 9(5), 777-783.
+https://doi.org/10.1142/S0129183198000674
+Pontedeiro, E.M., Heilbron, P.F.L., & Cotta, R.M. (2007).
+Assessment of the mineral industry NORM/TENORM
+disposal in hazardous landfills.
+Journal of Hazardous Materials, 139(3), 563-568.
+https://doi.org/10.1016/j.jhazmat.2006.02.063
+Regalado, D. Y., & Castillano, E. C. (2019).
+Approximate analytic solution to the Lotka â€“
+Volterra Predator â€“ Prey Differential Equations
+Model. Journal of Higher Education Research Disciplines, 4(1).
+http://www.nmsc.edu.ph/ojs/index.php/jherd/article/view/150
+Volterra, V. (1926). Fluctuations in the abundance of a species
+considered mathematically. Nature, 118(2972), 558-560.
+https://doi.org/10.1038/118558a0
+Wei, F. (2007). Dynamics in 3-species predator-prey models with time delays.
+Discrete and Continuous Dynamical Systems, (Supplement), 364-372.
+https://www.researchgate.net/publication/234108762_Dynamics_in_3-
+species_predator-prey_models_with_time_delays
+Downloads
+FULL PAPER
+Published
+2021-12-30
+How to Cite
+Regalado, D. Y. (2021). Approximate Analytic Solution to the Three Species Lotka â€“ Volterra Differential Equation Model. Recoletos Multidisciplinary Research Journal, 9(2), 123–128. https://doi.org/10.32871/rmrj.2109.02.09
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 9 No. 2 (2021)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Most read articles by the same author(s)
+Jesse S. Susada,
+Marisa A. Mahilum,
+Dionisel Y. Regalado,
+Simulation Model for the Maintenance of Government and Private Facilities in the Philippine Context
+,
+Recoletos Multidisciplinary Research Journal: Vol. 3 No. 1 (2015)
+Roberto N. Padua,
+Joel G. Adanza,
+Efren O. Barabat,
+Dionisel Y. Regalado,
+Construction of a Simple Multifractal Spectrum as an Alternative to the Legendre Spectra in Multifractal Formalisms
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 1 (2013)
+Dionisel Y. Regalado,
+Rodel Azura,
+An Analytic Approximation to the Density of Twin Primes
+,
+Recoletos Multidisciplinary Research Journal: Vol. 6 No. 2 (2018)
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

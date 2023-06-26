@@ -1,0 +1,111 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/98
+Paths to Global Competitiveness
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 2 No. 2 (2014)
+/
+Articles
+Paths to Global Competitiveness
+Authors
+Josephine E. Petralba
+University of San Jose-Recoletos
+DOI:
+https://doi.org/10.32871/rmrj1402.02.17
+Keywords:
+Research and Development Expenditure, 											Global Innovation, 											ICT Development, 											Path Analysis, 											Global Competitiveness
+Abstract
+The study focuses on generating the paths that would model the effects of six predictors on competitiveness. These predictors are innovation, human development, Information and Communications Technology(ICT), Research and Development (R&D), population and education. Data on competitiveness are based on Global Competitiveness Index (GCI). Data on predictors are Global Innovation Index (GII), Human Development Index (HDI), Total Population (TPO), ICT Development Index (IDI), Expenditure on Education(EOE) andExpenditure on R & D (ERD). Multiple regression and path analysis are the statistical tools used to investigate the effects of these six predictors on competitiveness. Sample data are from fifty-eight countries. Stepwise regression and multiple regression have screened out education and the total population, leaving four predictors which are innovation, human development, ICT, and R&D. From these, an initial model was established. It was a simplified model that assumed that all predictors have symmetric relationship that hasdirect effect on competitiveness. The initial model showed that innovation and human development have more dominant direct effects on competitiveness. It also showed that ICT and R&D have larger indirect effects over the other predictors. Since the initial model lacks a more in-depth relationship among the predictors, an improved design was drawn out of the findings of the first model. The improved model proved that innovation was the most potent predictor and its effect on competitiveness is direct. The second most powerful predictor is ICT, however its effect on competitiveness is indirect. Results also showed theneed for ICT to drive innovation and human development to improve competitiveness. R&D can only be seen to contribute to global competitiveness provided that it will drive ICT. Among all predictors, human development has the least effect on competitiveness among the four, but it has direct impact.
+Author Biography
+Josephine E. Petralba, University of San Jose-Recoletos
+is a faculty of the Computer Science Department of the College of Information, Computer and CommunicationsTechnology of the University of San Jose Recoletos. She graduated Cum Laude, Bachelor of Science in Computer Science at the University of San Jose-Recoletos. She also obtained her Master in Business Administration degree from the same university and a Diploma in Computer Science from the University of the Philippines, Open University. Her expertise is on SQL having obtained an Oracle SQL certifi cation. She has just presented a research in the International Conference on Asian Language Processing(IALP 2014 ) at Kuching, Malaysia. The paper was published by the Institute of Electrical and Electronics Engineers (IEEE).
+References
+Akintunde, A. (2012). Path Analysis Step by Step Using Excel. Journal of Technical Science and Technologies, 1(1), 09-15.
+Ambastha, A., & Momaya, K. (2004). Competitiveness of firms: review
+of theory, frameworks, and models. Singapore Management Review, 26(1), 45-61.
+Garson, G. D. (2008). Structural equation modeling. Retrieved April 7, 2008.
+Greenhill, R. (2011, December). The global competitiveness report 2011-2012. Geneva eSwitzerland Switzerland: World Economic Forum.
+Human Development Report 2014(Retrieve December 2014 from http://hdr.undp.org/sites/default/files/hdr14-reporten-1.pdf)
+ITU Measuring the Information Society(Retrieve December 2014 from http://www.itu.int/ITU-D/ict/publications/idi/
+Kremer, M. (1993). Population growth and technological change: one million BC to 1990. The Quarterly Journal of Economics, 681-716.
+Michael, P. (2001). Strategy and the Internet. Harward Business Review, 79, 62-78.
+Minitab, I. (2006). MINITAB statistical software. Version: Release, 15.
+Ping, H. U. A. (2005). How does education at all levels influence productivity growth? Evidence from the Chinese provinces (No. 200515).
+Shapiro, S. M., & Staff, A. C. (2002). 24/7 innovation: a blueprint for surviving and thriving in an age of change (pp. 94-9). McGraw-Hill.
+Sweetman, A. (2002). Working smarter: education and productivity. The review of economic performance and social progress, 2.
+Teltscher, S., Magpantay, E., Gray, V., Olaya, D., & Vallejo, I. (2010). Measuring the Information Society: The ICT Development Index.
+The Human Development Concept.UNDP. (Retrieved December 2014 from http://hdr.undp.org/en/humandev)
+TÃ¶rÃ¶k, Ã., Borsi, B., & Telcs, A. (2005). Competitiveness in research and
+development: comparisons and performance. Edward Elgar.
+Downloads
+PDF
+Published
+2014-12-28
+How to Cite
+Petralba, J. E. (2014). Paths to Global Competitiveness. Recoletos Multidisciplinary Research Journal, 2(2). https://doi.org/10.32871/rmrj1402.02.17
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 2 No. 2 (2014)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Most read articles by the same author(s)
+Randy K. Salazar,
+Josephine E. Petralba,
+Fractal Analysis of Global Fresh Water Use
+,
+Recoletos Multidisciplinary Research Journal: Vol. 3 No. 1 (2015)
+Similar Articles
+Sheldon Ives G. Agaton,
+Morality and Religiosity: A Filipino Experience
+,
+Recoletos Multidisciplinary Research Journal: Vol. 3 No. 2 (2015)
+You may also start an advanced similarity search for this article.
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

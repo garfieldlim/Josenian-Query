@@ -1,0 +1,6 @@
+https://rmrj.usjr.edu.ph/rmrj/public/journals/1/pageHeaderLogoImage_en_US.png
+/ojs-2.4.8/public/site/images/chanine/1.JPG
+/ojs-2.4.8/public/site/images/chanine/2.JPG
+/ojs-2.4.8/public/site/images/chanine/3.JPG
+https://rmrj.usjr.edu.ph/rmrj/public/journals/1/cover_issue_11_en_US.gif
+https://rmrj.usjr.edu.ph/rmrj/templates/images/ojs_brand.png

@@ -1,0 +1,181 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/32
+A Mathematical Model on Social Integration Explaining Global Suicide Rate Among Men and Women
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 2 No. 1 (2014)
+/
+Articles
+A Mathematical Model on Social Integration Explaining Global Suicide Rate Among Men and Women
+Authors
+Mark S. Borres
+University of San Jose-Recoletos
+Jergen D. Orias
+University of San Jose-Recoletos
+Alvin Mercado
+University of San Jose-Recoletos
+DOI:
+https://doi.org/10.32871/rmrj1402.01.06
+Keywords:
+suicide, 											mathematical modeling, 											social factors, 											global suicide rate, 											Human Development Report
+Abstract
+This paper aims to present a mathematical model for explaining global suicide rate among men and women across the world since 2007. Analysis of this nature grants a valuable input to comprehensively associate suicide incidence in men and women to its socially perceivable integrated factors. This paper is designed from a descriptive approach, data mining technique, utilizing available data taken from the Human Development Report 2013 of the United Nations where social integration indicators were specified. Results indicated a huge variation between the incidences of men and women suicide rates and from among the specified indicators; more pronounced in men than women. The variations can be explained by the significant societal-integrated factors affecting men including Well-being Index (p-value 0.03), Societal Index(P=0.00), and Safety Index (P=0.05) while only Societal Index (P=0.00) has contributed significantly to the occurrence of the phenomenon in women. This gender-based and social integration based analysis can significantly contribute to understanding of suicide and designing more effective suicide preventions and interventions for both men and women in the society.
+Author Biography
+Mark S. Borres, University of San Jose-Recoletos
+graduated Bachelor of Science in Mathematicsâ€“major in Pure Mathematics at the University of the Philippines, Cebu College. Since 2009, he worked for the University of San Jose- Recoletos as a faculty member of the College of Arts and Sciences and handled Mathematics subjects such as College Algebra, Advanced Algebra, Abstract Algebra, Analytical Geometry, Euclidean geometry, Trigonometry, Business Mathematics, Linear Programming, Mathematics of Investment, Discrete Structure, and Statistics across colleges.
+References
+Berrios, G., and Mohanna, M. (1990). Durkheim and French psychiatric views on suicide during the 19th century. A conceptual history. British Journal of Psychiatry 156, 1-9.
+Brody, E. An Emotional Hair Trigger, Often Misread, New York Times: Health
+Centers for Disease Control and Prevention, National Center for Injury Prevention and Control. Webbased Injury Statistics Query and Reporting System (WISQARS) [online]. (2010). [cited 2012 Oct 19] Available from www.cdc.gov/injury/wisqars/index.html
+Centers for Disease Control and Prevention. Youth risk behavior surveillanceâ€”United States, 2011. MMWR, Surveillance Summaries 2012;61(no. SS-4). Available from www.cdc.gov/mmwr/pdf/ss/
+ss6104.pdf
+Cheng, A. T. A. (1995). Mental illness and suicide: A casecontrol
+study in east Taiwan. Archives of General Psychiatry 52, 594-603.
+Crosby AE, Han B, Ortega LAG, Parks SE, Gfoerer J. Suicidal thoughts and behaviors among adults aged â‰¥18 years-United States, 2008-2009. MMWR Surveillance Summaries 2011;60(no. SS-13).
+Available from www.cdc.gov/mmwr/preview/mmwrhtml/ss6013a1.htm?s_cid=ss6013a1_e.
+Durkheim, E (1897). Le suicide. Alcan. Paris.
+Emanuel, E, Fairclough, D, and Emanuel, L (2000). Attitudes and desires related to euthanasia and physician-assisted suicide among terminally ill
+patients and their caregivers. JAMA 15, 2460-2468.
+Goldsmith SK, Pellmar TC, Kleinman AM, Bunney WE, editors. Reducing suicide: a national imperative. Washington, DC: National Academy Press; 2002.
+Groenewoud, J, Van Der Maas, P, Van Der Wal, G, Hengeveld, M W, Tholen, A, Schudel, W, and Van Der Heide, A (1997). Physician-assisted death in psychiatric practice in the Netherlands. New England Journal
+of Medicine 336, 1795-1801.
+Harsch DL, Logan J, McDaniel D, Parks S, Patel N. Surveillance for violent deathsâ€”National Violent Death Reporting System, 16 States, 2013. MMWR Surveillance Summary 2012; 61:1-43. Available at: http://
+www.cdc.gov/mmwr/preview/mmwrhtml/ss6106a1.htm?s_cid=ss6106a1_e#tab6.
+Rich, C L, Young, D, and Fowler, R C (1986). San Diego suicide study: I. Young vs old subjects. Archives of General Psychiatry 43, 577-582.
+Robins, E, Murphy, G E, Wilkinson, R H, Gassner, S, and Kayes, J (1959). Some clinical considerations in the prevention of suicide based on a study of 134 successful suicides. American Journal of Public
+Health 49, 888-899.
+Salmela. Anu (2009). Lethal Emotions: Shaken Emotions and Female Suicides in Late 19th Century Finland
+Downloads
+full paper
+Published
+2014-06-30
+How to Cite
+Borres, M. S., Orias, J. D., & Mercado, A. (2014). A Mathematical Model on Social Integration Explaining Global Suicide Rate Among Men and Women. Recoletos Multidisciplinary Research Journal, 2(1). https://doi.org/10.32871/rmrj1402.01.06
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 2 No. 1 (2014)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Most read articles by the same author(s)
+Mark S. Borres,
+Felix M. Diano Jr.,
+Evolutionary Models for the Interaction of the Higher Education Labor Force and Higher Education Market
+,
+Recoletos Multidisciplinary Research Journal: Vol. 3 No. 1 (2015)
+Anna Rose P. Nillama,
+Mark S. Borres,
+Ricky B. Villeta,
+Roramie V. Arco,
+Joyce C. Unabia,
+Validation of Lepidopteran Classification by Morphological Fractal Dimension Analysis
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Randy K. Salazar,
+Rosario L. Cabillada,
+Mark S. Borres,
+Anthony Jagures,
+Fractal Dimensions of Voice Patterns and Voice Recognition
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Roberto N. Padua,
+Mark S. Borres,
+Randy K. Salazar,
+A Generalized Bootstrap Technique for Dependent Observations
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Mark S. Borres,
+Robert John G. Tupas,
+Joel B. Serad,
+Aspects of Climate Change Induced by Human Activities: Impact on Global Natural Disaster Mortality
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Mark S. Borres,
+Queen Heneylour S. Relatorres,
+Efren O. Barabat,
+Societal Offenders In Prison: Global In-Country Analysis By Fractals
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Roberto N. Padua,
+Mark S. Borres,
+Efren O. Barabat,
+On a Logistic Approximation to the Normal and Other Cumulative Distribution Functions
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Roberto N. Padua,
+Mark S. Borres,
+From Fractal Geometry to Statistical Fractal
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 1 (2013)
+Roberto N. Padua,
+Miraluna L. Herrera,
+Adriano V. Patac Jr.,
+Michael V. Sabugaa,
+Gibson T. Maglasang,
+Mark S. Borres,
+Jay M. Ontolan,
+On Fractional and Fractal Derivatives in Relation to the Physics of Fractals
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+Roberto N. Padua,
+Rodel B. Azura,
+Mark S. Borres,
+Adriano V. Patac Jr.,
+ARIMA (p,d,q) and Non-Linear Approximation Models for the Fractal Dimension of the Density of Primes Less or Equal to a Positive Integer
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+1 2 > >>
+Similar Articles
+Brian A. Vasquez,
+Philosophical Bases of Research Methods:An Integrative Narrative Review Part 2
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+You may also start an advanced similarity search for this article.
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

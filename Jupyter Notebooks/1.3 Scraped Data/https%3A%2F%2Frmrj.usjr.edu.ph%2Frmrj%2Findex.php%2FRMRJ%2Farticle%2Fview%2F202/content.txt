@@ -1,0 +1,105 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/202
+Maximizing the Storage Capacity of Free Cloud Storage Providers
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 4 No. 2 (2016)
+/
+Articles
+Maximizing the Storage Capacity of Free Cloud Storage Providers
+Authors
+Marisa Mahilum Buctuanon
+University of San Jose-Recoletos
+Kristine Joanne I. Tigue
+University of San Jose-Recoletos
+Ralph J. Pepito
+University of San Jose-Recoletos
+DOI:
+https://doi.org/10.32871/rmrj1604.02.06
+Keywords:
+Abstracted cloud storage, 											data warehousing, 											centralized cloud service, 											free larger storage capacity
+Abstract
+This study aims to resolve the problem on the free cloud storage services. With innumerable providers, data and files are dispersed across multiple cloud repositories. Users try to have multiple accounts on the same cloud storage provider or to sign up for an account from different providers. Hence, Fuse creates an illusion of a larger capacity of data volume that will be made available for free for public consumption. With Fuse, files are consolidated and managed in a sophisticated manner to ensure data preservation and performance efficiency.Â  This centralized cloud service is made to utilize todayâ€™s emerging cloud services such as Google Drive, Dropbox, and Box. With 1 account, users will be able to store files online and access them anywhere with larger storage capacity than what is available today.
+References
+Abu-Libdeh, H., Princehouse, L., & Weatherspoon, H. (2010, June). RACS: A Case for Cloud Storage Diversity. In Proceedings of the 1st ACM symposium on Cloud computing (pp. 229-240). ACM.
+Adammbalogh/box-php-sdk. (n.d.). Retrieved from https://goo.gl/8Mrczf
+API Reference. (n.d.). Retrieved from https://goo.gl/mnasQQ
+Butler, B. (2015, June 09). 19 free cloud storage options. Retrieved March 17, 2017, from https://goo.gl/h4KfTm
+Fisher, S. (n.d.). 17 Free Cloud Storage Services - No Strings Attached. Retrieved March 18, 2017, from https://goo.gl/SHqf2T
+Free APP to Combine Cloud Storage into One. (n.d.). Retrieved March 18, 2017, from https://goo.gl/votQLU
+Google Drive - Cloud Storage & File Backup for Photos, Docs & More. (n.d.). Retrieved from https://www.google.com.ph/drive/
+Box Developer Platform. (n.d.). Retrieved March 24, 2017, from https://docs.box.com/v2.0/reference
+Odrive | Combine all your storage. (n.d.). Retrieved from https://www.odrive.com/m/
+Otixo: Encryption and file manager for multiple clouds. (n.d.). Retrieved October 1, 2015.
+PHP Core API - Dropbox. (n.d.). Retrieved from https://goo.gl/5jvmz7
+PHP Quickstart. (n.d.). Retrieved from https://goo.gl/88cDUl
+Qian, L., Luo, Z., Du, Y., & Guo, L. (2009). Cloud computing: an overview. In Cloud Computing (pp. 626-631). Springer Berlin Heidelberg.
+Use Google Drive Api in Laravel 5. (n.d.). Retrieved from http://goo.gl/F7LYLw
+Downloads
+PDF
+Published
+2016-12-31
+How to Cite
+Buctuanon, M. M., Tigue, K. J. I., & Pepito, R. J. (2016). Maximizing the Storage Capacity of Free Cloud Storage Providers. Recoletos Multidisciplinary Research Journal, 4(2). https://doi.org/10.32871/rmrj1604.02.06
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 4 No. 2 (2016)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Similar Articles
+Roramie V. Arco,
+Ricky B. Villeta,
+Marisa M. Mahilum,
+Microbial Modeling and Monte Carlo Simulation to Determine Microbial Performance Criteria on Wooden Cutting Boards
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 2 (2014)
+You may also start an advanced similarity search for this article.
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

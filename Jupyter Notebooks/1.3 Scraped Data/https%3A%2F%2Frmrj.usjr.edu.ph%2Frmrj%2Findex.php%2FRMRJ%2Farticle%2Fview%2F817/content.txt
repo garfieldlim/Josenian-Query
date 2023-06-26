@@ -1,0 +1,215 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/817
+A Seasonal Autoregressive Integrated Moving Average (SARIMA) Model to Forecasting Tourist Arrival in the Philippines: A Case Study in Moalboal, Cebu (Philippines)
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 8 No. 1 (2020)
+/
+Articles
+A Seasonal Autoregressive Integrated Moving Average (SARIMA) Model to Forecasting Tourist Arrival in the Philippines: A Case Study in Moalboal, Cebu (Philippines)
+Authors
+Severina P. Velos
+Cebu Technological University - Moalboal Campus
+Marivel B. Go
+Cebu Technological University
+Glynne P. Bate
+Cebu Technological University
+Elvira B. Joyohoy
+Cebu Technological University
+DOI:
+https://doi.org/10.32871/rmrj2008.01.05
+Keywords:
+Tourism demand forecasting, 											time series forecasting, 											SARIMA, 											stochastic processes, 											seasonal time series
+Abstract
+Forecasting plays a critical part in implementing effective tourism management strategies. However, the role of tourism forecasting is not extensively studied in the Philippines, which is a key tourism destination in Southeast Asia. To address such gap, this paper explores the dynamics of tourist demand in the Philippines through a case study. It illustrates the tourist arrival using a SARIMA model. Results show that the adopted methodology was able to capture the dynamics of the tourist demand in the Philippines. By providing lenses to the Philippine tourism case, this paper would help shed light to the gaps in the literatureâ€™s current understanding of tourism in the Philippines. Moreover, these findings would be beneficial for stakeholders in shaping policies, strategies, and other tourism initiatives.
+References
+Abellana, D. P. M., Rivero, D. M. C., Aparente, M. E., &
+Rivero, A. (2020). Hybrid SVR-SARIMA model
+for tourism forecasting using PROMETHEE
+II as a selection methodology: a Philippine
+scenario. Journal of Tourism Futures.
+Anvari, S., Tuna, S., Canci, M., &Turkay, M. (2016).
+Automated Boxâ€“Jenkins forecasting tool
+with an application for passenger demand
+in urban rail systems. Journal of Advanced
+Transportation, 50(1), 25-49
+Ashley, R. (2003). Statistically significant forecasting
+improvements: how much out-of-sample
+data is likely necessary? International Journal
+of Forecasting, 19, 229-239.
+Baldigara, T., & Mamula, M. (2015). Modeling
+international tourism demand using
+seasonal ARIMA models. Tourism and
+hospitality management, 21(1), 19-31
+Bi, J. W., Liu, Y., & Li, H. (2020). Daily tourism volume
+forecasting for tourist attractions. Annals of
+Tourism Research, 83, 102923.
+Brockwell, P. J., & Davis, R. A. (2016). Introduction to
+time series and forecasting. Springer.
+Callies, J., Ferrari, R., Klymak, J., & Gula, J. (2015).
+Seasonality in submesoscale turbulence.
+Nature communications, 6, 6862. https://doi.
+org/10.1038/ncomms7862
+Department of Tourism (2018). Visitor arrivals to the
+Philippines by country of residence: January â€“
+December 2017. Retrieved from http://www.
+tourism.gov.ph/industry_performance/
+December2018/January%20December%20
+2018%20Table%202.pdf
+Etulle-Tapanan, H. (2015). Path Analysis of Climate
+and Tourism to the Economic Growth in
+the Philippines. Recoletos Multidisciplinary
+Research Journal, 3(1). https://doi.
+org/10.32871/rmrj1503.01.03
+Fernandez, F. R., Po III, R., Montero, N., & Addawe, R.
+(2017, November). Prediction of South China
+sea level using seasonal ARIMA models. In
+AIP Conference Proceedings 1905(1), 050018.
+AIP Publishing LLC.
+Gairaa, K., Khellaf, A., Messlem, Y., & Chellali, F.
+(2016). Estimation of the daily global solar
+radiation based on Boxâ€“Jenkins and ANN
+models: A combined approach. Renewable
+and Sustainable Energy Reviews, 57, 238-249
+Geurts, M., Buchman, T., & Ibrahim, I. (1976). Use of
+the Box-Jenkins approach to forecast tourist
+arrivals. Journal of Travel Research, 14(4), 5-8.
+Ghalehkhondabi, I., Ardjmand, E., Young, W.A. &
+Weckman, G.R., (2019). A review of demand
+forecasting models and methodological
+developments within tourism and passenger
+transportation industry. Journal of Tourism
+Futures, 5(1), 75-93. https://doi.org/10.1108/
+JTF-10-2018-0061
+Hyndman, R., & Koehler, A. (2006). Another look at
+measures of forecast accuracy. International
+journal of forecasting, 22(4), 679-688.
+Jackson, E., Sillah, A., &Tamuke, E. (2018). Modeling
+monthly headline consumer price index
+(HCPI) through seasonal Box-Jenkins
+methodology. International Journal of
+Sciences, 7(1), 51-56.
+Li, C., Ge, P., Liu, Z., & Zheng, W. (2020). Forecasting
+tourist arrivals using denoising and potential
+factors. Annals of Tourism Research, 83,
+102943.
+Liang, Y. (2014). Forecasting models for Taiwanese
+tourism demand after allowance for
+Mainland China tourists visiting Taiwan.
+Computers & Industrial Engineering, 74, 111-
+119.
+Maliberan, R. M. E. (2019). Forecasting tourist
+arrival in the Province of Surigao del Sur,
+Philippines using time sesries analysis.
+JOIV: International Journal on Informatics
+Visualization, 3(3), 255-261.
+Philippine Statistcs Authority (2018). Contribution
+of Tourism to the Economy is 12.2 Percent in
+2017. Republic of the Philippines: Philippine
+Statistics Authority. Retrieved from https://
+psa.gov.ph/content/contribution-tourismeconomy-122-percent-2017
+Rufino, C. C. (2011). Forecasting international
+demand for Philippine Tourism. DLSU
+Business & Economics Review, 21(1), 61-76.
+Rufino, C. C. (2016, March). Forecasting monthly
+tourist arrivals from ASEAN+ 3 countries to
+the Philippines for 2015-2016 using SARIMA
+Noise Modeling. In Presented at 2016 DLSU
+Research Congress.
+Shadwick, E., Trull, T., & Tilbrook, B. (2015).
+Seasonality of biological and physical
+controls on surface ocean CO2 from hourly
+observations at the Southern Ocean
+Time Series site south of Australia. Global
+Biogeochemical Cycles, 29(2), 223-238.
+Shumway, R. H., & Stoffer, D. S. (2017). ARIMA
+models. In Time series analysis and its
+applications (pp. 75-163). Springer, Cham.
+Song, H., & Li, G. (2008). Tourism demand modelling
+and forecastingâ€”A review of recent
+research. Tourism management, 29(2), 203-
+220.
+Song, H., Qiu, R. T., & Park, J. (2019). A review of
+research on tourism demand forecasting:
+Launching the Annals of Tourism Research
+Curated Collection on tourism demand
+forecasting. Annals of Tourism Research, 75,
+338-362.
+Stewart, K. G. (2005). Introduction to applied
+econometrics. Belmont, CA: Thomson Brooks/
+Cole.
+Ãœlke, V., Sahin, A., & Subasi, A. (2018). A comparison
+of time series and machine learning models
+for inflation forecasting: empirical evidence
+from the USA. Neural Computing and
+Applications, 30(5), 1519-1527.
+WISCONSIN UNIV MADISON DEPT OF STATISTICS,
+Box,G. E. P., & Jenkins,G. M. (1970). Time series
+analysis forecasting and control.
+Downloads
+pdf
+Published
+2020-06-30
+How to Cite
+Velos, S. P., Go, M. B., Bate, G. P., & Joyohoy, E. B. (2020). A Seasonal Autoregressive Integrated Moving Average (SARIMA) Model to Forecasting Tourist Arrival in the Philippines: A Case Study in Moalboal, Cebu (Philippines). Recoletos Multidisciplinary Research Journal, 8(1), 67–78. https://doi.org/10.32871/rmrj2008.01.05
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 8 No. 1 (2020)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Most read articles by the same author(s)
+Glynne P. Bate,
+Marivel B. Go,
+Severina P. Velos,
+Top Stressors among Filipino Undergraduate Students: A Multicenter - Interdisciplinary Study
+,
+Recoletos Multidisciplinary Research Journal: Vol. 7 No. 2 (2019)
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

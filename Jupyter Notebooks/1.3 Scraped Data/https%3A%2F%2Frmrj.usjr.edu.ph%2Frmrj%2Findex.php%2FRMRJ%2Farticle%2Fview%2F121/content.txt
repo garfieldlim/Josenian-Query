@@ -1,0 +1,131 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/121
+Global Patterns in Spatial Expansion of Dengue Serotype-I in Response to Increasing Surface Temperature
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 4 No. 1 (2016)
+/
+Articles
+Global Patterns in Spatial Expansion of Dengue Serotype-I in Response to Increasing Surface Temperature
+Authors
+Rhoniel Ryan Ymbong
+University of San Jose-Recoletos
+Jake Joshua Chi Garces
+University of San Jose-Recoletos
+DOI:
+https://doi.org/10.32871/rmrj1604.01.01
+Keywords:
+Dengue expansion, 											Surface temperature difference, 											Dengue virus serotype-1
+Abstract
+Dengue is a mosquito-borne viral infection (DENV serotypes 1-4) that imposes a serious health and economic burden in tropical and sub-tropical countries around the world. Increasing atmospheric temperature had changed the dynamics of the mosquito habitats and thereby influences distribution of these mosquito vectors. We examined the increase in the number of countries within the regions of Asia, Africa, and the Americas reporting laboratory confirmed dengue cases caused by DENV-1 as a response to increasing global surface temperature difference. Data on the number of countries with confirmed reports of dengue (Messina et al. 2014) and surface temperature difference (General Circulation Model) were subjected to scatter plots and linear regression. There were 113 recorded countries across three regions (America=44, comprising the North and South; Africa=28; and Asia=41) reporting dengue incidence from 1943 to 2013, of which 98 countries (America=41; Africa=20; and Asia=37 with the inclusion of Australia) reported confirmed dengue cases caused by DENV-1. Findings suggest that the effect of temperature to the expansion of dengue varies dramatically in certain groups of country. Here, we explore three patterns (PAT) of expansion response where 1) continuous increase in temperature results into a continuous increase in the number of countries with dengue cases (PAT-A), 2) initial increase in temperature results into increase in the number of countries with dengue cases but subsequent increase in temperature results in the decline of dengue expansion (PAT-B), and 3) initial increase in temperature results into higher rate of dengue expansion but continued increase slows it down (PAT-C). PAT-A represented the majority of these countries, including 10 out of 11 countries in Southeast Asia. These results are in congruence with the past studies that supports dengue expansion to be temperature-dependent.
+References
+Adams, B., & Boots, M. (2010). How important is vertical transmission in mosquitoes for the persistence of dengue? Insights from a mathematical model. Epidemics, 2(1): 1-10.
+Alto, B.W. & Bettinardi, D. (2013). Temperature and dengue virus infection in mosquitoes: Independent effects on the immature and adult stages. The American Journal for Tropical Medicine and Hygiene. Vol. 88(3): 497-505.
+Amarasinghe, A., Kuritsky, J.N., Letson, W., & Margolis, H.S. (2011). Dengue virus infection in Africa. Emerging Infectious Diseases. Vol. 17(8): 1349-1354. doi: 10.3201/eid1708.101515.
+Bhatt, S., Gething, P.W., Brady, O.J., Messina, J.P., Farlow, A.W., Moyes, C.L., Drake, J.M., Brownstein, J.S., Hoen, A.G., Sankoh, O., Myers, M.F., George, D.B., Jaenisch, T., Wint, G.R.W., Simmons, C.P., Scott, T.W., Farrar, J.J., & Hay, S.I. (2013). The global distribution and burden of dengue. Nature. Vol. 496(7446): 504-507.
+Brady, O.J., Golding, N., Pigott, D.M., Kraemer, M.U.G, Messina, J.P., Reiner Jr., R.C., Scott, T.W, Smith, D.L., Gething, P.W., & Hay, S.I. (2014). Global temperature constraints on Aedes aegypti and Ae. albopictus persistence and competence for dengue virus transmission. Parasites & Vectors 2014 7:338.
+Buczak, A. L., Baugher, B., Babin, S. M., Ramac-Thomas, L. C., Guven, E., Elbert, Y., ... & Yoon, I. K. (2014). Prediction of high incidence of dengue in the Philippines. PLoS Negl Trop Dis, 8(4), e2771.
+Carrington, L.B., Seifert, S.N., Armijos, M.V., Lambrechts, L., & Scott, T.W. (2013). Reduction of Aedes aegypti vector competence for dengue virus under large temperature fluctuations. American Journal of Tropical Medicine and Hygiene. Vol. 88(4): 689-697.
+Cheong, Y. L., Burkart, K., LeitÃ£o, P. J., & Lakes, T. (2013). Assessing weather effects on dengue disease in Malaysia. International journal of environmental research and public health, 10(12), 6319-6334.
+Choi, Y., Tang, C. S., McIver, L., Hashizume, M., Chan, V., Abeyasinghe, R. R., ... & Huy, R. (2016). Effects of weather factors on dengue fever incidence and implications for interventions in Cambodia. BMC public health, 16(1), 241.
+Christophers, S.R. (1960). Aedes aegypti Yellow Fever Mosquito. Cambridge University Press, London, U.K.
+Dick, O.B., San Martin, J.L., Montoya, R.H., del Diego, J., Zambrano, B., & Dayan, G.H. (2012). Review: The history of dengue outbreaks in the Americas. American Journal of Tropical Medicine and Hygiene. Vol. 87(4): 584-593.
+De Simone, T. S., Nogueira, R. M. R., AraÃºjo, E. S. M., GuimarÃ£es, F. R., Santos, F. B. D., Schatzmayr, H. G., & Miagostovich, M. P. (2004). Dengue virus surveillance: the co-circulation of DENV-1, DENV-2 and DENV-3 in the State of Rio de Janeiro, Brazil. Transactions of the Royal Society of Tropical Medicine and Hygiene, 98(9), 553-562.
+Edillo, F. E., Roble, N. D., & Otero II, N. D. (2012). The key breeding sites by pupal survey for dengue mosquito vectors, Aedes aegypti (Linnaeus) and Aedes albopictus (Skuse), in Guba, Cebu City, Philippines. Southeast Asian Journal of Tropical Medicine and Public Health, 43(6), 1365.
+Epstein, P. R., Diaz, H. F., Elias, S., & Grabherr, G. (1998). Biological and physical signs of climate change: focus on mosquito-borne diseases. Bulletin of the American Meteorological Society, 79(3), 409.
+Farnesi, LC., Martins, A.J., Valle, D. & Rezende, G.L. (2009). Embryonic development of Aedis aegypti
+(Diptera: Culicidae): influence of different constant temperatures. Mern Inst Oswaldo Cruz, Rio de Janeiro, Vol. 104 (1): 124-126.
+Guzman, G., & Kouri, G. (2003). Dengue and dengue hemorrhagic fever in the Americas: lessons and challenges. Journal of Clinical Virology, 27(1), 1-13.
+Gubler, D.J. (2006). Dengue/dengue haemorrhagic fever: history and current status. Novartis Foundation Symposium. 277: 3-16.
+Haines, A., Kovats, R. S., Campbell-Lendrum, D., & CorvalÃ¡n, C. (2006). Climate change and human health: impacts, vulnerability and public health. Public Health, 120(7), 585-596.
+Hii, Y. L., Zhu, H., Ng, N., Ng, L. C., & RocklÃ¶v, J. (2012). Forecast of dengue incidence using temperature and rainfall. PLoS Negl Trop Dis, 6(11), e1908.
+Hii YL, Rocklov J, Ng N, Tang CS, Pang FY, & Sauerborn R. (2009). Climate change variability and increase in intensity and magnitude of dengue incidence in Singapore. Global Health Actions. Vol. 2.
+Ibarra, A. M. S., Ryan, S. J., BeltrÃ¡n, E., MejÃ­a, R., Silva, M., & MuÃ±oz, Ã. (2013). Dengue vector dynamics (Aedes aegypti) influenced by climate and social factors in Ecuador: implications for targeted control. PloS ONE, 8(11), e78263.
+Johansson, M. A., Dominici, F., & Glass, G. E. (2009). Local and global effects of climate on dengue transmission in Puerto Rico. PLoS ONE Negl Trop Dis, 3(2), e382.
+Keating, J. (2001). An investigation into the cyclical incidence of dengue fever. Social science & medicine, 53(12), 1587-1597.
+Kokernot, R.H., Smithburn, K.C., & Weinbren, M.P. (1956). Neutralising antibodies to arthropod-borne viruses in human and animals in the Union of South Africa. Journal of Immunology. 77:313-322.
+Lambrechts, L., Paaijmans, K. P., Fansiri, T., Carrington, L. B., Kramer, L. D., Thomas, M. B., & Scott, T. W. (2011). Impact of daily temperature fluctuations on dengue virus transmission by Aedes aegypti. Proceedings of the National Academy of Sciences, 108(18), 7460-7465.
+Liaqat, I., Jahan, N., & Ahmad, S. I. (2013). Challenges and future prospects for Dengue vector control. African Journal of Microbiology Research, 7(33), 4220-4227.
+Messina, J. P., Brady, O. J., Scott, T. W., Zou, C., Pigott, D. M., Duda, K. A., ... & Simmons, C. P. (2014). Global spread of dengue virus types: mapping the 70 year history. Trends in Microbiology, 22(3), 138-146.
+Messina, J. P., Brady, O. J., Scott, T. W., Zou, C., Pigott, D. M., Duda, K. A., . . . & Hay, S. I. (2014). Global spread of dengue virus types : Mapping the 70 year history. Trends in Microbiology, 22(3), 138-146.
+Morin, C. W., Comrie, A. C., & Ernst, K. (2013). Climate and dengue transmission: evidence and implications. Environmental Health Perspectives (Online), 121(11-12), 1264.
+Mousson, L., Dauga, C., Garrigues, T., Schaffner, F., Vazeille, M., & Failloux, A. B. (2005). Phylogeography of Aedes (Stegomyia) aegypti (L.) and Aedes (Stegomyia) albopictus (Skuse)(Diptera: Culicidae) based on mitochondrial DNA variations. Genetical research, 86(01), 1-11.
+Murray, N.E.A., Quam, M.B., & Wilder-Smith, A. (2013). Epidemiology of dengue: past, present and future prospects. Clinical Epidemiology. 5:299-309.
+Naish, S., Dale, P., Mackenzie, J. S., McBride, J., Mengersen, K., & Tong, S. (2014). Climate change and dengue: a critical and systematic review of quantitative modelling approaches. BMC Infectious Diseases, 14(1), 1.
+Nishiura, H., & Halstead, S. B. (2007). Natural History of Dengue Virus (DENV)â€”1 and DENVâ€”4 Infections: Reanalysis of Classic Studies. Journal of Infectious Diseases, 195(7), 1007-1013.
+Oehler, E., Watrin, L., Larre, P., Leparc-Goffart, I., Lastere, S., Valour, F., & Ghawche, F. (2014). Zika virus infection complicated by Guillain-Barre syndrome--case report, French Polynesia, December 2013. Euro Surveill, 19(9), 20720.
+Patz JA, Campbell-Lendrum D, Holloway T, & Foley JA. (2005). Impacts of regional climate change on human health. Nature. Vol. 438: 310-317. doi:10.1038/nature04188.
+Patz, J. A., Githeko, A. K., McCarty, J. P., Hussein, S., Confalonieri, U., & De Wet, N. (2003). Climate change and infectious diseases. Climate change and human health: risks and responses, 103-132.
+Ramachandran, V. G., Roy, P., Das, S., Mogha, N. S., & Bansal, A. K. (2016). Empirical model for estimating dengue incidence using temperature, rainfall, and relative humidity: a 19-year retrospective analysis in East Delhi. Epidemiology and health, 38.
+Sabin, A.B. & Schlesinger, R.W. (1945). Production of immunity to dengue with virus modified by propagation in mice. Science. Vol 101 (2634): 640-642.
+Semenza, J. C., & Menne, B. (2009). Climate change and infectious diseases in Europe. The Lancet Infectious Diseases, 9(6), 365-375.
+Sharmin, S., Glass, K., Viennet, E., & Harley, D. (2015). Interaction of mean temperature and daily fluctuation influences dengue incidence in Dhaka, Bangladesh. PLoS ONE Negl Trop Dis, 9(7), e0003901.
+Downloads
+PDF
+Published
+2016-06-30
+How to Cite
+Ymbong, R. R., & Garces, J. J. C. (2016). Global Patterns in Spatial Expansion of Dengue Serotype-I in Response to Increasing Surface Temperature. Recoletos Multidisciplinary Research Journal, 4(1). https://doi.org/10.32871/rmrj1604.01.01
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 4 No. 1 (2016)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Most read articles by the same author(s)
+Jake Joshua Chi Garces,
+Zanrda O. Jarito,
+Leslie Ann T. Barriga,
+Froilen C. Domecillo,
+Nimfa R. Pansit,
+Practices of Entomophagy and Entomotherapy in Cebu Island, Philippines
+,
+Recoletos Multidisciplinary Research Journal: Vol. 4 No. 2 (2016)
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

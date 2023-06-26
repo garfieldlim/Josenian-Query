@@ -1,0 +1,168 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/64
+On Fractional Derivatives and Application
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 1 No. 2 (2013)
+/
+Articles
+On Fractional Derivatives and Application
+Authors
+Mark S. Borres
+University of San Jose-Recoletos
+Efren O. Barabat
+University of San Jose-Recoletos
+Jocelyn T. Panduyos
+Surigao del Sur State University
+DOI:
+https://doi.org/10.32871/rmrj1301.02.06
+Keywords:
+local approximation, 											global approximation, 											fractional derivatives
+Abstract
+In many instances, the first derivative of the functional representation f(x) will fail to exist (Mandelbrot, 1987). When this happens, it is important to develop an appropriate language to describe these minute finer roughness and irregularities of the geometric objects. This paper attempts to develop the calculus of fractional derivatives for this purpose. Local approximations to functional values by fractional derivatives provide finer and better estimate than the global approximations represented by power series e.g Mclaurinâ€™s series. Fractional derivatives incorporate information on the fluctuations and irregularities near the true functional values, hence, attaining greater precision.
+Author Biographies
+Mark S. Borres, University of San Jose-Recoletos
+graduated Bachelor of Science in Mathematicsâ€“major in Pure Mathematics at the University of the Philippines, Cebu College. Since 2009, he worked for the University of San Jose- Recoletos as a faculty member of the College of Arts and Sciences and handled Mathematics subjects such as College Algebra, Advanced Algebra, Abstract Algebra, Analytical Geometry, Euclidean geometry, Trigonometry, Business Mathematics, Linear Programming, Mathematics of Investment, Discrete Structure, and Statistics across colleges.
+Efren O. Barabat, University of San Jose-Recoletos
+is an Electronics Engineer, graduated from the University of San Jose-Recoletos in 2010, Cum Laude honors. He ranked as top 9 examinee in the April 2011 ECE Licensure Examination. He worked as Field Engineer in SMART Communications, Inc. from 2011 to 2012. Currently, a full-time faculty member of the Electronics Engineering Department of USJ-R College of Engineering, handling Mathematics and Major Subjects of ECE.
+References
+Basu, Saugata; Pollack, Richard; Roy, Marie-FranÃ§oise (2006). Algorithms in Real Algebraic Geometry. Algorithms and Computations in Mathematics 10
+(2nd ed.). Springer-Verlag. doi:10.1007/3-540-33099-2. ISBN 978-3-540-33098-1.
+Cherlin, Greg (1976). Model Theoretic Algebra Selected Topics. Lecture Notes in Mathematics 521. Springer-Verlag. ISBN 978-3-540-07696-4.
+Cutkosky, Steven Dale (2004). Resolution of Singularities. Graduate Studies in Mathematics 63. American Mathematical Society. ISBN 0-8218-3555-6.
+Eisenbud, David (1995). Commutative Algebra with a View Toward Algebraic Geometry. Graduate Texts in Mathematics 150. Springer-Verlag.ISBN 3-540-94269-6.
+Kedlaya, KiranSridhara (2001). â€œThe algebraic closure of the power series field in positive characteristicâ€. Proc. Amer. Math. Soc. 129: 3461â€“
+3470.doi:10.1090/S0002-9939-01-06001-4
+Newton, Isaac (1760). â€œletter to Oldenburg dated 1676 Oct 24â€. The correspondence of Isaac Newton II. Cambridge University press. pp. 126â€“127. ISBN 0-521-08722-8
+Newton, Isaac (1736). The method of fluxions and infinite series; with its application to the geometry of curvelines (translated from Latin and published by John Colson in 1736)
+Solomentsev, E.D. (2001), â€œPower seriesâ€, in Hazewinkel, Michiel, Encyclopedia of Mathematics, Springer, ISBN 978-1-55608-010-4
+Downloads
+full paper
+Published
+2013-12-31
+How to Cite
+Borres, M. S., Barabat, E. O., & Panduyos, J. T. (2013). On Fractional Derivatives and Application. Recoletos Multidisciplinary Research Journal, 1(2). https://doi.org/10.32871/rmrj1301.02.06
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 1 No. 2 (2013)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Most read articles by the same author(s)
+Mark S. Borres,
+Felix M. Diano Jr.,
+Evolutionary Models for the Interaction of the Higher Education Labor Force and Higher Education Market
+,
+Recoletos Multidisciplinary Research Journal: Vol. 3 No. 1 (2015)
+Anna Rose P. Nillama,
+Mark S. Borres,
+Ricky B. Villeta,
+Roramie V. Arco,
+Joyce C. Unabia,
+Validation of Lepidopteran Classification by Morphological Fractal Dimension Analysis
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Mark S. Borres,
+Jergen D. Orias,
+Alvin Mercado,
+A Mathematical Model on Social Integration Explaining Global Suicide Rate Among Men and Women
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Randy K. Salazar,
+Rosario L. Cabillada,
+Mark S. Borres,
+Anthony Jagures,
+Fractal Dimensions of Voice Patterns and Voice Recognition
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Roberto N. Padua,
+Mark S. Borres,
+Randy K. Salazar,
+A Generalized Bootstrap Technique for Dependent Observations
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Mark S. Borres,
+Robert John G. Tupas,
+Joel B. Serad,
+Aspects of Climate Change Induced by Human Activities: Impact on Global Natural Disaster Mortality
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Mark S. Borres,
+Queen Heneylour S. Relatorres,
+Efren O. Barabat,
+Societal Offenders In Prison: Global In-Country Analysis By Fractals
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Roberto N. Padua,
+Mark S. Borres,
+Efren O. Barabat,
+On a Logistic Approximation to the Normal and Other Cumulative Distribution Functions
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Jessica M. Avenido,
+Efren O. Barabat,
+A Fractal View on the Suicide Incidence of Countries
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+Roberto N. Padua,
+Mark S. Borres,
+From Fractal Geometry to Statistical Fractal
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 1 (2013)
+1 2 3 > >>
+Similar Articles
+Jessica M. Avenido,
+Roberto M. Cabardo,
+Juanito B. AliÃ±o Jr.,
+Casual Sex among Young People
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 1 (2013)
+You may also start an advanced similarity search for this article.
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

@@ -1,0 +1,179 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/99
+Philippine Enhanced Basic Education (K to12) Dropout Simulation Model
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 2 No. 2 (2014)
+/
+Articles
+Philippine Enhanced Basic Education (K to12) Dropout Simulation Model
+Authors
+Helmae N. Etulle-Tapanan
+University of San Jose-Recoletos
+Cindy M. Carmelotes
+University of San Jose-Recoletos
+DOI:
+https://doi.org/10.32871/rmrj1402.02.04
+Keywords:
+Philippines Enhanced Basic Education, 											K to12 implementation, 											dropout, 											dropout rate, 											simulation model
+Abstract
+This study aims to produce a simulation model to predict the number of dropouts when a child completes the K-12 curriculum. This simulation model is to ascertain the impact of the implementation of K-12 on the dropout rate and its prevalent and predictive determinants. Reducing the number of school leavers is, therefore, as important as uplifting the standards and quality of learning for any basic education system. The stimulated randomized datasets were the academic enrollment of a certain grade level. Experimental criterion measures the dropout rate of students per year. The determinants identified which will contribute to the probability of students to drop were: (1) Apas (Parentsâ€™ Ability to Support); (2) Blc (Learning Capacity), and (3) Cgs (Government Subsidy). With thorough computation of random datasets, the first simulation run for 100 enrollees were utilized for simulation. In the analysis of dropout probability in a six-year simulation for the completion of students, the findings revealed that the frequency of studentsâ€™ promotion per year decreases. Upon completion of the curriculum, promotion rate of the population is only 11%. Dropout probability increases per academic year and percentage of dropouts in K-12 implementation will reach to 89%.
+Author Biography
+Helmae N. Etulle-Tapanan, University of San Jose-Recoletos
+MAEd, 27, graduated her Master of Arts in Education major in Mathematics from University of the Philippines Cebu, Lahug, Cebu City in 2011. She finished her Bachelor in Elementary Education major in Mathematics at La Salle University- Ozamiz City in 2007 as Magna Cum Laude, Best in Mathematics and Extra and Co-curricular Awardee. She rendered 2-year teaching in basic education at La Salle Academy- Iligan City in 2007-2009. She worked as an Assistant Principal and as a Classroom Teacher at Pleng Prassidhi International School in Bangkok, Thailand since 2010-2011. At present, she is a full-time faculty member at University of San Jose- Recoletos of the College of Education in the Department of Teaching Education. She is the expert in Assessment of Student Learning in the college. She has published researchers related to assessment and related issues concerning understanding educational system and academic performance of students in the country. She is also handling major subjects in Preschool Education and mother tongue-based multilingual education (MTB-MLE). At the same time, Ms. Etulle is teaching in the Graduate School of USJ-R handling major subjects in Early Childhood Education.
+References
+Achieve, Inc. (2006). Identifying potential dropouts: Key lessons for building an early warning data system. Retrieved on August 23,
+2014 from http://www.achieve.org/files/FINAL-dropouts_0.pdf.
+Albert, J. R. (2012). Profile of Out-of School Children in the Philippines. Discussion Paper Series No. 2012-01. Philippine Institute for Education.
+Allensworth, E.,(2005). Graduation and Dropout Trends in Chicago: A look at cohorts of students from 1991 through 2004. Chicago: Consortium on Chicago School Research.
+Badcock, S.J. (2010). Effects of Poverty and Quality of the Home Environment on Changes in the Academic and Behavioral Adjustment
+of Elementary School-age Children. Journal of Clinical Psychology. Issue IV, Volume 23.
+Battin-Pearson, A. P., Carreon, M. S., and Orbita, A. W. (2009). â€œTrends in Household Vulnerability.â€Discussion Paper 2010-01. Philippine Institute for Development Studies. Retrieved on August 24, 2014 from http://dirp4.pids.gov.ph/ris/pn/pidspn1001.pdf.
+Bawa, B. (2000). Newhamâ€™s City Challenge Action for Achievement Project. In Wolfendale, S., and Bastiani, J. (eds) (2000) The contribution
+of Parents to School Effectiveness: London:
+David Fulton. Retrieved on August 19, 2014 from
+Burrus, J., and Roberts, R. (2012). Dropping Out of High School: Prevalence, Risk Factors, and Remediation Strategies. R and D
+Connections. Listening, Learning and Leading Journal. Volume No. 18.
+Crozier, G. (1997). Empowering the powerful: a discussion of the interrelation of government policies and consumerism with social class factors and the impact of this upon parent interventions in their
+childrenâ€™s schooling. British Journal of Sociology of Education, 18 (2), 187-199. Retrieved on August 19, 2014 from
+Department of Education (Philippines) Enrolment in Government and Private Schools by level of education SY 1985 to SY 2011-2012.
+Desforges, C. (2003). The impact of parental involvement, parental support and family education on pupil achievement and adjustment: A review of literature. London: DES Publications.
+Orbeta, A. (2010). A glimpse at the School Dropout Problem. Global Study on Child Poverty and Disparities: The Philippines Policy Brief
+No. 4. Philippine Institute for Development Studies.
+Jacobs, H. E., Lavy, K. S., and Hitomi, K. L.,. 2006. Do student care about school quality? Determinants of dropout behaviour in
+developing countries. NBER Working Paper 12737. Cambridge, Massachusetts: National Bureau of Economic Research.
+Lehr, C. A., Hanson, A., Sinclair, M. F., & Christenson, S. L. (2003). Moving beyond dropout prevention towards school completion:
+An integrative review of data-based interventions. School Psychology Review, 32, 342â€“364.
+Maligalig, D.S. & Caoli-Rodriquez, R. B. ., (2010). Is the Net Enrollment Rate Estimate of thePhilippines Accurate? ADB Briefs July 2010-02. Asian Development Bank National Statistics Office Report.
+Marinas, B. and Ditapat, M. (2011). University of San Carlos, Philippines: Curriculum and Development. UNESCO International Bureau of Education.
+National Statistics Office (2012). Annual Report of the Year. Volume 1, ISSN 1655-5112.
+Neild, R. C., & Balfanz, R. (2006). Unfulfilled promise: The dimensions and characteristics of Philadelphiaâ€™s dropout crisis, 2000â€“2005.
+Retrieved on August 24,2014 from http://www.csos.jhu.edu/new/Neild_Balfanz_06.pdf.
+Official Gazette. K to 12 Basic Education Program. Retrieved on August 20, 2014 from http://www.gov.ph/k-12/
+Raya, M, W. (2007). A glimpse at the school dropout problem. Global Study on Child Poverty and Disparities: The Philippines Policy
+Brief No. 4. Philippine Institute for Development Studies.
+Rodriguez R., Albert, J. R. and Ramos, C.G. (2007). The Philippines Country Case Study. Country profile commissioned for the Education for All Global Monitoring Report 2008. Education for All by 2015: Will We
+Make It?.UNESCO.
+Sobel, J. (2000). Economistsâ€™ models of learning. Journal of Economic Theory, 94(2): 241â€“261.
+Zakaria, B. N. , Tan, J. P., Lane, J., & Lassibille, G. (2010). Student outcomes in Philippine elementary schools: An evaluation of four
+experiments. The World Bank Economic Review, 13(3), 493-508.
+Downloads
+PDF
+Published
+2014-12-28
+How to Cite
+Etulle-Tapanan, H. N., & Carmelotes, C. M. (2014). Philippine Enhanced Basic Education (K to12) Dropout Simulation Model. Recoletos Multidisciplinary Research Journal, 2(2). https://doi.org/10.32871/rmrj1402.02.04
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 2 No. 2 (2014)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Most read articles by the same author(s)
+Kristine June D. Uy,
+Jun Brian B. Alenton,
+Marjurie Lourince E. Zanoria,
+Helmae N. Etulle-Tapanan,
+An Assessment of the Burnout Levels of Accountancy Students
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Helmae N. Etulle-Tapanan,
+Kristine June D. Uy,
+Sandy Valmores,
+Assessment of Studentsâ€™ Learning on a Fractal Viewpoint
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Sandy Valmores,
+Kristine June D. Uy,
+Virgilio C. Lumayno Jr.,
+Helmae N. Etulle-Tapanan,
+The Fractal Dimension of the Levels of Depression
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Sandy Valmores Chua,
+Helmae N. Etulle-Tapanan,
+Kristine June D. Uy,
+A Theory on Multiple Sexual Partnership
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Kristine June D. Uy,
+Chris Rudyard F. Naval,
+Sandy Valmores,
+Helmae N. Etulle-Tapanan,
+Financial Sustainability of Research Centers in a University Setting
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Jestoni P. Babia,
+Helmae N. Etulle-Tapanan,
+Juleita M. Catipay,
+Lea Mae A. Ladonga,
+Mother- Tongue Based Multilingual Education Certificate Program vis- a- vis Pupilsâ€™Academic Performance in Public Elementary Schools in Cebu
+,
+Recoletos Multidisciplinary Research Journal: Vol. 3 No. 2 (2015)
+Elena R. Camillo,
+Helmae N. Etulle-Tapanan,
+Joan Lou Marie M. Reyes,
+Economic and Environmental Parameters of Tourism in the Philippines
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 1 (2013)
+Helmae N. Etulle-Tapanan,
+Path Analysis of Climate and Tourism to the Economic Growth in the Philippines
+,
+Recoletos Multidisciplinary Research Journal: Vol. 3 No. 1 (2015)
+Similar Articles
+Jestoni P. Babia,
+Helmae N. Etulle-Tapanan,
+Juleita M. Catipay,
+Lea Mae A. Ladonga,
+Mother- Tongue Based Multilingual Education Certificate Program vis- a- vis Pupilsâ€™Academic Performance in Public Elementary Schools in Cebu
+,
+Recoletos Multidisciplinary Research Journal: Vol. 3 No. 2 (2015)
+You may also start an advanced similarity search for this article.
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

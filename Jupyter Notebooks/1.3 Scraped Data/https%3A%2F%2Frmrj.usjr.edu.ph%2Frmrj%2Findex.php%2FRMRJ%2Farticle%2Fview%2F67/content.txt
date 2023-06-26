@@ -1,0 +1,120 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/67
+Patterns of Roughness in Global Literacy Rates
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 1 No. 2 (2013)
+/
+Articles
+Patterns of Roughness in Global Literacy Rates
+Authors
+Halzi D. Dabon
+Cebu Normal University
+Corazon A. Prejoles
+Cebu Normal University
+Lelani Cabarrubias-Dapat
+Cebu Normal University
+Gibson T. Maglasang
+Cebu Normal University
+DOI:
+https://doi.org/10.32871/rmrj1301.02.14
+Keywords:
+fractal dimension, 											spectrum, 											global literacy rate
+Abstract
+This study examines the literacy rate of 204 countries all over the world focusing on both male and female population with ages 15 years old and above. The source indicates that of all the illiterate adults in the world, two-thirds are women. Data also reveal that extremely low literacy rates are concentrated in three regions: Afghanistan, South Asia, and Sub-Saharan Sahelian Africa, where around one-third of the men and half of all women are illiterate. Using fractal statistical analysis, it was found out that there is a varying pattern or complexity in the literacy rates among the male and female populations of the 204 countries; the fractal dimension of literacy rate of male is higher compared to the female. Based on the findings, it is concluded that since there are several countries with extremely low literacy rates, then the Millennium Development Goal of eradicating illiteracy by 2015 cannot be achieved. The study recommends that the governments should look into the fractality of the other indicators of human development and prosperity of the countries.
+Author Biographies
+Halzi D. Dabon, Cebu Normal University
+has been teaching in the College of Arts and Sciences of Cebu Normal University for the past five years. She teaches mostly literature and language courses. She obtained her Bachelor of Arts degree at the University of the Philippines-Diliman, major in English Studies-Language, in 2006. While teaching in Cebu Normal University, she obtained her Master of Arts in Literature in 2010 and later Doctor of Arts in Literature and Communication in 2014 at the same university. She is recently the Speech Laboratory Manager in the College of Arts and Sciences of Cebu Normal University.
+Corazon A. Prejoles, Cebu Normal University
+is a graduate of Bachelor of Science in Communication Arts from the University of the Philippines College Cebu in 1983 where she had two majors: Journalism and Broadcasting. After her five-year stint as a broadcaster in Radio Station DYLA-AM and FM , she ventured into teaching high school students in her alma mater, Andres Soriano Memorial School de la Salle from 1988 to 2001 where she had taught Journalism, Filipino, and English courses . She obtained some education units from Cebu State College and the University of the Visayas after which she took and passed the Licensure Examination for Teachers. She obtained her Master of Arts in Education with specialization on Teaching English as a Second Language and Doctor of Education in English Language Teaching from Cebu Normal University in 1997 and 2001, respectively. She became the Academic Coordinator for English for both elementary and high school department of ASMC-de la Salle, from 1998-1999, and after which the Assistant Learning Community Head of the Grade School Department from 1999 to 2001. For professional advancement, she transferred to Cebu Normal University in 2001 where she had taught graduate school in the English Language Teaching program from that year to the present. She became Chair of the Department of English, Literature and Communication in 2004, the Associate Dean for the School of the Arts in 2005, and the Dean of the College of Arts and Sciences from November of 2008 until May of 2010. She became the University Public Information Officer in 2011 and back to faculty status from 2011 to 2012. She has been the Chair of the English Studies and Other Languages Department of the College of Arts and Sciences from 2012 to the present where she is also Chair of the Department of Languages, Literature and Communication of the Graduate Studies Department of CAS. She has been trained by Dr. Roberto Padua in research together with the faculty researchers of Cebu Normal University. Her insights and gained from those research trainings have honed her skill in conducting research and has facilitated her research presentations both locally and internationally. One of the research presentations she made was in Aletheia University in Tamsui, Taiwan in 2011. She also obtained her second doctorate degree- -Doctor of Arts in Literature and Communication from Cebu Normal University in 2012. At present, she is pursuing her Bachelor of Laws at the Gullas College of Law, University of the Visayas. She is also continuing her quest for new knowledge through conducting research.
+Gibson T. Maglasang, Cebu Normal University
+is currently Instructor I at the Department of Chem-Physics of Cebu Normal University, Cebu City, Philippines. He completed his degree in Physics, in 2009 at the Mindanao State University â€“ Iligan Institute of Technology and was awarded as Cum Laude. He obtained his MS Physics, in 2011 at the same university. The author has been an active member of the Samahang Pisika ng Visayas at Mindanao and has participated and presented various studies in SPVM national conference and workshop from 2008-2012 relating to theoretical and mathematical physics research topics. His areas of interest include mathematical and theoretical physics, quantum physics, biophysics, astrophysics, and computational physics.
+References
+Arnold, D. Johnson, T. S (2010). â€œGlobal Functional Literacy: Status and Prospects for 2015â€ (Journal of Educational Researches, Vol. 43, (1), pp. 110-121)
+Chun, S., Wang, K. (2010). â€œFunctional Literacy in Southeast Asia, Dâ€. (Education Forum, Vol. 36 (2), pp. 67-82)
+Padua, R; Palompon ,D; Ontoy, D (2012). â€œData Roughness and Fractal Statisticsâ€ (CNU Journal of Higher Education, Vol. 4)
+N.A (2012). 2008 Functional Literacy and Mass Media Survey
+Santamaria, R.; Balesteros, D. (2008). â€œ â€œLiteracy and Functional Literacy in Underdeveloped Nationsâ€ (The Modern Educator, Vol. 68(4))
+Downloads
+full paper
+Published
+2013-12-31
+How to Cite
+Dabon, H. D., Prejoles, C. A., Cabarrubias-Dapat, L., & Maglasang, G. T. (2013). Patterns of Roughness in Global Literacy Rates. Recoletos Multidisciplinary Research Journal, 1(2). https://doi.org/10.32871/rmrj1301.02.14
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 1 No. 2 (2013)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Most read articles by the same author(s)
+Roberto N. Padua,
+Miraluna L. Herrera,
+Adriano V. Patac Jr.,
+Michael V. Sabugaa,
+Gibson T. Maglasang,
+Mark S. Borres,
+Jay M. Ontolan,
+On Fractional and Fractal Derivatives in Relation to the Physics of Fractals
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+Similar Articles
+Helmae N. Etulle-Tapanan,
+Path Analysis of Climate and Tourism to the Economic Growth in the Philippines
+,
+Recoletos Multidisciplinary Research Journal: Vol. 3 No. 1 (2015)
+Elena R. Camillo,
+Helmae N. Etulle-Tapanan,
+Joan Lou Marie M. Reyes,
+Economic and Environmental Parameters of Tourism in the Philippines
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 1 (2013)
+You may also start an advanced similarity search for this article.
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

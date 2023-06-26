@@ -1,0 +1,175 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/989
+Uniform Minimum Variance Unbiased Estimator of Fractal Dimension
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 9 No. 1 (2021)
+/
+Articles
+Uniform Minimum Variance Unbiased Estimator of Fractal Dimension
+Authors
+Zeny L. Maureal
+Bukidnon State University, Malaybalay City, Philippines
+https://orcid.org/0000-0002-3270-0349
+Elmer C. Castillano
+University of Science and Technology in Southern Philippines, Cagayan de Oro City, Philippines
+https://orcid.org/0000-0002-1230-8817
+Roberto N. Padua
+University of Science and Technology in Southern Philippines, Philippines
+https://orcid.org/0000-0002-2054-0835
+DOI:
+https://doi.org/10.32871/rmrj2109.01.06
+Keywords:
+fractal dimension, 											fractal distribution, 											uniform minimum variance unbiased estimator
+Abstract
+The paper introduced the concept of a fractal distribution using a power-law distribution. It proceeds to determining the relationship between fractal and exponential distribution using a logarithmic transformation of a fractal random variable which turns out to be exponentially distributed. It also considered finding the point estimator of fractional dimension and its statistical characteristics. It was shown that the maximum likelihood estimator of the fractional dimension Î» is biased. Another estimator was found and shown to be a uniformly minimum variance unbiased estimator (UMVUE) by Lehmann-Scheffeâ€™s theorem.
+Author Biography
+Elmer C. Castillano, University of Science and Technology in Southern Philippines, Cagayan de Oro City, Philippines
+He is the chairperson, USTP  Math Department
+References
+Bauke, H. (2007). Parameter estimation for power-law distributions by maximum likelihood methods. European Physical Journal B, 58,167â€“173. https://doi.org/10.1140/epjb/e2007-00219-y
+Clauset, A., Shalizi, C. R., & Newman, M. E. J. (2009). Power-law distributions in empirical data. SIAM Review, 51(4), 661â€“703. https://doi.org/ 10.1137/070710111
+Feller, W. (1991). An introduction to probability theory and its applications (2nd ed.). New York.
+Lehman, P. (1998) Theory of point estimation (2nd ed.). Springer-Verlag.
+Malik, H. J. (1970). Estimation of the parameters of the PARETO distribution. Metrika. 15,126â€“132.
+https://doi.org/10.1007/BF02613565
+Mandelbrot, B. B. (1983). The fractal geometry of nature. W. H. Freeman.
+Mandelbrot, B.B., & Van Ness, J.W. (1968). Fractional brownian motions, fractional noises and applications. SIAM Review, 10(4), 422â€“437 https://www.jstor.org/stable/2027184?seq=1
+Newman, M. (2005). Power laws, Pareto distributions and Zipf's law. Contemporary Physics, 46(5), 323-351. https://doi.org/10.1080/00107510500052444
+Padua, R.N., Baldado, M., Adanza, J. G.,& Panduyos, J. B. (2013), Statistical analysis of fractal observations: Applications in education and in poverty estimation. SDSSU Multidisciplinary Research Journal, 1(1). https://www.smrj.sdssu.edu.ph/index.php/SMRJ/article/view/84
+Padua, R. N.,& Borres, M.S. (2013). From fractal geometry to fractal statistics. Recoletos Multidisciplinary Journal of Research, 1(1). https://doi.org/10.32871/rmrj1301.01.09
+Padua, R. N., Ontoy, D. S., Palompon, D. R., & Mirasol, J. M. (2015). Statistical fractal inference. University of the Visayas - Journal of Research, 9(1), 15-22. https://doi.org/10.5281/zenodo.Z144190
+Ramachandran, K. M., & Tsokos, C. P. (2009). Mathematical statistics with applications. Elsevier. https://books.google.com.ph/books?id=YFyhXk-ONWwC&printsec=frontcover#v=onepage&q&f=false
+Regalado, D. Y., Padua, R.N., Azura, R.B., & Perez, K. B. (2018). Minimum variance unbiased estimation of the scale parameter of exponential distributions and related logarithmic integrals. Journal of Higher Education Research Disciplines, 3(1). https://nmsc.edu.ph/ojs/index.php/jherd/article/view/97
+Ross, S.M. (2009). Introduction to probability and statistics for engineers and scientists (4th ed.). Academic Press. https://doi.org/10.1016/B978-0-12-370483-2.X0001-X
+Temme, N. M. (2010), Exponential, logarithmic, sine, and cosine integrals.
+In F.W. Olver,
+D.W. Lozier, R. F. Boisvert, & C. W. Clark (Eds.), The NIST handbook of mathematical functions. Cambridge University Press.
+Downloads
+pdf
+Published
+2021-05-29
+How to Cite
+Maureal, Z. L., Castillano, E. C., & Padua, R. N. (2021). Uniform Minimum Variance Unbiased Estimator of Fractal Dimension. Recoletos Multidisciplinary Research Journal, 9(1), 63–68. https://doi.org/10.32871/rmrj2109.01.06
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 9 No. 1 (2021)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Most read articles by the same author(s)
+Roberto N. Padua,
+Mark S. Borres,
+Randy K. Salazar,
+A Generalized Bootstrap Technique for Dependent Observations
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Roberto N. Padua,
+Mark S. Borres,
+Efren O. Barabat,
+On a Logistic Approximation to the Normal and Other Cumulative Distribution Functions
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Jose D. Velez Jr.,
+Ricky B. Villeta,
+Roberto N. Padua,
+Richard Hao,
+Marielle Colina,
+A Predictive Model on the Spread of HIV in Cebu City
+,
+Recoletos Multidisciplinary Research Journal: Vol. 3 No. 2 (2015)
+Roberto N. Padua,
+Mark S. Borres,
+From Fractal Geometry to Statistical Fractal
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 1 (2013)
+Roberto N. Padua,
+Miraluna L. Herrera,
+Adriano V. Patac Jr.,
+Michael V. Sabugaa,
+Gibson T. Maglasang,
+Mark S. Borres,
+Jay M. Ontolan,
+On Fractional and Fractal Derivatives in Relation to the Physics of Fractals
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+Roberto N. Padua,
+Randy K. Salazar,
+The Ubiquity of Statistical Fractal Observations
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 1 (2013)
+Roberto N. Padua,
+Rodel B. Azura,
+Mark S. Borres,
+Adriano V. Patac Jr.,
+ARIMA (p,d,q) and Non-Linear Approximation Models for the Fractal Dimension of the Density of Primes Less or Equal to a Positive Integer
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+Roberto N. Padua,
+Joel G. Adanza,
+Efren O. Barabat,
+Dionisel Y. Regalado,
+Construction of a Simple Multifractal Spectrum as an Alternative to the Legendre Spectra in Multifractal Formalisms
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 1 (2013)
+Roberto N. Padua,
+Efren O. Barabat,
+Mark S. Borres,
+Randy K. Salazar,
+Some Results on Multifractal Spectral Analysis
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+Ricky B. Villeta,
+Elmer C. Castillano,
+Roberto N. Padua,
+On the Generators of the Group of Units Modulo a Prime and Its Analytic and Probabilistic Views
+,
+Recoletos Multidisciplinary Research Journal: Vol. 9 No. 2 (2021)
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

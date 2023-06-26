@@ -1,0 +1,184 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/38
+Assessment of Studentsâ€™ Learning on a Fractal Viewpoint
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 2 No. 1 (2014)
+/
+Articles
+Assessment of Studentsâ€™ Learning on a Fractal Viewpoint
+Authors
+Helmae N. Etulle-Tapanan
+University of San Jose-Recoletos
+Kristine June D. Uy
+University of San Jose-Recoletos
+Sandy Valmores
+University of San Jose-Recoletos
+DOI:
+https://doi.org/10.32871/rmrj1402.01.13
+Keywords:
+assessment, 											fractal dimensions, 											fractal analysis, 											test scores, 											studentsâ€™ learning
+Abstract
+This study explores the fractal dimensions of studentsâ€™ cognitive skills accordingto the levels of difficulty using fractal model approach and analysis. The data utilized were from the test results based on the competency-based constructed items. Findings revealed that data sets obey a non- normal distribution as depicted in histograms and normality tests that yield to fractal statistical analysis. Hence, subjects with lesser fractal dimension and disparity value tend to be less rough and rugged whereas subjects with higher fractal dimension and high disparity value is perceived to be more irregular. This result has a great impact in exploring the fractality of test scores that will lead to a deeper understanding on studentsâ€™ authentic performance with a direct, relevant and realistic application of learning as emphasized in the implementation of Outcomes-based Education (OBE).
+Author Biographies
+Helmae N. Etulle-Tapanan, University of San Jose-Recoletos
+MAEd, 27, graduated her Master of Arts in Education major in Mathematics from University of the Philippines Cebu, Lahug, Cebu City in 2011. She finished her Bachelor in Elementary Education major in Mathematics at La Salle University- Ozamiz City in 2007 as Magna Cum Laude, Best in Mathematics and Extra and Co-curricular Awardee. She rendered 2-year teaching in basic education at La Salle Academy- Iligan City in 2007-2009. She worked as an Assistant Principal and as a Classroom Teacher at Pleng Prassidhi International School in Bangkok, Thailand since 2010-2011. At present, she is a full-time faculty member at University of San Jose- Recoletos of the College of Education in the Department of Teaching Education. She is the expert in Assessment of Student Learning in the college. She has published researchers related to assessment and related issues concerning understanding educational system and academic performance of students in the country. She is also handling major subjects in Preschool Education and mother tongue-based multilingual education (MTB-MLE). At the same time, Ms. Etulle is teaching in the Graduate School of USJ-R handling major subjects in Early Childhood Education.
+Kristine June D. Uy, University of San Jose-Recoletos
+is a faculty member of the University of San Jose Recoletos, was born in 1982 and educated at the University of San Jose Recoletos where she graduated magna cum laude (Bachelor of Science in Accountancy , 2003). She also obtained her Master in Business Administration degree (2008) from the same university. A Certified Public Accountant, she worked with Isla Lipana and Company, a member firm of Pricewaterhouse Coopers (2004-2006). She has been a faculty member of the accountancy department of the University of San Jose Recoletos since 2006 up to the present, handling the subjects Basic Accounting, Partnership and Corporation Accounting, Financial Accounting, Auditing and Assurance Services, and Integrated Auditing Theory.
+Sandy Valmores, University of San Jose-Recoletos
+Sandy Valmores Chua, graduated Magna cum laude, Bachelor of Science in Psychology at the University of San Jose- Recoletos (USJ-R) in March 2004 and was awarded the Most Outstanding Graduate of her Batch. She earned her masteral degree in Industrial Psychology in the same University. Before she became a full time faculty of the College of Arts and Sciencesâ€™ Department of Psychology, Library and Information Science (DPLIS), she worked as a guidance counselor for eight years. Currently, Chua is enrolled in the doctoral program in Clinical Psychology in Siliman University.
+References
+Barabat, E. O., Borres, M., & Salazar, R. (2013). Some Results on Multifractal Spectral Analysis. The Recoletos Journal of Higher Education, 78- 89.
+Bloom, B. (1970). SLOs, Bloomâ€™s Taxonomy, Cognitive, Psychomotor, and Affective Domains. Retrieved June 19,2013, from http://www.craftonhills.edu/~/media/Files/SBCCD/CHC/Faculty%20and%20
+Staff/SLOs/Step%201/Blooms%20Taxonomy%20and%203%20Domains%20of%20Learning.ashx
+Clarke, D. (1988). Assessment alternatives in mathematics. Journal of Education on Testing. Canberra: Curriculum Corporation
+Jaeger, O. (1997). What one intelligence test measures: a theoretical account of the processing in the Raven Progressive Matrices Test. Psychology Review: Ed.II. Vol.1, IV. DS.
+Kilpatrick, J. (1993). The chain and the arrow: From the history of mathematics assessment. In M. Niss. (Ed.), Investigations into assessment in mathematics education. An ICMI Study. Dordrecht: Kluwer.
+Mitchell, C., & Koshy, V (1993). Effective teacher assessment: Looking at children â€˜s learning in the primary classroom. London: Hodder
+& Stoughton.
+Niss, M. (1993). Assessment in educational learning and its effects: An introduction. In M. Niss.(Ed.), Investigations into assessment
+education.
+Padua, R. N. (2013, March). Data Roughness and Fractal Statistics. Cebu Normal University Journal of Higher Education. Cebu, Cebu, Philippines: Cebu Normal Press.
+Raven, J., Raven, J. C., & Court, J. H. (1998). Manual for Ravenâ€™s Progressive Matrices and Vocabulary Scales. San Antonio, TX:
+Harcourt Assessment.
+Stephen, P. (2002). Toward Real Educational Testing. Retrieved June 20,2013, from http://theemergencesite.com/Tech/FourStates-of-Learning-Wk061120.html
+Stenmark M. (1991). Reshaping assessment practices: Assessment in the mathematical sciences under challenge. Hawthorn, Vic: Australian Council for Educational Research.
+Swan, M. (1993a). Assessing a wider range of studentsâ€™ abilities. In Webb, N.L. & Coxford, A.F. (Eds.). Assessment in the mathematics
+classroom. Reston, VA: NCTM.
+McGreggor, K., Kunda, M., & Goel, A., (2010). A fractal analogy of Ravenâ€™s Intelligence Test. In AAAI Workshops. Design & Intelligence
+Laboratory, School of Interactive Computing, Georgia Institute of Technology, Atlanta, GA 30332, USA
+Downloads
+full paper
+Published
+2014-06-30
+How to Cite
+Etulle-Tapanan, H. N., Uy, K. J. D., & Valmores, S. (2014). Assessment of Studentsâ€™ Learning on a Fractal Viewpoint. Recoletos Multidisciplinary Research Journal, 2(1). https://doi.org/10.32871/rmrj1402.01.13
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 2 No. 1 (2014)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Most read articles by the same author(s)
+Kristine June D. Uy,
+Jun Brian B. Alenton,
+Marjurie Lourince E. Zanoria,
+Helmae N. Etulle-Tapanan,
+An Assessment of the Burnout Levels of Accountancy Students
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Sandy Valmores,
+Kristine June D. Uy,
+Virgilio C. Lumayno Jr.,
+Helmae N. Etulle-Tapanan,
+The Fractal Dimension of the Levels of Depression
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Sandy Valmores Chua,
+Helmae N. Etulle-Tapanan,
+Kristine June D. Uy,
+A Theory on Multiple Sexual Partnership
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Kristine June D. Uy,
+Jun Brian B. Alenton,
+Peter Dante E. Amparado,
+Investigating Student Study Engagement among College Students across Year Levels
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Kristine June D. Uy,
+Chris Rudyard F. Naval,
+Sandy Valmores,
+Helmae N. Etulle-Tapanan,
+Financial Sustainability of Research Centers in a University Setting
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Helmae N. Etulle-Tapanan,
+Cindy M. Carmelotes,
+Philippine Enhanced Basic Education (K to12) Dropout Simulation Model
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 2 (2014)
+Yener C. Cabalida,
+Alessa Joy D. Cruz,
+Kristine June D. Uy,
+Marjurie Lourince E. Zanoria,
+Sovereign Bankruptcy in the Perspective of the ASEAN Integration
+,
+Recoletos Multidisciplinary Research Journal: Vol. 3 No. 1 (2015)
+Jestoni P. Babia,
+Helmae N. Etulle-Tapanan,
+Juleita M. Catipay,
+Lea Mae A. Ladonga,
+Mother- Tongue Based Multilingual Education Certificate Program vis- a- vis Pupilsâ€™Academic Performance in Public Elementary Schools in Cebu
+,
+Recoletos Multidisciplinary Research Journal: Vol. 3 No. 2 (2015)
+Sandy Valmores,
+Kristine June D. Uy,
+The Psychological Anatomy of Gossip
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 1 (2013)
+Kristine June D. Uy,
+Chris Rudyard F. Naval,
+Sandy Valmores,
+An Empirical Validation of the Psychological Anatomy of Gossip
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+1 2 3 > >>
+Similar Articles
+Anna Rose P. Nillama,
+Mark S. Borres,
+Ricky B. Villeta,
+Roramie V. Arco,
+Joyce C. Unabia,
+Validation of Lepidopteran Classification by Morphological Fractal Dimension Analysis
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+You may also start an advanced similarity search for this article.
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

@@ -1,0 +1,126 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/955
+Extended Technology Acceptance Model to Examine the Use of Google Forms â€“ based Lesson Playlist in Online Distance Learning
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 9 No. 1 (2021)
+/
+Articles
+Extended Technology Acceptance Model to Examine the Use of Google Forms â€“ based Lesson Playlist in Online Distance Learning
+Authors
+Fritz M. Ferran
+De La Salle Santiago Zobel School - Vermosa Campus, Imus City, Philippines
+https://orcid.org/0000-0003-2964-6019
+DOI:
+https://doi.org/10.32871/rmrj2109.01.13
+Keywords:
+digital learning technology, 											extended technology acceptance model, 											COVID-19, 											online distance learning, 											Philippine Senior High School students, 											PLS-SEM
+Abstract
+Shifting to online distance learning due to the COVID-19 pandemic challenged educators' roles as instructional materials designers. This study aimed to examine the students' acceptance of the teacher-designed e-learning tool called Google Forms-based Lesson Playlist (GF-LP) in a home-based online distance learning environment. This quantitative research analyzed 570 responses from Grades 11 and 12 students at a private school in the Philippines using the partial least squares-structural equation modeling. Results showed that perceived self-efficacy and system quality strongly affect the users' perceived ease of use while perceived ease of use highly influenced the students' perceived usefulness of GF-LP. Facilitating conditions do not affect the users' attitudes towards using the e-learning tool, which confirmed the effective utilization of GF-LP in online distance learning. The relationships between the original constructs of the Technology Acceptance Model (TAM) were also presented. This study recommends the use of GF-LP or its features for remote learning.
+References
+Adnan, M., & Anwar, K. (2020). Online learning amid the COVID-19 pandemic: Studentsâ€™ perspectives. Journal of Pedagogical Sociology and Psychology, 2(1), 45-51. https://doi.org/10.33902/JPSP.
+Almaiah, M. A., Alamri, M. M., & Al-rahmi, W. (2019). Applying the UTAUT model to explain the studentsâ€™ acceptance of mobile learning system in higher education. IEEE Access, 7, 174673â€“174686. https://doi.org/10.1109/ACCESS.2019.2957206
+Ancho, I. (2020). Graduate education during COVID-19 pandemic: Inputs to policy formulation in the new normal. Recoletos Multidisciplinary Research Journal, 8(2), 87-105.
+https://doi.org/10.32871/rmrj2008.02.07
+Asiimwe, E. N., & GrÃ¶nlund, Ã…. (2015). MLCMS actual use, perceived use, and experiences of use. International Journal of Education and Development Using Information and Communication Technology, 11(1), 101â€“121. https://files.eric.ed.gov/fulltext/EJ1061487.pdf
+Binyamin, S. S., Rutter, M. J., & Smith, S. (2019). Extending the Technology Acceptance Model to understand studentsâ€™ use of learning management systems in Saudi higher education. International Journal of Emerging Technologies in Learning, 14(3), 4â€“21. https://doi.org/10.3991/ijet.v14i03.9732
+Bohol, D. O., & Prudente, M. S. (2020, January 10-12). Using lesson playlist through schoology-based Flipping The Classroom (FTC) approach in enhancing STEM studentsâ€™ performance in General Biology 1 [Conference session]. The 11th International Conference on E-Education, E-Business, E-Management, and E-Learning, Osaka, Japan.
+https://doi.org/10.1145/3377571.3377588
+Brown, M., Dehoney, J., & Millichap, N. (2015). The next generation digital learning environment: A report on research [ELI Paper]. https://library.educause.edu/resources/2015/4/the-next-generation-digital-learning-environment-a-report-on-research
+Chen, T., Peng, L., Jing, B., Wu, C., Yang, J., & Cong, G. (2020). The impact of the COVID-19 pandemic on user experience with online education platforms in China. Sustainability, 12(18), 7329.
+https://doi.org/10.3390/SU12187329
+Davis, F. D. (1989). Perceived usefulness, perceived ease of use, and user acceptance of information technology. MIS Quarterly, 13(3), 319â€“340. https://doi.org/10.2307/249008
+Fathema, N., Shannon, D., & Ross, M. (2015). Expanding the Technology Acceptance Model (TAM) to examine faculty use of Learning Management Systems (LMSs) in higher education institutions. MERLOT Journal of Online Learning and Teaching, 11(2), 210â€“232. https://www.researchgate.net/publication/281842180_Expanding_The_Technology_Acceptance_Model_TAM_to_Examine_Faculty_Use_of_Learning_Management_Systems_LMSs_In_Higher_Education_Institutions
+Fearnley, M.R., & Amora, J. T. (2020). Learning management system adoption in higher education using the extended technology acceptance model. IAFOR Journal of Education, 8(2), 89â€“106. https://doi.org/10.22492/ije.8.2.05
+Fei, V. L., & Hung, D. (2016). Teachers as learning designers: What technology has to do with learning. A view from Singapore. Educational Technology, 56(4), 26â€“29. https://www.researchgate.net/publication/306080401_Teachers_as_Learning_Designers_What_Technology_has_to_do_with_Learning_A_View_from_Singapore#:~:text=It%20proposes%20that%20as%20a,the%20mastery%20of%20subject%20knowledge.
+Fornell, C., & Larcker, D. F. (1981). Evaluating structural equation models with unobservable variables and measurement error. Journal of Marketing Research, 18(1), 39. https://doi.org/10.1177/002224378101800104
+GraniÄ‡, A., & MaranguniÄ‡, N. (2019). Technology acceptance model in educational context: A systematic literature review. British Journal of Educational Technology, 50(5), 2572â€“2593. https://doi.org/10.1111/bjet.12864
+Hanif, A., Jamal, F. Q., & Imran, M. (2018). Extending the Technology Acceptance Model for use of e-learning systems by digital learners. IEEE Access, 6, 73395â€“73404. https://doi.org/10.1109/ACCESS.2018.2881384
+Janadari, M. P. N., Ramalu, S. S., & Wei, C. C. (2018). Measurement of organizational citizenship behaviour; reliability and validity in Sri Lankan context. Kelaniya Journal of Human Resource Management, 13(1), 1-9. http://doi.org/10.4038/kjhrm.v13i1.45
+Kashada, A., Li, H., & Koshadah, O. (2018). Analysis approach to identify factors influence digital learning technology adoption and utilization in developing countries. International Journal of Emerging Technologies in Learning, 13(2), 48â€“59. https://doi.org/10.3991/ijet.v13i02.7399
+Kock, N. (2020). WarpPLS 7.0 user manual: Version 7.0. https://www.scriptwarp.com/warppls/UserManual_v_7_0.pdf
+KÃ¶nig, J., JÃ¤ger-Biela, D. J., & Glutsch, N. (2020). Adapting to online teaching during COVID-19 school closure: Teacher education and teacher competence effects among early career teachers in Germany. European Journal of Teacher Education, 43(4), 608-622. https://doi.org/10.1080/02619768.2020.1809650
+Lin, H. M., Lee, M. H., Liang, J. C., Chang, H. Y., Huang, P., & Tsai, C. C. (2020). A review of using partial least square structural equation modeling in eâ€learning research. British Journal of Educational Technology, 51(4), 1354-1372.
+https://doi.org/10.1111/bjet.12890
+Mercader, C., & GairÃ­n, J. (2020). University teachersâ€™ perception of barriers to the use of digital technologies: The importance of the academic discipline. International Journal of Educational Technology in Higher Education, 17(4). https://doi.org/10.1186/s41239-020-0182-x
+Mothibi, G. (2015). A meta-analysis of the relationship between e-learning and studentsâ€™ academic achievement in higher education. Journal of Educational and Practice, 6(9), 6â€“10. https://www.iiste.org/Journals/index.php/JEP/article/view/21025
+Nikou, S. A., & Economides, A. A. (2019). Factors that influence behavioral intention to use mobile-based assessment: A STEM teachersâ€™ perspective. British Journal of Educational Technology, 50(2), 587â€“600. https://doi.org/10.1111/bjet.12609
+Ozerbas, M. A., & Erdogan, B. H. (2016). The effect of the digital classroom on academic success and online technologies self-efficacy. Educational Technology and Society, 19(4), 203â€“212. https://eric.ed.gov/?id=EJ1115665#:~:text=This%20study%20aimed%20to%20observe,efficacy%20of%207th%20grade%20students.&text=However%2C%20it%20has%20been%20shown,'%20online%20technologies%20self%2Defficacy.
+Panda, S., & Mishra, S. (2007). E-Learning in a Mega Open University: Faculty attitude, barriers, and motivators.
+Educational Media International, 44(4), 323â€“338. https://doi.org/10.1080/09523980701680854
+Putra, I. D. G. R. D. (2019). The evolution of Technology Acceptance Model (Tam) and recent progress on technology acceptance research in Elt: State of the art article. Yavana Bhashaâ€¯: Journal of English Language Education, 1(2), 25â€“37. https://doi.org/10.25078/yb.v1i2.724
+Rajab, M. H., Gazal, A. M., & Alkattan, K. (2020). Challenges to online medical education during the COVID-19 pandemic. Cureus, 12(7), e8966.
+https://doi.org/10.7759/cureus.8966
+Salloum, S. A. (2018). Investigating studentsâ€™ acceptance of E-learning system in higher educational environments in the UAE: Applying the extended Technology Acceptance Model (TAM) [Masterâ€™s thesis, The British University in Dubai]. The British in Dubai Digital Repository. https://bspace.buid.ac.ae/handle/1234/1150
+Salloum, S. A., Qasim Mohammad Alhamad, A., Al-Emran, M., Abdel Monem, A., & Shaalan, K. (2019). Exploring studentsâ€™ acceptance of e-learning through the development of a comprehensive technology acceptance model. IEEE Access, 7, 128445â€“128462. https://doi.org/10.1109/ACCESS.2019.2939467
+Scherer, R., Siddiq, F., & Tondeur, J. (2020). All the same or different? Revisiting measures of teachers' technology acceptance. Computers & Education, 143, 103656.
+https://doi.org/10.1016/j.compedu.2019.103656
+Siyam, N. (2019). Factors impacting special education teachersâ€™ acceptance and actual use of technology. Education and Information Technologies, 24(3), 2035â€“2057. https://doi.org/10.1007/s10639-018-09859-y
+Tarhini, A., Elyas, T., Akour, M. A., & Al-Salti, Z. (2016). Technology, demographic characteristics and e-learning acceptance: A conceptual model based on extended technology acceptance model. Higher Education Studies, 6(3), 72-89. https://doi.org/10.5539/hes.v6n3p72
+Tarhini, A., Hone, K., & Liu, X. (2014). Measuring the moderating effect of gender and age on e-learning acceptance in England: A structural equation modeling approach for an extended technology acceptance model. Journal of Educational Computing Research, 51(2), 163-184. https://doi.org/10.2190/EC.51.2.b
+Teeroovengadum, V., Heeraman, N., & Jugurnath, B. (2017). Examining the antecedents of ICT adoption in education using an Extended Technology Acceptance Model (TAM). International Journal of Education and Development Using Information and Communication Technology, 13(3), 4â€“23. https://files.eric.ed.gov/fulltext/EJ1166522.pdf
+Tenenhaus, M., Vinzi, V. E., Chatelin, Y. M., & Lauro, C. (2005). PLS path modeling. Computational Statistics & Data Analysis, 48(1), 159-205. https://doi.org/10.1016/j.csda.2004.03.005
+Teo, T., & Huang, F. (2019). Investigating the influence of individually espoused cultural values on teachersâ€™ intentions to use educational technologies in Chinese universities. Interactive Learning Environments, 27(5â€“6), 813â€“829. https://doi.org/10.1080/10494820.2018.1489856
+Teo, T., Huang, F., & Hoi, C. K. W. (2018). Explicating the influences that explain intention to use technology among English teachers in China. Interactive Learning Environments, 26(4), 460â€“475. https://doi.org/10.1080/10494820.2017.1341940
+Toquero, C. M. (2020). Challenges and opportunities for higher education amid the COVID-19 pandemic: The Philippine context. Pedagogical Research, 5(4). https://doi.org/10.29333/pr/7947
+Zanjani, N., Edwards, S. L., Nykvist, S., & Geva, S. (2017). The important elements of LMS design that affect user engagement with e-learning tools within LMSs in the higher education sector. Australasian Journal of Educational Technology, 33(1), 19â€“31. https://doi.org/10.14742/ajet.2938
+Downloads
+pdf
+Published
+2021-06-03
+How to Cite
+Ferran, F. M. (2021). Extended Technology Acceptance Model to Examine the Use of Google Forms â€“ based Lesson Playlist in Online Distance Learning. Recoletos Multidisciplinary Research Journal, 9(1), 147–161. https://doi.org/10.32871/rmrj2109.01.13
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 9 No. 1 (2021)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

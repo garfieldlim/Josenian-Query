@@ -1,0 +1,109 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/author_guidelines
+Author Guidelines
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Author Guidelines
+Author Guidelines
+Authors must strictly adhere to the format and style of the journal to avoid manuscript rejection. Hence, authors are encouraged to carefully read the instructions for authors before submitting their manuscript.
+Submission of Manuscripts
+Manuscripts currently under the consideration by another journal or publisher should not be submitted.
+Manuscripts should be submitted through the online portal of the RMRJ: https://rmrj.usjr.edu.ph/
+To promote anonymous review, authors should not identify themselves directly or indirectly in the manuscript or in experimental test instruments included in the submission.
+A continuous line number will be added to the manuscript for easy review.
+A cover page will be submitted in a separate file containing the following:  title of the paper, ALL authors' names and designation, email addresses, contact numbers, affiliations, and ORCID numbers.  It is not acceptable and ethical to add another author after the paper is accepted.
+Author information must be provided in the metadata section of the online portal of the RMRJ upon submission.
+Necessary supplement files or documentation (e.g. questionnaire, case, interview schedule) are attached as a separate file, then all information that might identify the author(s) must be deleted from the instruments.  A copy of the research questionnaire or tools is encouraged for submission.  The editors and the reviewers need to refer to these tools.
+Revisions must be submitted within the time frame set by the Editorial Board.
+Compliance with the Declaration Agreement for original contribution and sole responsibility of the author vs. plagiarism, the hierarchy of authorship (in case of multiple authors) must be declared.
+Style Guide
+Organize the paper following these major headings: Title, Abstract, Keywords (JEL Classification for entries in Business and Economics), Introduction, Materials and Methods (for experimental study) or Design and Methods for non-experimental study, Results and Discussion, Conclusions, and References.
+Type the entire manuscript single-spaced on a short white bond paper (8.5x11in) on one side only with 2.5 cm margins all around using a Times New Roman, Arial, Calibri, or Tahoma font size of 12. References, Acknowledgments, Table Titles, and Figure Legends should be typed single-spaced and numbered consecutively.
+Leave two spaces before and after the major headings and two spaces before and after the sub-headings.
+Spell out acronyms or unfamiliar abbreviations when these are mentioned for the first time in the text.
+Write the scientific names of species completely with author(s) when it is first mentioned in the text and without author in succeeding references. Scientific names should be written in italics or bold face.
+Do not spell out numbers unless they are used to start a sentence.
+Use the metric system only or the International System of Units. Use abbreviations of units only beside numerals (e.g. 6 m); otherwise, spell out the units (e.g. kilometers from here). Do not use plural forms or periods for abbreviations of units. Use the bar for compound units (e.g. 1 kg/ha/yr). Place a zero before the decimal in numbers less than 1 (e.g. 0.25).
+When preparing Tables and Figures, consider the journal's printed page of 5.5 in x 8.5 in and the reduction that will be necessary. Titles of Tables should be found on top of the table itself while Captions of Figures should be found right below the figure itself.  It has to be as short as possible and understandable without referring to the text. Figures should consist only of simple line drawings, computer-generated graphics, or good quality original photographs in a jpeg or png file format that are not enhanced electronically.   Label of Figures should be of such a size so that these are still legible even after reducing the size by as much as 50%. Use preferably Adobe Photoshop CS, Adobe InDesign CC, and or PDF computer-generated graphics.
+All cited sources should substantially consist of articles published in current content-covered or peer-reviewed journals. Use the newest edition of the American Psychological Association (APA) for citation and referencing format and style. Do not use footnotes; rather, use endnotes if required by the discipline.
+Manuscript should be as concise as the subject and research method permit, generally, 4,000 to 6,000 words, single-spaced.
+Numbers. Spell out numbers from one to ten, except when used in tables and lists, and when used with mathematical, statistical, scientific, or technical units and quantities, such as distances, weights, and measures.
+Percentage and Decimal Fractions.  In non-technical copy, use the word percent in the text.
+Hyphens. Use a hyphen to join unit modifiers or to clarify usage. For example: a cross-sectional-equation; re-form. See Webster's for correct usage.
+Keywords. The abstract must be followed by at least five keywords to assist in indexing the paper and identifying qualified reviewers. Keywords must contain four parts: the discipline of the study, concepts investigated, method/process, and geographic location of study, country, continent.
+Precise and Specific Title. Title by result rather than title by scope is preferred. The most important discovery in the conclusions/results shall be drafted as the title of the paper so readers will know immediately whether the content is what they need.
+Abstract/ Introduction
+An abstract of about 100-150 words should be presented on a separate page immediately preceding the text. The Abstract must contain five parts written in one paragraph: Introduction to the topic, chief purpose/ objective, method, results, and conclusion.
+The text of the paper should start with a section labeled "Introduction," which provides what the paper is about, related literature, the gap, and what the author intends to do with the gap. Both the Abstract and the Introduction should be relatively nontechnical yet clear enough for an informed reader to understand the manuscript's contribution.
+Conclusions
+Conclusions should briefly answer the objectives of the study. They are not repetitions of the discussions but are judgments of the results obtained.
+References
+Every manuscript must include a "References" section that contains only those works cited within the text. Each entry should contain all information necessary or unambiguous identification of the published work based on APA format.  Have accurate and complete entries. It is highly recommended to use sources from online databases.
+Assurance for International Quality of Journal Articles
+The titles of the submitted articles should have an international perspective; no inclusion of very specific location names (unless it has significant international impacts), minimum is region of a country or continent, no specific cultural terms which cannot be understood globally (i.e barangay, Sandiganbayan). The studies must bring in new information the global community needs to know and which novelty and relevance of findings contribute to new knowledge in the discipline.
+Other Helpful Points
+Strong email addresses. Works of researchers using Gmail address containing the full name or the webmail of their institutions are preferred over those that are not. Thus, it can help if the researcher submits the work using the webmail of his/her university or agency (i.e. agnes5sequino@usjr.edu.ph) or a Gmail account bearing his/her full name (i.e. agnes5sequino@gmail.com.) Aliases in the email address are discouraged because scientists are transparent in their advocacy.
+Get sources from a wide variety of geographic scope of scientific sources. Have sources/references coming from various continents such as Asia, Europe, Africa, the USA, and Australia. This can be done by using this formula: topic + continent + year (within 3 years) and search this in Google Scholar. Do this for five continents.
+Provide a critique on the methodology and theoretical limitations. This should be addressed as the last paragraph in the results and discussion part where the writer cautions the readers regarding limitations of the methodology and theoretical underpinnings for proper guidance in the interpretation and appreciation of the findings presented.
+Application of Ethics Protocol in Research. Studies involving humans and animals shall be cleared by an institutional ethics review board, and that a paragraph description is included in the methodology. A copy of the ethics board clearance shall be attached to the submitted paper as proof of compliance with the ethics protocol.
+In the case of ecological, floristic, and faunal studies, a gratuitous permit or its equivalent issued by a government agency be attached, and a discussion of its ethics protocol must be included in the methodology for compliance. In the case of studies involving indigenous peoples and cultures, a certification from a published expert for that particular culture being studied must also be attached; indicating the correctness of information and ethics protocol. This must also be discussed in the methodology.
+RMRJ publication is doing this to guarantee that it does not become a publisher of pseudosciences and poor quality researches that fails to meet internationally accepted standards.
+Tables without theoretical support. The data in the table must be supported by the authorsâ€™ statements to give it a scientific value. Without these authors, the paper is only an opinion essay.
+Include only relevant tables. Tables that merely show very nominal and descriptive data shall be deleted along with the graphs and charts if these are already discussed in full on the text. Results of the hypothesis should be included particularly if these contained significant values.
+Have conclusions that answer the objectives of the study. Conclusions are judgments on the findings required to answer each objective of the study. There should be a close fit between the conclusions and objectives so readers would remember with finality what really were discovered in the study. Conclusions should validate or negate the theories used in the study, so readers know whether the study affirmed or negated the theory. There should be minimal use of numbers since it is expected that the judgment of the numbers will be the one written.
+Obtain data only from cited scientific sources. We may prefer sources that are taken only from scientific databases traceable from the web. After the customary bibliographic entry, paste the URL paste at the end of the bibliography.  Without these, it takes to mean that the source is only in print. By putting the URL, the editors and reviewers can click to access the original source. If the Digital Object Identifier (DOI) is given, include it also.  A URL shortener may be used.
+Policy on Retraction
+Retraction is an act of the journal publisher to remove a published article from the digital file due to post-publication discovery of fraudulent claims by the research, plagiarism, or serious errors of methodology which escaped detection in the quality assurance process. Complaints by third-party researchers on any of the grounds and validated by the editorial office trigger the retraction but only after the writer has been notified and allowed to present his side in compliance to due process.
+Policy on Digital Preservation
+Digital Preservation is the process of storing systematically electronic files in multiple formats such as compact discs; cloud computing, Google drive, email accounts, external hard drives, among others. This is to guarantee that in conditions where the website crashes, there is a natural calamity, fire, and other man-made destructions, virus invasions, the files are preserved.
+Policy on Handling Complaints
+If the Journal receives a complaint that any contribution to the Journal infringes the copyright or other intellectual property rights or contains material inaccuracies, libelous materials, or otherwise unlawful materials, the Journal will investigate the complaint. Investigation may include a request that the parties involved substantiate their claims. The Journal will make a good-faith distribution whether to remove the allegedly wrongful material. A decision not to remove material should represent the Journalâ€™s belief that the complaint is without sufficient foundation, or if well-founded, that a legal defense or exemption may apply, such as fair use in the case of copyright infringement or truthfulness of a statement in the case of libel. Journal should document its investigation and decision. After investigation, if an author is found guilty, the article shall be subjected to the retraction policy.
+Policy on Use of Human Subjects in Research
+The Journal will only publish research articles involving human subjects after the author(s) have verified that they have followed all laws and regulations concerning the protections afforded human subjects in research studies within the jurisdiction in which a research study they describe was conducted. The research protocol must have been approved by the appropriate Institutional Review Board (IRB). In the case of exempt research, the IRB must have deemed the research protocol exempt. A Certificate of Approval by the IRB must be submitted along with the manuscript.
+Research Authorization or Permit Requirement
+When applicable, the following authorization or permit shall be submitted as an attachment to the manuscript for consideration:
+For Studies which involved human subjects: Ethics Clearance and, if applicable National Commission on Indigenous People (NCIP) permit
+For studies which used biological materials where genetic manipulation is involved or the introduction of exotic or imported plants, microorganisms, or animals: Biosafety permit
+For studies conducted on animals: Institutional Animal Care and Use Committee (IACUC) Clearance/Bureau of Animal Industry (BAI) authorization
+For studies which covered the protected areas of the Department of Environment and Natural Resources (DENR): Gratuitous Permit
+Policy on Conflicts of Interest
+The Journal will only publish articles after the author(s) have confirmed that they have disclosed all potential conflicts of interest.
+Publication Ethics and Publication Malpractice
+The RECOLETOS MULTIDISCIPLINARY RESEARCH JOURNAL (RMRJ) is committed to upholding the highest standards of publication ethics and takes all possible measures against any publication malpractices. All authors submitting their works to the RMRJ for publication as original articles attest that the submitted works represent their authors' contributions and have not been copied or plagiarized in whole or in part from other works. The authors acknowledge that they have disclosed all and any actual or potential conflicts of interest with their work or partial benefits associated with it.
+In the same manner, the RMRJ commits itself to objective and fair double-blind peer-review of the submitted for publication works and in preventing any actual or potential conflict of interests between the editorial and review personnel and the reviewed material. Any departures from the above-defined rules should be reported directly to the Editor-in-Chief, who is unequivocally committed to providing swift resolutions to any of such types of problems. Reviewers and editors are responsible for providing a constructive and prompt evaluation of submitted research papers based on the significance of their contribution and on the rigors of analysis and presentation.
+Copyright Notice
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Privacy Statement
+The names and email addresses entered in this journal site will be used exclusively for the stated purposes of this journal and will not be made available for any other purpose or to any other party.
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

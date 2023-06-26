@@ -1,0 +1,92 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/1205
+Construction of Difference Sets from Unions of Cyclotomic Classes of Order N=14
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 10 No. 1 (2022)
+/
+Articles
+Construction of Difference Sets from Unions of Cyclotomic Classes of Order N=14
+Authors
+Benedict M. Estrella
+Bulacan State University, Bulacan, Philippines
+https://orcid.org/0000-0002-3159-293X
+DOI:
+https://doi.org/10.32871/rmrj2210.01.04
+Keywords:
+difference set, 											cyclotomic class, 											union, 											computer search
+Abstract
+References
+Balmaceda, J. M. P., & Estrella, B. M. (2021). Difference sets from unions of cyclotomic classes of orders 12, 20, and 24. Philippine Journal of Science, 150 (6B), 1803â€“1810.
+Baumert, L.D., & Fredricksen, H. (1967). The cyclotomic numbers of order eighteen with applications to difference sets. Mathematics of Computation, 21(98), 204-219. https://www.ams.org/journals/mcom/1967-21-098/S0025-5718-1967-0223322-5/S0025-5718-1967-0223322-5.pdf
+Beth, T., Jungnickel, D., & Lenz, H. (1999). Design theory (2nd ed., Vol. 1). Cambridge University Press.
+Ding, C. (2015). Codes from difference sets. World Scientific.
+Estrella, B. M. (2019). Generating difference sets from Unions of Cyclotomic classes [Unpublished masterâ€™s thesis]. University of the Philippines Diliman.
+Feng, T., Momihara, K., & Xiang, Q. (2015). Constructions of strongly regular Cayley graphs and skew Hadamard difference sets from cyclotomic classes. Combinatorica, 35(4), 413â€“434.
+Feng, T., & Xiang, Q. (2012). Cyclotomic constructions of Skew Hadamard difference sets. Journal of Combinatorial Theory, Series A, 119(1), 245â€“256. https://doi.org/10.1016/j.jcta.2011.08.007
+Hall, M. (1956). A survey of difference sets. Proceedings of the American Mathematical Society, 7(6), 975-986.
+Hayashi, H. S. (1965). Computer investigation of difference sets. Mathematics of Computation, 19(89), 73â€“78. https://doi.org/10.1090/s0025-5718-1965-0171368-6
+Momihara, K. (2013). Inequivalence of Skew Hadamard difference sets and triple intersection numbers modulo a prime. The Electronic Journal of Combinatorics, 20(4). https://doi.org/10.37236/3762
+Momihara, K., Wang, Q., & Xiang, Q. (2019). 9. Cyclotomy, difference sets, sequences with low correlation, strongly regular graphs and related geometric substructures. In K.-U. Schmidt & A. Winterhof (Eds.), Combinatorics and finite fields: Difference sets, polynomials, pseudorandomness and applications (pp. 173â€“198). De Gruyter.
+Moore, E. H., & Pollatsek, H. S. (2013). Difference sets: Connecting algebra, combinatorics, and geometry (Vol. 67). American Mathematical Society.
+Xia, B. (2018). Cyclotomic difference sets in finite fields. Mathematics of Computation, 87(313), 2461â€“2482. https://doi.org/10.1090/mcom/3311
+Downloads
+FULL PAPER
+Published
+2022-05-29
+How to Cite
+Estrella, B. M. (2022). Construction of Difference Sets from Unions of Cyclotomic Classes of Order N=14. Recoletos Multidisciplinary Research Journal, 10(1), 67–76. https://doi.org/10.32871/rmrj2210.01.04
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 10 No. 1 (2022)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

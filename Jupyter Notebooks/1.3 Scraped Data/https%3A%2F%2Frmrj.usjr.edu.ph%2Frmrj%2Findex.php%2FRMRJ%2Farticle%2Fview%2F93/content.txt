@@ -1,0 +1,178 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/93
+Life Expectancy Simulation Model among HIV (Human Immunodeficiency Virus)-Infected Individuals: A Monte Carlo Approach
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 2 No. 2 (2014)
+/
+Articles
+Life Expectancy Simulation Model among HIV (Human Immunodeficiency Virus)-Infected Individuals: A Monte Carlo Approach
+Authors
+Melvin R. de Castro
+University of San Jose-Recoletos
+Tonette M. Villanueva
+University of San Jose-Recoletos
+Ronnie B. Gonzalve
+University of San Jose-Recoletos
+DOI:
+https://doi.org/10.32871/rmrj1402.02.02
+Keywords:
+life expectancy simulation model, 											life expectancy, 											CD4 levels, 											level of development, 											age at diagnosis, 											HIV-infected individuals
+Abstract
+The study of life expectancies of HIV infected individuals requires a long termexperiment design which may not be feasible due to the immediate need for such information. Alternatively, it is possible to gain insights in the phenomena using a quasi-experimental design through simulation and Monte Carlo methods. This study used the latter design based on the empirical regression function produced by Lancet (2008) which predicts life expectancy of HIV infected individuals as a function of treatment, CD counts and age of the individual. The latter determinants of life expectancy were generated as phenomena by computer simulations. Results revealed that there is an increased lifespan of about six (6) folds of HIV infected individuals who seek treatment than those otherwise. The estimated average lifespan of individuals being treated ranges 38-66 years that is greater than those without treatment of 5-11 years from individuals who do not seek treatment. Computer simulations tended to confirm the efficacy of early diagnosis coupled with antiretroviral therapy (ART) as ameans to prolong life expectancy by as much as five (5) to ten (10) more years.
+Author Biographies
+Melvin R. de Castro, University of San Jose-Recoletos
+is a Registered Nurse, graduated from St. Paul University Dumaguete, Philippines in 2007. He worked as full time faculty at the College of Nursing, University of San Jose-Recoletos from 2008 until present. He also finished his Master of Science in Nursing major in Medical Surgical Nursing in March 2011 at Cebu Normal University. He is also a licensed teacher graduated with Diploma in Professional Secondary Education at Cebu Normal University. He is currently a doctorand candidate in Doctor of Science in Nursing major in Gerontology Nursing at Cebu Normal University. He also presented research studies locally and internationally such as De La Salle University-Manila, College of St. Benilde, La Consolacion University of the Philippines in Malolos, Bulacan and Cebu Normal University during the 2nd International Conference for Nursing Students (ICONS). He bagged Best in Podium Presentation at Cebu Normal University during its 2nd University Research Congress in June 2012.
+Tonette M. Villanueva, University of San Jose-Recoletos
+is a Professional Teacher and a Registered Nurse, graduated from Nursing Department, University of the Visayas in 2005. He received his Masters in Nursing at Cebu Normal University in 2010. Currently, he is doing his dissertation in Ph.D. in Education Major in Research and Evaluation. He teaches at he University of San Jose- Recoletos since 2006. He handles the following subjects: Psychiatric Nursing, Elective, Nursing Research and Related learning experience. Since 2011, he became one of the research anchors of the College of Nursing. He presented some of his studies in national and international academic conferences.
+References
+Antiretroviral Therapy Cohort Collaboration. (2008). Life expectancy of individuals on combination antiretroviral therapy in high-income countries: a collaborative analysis of 14 cohort studies. Lancet, 372(9635), 293.
+Bansi, L., Sabin, C., Delpech, V., Hill, T., Fisher, M., &Walsh J. (2010). Trends over calendar time in antiretroviral treatment success
+and failure in HIV clinic populations. HIV Med 11:432â€“438.
+Bor, J., Herbst, A. J., Newell, M. L., & BÃ¤rnighausen, T. (2013). Increases in adult life expectancy in rural South Africa: valuing the scaleup
+of HIV treatment. Science, 339(6122), 961-965.
+Chadborn, T.R., Delpech, V.C., Sabin, C.A., Sinka, K., & Evans, B.G. (2006). The late diagnosis and consequent short-term mortality of
+HIV-infected heterosexuals (England and Wales). AIDS 20: 2371â€“2379.
+European AIDS Clinical Society (EACS) Guidelines for the Clinical management and treatment of HIV infected adults in Europe. Retrieved from http://www.eacs.eu/guide/1_Treatment_of_HIV_Infected_Adults.pdf .
+Fang, C. T., Chang, Y. Y., Hsu, H. M., Twu, S. J., Chen, K. T., Lin, C. & Chuang, C. Y. (2007). Life expectancy of patients with newly-diagnosed HIV infection in the era of highly active antiretroviral therapy. Qjm, 100(2), 97-105.
+Fehr, J., Nicca, D., Goffard, J., et al. (2013). Reasons for not starting ART: a multinational survey among patients and their physiciansâ€”the bART study (barriers to ART). In: Program and abstracts of the 14th European AIDS Conference, 16â€“19, Brussels, Belgium. Abstract PS 11/1.
+Florence, E. Dreezen, C., Schrooten, Van Esbroek, M., Kestens, L., Fransen, K., De Roo, A., Colebunders (2004). The role of nonviral
+load surrogate markers in HIVpositive patient monitoring during
+antiviral treatment. The Royal Society of Journal of Medicines
+Gazzard BG on behalf of the BHIVA Treatment. (2008). Guidelines Writing Group. British HIV Association guidelines for
+the treatment of HIV-1-infected adults with antiretroviral therapy. Retrieved from http://www.bhiva.org/files/file1030835.pdf
+Gill, V.S., Lima, V.D., Zhang, W., Wynhoven, B., Yip, B., & Hogg, R.S. (2010). Improved virological outcomes in British Columbia
+concomitant with decreasing incidence of HIV type 1 drug resistance detection. Clin Infect Dis 50:98â€“105.
+Granich, R., Gilks, C., Dye , De Cock, K., & Williams, B.(2009). Universal voluntary HIV testing with immediate antiretroviral therapy as a strategy for elimination of HIV transmission: a mathematical model. Lancet ;373(9657):48-57. Available at
+Gus Cairns (2004). Life expectancy now considerably exceeds the average in some people with HIV in the US
+Harrison, K. M., Song, R., & Zhang, X. (2010). Life expectancy after HIV diagnosis based on national HIV surveillance data from 25 states, United States. JAIDS Journal of Acquired Immune Deficiency Syndromes, 53(1), 124-130.
+Hammer, S.M., Eron, J.J., & Reiss, P. (2008). Antiretroviral treatment of adult HIV infection. recommendations of the International AIDS Society- USA Panel. J Am Med Assoc 300:555-570.
+Holtgrave, D. R., & Pinkerton, S. D. (1997). Updates of cost of illness and quality of life estimates for use in economic evaluations of HIV prevention programs. JAIDS Journal of Acquired Immune Deficiency
+Syndromes, 16(1), 54-62.indicator.aspx?iid=12
+Lampe, F.C., Gatell, J.M., Staszewski, S., Johnson, M.A., Pradier, C., & Gill, M.J. (2006). Changes over time in risk of initial
+virological failure of combination antiretroviral therapy: a multicohort
+analysis, 1996 to 2002. Archive of Internal Medicine 166:521â€“528.
+Lampe ,F.C., Smith, C.J., Madge, S., Loes, S.K.D., & Tyrer, M., Sabin, C.A. (2007). Success of clinical care for human immunodeficiency
+virus infection according to demographic group among sexually infected patients in a routine clinic population, 1999 to 2004. Archives of Internal Medicines 167:692â€“700.
+Lima, V.D., Harrigan, R., Bangsberg, D.R., Hogg, R.S., Gross, R., Yip, B. (2009). The combined effect of modern highly active antiretroviral therapy regimens and adherence on mortality over time. J Acquired Immune Deficiency Syndrome 50:529â€“536
+Lima, V. D., Hogg, R. S., Harrigan, P. R., Moore, D., Yip, B., Wood, E., & Montaner, J. S. (2007). Continued improvement in survival among HIV-infected individuals with newer forms of highly active
+antiretroviral therapy. Aids, 21(6), 685-692.
+Lohse, N., Hansen, A.B.E., Pedersen, G., Kronborg, G., Gerstoft, J., Sorensen, H.T. (2007). Survival of persons with and without HIV
+infection in Denmark, 1995â€“2005. Ann Intern Med 146:87â€“95
+Losina, E., Schackman, B. R., Sadownik, S. N., Gebo, K. A., Walensky, R. P., Chiosi, J. J., ... & Freedberg, K. A. (2009). Racial and
+sex disparities in life expectancy losses among HIV-infected persons in the United States: impact of risk behavior, late initiation, and early discontinuation of antiretroviral therapy.Clinical Infectious Diseases, 49(10), 1570-1578.
+Palella, F.J., Delaney, K.M., Moorman, A,C,, Loveless, M.O., & Fuhrer, J., Satten, G.A. (1998) Declining morbidity and mortality
+among patients with advanced human immunodeficiency virus infection. North England Journal Medication 338:853â€“860.
+May, M., Gompels, M., Delpech, V., Porter, K., Post, F., Johnson, M., & Sabin, C. (2011). Impact of late diagnosis and treatment
+on life expectancy in people with HIV-1: UK Collaborative HIV Cohort (UK CHIC) Study. BMJ, 343.
+Mills E., Ford, N., & Mugyenyi, P. (2009). Expanding HIV care in Africa: making men matter. Lancet;374:275-6. [PMID: 19632481]
+McGuire AL, Barer JM, Montaner JS, Hogg RS. There and back again: the impact of adult HIV prevalence on national life expectancies. HIV Med 2005; 6: 57-58.
+Panel on Antiretroviral Guidelines for Adults and Adolescents (2008). Guidelines for the use of antiretroviral agents in HIV-1-infected adults and adolescents. Department of Health and Human
+Services 1-128. Retrieved from http://www.aidsinfo.nih.gov/ContentFiles/AdultandAdolescentGL.pdf. [Accessed]
+Quinn, T.C., Wawer, M.J., & Sewankambo, N. (2000). Viral load and heterosexual transmission of human immunodeficiency virus type
+1. Rakai Project Study Group. North England Journal of Medicine 342
+(13):921-929. Available at http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=10738050.
+Sabin, C. A. (2013). Do people with HIV infection have a normal life expectancy in the era of combination antiretroviral therapy?.
+BMC medicine, 11(1), 251.
+Samji, H., Cescon, A., Hogg, R. S., Modur, S. P., Althoff, K. N., Buchacz, K., . . . IeDEA, o. (2013). Closing the gap: Increases in life expectancy among treated HIVpositive individuals in the united states and canada. PLoS One, 8(12) doi:http://dx.doi.org/10.1371/journal.
+pone.0081355
+Schackman, B.R., Gebo, K.A., Walensky, R.P., Losina, E., Muccio, T., & Sax, P.E. (2006). The lifetime cost of current human
+immunodeficiency virus care in the United States. Medical Care 44:990â€“997.
+Volberding, P.A., & Deeks, S.G. (2010). Antiretroviral therapy and management of HIV infection. Lancet 376:49â€“62. van Sighem, A., Gras, L., Reiss, P., Brinkman, K., & de Wolf, F. (2010). Life expectancy of
+recently diagnosed asymptomatic HIVinfected patients approaches that of uninfected individuals. AIDS 24:1527â€“1535.
+Walensky, R. P., Paltiel, A. D., Losina, E., Mercincavage, L. M., Schackman, B. R., Sax, P. E., ... & Freedberg, K. A. (2006). The survival benefits of AIDS treatment in the United States. Journal of Infectious
+Diseases, 194(1), 11-19.
+World Health Organization. (2011) http://apps.who.int/gho/indicatorregistry/App_Main/view_
+Downloads
+PDF
+Published
+2014-12-28
+How to Cite
+de Castro, M. R., Villanueva, T. M., & Gonzalve, R. B. (2014). Life Expectancy Simulation Model among HIV (Human Immunodeficiency Virus)-Infected Individuals: A Monte Carlo Approach. Recoletos Multidisciplinary Research Journal, 2(2). https://doi.org/10.32871/rmrj1402.02.02
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 2 No. 2 (2014)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Most read articles by the same author(s)
+Melvin R. de Castro,
+Tonette M. Villanueva,
+Performance on the Philippine Nursesâ€™ Licensure Examination: Variability and Roughness Analysis
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Melvin R. de Castro,
+Tonette M. Villanueva,
+Grace C. Arcamo,
+Rayna Lynn R. de Castro,
+Air Pollution Attributable Deaths: A Global View Through Fractal Analysis
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Tonette M. Villanueva,
+Jessica M. Avenido,
+Juanito B. AliÃ±o Jr.,
+Melvin R. de Castro,
+The Satisfaction Congruency Theory: The Case of Sexual Satisfaction
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Tonette M. Villanueva,
+Melvin R. de Castro,
+Brian A. Vasquez,
+Social, Economic, Political and Quality of Life across Human Immunodeficiency Virus
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 1 (2013)
+Similar Articles
+Herben M. Tautho,
+Maria Sheila E. CaÃ±ete,
+ASEAN Integration: The Domination and Subordination among Member Nations
+,
+Recoletos Multidisciplinary Research Journal: Vol. 3 No. 2 (2015)
+You may also start an advanced similarity search for this article.
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

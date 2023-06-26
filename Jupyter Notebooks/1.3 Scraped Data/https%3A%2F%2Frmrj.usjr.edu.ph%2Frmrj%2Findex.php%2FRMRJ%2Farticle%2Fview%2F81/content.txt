@@ -1,0 +1,209 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/81
+Social, Economic, Political and Quality of Life across Human Immunodeficiency Virus
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 1 No. 1 (2013)
+/
+Articles
+Social, Economic, Political and Quality of Life across Human Immunodeficiency Virus
+Authors
+Tonette M. Villanueva
+University of San Jose-Recoletos
+Melvin R. de Castro
+University of San Jose-Recoletos
+Brian A. Vasquez
+University of the Visayas
+DOI:
+https://doi.org/10.32871/rmrj1301.01.04
+Keywords:
+social, 											economic, 											political, 											quality of life, 											HIV prevalence
+Abstract
+Human Immunodeficiency Virus prevalence was predicted using cluster analysis technique. A retrospective design was employed. We deployed surrogate measures for social, economic, political and quality of life. Data mining strategies were trailed to gather data. Factors that affect HIV prevalence were represented with surrogate measures by brainstorming activity. Data were taken from world reports from reliable sources. Using an algorithm, data were analyzed using MiniTab software: partitioning, centroid-based, hierarchical and density based methods. This article introduced three contending models on the interplay of the factors towards its influence on HIV prevalence. It culminates with the integration of a holistic model, which can provide a theoretical basis in predicting HIV prevalence. An integrative model was elevated from its substantial form to a more formal application. From HIV prevalence to a communicable disease prevalence, this provides more wide application.
+Author Biographies
+Tonette M. Villanueva, University of San Jose-Recoletos
+Professional Teacher and a Registered Nurse, graduated from Nursing Department, University of the Visayas in 2005. He received his Masters in Nursing at Cebu Normal University in 2010. Currently, he is doing his dissertation in Ph.D. in Education Major in Research and Evaluation. He teaches at he University of San Jose- Recoletos since 2006. He handles the following subjects: Psychiatric Nursing, Elective, Nursing Research and Related learning experience. Since 2011, he became one of the research anchors of the College of Nursing. He presented some of his studies in national and international academic conferences.
+Melvin R. de Castro, University of San Jose-Recoletos
+Registered Nurse, graduated from St. Paul University-Dumaguete, Philippines in 2007. He worked as full time faculty at the College of Nursing, University of San Jose-Recoletos from 2008 until present. He also finished his Master of Science in Nursing major in Medical Surgical Nursing in March 2011 at Cebu Normal University. He is also a licensed teacher graduated with Diploma in Professional Secondary Education at Cebu Normal University. He is currently a doctorand candidate in Doctor of Science in Nursing major in Gerontology Nursing at Cebu Normal University. He also presented research studies locally and internationally such as De La Salle University-Manila, College of St. Benilde, La Consolacion University of the Philippines in Malolos, Bulacan and Cebu Normal University during the 2nd International Conference for Nursing Students (ICONS). He bagged Best in Podium Presentation at Cebu Normal University during its 2nd University Research Congress in June 2012.
+Brian A. Vasquez, University of the Visayas
+earned his Bachelor of Science in Psychology from the University of San Carlos in 2002 and Bachelor of Science in Nursing from the University of the Visayas in 2005. He received his Master of Arts in Nursing, Major in Medical Surgical Nursing in 2009 from the University of the Visayas where he also obtained additional masteral units in Guidance and Counseling, and Nursing Management. He graduated with the Best Thesis Award and received commendation from the Philippine Association for Graduate Education â€“ Region VII. He finished his academic requirements for Doctor of Philosophy in Education, Major in Research and Evaluation, and is currently finishing his dissertation paper. He is currently the newly installed Director of the Center for Research Planning and Development of the University of the Visayas. He has presented several qualitative research papers at international conferences.
+References
+Aristotle. Nicomachean Ethics. Translated by Martin Ostwald. New York: Macmillan, 1962.
+Arndt, S., & Lewis, M. (2005). Handbook of development economics (Vol. 4). United Kingdom: Elsevier.
+Australian Government Department of Immigration and Citizenship (2012). Medical examination for an Australian visa.
+BÃ¤rnighausen, T., Hosegood, V., Timaeus, I. M., & Newell, M. L. (2007). The socioeconomic determinants of HIV incidence: Evidence from a longitudinal, population-based study in rural South Africa. AIDS.
+BBC (2003). Call center industry in India.
+Beach, W. W., & Tyrrell, P. (2012). The 2012 index of dependence on government.
+Boulhol, H., de Serres, A., & MolnÃ¡r, M. (2008). The contribution of economic geography to GDP per capita. OECD Journal: Economic Studies, 2008(1), 1-37.
+Brenner, H. M. (n.d). Health inequalities in the era of the knowledge economy. Editorial Summary.
+Centers for Disease Control and Prevention (2012). CDCâ€™s 2012 HIV prevention funding for U.S. health departments.
+Chaney, M. P., & Blalock, A. C. (2006). Boredom proneness, social connectedness, and sexual addiction among men who have sex with male internet users. Journal of Addictions & Offender Counseling, 26(2),
+111-122.
+CIA (2012/2009). The world factbook.
+De Arellano, R. (2007). Patient without borders: The emergence of medical tourism. International Journal of Health Services, 37(1), 193â€“198.
+European Centre for Disease Prevention and Control (2011). Migrant health: HIV testing and counselling in migrant populations and ethnic minorities in EU/EEA/EFTA Member States. Retrieved February 18, 2013.
+European Commission DG Environment (2006). Ecoindustry, its size, employment, perspectives and barriers to growth in an enlarged EU.
+Evans, B. T., & Pritchard, C. (2000). Cancer survival rates and GDP expenditures on health: A comparison of the USA with Denmark, Finland, France, Germany, Italy, Netherlands, Spain and Switzerland. Public
+Health, 114, 336-339.
+Farsari, Y., & Prastacos, P. (1999). Sustainable tourism indicators for Mediterranean destinations; definitions according to the ST Principles.
+Proceedings ERSAâ€™s XII Summer Institute â€œTourism Sustainability and Territorial Organisationâ€, Portugal.
+Farsari, Y., & Prastacos, P., (n.d). Sustainable Tourism Indicators: Pilot Estimation for the Municipality of Hersonissos, Crete. Regional Analysis
+Division Institute of Applied and Computational Mathematics (IACM) & Foundation for the Research and the Technology Hellas (FORTH).
+Fawcett, J. (2005). Contemporary nursing knowledge: Analysis and evaluation of nursing models and theories (2nd ed.). Philadelphia: F.A. Davis.
+Fortson, J. G. (2008). The gradient in Sub-Saharan Africa: Socioeconomic status and HIV/AIDS. Demography, 45(2), 303â€“322.
+Fujishiro. K., Xu, J., Gong F. (2010). What does â€œoccupationâ€ represent as an indicator of socioeconomic status? Exploring occupational prestige and health. Social Science and Medicine, 71(12), 2100-21007.
+Gana, K., Trouillet, R., Martin, B., & Toffart, L., (2001). The relationship between boredom proneness and solitary sexual behaviors in adults. Social Behavior and Personality, 29(4), 385-390.
+Gerdtham, U.G., Sogaard, J., Anderson, F., & Jonsson, B. (1992). An econometric analysis of health care expenditure: A cross-section study of OECD countries. Journal of Health Economics, 11(1), 63â€“84.
+Glor, E. (2008). Toward development of a substantive theory of public sector organizational innovation. The Innovation Journal: The Public Sector Innovation Journal, 13(3), 2-28.
+Han, J., & Kamber, M. (2006). Data mining: Concepts and techniques (2nd ed.). The Morgan Kaufmann Series in Data Management Systems, Jim Gray, Series Editor.
+Handley, M. (2011). Why weâ€™re more dependent on government support than ever\on average, 20 cents of every dollar of disposable income comes from the government.
+Hicks, N., & Streeten, P. (1979). Indicators of development: The search for a basic needs yardstick. World Development, 7, 567-580.
+Hitiris, T., & Posnett, J. (1992). The determinants and effects of health expenditures in developed countries. Journal of Health Economics, 11(2), 173- 181.
+Hurley, S. F., Jolley, D. M., & Kaldor, J. M. (1997). Effectiveness of needle-exchange programmes for prevention of HIV infection. The Lancet, 349(9068), 1797â€“1800.
+Ingram D., & Hutchinson, S. A. (1999). HIV-positive mothers and stigma. Health Care for Women International, 20, 93â€“103.
+Jens, H., Hiscox, M. J., & Margalit, Y. (2011). Do Concerns about Labour Market Competition Shape Attitudes Toward Immigration? New Evidence. SSRN Abstract.
+Jens, H., Hiscox, M. J., & Margalit, Y. (2011). Material Self-Interest and Economic Determinants of Trade Policy Preferences: New Evidence. SSRN Abstract.
+Jens, H., Hiscox, M. J., & Margalit, Y. (2011). Skill Specificity, Mobility, and Policy Preferences Among Workers: New Evidence. SSRN Abstract.
+Ji, G., Li, L., Lin, C., & Sun, S. (2007). The impact of HIV/AIDS on families and children -a study in China. AIDS.
+Jordan, M. (2009). Job fight: Immigrants vs. locals. Kanavos, P., & Mossialos, E. (1999). International comparison on health expenditures: what we know and what we do not know. Journal Health Service Research Policy, 4(2), 122-126.
+Kulkarni, T. (2012). Government must increase health expenditure. The Hindu.
+Malcolm Wiener Center (2006). About the Malcolm Wiener Center.
+Morgan, M. (2008). Assessing democracy essay.
+Mumah, J. (2011). Socioeconomic status, women, and HIV: Do the Determinants of Female HIV Vary by Socioeconomic status in Cameroon? Unpublished doctoral dissertation, Utah State University, Logan Utah.
+Newburn, T. (2012) What is social policy?
+Padua, R. N. (2013, February 13). Seminar-workshop presentation on data mining. University of the Visayas and University of San Jose Recoletos.
+Pigou, A. C. (2005). The economics of welfare (Vol. 2). New York: Macmillan & Co.
+Polit, D. F., & Beck, C. T. (2008) Nursing research: generating and assessing evidence for nursing practice (8th Ed.). Philadelphia, Pa: Lippincott Williams & Wilkins.
+Saber, S. A., & Hossain, K. (2008). Call centres and their role in E-governance: A developing country perspective. Journal of Community Informatics, 4(3).
+Schieber, G. (1990). Health expenditures in major industrialized countries, 1960-1987. Health Care Financing Review, 11, 159-167.
+Schieber, G. J., & Poullier, J. P. (1989). Overview of international comparisons of health care expenditures. Health Care Financial Review, Special Number 1-7. PMID: 10313431
+Sen, A. (1999). Development as freedom. New York: Anchor Books
+Solow, R. M. (1956). A contribution to the theory of economic growth. The Quarterly Journal of Economics, 70(1), 65-94.
+Somerville, W., & Sumption, M. (2009). Immigration in the United Kingdom: The recession and beyond.
+Thomas, L., Vearey, J., & Mahlangu, P. (2011). Making a difference to health in slums: an HIV and African perspective. The Lancet, 377(9777), 1571-1572.
+Truffer, C. J., Keehan, S., Smith, S., Cylus, J., Sisko, A., Poisal, J. A., Lizonitz, J., & Clemens, M. K. (2012). Health spending projections through 2019: The recessionsâ€™ impact continues. Health Affairs, 29(3),
+522-529.
+UNAIDS (2011). UNAIDS world AIDS day report 2012.
+UNDP (2006). Health Development Indicators.
+UNDP (2006). Human development report 2006.
+UNDP (2012/2011). International human development indicators.
+UNESCO (2006). Understanding of literacy. In Education for all global report 2006.
+Wojcicki, J. M. (2004). Socioeconomic status as a risk factor for HIV infection in women in east, central and southern Africa: A systematic review. Journal of Biosocial Sciences, 37(1), 1-36.
+World Bank (201). Land area (sq. km).
+World Bank (201). Population, total.
+World Bank (201). Prevalence of HIV, total (% of population ages 15-49).
+World Bank (2010). Health expenditure per capita (current US$).
+World Bank (2010). Literacy rate, adult total (% of people ages 15 and above).
+World Bank (2010). Unemployment, total (% of total labor force).
+World Bank (2011). GDP per capita (current US$).
+Xu, Y. (2012). How does financial system efficiency affect the growth of FDI in China? Evidence from provincial data 1999-2006. China Finance Review International, 2(4), 23.
+Downloads
+PDF
+Published
+2013-06-18
+How to Cite
+Villanueva, T. M., de Castro, M. R., & Vasquez, B. A. (2013). Social, Economic, Political and Quality of Life across Human Immunodeficiency Virus. Recoletos Multidisciplinary Research Journal, 1(1). https://doi.org/10.32871/rmrj1301.01.04
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 1 No. 1 (2013)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Most read articles by the same author(s)
+Melvin R. de Castro,
+Tonette M. Villanueva,
+Performance on the Philippine Nursesâ€™ Licensure Examination: Variability and Roughness Analysis
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Melvin R. de Castro,
+Tonette M. Villanueva,
+Grace C. Arcamo,
+Rayna Lynn R. de Castro,
+Air Pollution Attributable Deaths: A Global View Through Fractal Analysis
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Tonette M. Villanueva,
+Jessica M. Avenido,
+Juanito B. AliÃ±o Jr.,
+Melvin R. de Castro,
+The Satisfaction Congruency Theory: The Case of Sexual Satisfaction
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Brian A. Vasquez,
+Philosophical Bases of Research Methods:An Integrative Narrative Review Part 2
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Melvin R. de Castro,
+Tonette M. Villanueva,
+Ronnie B. Gonzalve,
+Life Expectancy Simulation Model among HIV (Human Immunodeficiency Virus)-Infected Individuals: A Monte Carlo Approach
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 2 (2014)
+Baceledes Estal,
+Ariston S. Ronquillo Jr.,
+Joel B. Serad,
+Brian A. Vasquez,
+Le Roy Gerald A. Sarchez,
+Interpretation of Fractal Dimensions in Poverty Estimation
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+Brian A. Vasquez,
+Philosophical Bases of Research Methods: An Integrative Narrative Review Part 1
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+Similar Articles
+Melvin R. de Castro,
+Tonette M. Villanueva,
+Ronnie B. Gonzalve,
+Life Expectancy Simulation Model among HIV (Human Immunodeficiency Virus)-Infected Individuals: A Monte Carlo Approach
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 2 (2014)
+You may also start an advanced similarity search for this article.
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

@@ -1,0 +1,106 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/162
+Disjoint Secure Domination in the Join of Graphs
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 4 No. 2 (2016)
+/
+Articles
+Disjoint Secure Domination in the Join of Graphs
+Authors
+Jonecis Dayap
+University of San Jose-Recoletos
+Enrico Enriquez
+University of San Carlos
+DOI:
+https://doi.org/10.32871/rmrj1604.02.02
+Keywords:
+dominating set, 											secure dominating set, 											inverse secure dominating set, 											disjoint secure dominating set.
+Abstract
+Let G = (V(G),E(G)) be a simple connected graph. A dominating set S in G is called a secure dominating set in G if for every u âˆˆ V (G) \ S, there exists v âˆˆ S âˆ© NG(u) such that (S \ {v}) âˆª {u} is a dominating set. The minimum cardinality of secure dominating set is called the secure domination number of G and is denoted by Î³s(G). A secure dominating set of cardinality Î³s(G) is called Î³s-set of G. Let D be a minimum secure dominating set in G. The secure dominating set Â Â SâŠ† V(G)\D is called an inverse secure dominating set with respect to D. The inverse secure domination number of G denoted by Î³sâˆ’1(G) is the minimum cardinality of an inverse secure dominating set in G. An inverse secure dominating set of cardinality Î³sâˆ’1(G) is called Î³sâˆ’1-set. A disjoint secure dominating set in G is the set C = D âˆª S âŠ† V(G). The disjoint secure domination number of G denoted by Î³Î³r(G) is the minimum cardinality of a disjoint secure dominating set in G. A disjoint secure dominating set of cardinality Î³Î³s(G) is called Î³Î³s-set. In this paper, we show that every integers k and n with k âˆˆ {2, 4, 5, ...n âˆ’ 1, n} is realizable as disjoint secure domination number, and order of G respectively. Further, we give the characterization of the disjoint secure dominating set in the join of two graphs.
+References
+[1] C.M. Mynhardt, H.C. Stwart and E. Ungerer Excellent trees and secure domination, Utilitas Math 67(2005) 255-267.
+[2] E.C. Castillano, R.L. Ugbinada, and S.R. Canoy,Jr. Secure domination in the join of graphs, Applied Mathematical Sciences, 8 (105), 5203-5211.http://dx.doi.org/10.12988/ams.2014.47519
+[3] E.J. Cockayne, and S.T. Hedetniemi Towards a theory of domination in graphs, Networks, (1977) 247-261.
+[4] E.J. Cockayne, O. Favaron and C.M. Mynhardt Secure domination, weak Roman domination and forbidden subgraphs, Bull. Inst. Combin. Appl.39(2003) 87-100.
+[5] E.J. Cockayne, Irredundance, secure domination and maximum degree in trees, Discrete Math, 307(2007) 12-17.
+[6] E.L. Enriquez Secure restrained domination in the Join and Corona of graphs, Global Journal of Pure and Applied Mathematics, 12(1) 507-516.
+[7] E.L. Enriquez and E.M. Kiunisala Inverse Secure domination in graphs,Global Journal of Pure and Applied Mathematics, 12(1) 147-155.
+[8] G. Chartrand and P. Zhang. A First Course in Graph Theory, Dover Publication, Inc., New York, 2012.
+[9] M. Hedetnieme, S.T. Hedetniemi, R.C. Laskar, L.R. Markus, P.J. Slater, Disjoint Dominating Sets in Graphs, Proc. of ICDM, (2006), 87-100
+[10] O. Ore. Theory of Graphs. American Mathematical Society, Provedence,R.I., 1962.
+[11] V.R. Kulli and S.C. Sigarkanti, Inverse domination in graphs, Nat. Acad.Sci. Letters, 14(1991) 473-475.
+Downloads
+PDF
+Published
+2016-12-31
+How to Cite
+Dayap, J., & Enriquez, E. (2016). Disjoint Secure Domination in the Join of Graphs. Recoletos Multidisciplinary Research Journal, 4(2). https://doi.org/10.32871/rmrj1604.02.02
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 4 No. 2 (2016)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Most read articles by the same author(s)
+Carmelita Loquias,
+Enrico Enriquez,
+Jonecis Dayap,
+Inverse Clique Domination in Graphs
+,
+Recoletos Multidisciplinary Research Journal: Vol. 4 No. 2 (2016)
+Enrico Enriquez,
+Valerie Fernandez,
+Teodora Punzalan,
+Jonecis Dayap,
+Perfect Outer-connected Domination in the Join and Corona of Graphs
+,
+Recoletos Multidisciplinary Research Journal: Vol. 4 No. 2 (2016)
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

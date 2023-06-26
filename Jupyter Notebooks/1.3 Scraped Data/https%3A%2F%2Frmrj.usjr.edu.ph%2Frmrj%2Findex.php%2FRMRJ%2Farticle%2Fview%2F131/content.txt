@@ -1,0 +1,155 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/131
+On Some Results of a Torsion-Free Abelian Trace Group
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 2 No. 2 (2014)
+/
+Articles
+On Some Results of a Torsion-Free Abelian Trace Group
+Authors
+Ricky B. Villeta
+University of San Jose-Recoletos
+DOI:
+https://doi.org/10.32871/rmrj1402.02.10
+Keywords:
+Trace group, 											pure trace, 											torsion-free abelian group, 											direct sum, 											pure fully invariant
+Abstract
+Author Biography
+Ricky B. Villeta, University of San Jose-Recoletos
+graduated from Mindanao State University â€“ Iligan Institute of Technology (MSU-IIT) with a degree of Bachelor of Science in Mathematics (Pure Mathematics) in 2003 as a fulltime scholar, City Mayorâ€™s scholar (Iligan City) granted from having graduated in high school as class valedictorian and CHED-COE (Center of Excellence in Mathematics) scholar awarded by MSU-IIT mathematics and statistics department. He also obtained his Master of Science in Mathematics degree in 2007, with a specialization in abstract algebra (group theory) at MSU-IIT. He had served as Mathematics Lecturer from 2003 to 2005 and as graduate teaching assistant from 2005 to 2006 at the Mathematics and Statistics Department of the College of Science and Mathematics of MSU-IIT. Since 2006 to present, he is a faculty member of the Department of Mathematics and Sciences of the College of Arts and Sciences at University of San Jose â€“ Recoletos (USJ-R), Cebu City. He has been teaching research methods, design of experiments and statistical models in the graduate school, differential equation, differential calculus, integral calculus, applied statistics in business, behavioral statistics, biostatistics, computer aided analysis, linear algebra, abstract algebra, number theory, probability theory, quantitative analysis in business, mathematical investigations and modeling, among others. He is also a trainer for basic and tertiary non-deped teachers on senior high curriculum in mathematics, statistics and probability areas in the Visayas region. His research works and interests are in abstract algebra (group theory), graph theory, differential equation, mathematical modeling and simulation, fractal statistics, data mining and theory development. He also serves as researcher and research statistician at the Center for Policy, Research and Development Studies in USJ-R.
+References
+[1] Arnold, David M. (1982). Lecture Notes in Mathematics. Springer â€“ Verlag Berlin
+Heidelberg, New York.
+[2] Fuchs, Laszlo (1970). Infinite Abelian Groups. Academic Press Inc.. Vol. I.
+[3] Fuchs, Laszlo (1973). Infinite Abelian Groups. Academic Press Inc.. Vol. II.
+[4] Hungerford, Thomas W. (1974). Algebra. Springer â€“ Verlag, New York.
+[5] Krylov, P. A., Mikhalev, A. V., Tuganbaev, A. A. (2002). Properties of Endomorphism Rings of Abelian Groups I. Journal of Math. Sci. Vol. 112 No. 6.
+[6] Schultz, Phill (2004). Pure Invariance in Torsion-Free Abelian Groups. Proceedings of the Auburn Algebra Conference. Oldsite. maths. uwa.edu.au / research / reports.
+Downloads
+PDF
+Published
+2014-12-11
+How to Cite
+Villeta, R. B. (2014). On Some Results of a Torsion-Free Abelian Trace Group. Recoletos Multidisciplinary Research Journal, 2(2). https://doi.org/10.32871/rmrj1402.02.10
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 2 No. 2 (2014)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Most read articles by the same author(s)
+Beverly F. Basalo,
+Mark Ian C. Andres,
+Roramie V. Arco,
+Ricky B. Villeta,
+Joyce C. Unabia,
+Verification on the Impact of Plant Cover Variability to the Anuran Diversity in Bohol, Philippines Using Fractal Analysis
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Anna Rose P. Nillama,
+Mark S. Borres,
+Ricky B. Villeta,
+Roramie V. Arco,
+Joyce C. Unabia,
+Validation of Lepidopteran Classification by Morphological Fractal Dimension Analysis
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Jose D. Velez Jr.,
+Ricky B. Villeta,
+Roberto N. Padua,
+Richard Hao,
+Marielle Colina,
+A Predictive Model on the Spread of HIV in Cebu City
+,
+Recoletos Multidisciplinary Research Journal: Vol. 3 No. 2 (2015)
+Eduardo D. Piedad Jr.,
+Ricky B. Villeta,
+Displacement and Illumination Levels Effect on Short-distance Measurement Errors of Using a Camera
+,
+Recoletos Multidisciplinary Research Journal: Vol. 4 No. 1 (2016)
+Mark Ian C. Andres,
+Brendalyn R. Basilan,
+Camille Yvonne D. Cubar,
+Ricky B. Villeta,
+Levels of Multidrug-Resistant Tuberculosis Treatment Success among ASEAN Countries
+,
+Recoletos Multidisciplinary Research Journal: Vol. 3 No. 2 (2015)
+Ricky B. Villeta,
+Roramie V. Arco,
+Gallardo E. Gulay,
+Percia A. Leyte,
+On Technological Readiness of ASEAN Countries for Global Competitiveness
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 2 (2014)
+Roramie V. Arco,
+Ricky B. Villeta,
+Marisa M. Mahilum,
+Microbial Modeling and Monte Carlo Simulation to Determine Microbial Performance Criteria on Wooden Cutting Boards
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 2 (2014)
+Gallardo E. Gulay,
+Percia A. Leyte,
+Ricky B. Villeta,
+Roramie V. Arco,
+Factors Affecting Business Stability among ASEAN Member States
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 2 (2014)
+Ricky B. Villeta,
+On Some Results of a Torsion-Free Abelian Kernel Group
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 2 (2014)
+Ricky B. Villeta,
+Elmer C. Castillano,
+Roberto N. Padua,
+On the Generators of the Group of Units Modulo a Prime and Its Analytic and Probabilistic Views
+,
+Recoletos Multidisciplinary Research Journal: Vol. 9 No. 2 (2021)
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

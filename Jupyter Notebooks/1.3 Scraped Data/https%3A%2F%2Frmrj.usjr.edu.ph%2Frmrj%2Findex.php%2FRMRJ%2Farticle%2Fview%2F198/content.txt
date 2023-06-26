@@ -1,0 +1,101 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/198
+Optimal Scheduling of Battery Energy Storage for Grid-Connected Load Using Photovoltaic System (PV) via Binary Particle Swarm Optimization (BPSO)
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 4 No. 2 (2016)
+/
+Articles
+Optimal Scheduling of Battery Energy Storage for Grid-Connected Load Using Photovoltaic System (PV) via Binary Particle Swarm Optimization (BPSO)
+Authors
+Eduardo D. Piedad Jr.
+University of San Jose-Recoletos
+Marc Edwin F. Montilla
+National Grid Corporation of the Philippines
+Mark Joseph E. Ortega
+National Grid Corporation of the Philippines
+DOI:
+https://doi.org/10.32871/rmrj1604.02.04
+Keywords:
+Binary particle swarm optimization, 											battery energy storage system, 											photovoltaic system, 											interruptible load program, 											time-of-use scheme
+Abstract
+This paper presents an optimal dispatch of battery storage and its economic viability with a photovoltaic system. There are four modelled scenarios based on the combination of interruptible load program and the time-of-use scheme. The scenarios were modelled using a Binary Particle Swarm Optimization and were simulated using Matlab v6. In all the scenarios, this model successfully optimizes the battery dispatch scheduling while simultaneously minimizes the DUâ€™s penalty from exceeding the maximum allowable power demand. This algorithm also optimizes the linearly forecasted demand for the next six year for all the scenarios. Then, an economic analysis for the possible investment to the combined BESS and PV system is conducted through the comparison of the payback periods of each scenario. The first scenario is implemented without ILP and a ToU scheme and has 79.86 payback years. With ILP scheme only, the second scenario has 33.37 payback years. Then the third scenario with ToU scheme only has a 30.29 payback years. Finally, the fourth scenario, with both ILP and ToU schemes, shows the fastest recovery of the investment with 21.57 payback years. Thus the combination of both ILP and ToU schemes provide the best economic benefit. Though the current proposed system is still not economically feasible however the foreseen positive trends on solar and battery technologies will make this system viable.
+Author Biographies
+Eduardo D. Piedad Jr., University of San Jose-Recoletos
+Faculty, University of San Jose-Recoletos
+Marc Edwin F. Montilla, National Grid Corporation of the Philippines
+Cadet Engineer
+Mark Joseph E. Ortega, National Grid Corporation of the Philippines
+Cadet Engineer,
+Downloads
+PDF
+Additional Files
+Appendix
+Published
+2016-12-31
+How to Cite
+Piedad Jr., E. D., Montilla, M. E. F., & Ortega, M. J. E. (2016). Optimal Scheduling of Battery Energy Storage for Grid-Connected Load Using Photovoltaic System (PV) via Binary Particle Swarm Optimization (BPSO). Recoletos Multidisciplinary Research Journal, 4(2). https://doi.org/10.32871/rmrj1604.02.04
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 4 No. 2 (2016)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Most read articles by the same author(s)
+Eduardo D. Piedad Jr.,
+Ricky B. Villeta,
+Displacement and Illumination Levels Effect on Short-distance Measurement Errors of Using a Camera
+,
+Recoletos Multidisciplinary Research Journal: Vol. 4 No. 1 (2016)
+Eduardo D. Piedad Jr.,
+Various Trends on the National Development of Renewable Energy Source Affecting the Natural Resource Depletion
+,
+Recoletos Multidisciplinary Research Journal: Vol. 4 No. 1 (2016)
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

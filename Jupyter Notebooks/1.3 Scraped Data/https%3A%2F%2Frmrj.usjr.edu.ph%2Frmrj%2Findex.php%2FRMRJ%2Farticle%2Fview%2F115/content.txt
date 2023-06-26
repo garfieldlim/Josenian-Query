@@ -1,0 +1,131 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/115
+Non-Random Walk Behavior of Philippine Stock Prices
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 3 No. 2 (2015)
+/
+Articles
+Non-Random Walk Behavior of Philippine Stock Prices
+Authors
+Rhenozo Barte
+University of the Philippines Cebu
+DOI:
+https://doi.org/10.32871/rmrj1503.02.02
+Keywords:
+Random walk, 											unit root, 											autocorrelations, 											sequences, 											reversals, 											runs
+Abstract
+Random walk has been held as a sufficient condition for describing the stock market as efficient, which implies that investors cannot predict the market returns or equivalently, abnormal profits cannot be obtained just by knowing the past prices. This study tests the random walk hypothesis in the case of Philippine Stock Prices, using the daily PSE index (PSEi) covering the period 03 January 2005-16 February 2016. Main results, employing the informal or visual methods such as plot analysis of log returns and correlogram, suggest some initial evidence of non-randomness. The formal methods, employing tests for unit root, runs, sequences and reversals, variance ratio, and autocorrelations, show that the PSEi prices do not follow a random walk behavior.
+Author Biography
+Rhenozo Barte, University of the Philippines Cebu
+is a Certified Public Accountant and currently working as Assistant Professor at the School of Management of the University of the Philippines Cebu, handling courses such as Basic Accounting, Managerial Accounting and Financial Management. He obtained his masterâ€™s degree from UPV Cebu College, and BS Accountancy Degree from UPV Iloilo campus. He worked for a few years (1999-2002) as accounting supervisor at EMI Philippines, Inc. He also spends his time doing social work and giving leadership talks on topics such as time management, work life balance and financial management. He is concurrently pursuing aPhD in Business Administration.
+References
+Journals
+Alexeeva, V. and Maynard, A. (2012). Localized level crossing random walk test robust to the presence of structural breaks. Computational Statistics and Data Analysis, 56: pp.3322-3344
+Abosede, A. and Oseni, J. (2011). Theoretical Analysis of Firm and Market-Specific Proxies of Information Asymmetry on Equity Prices in the Stock Markets, Australian Journal of Business and Management Research,
+Vol.1 No.2: pp.1-13
+Al-Khazali, O., Pyun, C. and Kim, D. (2011). Are exchange rate movements predictable in Asia-Pacific markets? Evidence of random walk and martingale difference processes. International Review of Economics and Finance, 21:pp. 221â€“23
+Ang, J. and Pohlman, R. (1978). A Note on the Price Behavior of Far Eastern Stocks. Journal of International Business Studies, Vol. 9, No. 1: pp.103-107
+Chaudhuri, K. and Wu, Y. (2003). Random Walk Versus Breaking Trends in Stock Prices: Evidence from Emerging Markets, Journal of Banking and Finance, V.27: pp.575-592
+Chen,J. and
+Diaz, J. (2014). Predictability and Efficiency of the Philippine Stock Exchange Index.
+Journal of Business and Economics, Volume 5, No. 4, pp. 535-539.DOI: 10.15341/jbe(2155-7950)/04.05.2014/009
+Dutta, S., Essaddam, N., Kumar, V. and Saadi, S. (2015). How does electronic trading affect efficiency of stock market and conditional volatility? Evidence from Toronto Stock Exchange. Res. Int. Business Finance, http://dx.doi.org/10.1016/j.ribaf.2015.11.001
+Fama, E. (1965). The Behavior of Stock-Market Prices The Journal of Business, Vol. 38, No. 1: pp. 34-105.
+Fama, E. (1965). Random Walks in Stock Market Prices. Financial Financial Analysts Journal, pp.55-59
+Janairo, C. and Roleda, R .(2012). The characterization of Philippines stock Market index. The Manila Journal of Science , 7, 2:pp 1-9
+Harper ,A. and Jin, Z. (2012). Examining market efficiency in India: An empirical Analysis of Random Wal Theory, Journal of Finance and Accountancy, Vol 10. Retrieved from http://www.aabri.com/manuscripts/121128.pdf
+Harper, A. and Jin, Z. and Sokunle, R. (2015). Examining market efficiency: A view from the silver futures market. Journal of Finance and Accountancy. Volume 20. Retrieved from http://www.aabri.com/manuscripts/121128.pdf
+Karemera, D., Ojah, K. and Cole, J. (1999). Random Walks and Market Efficiency Tests: Evidence from Emerging Equity Markets, Review of Quantitative Finance and Accounting, 13: pp.
+171-188
+Kawakatsu, H. and Morey,M. (1999). An Empirical Examination Of Financial Liberalizationand: The Efficiency Of Emerging Market Stock Prices, The Journal of Financial Research Vol. XXII, No. 4: pp. 385-411
+Khan, W. and Vieito, J. (2012). Stock exchange mergers and weak form of market efficiency: The case of Euronext Lisbon. International Review of Economics and Finance, 22: pp. 173â€“189
+Kilon, J. and Jamroz, P. (2015). Informational (in)efficiency of the Polish Stock Exchange. Procedia - Social and Behavioral Sciences, 213:pp.390 â€“ 396
+Kim, J. and Shamsuddin, A. (2008). Are Asian stock markets efficient? Evidence from new multiple variance ratio tests, Journal of Empirical Finance, 15: pp. 518â€“532
+Kim, E. H. and Singal, V. (2000). Stock Market Openings: Experience of Emerging Economies. Journal of Business, Vol. 73, no. 1: pp.25-66
+Lean, H. and Smyth, R. (2007). Do Asian Stock Markets Follow a Random Walk? Evidence from LM Unit Root Tests with One and Two Structural Breaks. Review of Pacific Basin Financial Markets and Policies, Vol. 10, No. 1: pp. 15â€“31
+Livingston, M. (1977). Industry Movements of Common Stocks, The Journal of Finance, Vol. 32, No. 3: pp. 861-874
+Lo, A. and MacKinlay, A. (1988). Stock Market Prices do not Follow Random Walks: Evidence from a Simple Specification Test. The Review of Financial Studies, Vol. 1, No. 1: pp. 41-66
+Okpara, G. (2010). Stock market prices and the random Further evidence from Nigeria Journal of Economics and International Finance, Vol. 2(3): pp. 049-057
+Oskooe, S., Li, H. and Shamsavari, A. (2010). The Random Walk Hypothesis in Emerging Stock Market. International Research. Journal of Finance and Economics, Issue 50: pp.51-61
+Reilly. F. (1971). Price Changes in Nyse, Amex and Otc Stocks Compared. Financial Analysts Journal, Vol. 27, No. 2: pp. 54-59
+Tiwari, A. and Kyophilavong, P. (2014). New Evidence from the random walk hypothesis for BRICS stock indices: a wavelet unit root test approach. Economic Modelling, Vol 43: pp. 38-41
+Solnik, B. H. (1973). Note on the Validity of the Random Walk for European Stock Prices. Journal of Finance, pp. 1151-1159.
+Yang, A. and Pangastuti, A. (2016). Stock Market Efficiency and Liquidity: The Indonesia Stock Exchange Merger. Research in International Business and Finance, vol 36: pp. 28-40
+Zahedi, J. and Rounaghi, M. (2015). Application of artificial neural network models and principal component analysis method in predicting stock prices on Tehran Stock Exchange. Physica A 438: pp. 178â€“187
+Books
+Campbell, J., Lo, A., and MacKinlay, A. (1997). The Econometrics of Financial Markets, Princeton university Press: New Jersey, USA.
+Copeland, T., Weston, J., and Shastri, K. (2005). Financial Theory and Corporate Policy 4th Ed., Person Education, Inc., USA
+Danao, R. (2010). Introduction to Statistics and Econometrics, UP Press, Quezon City, Philippines.
+Gujarati, D. (2004). Basic Econometrics, 4th edition, McGrawhills, Co., USA
+Websites
+http://www.pse.com.ph/stockMarket/circulars.html
+http://www.pse.com.ph/resource/filetemplate/file/pseindexguide.pdf
+http://www.pse.com.ph/corporate/home.html
+http://pse.com.ph/stockMarket/marketInfo-marketActivity.html?tab=1&indexName=All%20Shares
+Downloads
+PDF
+Published
+2015-12-03
+How to Cite
+Barte, R. (2015). Non-Random Walk Behavior of Philippine Stock Prices. Recoletos Multidisciplinary Research Journal, 3(2). https://doi.org/10.32871/rmrj1503.02.02
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 3 No. 2 (2015)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Similar Articles
+Ricky B. Villeta,
+On Some Results of a Torsion-Free Abelian Kernel Group
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 2 (2014)
+You may also start an advanced similarity search for this article.
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

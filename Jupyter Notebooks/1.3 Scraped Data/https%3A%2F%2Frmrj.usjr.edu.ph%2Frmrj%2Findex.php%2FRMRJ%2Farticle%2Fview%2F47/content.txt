@@ -1,0 +1,185 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/47
+The Fractal Dimension of the Levels of Depression
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 2 No. 1 (2014)
+/
+Articles
+The Fractal Dimension of the Levels of Depression
+Authors
+Sandy Valmores
+University of San Jose-Recoletos
+Kristine June D. Uy
+University of San Jose-Recoletos
+Virgilio C. Lumayno Jr.
+University of San Jose-Recoletos
+Helmae N. Etulle-Tapanan
+University of San Jose-Recoletos
+DOI:
+https://doi.org/10.32871/rmrj1402.01.11
+Keywords:
+depression, 											levels of depression, 											Goldberg depression inventory, 											fractal approach, 											fractal dimensions, 											scales
+Abstract
+Depression lurks in peopleâ€™s lives.The intensity of the feelings, causes and reactions vary from person to person.It is within this nature of depression that the study would explore the fractality of the phenomenon. The data were obtained by conducting the Goldberg Depression Inventory among a hundred young adults enrolled from each of the six colleges of the university. Findings show that most of the data do not obey normal distribution as evident in this histogram and normality tests. Hence, they were subjected to a fractal statistical analysis. Fractal dimensions and scales for each college depression scores were determined. It was found out that the level of depression among the young adults of the different colleges were leaning towards the mild level of depression. In view of the fractal dimensions, it is evident that young adults had varied coping mechanisms against depression.
+Author Biographies
+Sandy Valmores, University of San Jose-Recoletos
+graduated Magna cum laude, Bachelor of Science in Psychology at the University of San Jose- Recoletos (USJ-R) in March 2004 and was awarded the Most Outstanding Graduate of her Batch. She earned her masteral degree in Industrial Psychology in the same University. Before she became a full time faculty of the College of Arts and Sciencesâ€™ Department of Psychology, Library and Information Science (DPLIS), she worked as a guidance counselor for eight years. Currently, Chua is enrolled in the doctoral program in Clinical Psychology in Siliman University.
+Kristine June D. Uy, University of San Jose-Recoletos
+is a faculty member of the University of San Jose Recoletos, was born in 1982 and educated at the University of San Jose Recoletos where she graduated magna cum laude (Bachelor of Science in Accountancy , 2003). She also obtained her Master in Business Administration degree (2008) from the same university. A Certified Public Accountant, she worked with Isla Lipana and Company, a member firm of Pricewaterhouse Coopers (2004-2006). She has been a faculty member of the accountancy department of the University of San Jose Recoletos since 2006 up to the present, handling the subjects Basic Accounting, Partnership and Corporation Accounting, Financial Accounting, Auditing and Assurance Services, and Integrated Auditing Theory.
+Virgilio C. Lumayno Jr., University of San Jose-Recoletos
+trained and formed under the guidance of the Jesuit and Divine Word priests for more than a decade, a Social Sciences and Philosophy and English Language Instructor, graduated from the University of San Jose-Recoletos, Cebu City. He is currently working for the University of San Jose-Recoletos. He was once teaching English Language and Literature in the University of San Carlos,Cebu City. He finished his Master of Arts in Philosophy in the University of San Jose-Recoletos. He took his Master of Arts in English and Doctor in Instructional System and Resource Management (On Thesis and On Dissertation, respectively) in the University of San Jose-Recoletos.
+Helmae N. Etulle-Tapanan, University of San Jose-Recoletos
+MAEd, 27, graduated her Master of Arts in Education major in Mathematics from University of the Philippines Cebu, Lahug, Cebu City in 2011. She finished her Bachelor in Elementary Education major in Mathematics at La Salle University- Ozamiz City in 2007 as Magna Cum Laude, Best in Mathematics and Extra and Co-curricular Awardee. She rendered 2-year teaching in basic education at La Salle Academy- Iligan City in 2007-2009. She worked as an Assistant Principal and as a Classroom Teacher at Pleng Prassidhi International School in Bangkok, Thailand since 2010-2011. At present, she is a full-time faculty member at University of San Jose- Recoletos of the College of Education in the Department of Teaching Education. She is the expert in Assessment of Student Learning in the college. She has published researchers related to assessment and related issues concerning understanding educational system and academic performance of students in the country. She is also handling major subjects in Preschool Education and mother tongue-based multilingual education (MTB-MLE). At the same time, Ms. Etulle is teaching in the Graduate School of USJ-R handling major subjects in Early Childhood Education.
+References
+Allen, J. P. (2009). An overview of Beckâ€™s Theory of Depression in Contemporary Literature.
+Barabat, E. O., Borres, M., & Salazar, R. (2013).Some Results on Multifractal Spectral Analysis.The Recoletos Journal of Higher Education, 78- 89.
+Beck, A.T (2009).Depression: Clinical, experimental, and theoretical Aspect. New York: Harper and Row Better Health Channel (2013). State Government of Victoria.
+Goldberg, I. K.(1993). The Goldberg Depression Inventory
+Gonca; SavaÅŸir, IÅŸik (2001).The relationship between interpersonal schemas and depressive Symptomatology.Journal of Counseling Psychology, Vol 48(3), Jul 2001, 359-364
+Grover, M. (2013).Depression Definition â€“ What is the definition of depression? Too Depressed.Com. Depression Help Strategies
+Kay, J. (2006). Essentials of Psychiatry.Chichester, John R. Wiley and Sons.
+Knowles, C. (2013). The Emotional Health and Violence Connection.Stylus Publishing, Virginia.
+Lewinson, P. M., Steinmetz, J. L., Larson, D. W., & Franklin, J.(1981). Depression-related cognitions: Antecedent or consequence?Journal of Abnormal Psychology, 90, 213-219.
+Moilanen, D. L. (1995).Validity of Beckâ€™s cognitive theory of depression with nonreferred adolescents. Journal of Counseling & Development, 73, 438-442.
+Padua, R. N. (2013, March). Data Roughness and Fractal Statistics.Cebu Normal University Journal of Higher Education. Cebu, Cebu, Philippines: Cebu Normal Press.
+Tartakovsky, M. (2008). Depression and Anxiety Among College Students.Psych Central.
+Downloads
+full paper
+Published
+2014-06-30
+How to Cite
+Valmores, S., Uy, K. J. D., Lumayno Jr., V. C., & Etulle-Tapanan, H. N. (2014). The Fractal Dimension of the Levels of Depression. Recoletos Multidisciplinary Research Journal, 2(1). https://doi.org/10.32871/rmrj1402.01.11
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 2 No. 1 (2014)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Most read articles by the same author(s)
+Kristine June D. Uy,
+Jun Brian B. Alenton,
+Marjurie Lourince E. Zanoria,
+Helmae N. Etulle-Tapanan,
+An Assessment of the Burnout Levels of Accountancy Students
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Helmae N. Etulle-Tapanan,
+Kristine June D. Uy,
+Sandy Valmores,
+Assessment of Studentsâ€™ Learning on a Fractal Viewpoint
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Sandy Valmores Chua,
+Helmae N. Etulle-Tapanan,
+Kristine June D. Uy,
+A Theory on Multiple Sexual Partnership
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Kristine June D. Uy,
+Jun Brian B. Alenton,
+Peter Dante E. Amparado,
+Investigating Student Study Engagement among College Students across Year Levels
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Kristine June D. Uy,
+Chris Rudyard F. Naval,
+Sandy Valmores,
+Helmae N. Etulle-Tapanan,
+Financial Sustainability of Research Centers in a University Setting
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Helmae N. Etulle-Tapanan,
+Cindy M. Carmelotes,
+Philippine Enhanced Basic Education (K to12) Dropout Simulation Model
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 2 (2014)
+Yener C. Cabalida,
+Alessa Joy D. Cruz,
+Kristine June D. Uy,
+Marjurie Lourince E. Zanoria,
+Sovereign Bankruptcy in the Perspective of the ASEAN Integration
+,
+Recoletos Multidisciplinary Research Journal: Vol. 3 No. 1 (2015)
+Jestoni P. Babia,
+Helmae N. Etulle-Tapanan,
+Juleita M. Catipay,
+Lea Mae A. Ladonga,
+Mother- Tongue Based Multilingual Education Certificate Program vis- a- vis Pupilsâ€™Academic Performance in Public Elementary Schools in Cebu
+,
+Recoletos Multidisciplinary Research Journal: Vol. 3 No. 2 (2015)
+Sandy Valmores,
+Kristine June D. Uy,
+The Psychological Anatomy of Gossip
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 1 (2013)
+Kristine June D. Uy,
+Chris Rudyard F. Naval,
+Sandy Valmores,
+An Empirical Validation of the Psychological Anatomy of Gossip
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+1 2 3 > >>
+Similar Articles
+Anna Rose P. Nillama,
+Mark S. Borres,
+Ricky B. Villeta,
+Roramie V. Arco,
+Joyce C. Unabia,
+Validation of Lepidopteran Classification by Morphological Fractal Dimension Analysis
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Efren O. Barabat,
+Roberto M. Cabardo,
+Feature Changes of Selected Cebu City Landmarks: Forms and Roughness Analysis
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+You may also start an advanced similarity search for this article.
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

@@ -1,0 +1,109 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/173
+Various Trends on the National Development of Renewable Energy Source Affecting the Natural Resource Depletion
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 4 No. 1 (2016)
+/
+Articles
+Various Trends on the National Development of Renewable Energy Source Affecting the Natural Resource Depletion
+Authors
+Eduardo D. Piedad Jr.
+University of San Jose-Recoletos
+DOI:
+https://doi.org/10.32871/rmrj1604.01.05
+Keywords:
+Renewable energy source, 											natural resources, 											exploratory pattern analysis, 											country trends
+Abstract
+Renewable energy sources are foreseen to rise as they become scarce and expensive fossil fuels. Considering this thought, each country implements different strategies and national policies to support the development of renewable sources. However, these emerging developments may contribute to its depletion of natural sources. In this paper, an exploratory pattern analysis was used on 125 selected countries to determine the underlying trends on the effect of the development of renewable energy (RE) sources while utilizing the countriesâ€™ natural resources. Due to different status of each country, the trends were grouped in similar associations such as negative, positive and bell-like relationships. Developed countries showed a negative relationship where the natural resources are heavily utilized in the early stages but rapidly decreased as the RE progresses. This reflects the capability of these countries with high to very-high human development index (HDI) to invest more on advanced technologies which utilize fewer natural resources. On the other hand, the underdeveloped countries with low to moderate HDI behave in a positive relationship showing their heavily dependence on its natural resources as RE progresses. Moreover, a group of developing countries between developed and underdeveloped categories and without direct relationship to HDI showed a transition between positive to negative transition as the RE progresses.These findings support the international policymakers, developers and investors on RE market justifications and entrustments, and fair RE policies such as the integration of Carbon Footprint Policy.
+Author Biography
+Eduardo D. Piedad Jr., University of San Jose-Recoletos
+Faculty, University of San Jose-Recoletos
+References
+Bull, S. R. (2001). Renewable Energy Today and Tomorrow. In PROCEEDINGS OF THE IEEE (Vol. 89).
+Carley, S. (2009). State renewable energy electricity policiesâ€¯: An empirical evaluation of effectiveness. Energy Policy, 37(8), 3071â€“3081. https://doi.org/10.1016/j.enpol.2009.03.062
+Caselli, F. (2008). Power Struggles and the Natural Resource Curse Working paper.
+Kaya, D. (2006). Renewable energy policies in Turkey, 10, 152â€“163. https://doi.org/10.1016/j.rser.2004.08.001
+Lund, H. (2007). Renewable energy strategies for sustainable development, 32, 912â€“919. https://doi.org/10.1016/j.energy.2006.10.017
+U.S. Energy Information Administration (EIA). (2016). International Energy Outlook 2016 (Vol. 484). Retrieved from https://www.eia.gov/outlooks/ieo/pdf/0484(2016).pdf
+United Nation Development Programme, U. (n.d.). Human Development Index (HDI). Retrieved February 27, 2017, from http://hdr.undp.org/en/content/human-development-index-hdi
+United Nation Development Programme, U. (2015). Human Development Report 2015. Retrieved from http://hdr.undp.org/sites/default/files/hdr14_statisticaltables.xls
+Walker, G., Hunter, S., Devine-wright, P., Evans, B., & Fay, H. (2007). Harnessing Community Energiesâ€¯: Explaining and Evaluating Community- Based Localism in Renewable Energy Policy in the UK, (May), 64â€“82.
+Downloads
+PDF
+Published
+2016-06-30
+How to Cite
+Piedad Jr., E. D. (2016). Various Trends on the National Development of Renewable Energy Source Affecting the Natural Resource Depletion. Recoletos Multidisciplinary Research Journal, 4(1). https://doi.org/10.32871/rmrj1604.01.05
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 4 No. 1 (2016)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Most read articles by the same author(s)
+Eduardo D. Piedad Jr.,
+Ricky B. Villeta,
+Displacement and Illumination Levels Effect on Short-distance Measurement Errors of Using a Camera
+,
+Recoletos Multidisciplinary Research Journal: Vol. 4 No. 1 (2016)
+Eduardo D. Piedad Jr.,
+Marc Edwin F. Montilla,
+Mark Joseph E. Ortega,
+Optimal Scheduling of Battery Energy Storage for Grid-Connected Load Using Photovoltaic System (PV) via Binary Particle Swarm Optimization (BPSO)
+,
+Recoletos Multidisciplinary Research Journal: Vol. 4 No. 2 (2016)
+Similar Articles
+Shella B. Cacatian,
+Melliferous Resources for Bee Forage
+,
+Recoletos Multidisciplinary Research Journal: Vol. 4 No. 1 (2016)
+You may also start an advanced similarity search for this article.
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

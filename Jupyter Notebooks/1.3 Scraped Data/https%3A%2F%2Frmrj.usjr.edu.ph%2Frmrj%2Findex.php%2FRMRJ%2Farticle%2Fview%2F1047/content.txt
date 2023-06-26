@@ -1,0 +1,154 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/1047
+Mortality Analysis of Early COVID-19 Cases in the Philippines Based on Observed Demographic and Clinical Characteristics
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 9 No. 1 (2021)
+/
+Articles
+Mortality Analysis of Early COVID-19 Cases in the Philippines Based on Observed Demographic and Clinical Characteristics
+Authors
+Roel F. Ceballos
+University of Southeastern Philippines, Davao City, Philippines
+https://orcid.org/0000-0001-8267-6482
+DOI:
+https://doi.org/10.32871/rmrj2109.01.09
+Keywords:
+subgroup susceptibility, 											exposure, length of hospitalization, 											survival analysis, 											vaccination program
+Abstract
+This study aims to determine the demographic, epidemiologic, and clinical characteristics of COVID-19 cases that are highly susceptible to COVID-19 infection, with longer hospitalization and at higher risk of mortality and to provide insights that may be useful to assess the vaccination priority program and allocate hospital resources. Methods that were used include descriptive statistics, nonparametric analysis, and survival analysis. Results of the study reveal that women are more susceptible to infection while men are at risk of longer hospitalization and higher mortality. Significant risk factors to COVID-19 mortality are older age, male sex, difficulty breathing, and comorbidities like hypertension and diabetes. Patients with these combined symptoms should be considered for admission to the COVID-19 facility for proper management and care. Also, there is a significant delay in the testing and diagnosis of those who died, implying that timeliness in the testing and diagnosis of patients is crucial in patient survival.
+References
+Albert, J.R.G., Orbeta, A.C. Jr., Paqueo, V.B., Serafica, R. B.,
+Dadios, E.P.,
+Culaba, A. B., Bandala, A.A., & Bairan, J.C.A. (2018). Harnessing governments role for the fourth industrial revolution [PIDS Policy Notes No. 2018-14]. https://pidswebs.pids.gov.ph/CDN/PUBLICATIONS/pidspn1814.pdf
+Arentz, M., Yim, E., Klaff, L., Lokhandwala, S., Riedo, F., Chong, M., & Lee, M. (2020). Characteristics and outcomes of 21 critically ill patients with COVID-19 in Washington State. JAMA, 323(16), 1612-1614. https://doi.org/10.1001/jama.2020.4326
+Assaad, S., Avrillon, V., Fournier, M. L., Mastroianni, B., Russias, B., Swalduz, A., Cassier, P., Eberst, L., Steineur, M.P., Kazes, M., Perol, M., Michallet, A.S., Rey,P., Erena-Penet, A.S., Morel, A., Brahmi, M., Dufresne, A., Tredan, O., Chvetzoff, G., Fayette, J., â€¦ Blay, J. Y. (2020). High mortality rate in cancer patients with symptoms of COVID-19 with or without detectable SARS-COV-2 on RT-PCR. European Journal of Cancer, 135, 251-259. https://doi.org/10.1016/j.ejca.2020.05.028
+Bandyopadhyay, S., Baticulon, R. E., Kadhum, M., Alser, M., Ojuka, D. K., Badereddin, Y., Kamath, A., Parepalli, S. A., Brown, G., Iharchane, S., Gandino, S., Markovic-Obiago, Z., Scott, S., Manirambona, E., Machhada, A., Aggarwal, A., Benazaize, L., Ibrahim, M., Kim, D., â€¦ Khundkar, R. (2020). Infection and mortality of healthcare workers worldwide from COVID-19: A systematic review. BMJ Global Health, 5(12), e003097. http://dx.doi.org/10.1136/bmjgh-2020-003097
+Belingheri, M., Paladino, M. E., & Riva, M. A. (2021). Working schedule, sleep quality, and susceptibility to Coronavirus disease 2019 in healthcare workers. Clinical Infectious Diseases, 72(9), 1676.
+https://doi.org/10.1093/cid/ciaa499
+Bertocchi, G. (2020). But are women really more resistant to Covid-19? https://www.lavoce.info/archives/65305/ma-davvero-le-donne-sono-piu-resistenti-al-covid-19/
+Breslow, N. E. (1975). Analysis of survival data under the proportional hazards model. International Statistical Review, 43(1), 45-57. https://doi.org/10.2307/1402659
+Ceballos, R. (2020). What quarantine measures can do? Modelling the dynamics of COVID-19 transmission in Davao region. University of Southeastern Philippines. https://www.usep.edu.ph/blog/2020/04/04/what-quarantine-measures-can-do-modelling-the-dynamics-of-covid-19-transmission-in-davao-region/
+Center for Disease Control and Prevention [CDC] COVID-19 Response Team. (2020). Preliminary estimates of the prevalence of selected underlying health conditions among patients with Coronavirus disease 2019 â€” United States, February 12â€“March 28, 2020.
+Morbidity and Mortality Weekly Report, 69(13), 382-386. https://doi.org/10.15585/mmwr.mm6913e2
+Chen, F.J., Li, F.R., Zheng, J.Z., Zhou, R., Liu, H.M., Wu, K.Y., Zhang, B., Dong, H., Lu, J.Y. Lei, C.L., & Wu, X.B. (2021). Factors associated with duration of hospital stay and complications in patients with COVID-19. Journal of Public Health and Emergency, 5(6). https://doi.org/10.21037/jphe-20-74
+Chen, N., Zhou, M., Dong, X., Qu, J., Gong, Y. H., Qiu, Y., Wang, J., Liu, Y., Wei, Y., Xia, J., Yu, T., Zhang, X., & Zhang, L. (2020). Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: A descriptive study. The Lancet, 395, 507-513. https://doi.org/10.1016/S0140-6736(20)30211-7
+de Almeida-Pititto, B., Dualib, P. M., Zajdenverg, L., Dantas, J. R., De Souza, F. D., Rodacki, M., & Bertoluci, M. C. (2020). Severity and mortality of COVID 19 in patients with diabetes, hypertension and cardiovascular disease: A meta-analysis. Diabetology & Metabolic Syndrome, 12(75). https://doi.org/10.1186/s13098-020-00586-4
+Department of Health. (2021). IATF adopts COVID-19 vaccination priority framework amid limited vaccine supply. https://doh.gov.ph/doh-press-release/IATF-ADOPTS-COVID-19-VACCINATION-PRIORITY-FRAMEWORK-AMID-LIMITED-VACCINE-SUPPLY
+Grasselli, G., Greco, M., Zanella, A., Albano, G., Antonelli, M., Bellani, G., Bonanomi, E., Cabrini, L., Carlesso, E., Castelli, G., Cattaneo, S., Cereda, D., Colombo, S., Coluccello, A., Crescini, G., Forastieri Molinari. A., Foti, G., Fumagalli, R., Iotti, G.A., Langer, T., â€¦ Cecconi, M. (2020). Risk factors associated with mortality among patients with COVID-19 in intensive care units in Lombardy, Italy. JAMA Internal Medicine, 180(10), 1345-1355, https://doi.org/10.1001/jamainternmed.2020.3539
+Guan, W.J, Ni, Z.Y., Hu, Y.,Liang, W. H., Ou, C.Q., He, J.X., Liu, L., Shan, H., Lei, C.L., Hui, D.S.C., Du, B., Li, L.J., Zeng, G., Yuen, K.Y., Chen, R.C., Tang, C.L., Wang, T., Chen, P.Y., Xiang, J., Li, S. Y., â€¦ Zhong, N. S.
+(2020). Clinical characteristics of Coronavirus disease 2019 in China. The New England Journal of Medicine, 382, 1708-1720. http://doi.org/10.1056/NEJMoa2002032
+Ho, F. K., Petermann-Rocha, F., Gray, S. R., Jani, B. D., Katikireddi, S. V., Niedzwiedz, C. L., Foster, H., Hastie, C.E., Mackay, D.F., Gill, J. M., Oâ€™Donnell, M., Welsh, P., Mair, F., Sattar, N., Celis-Morales, C.A., & Pell, J. P. (2020). Is older age associated with COVID-19 mortality in the absence of other risk factors? General population cohort study of 470,034 participants. PloS One, 15(11), e0241824. https://doi.org/10.1371/journal.pone.0241824
+Hu, Z., Song, C., Xu. C, Jin, G., Chen, Y., Xu, X., Ma, H., Chen, W., Lin, Y., Zheng, Y., Wang, J., Hu, Z., Yi, Y., & Shen, H. (2020).
+Clinical characteristics of 24 asymptomatic infections with COVID-19 screened among close contacts in Nanjing, China. Science China Life Sciences, 63(5), 706-711. https://doi.org/10.1007/s11427-020-1661-4
+Huang, C., Wang, Y., Li, X., Ren, L., Zhao, J., Hu, Y., Zhang, L., Fan,
+G., Xu, J., Gu,
+X., Cheng, Z., Yu, T., Xia, J., Wei, Y., Wu, W., Xie, X., Yin, W., Liu, M., Xiao, Y., Gao, H., Gao., H., â€¦ Cao, B. (2020).
+Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China.
+The Lancet, 395(10223), 497-506. https://doi.org/10.1016/S0140-6736(20)30183-5
+Kang, S. J., & Jung, S. I. (2020). Age-related morbidity and mortality among patients with COVID-19. Infection & Chemotherapy, 52(2), 154â€“164. https://doi.org/10.3947/ic.2020.52.2.154
+Kruskal, W. H., & Wallis, W. A. (1952). Use of ranks in one-criterion variance analysis. Journal of the American Statistical Association, 47(260), 583-621. https://doi.org/10.2307/2280779
+Liu, H., Wang, L. L., Zhao, S. J., Kwak-Kim, J., Mor, G., & Liao, A. H. (2020). Why are pregnant women susceptible to COVID-19? An immunological viewpoint. Journal of Reproductive Immunology, 139, 103122. https://doi.org/10.1016/j.jri.2020.103122
+Masetti, C., Generali, E., Colapietro, F., Voza, A., Cecconi, M., Messina, A., Omodei, P., Angelini, C., Ciccarelli, M., Badalamenti, S., Canonica, G.W., Lleo, A., & Aghemo, A. (2020). High mortality in COVIDâ€19 patients with mild respiratory disease. European Journal of Clinical Investigation, 50(9), e13314. https://doi.org/10.1111/eci.13314
+Peckham, H., de Gruijter, N. M., Raine, C., Radziszewska, A., Ciurtin, C., Wedderburn, L. R., Rosser, E.C., Webb, K., & Deakin, C. T. (2020). Male sex identified by global COVID-19 meta-analysis as a risk factor for death and ITU admission. Nature Communications, 11(6317). https://doi.org/10.1038/s41467-020-19741-6
+Philippine Statistics Authority. (2021). GDP declines by -4.2 percent in the first quarter of 2021 (at Constant 2018 Prices). https://psa.gov.ph/foreign-investments/technical-notes
+Qiu, H., Wu, J., Hong, L., Luo, Y., Song, Q., & Chen, D. (2020). Clinical and epidemiological features of 36 children with coronavirus disease 2019 (COVID-19) in Zhejiang, China: An observational cohort study. Lancet Infectious Disease,
+20(6), 689â€“696. https://doi.org/10.1016/S1473-3099(20)30198-5
+Rabajante, J. (2020). Insights from early mathematical models of 2019-nCoV acute respiratory disease (COVID-19) dynamics. Journal of Environmental Science and Management, 23(1). https://ovcre.uplb.edu.ph/journals-uplb/index.php/JESAM/article/view/329
+Saladino,V., Algeri, D., & Auriemma, V. (2020). The psychological and social impact of Covid-19: New perspectives of well-being. Frontiers in Psychology, 11, 2550. https://doi.org/10.3389/fpsyg.2020.577684
+Sanchez, M.J. (2021). Number of hospital beds per 10,000 population in the Philippines 2020, by region. Statista. https://www.statista.com/statistics/1122326/philippines-number-of-hospital-beds-by-region/#statisticContainer
+Sandoiu, A. (2020). Sex difference in COVID-19. https://www.medicalnewstoday.com/articles/sex-differences-in-covid-19
+Shi, C., Wang, C., Wang, H., Yang, C., Cai, F., Zeng, F., Cheng, F., Liu, Y., Zhou, T., Deng, B., Vlodavsky, I., Li, J. P., & Zhang, Y. (2020). The potential of low molecular weight heparin to mitigate cytokine storm in severe COVID-19 patients: A retrospective clinical study. Clinical and Translational Science, 13(6), 1087-1095. https://doi.org/10.1111/cts.12880
+Shi, Y., Wang, X., Liu, G., Zhu, Q., Wang, J., Yu, H., Wang, C., Wang, L., Zhang, M., Zhang, L., Lu, G., Lu, Z., Yu, J., Qiao, Z., Gu, Y., Shen, G., Xu, H., Zeng, M., Zhai, X., & Huang, G. (2020).
+A quickly, effectively screening process of novel corona virus disease 2019 (COVID-19) in children in Shanghai, China. Annals of Translational Medicine, 8(5), 241. https://doi.org/10.21037/atm.2020.03.22
+Vecino-Ortiz, A. I., Congote, J.V., Bedoya, S.Z., & Cucunuba, Z. M. (2021). Impact of contact tracing on COVID-19 mortality: An impact evaluation using surveillance data from Colombia. PLos One, 16(3), e0246987. https://doi.org/10.1371/journal.pone.0246987
+Wang, D., Hu, B., Hu, C., Zhu, F., Liu, X., Zhang, J., Wang, B., Xiang, M., Cheng, Z., Xiong, Y., Zhao, Y., Li, Y., Wang, X., & Peng, Z. (2020). Clinical characteristics of 138 hospitalized patients with 2019 Novel Coronavirus-infected pneumonia in Wuhan, China. Jama, 323(11), 1061-1069. https://doi.org/10.1001/jama.2020.1585
+Wang, L., He, W., Yu, X., Hu, D., Bao, M., Liu, H., Zhou, J., & Jiang, H. (2020). Coronavirus disease 2019 in elderly patients: Characteristics and prognostic factors based on 4-week follow-up. The Journal of Infection, 80(6), 639â€“45. https://doi.org/ 10.1016/j.jinf.2020.03.019
+Wei, C., Lee, C.C., Hsu, T.C., Chan, C.C., Chen, S.C., & Chen, C.J. (2020). Correlation of population mortality of COVID-19 and testing coverage: A comparison among 36 OECD countries.
+Epidemiology and Infection, 149, e1. https://doi.org/10.1017/S0950268820003076
+Wenham, C., Smith, J., & Morgan, R. (2020).
+COVID-19: The gendered impacts of the outbreak. The Lancet, 395(10227), 846-848. https://doi.org/10.1016/S0140-6736(20)30526-2
+Wu, C., Chen, X., Cai, Y., Xia, J., Zhou, X., Xu, S., Huang, H., Zhang, L., Zhou, X., Du, C., Zhang, Y., Song, J., Wang, S., Chao, Y., Yang, Z., Zu, J., Zhou, X., Chen, D., Xiong, W., Xu, L., â€¦ Song, Y. (2020).
+Risk factors associated with acute respiratory distress syndrome and death in patients with Coronavirus disease 2019 pneumonia in Wuhan, China. JAMA Internal Medicine, 180(7), 934-940. https://doi.org/10.1001/jamainternmed.2020.0994
+Xia, W., Shao, J., Guo, Y., Peng, X., Li, Z., & Hu, D. (2020).
+Clinical and CT features in pediatric patients with COVID-19 infection: Different points from adults. Pediatric Pulmonology, 55(5), 1169-1174. https://doi.org/10.1002/ppul.24718
+Yanez, N. D., Weiss, N. S., Romand, J. A., & Treggiari, M. M. (2020). COVID-19 mortality risk for older men and women. BMC Public Health, 20(1), 1742. https://doi.org/10.1186/s12889-020-09826-8
+Yang, X., Yu, Y., Xu, J., Shu, H., Xia, J., Liu, H., Wu, Y., Zhang, L., Yu, Z., Fang, M., Yu, T., Wang, Y., Pan, S., Zou, X., Yuan, S, & Shang, Y. (2020).
+Clinical course and outcomes of critically ill patients with SARS-CoV-2 pneumonia in Wuhan, China: A single-centered, retrospective, observational study. The Lancet Respiratory Medicine, 8(5), 475-481. https://doi.org/10.1016/S2213-2600(20)30079-5
+Zar, J. H. (1999). Biostatistical analysis (4th ed.). New Jersey
+Zhou, F., Yu, T., Du, R., Fan, G., Liu, Y., Liu, Z., Xiang, J., Wang ,Y., Song, B., Gu, X., Guan, L., Wei, Y., Li, H., Wu, X., Xu, J., Tu, S., Zhang, Y., Chen, H., & Cao, B. (2020).
+Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: A retrospective cohort study. The Lancet, 395(10229), 1054-1062. https://doi.org/10.1016/S0140-6736(20)30566-3
+Downloads
+pdf
+Published
+2021-05-31
+How to Cite
+Ceballos, R. F. (2021). Mortality Analysis of Early COVID-19 Cases in the Philippines Based on Observed Demographic and Clinical Characteristics. Recoletos Multidisciplinary Research Journal, 9(1), 91–106. https://doi.org/10.32871/rmrj2109.01.09
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 9 No. 1 (2021)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Most read articles by the same author(s)
+Merlito M. Villa,
+Roel F. Ceballos,
+Analysis and Forecasting of Fire incidence in Davao City
+,
+Recoletos Multidisciplinary Research Journal: Vol. 8 No. 2 (2020)
+Liene Leikuma-Rimicāne,
+Roel F. Ceballos,
+Erick T. Baloran,
+Milton Norman D. Medina,
+Mental Health in Academe Amidst COVID-19 Pandemic:
+What Can We Learn from the Philippines and Latvia?
+,
+Recoletos Multidisciplinary Research Journal: Vol. 11 No. 1 (2023)
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

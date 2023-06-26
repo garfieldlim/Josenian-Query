@@ -1,0 +1,119 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/828
+Analysis and Forecasting of Fire incidence in Davao City
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 8 No. 2 (2020)
+/
+Articles
+Analysis and Forecasting of Fire incidence in Davao City
+Authors
+Merlito M. Villa
+University of Southeastern Philippines
+https://orcid.org/0000-0002-5830-5742
+Roel F. Ceballos
+University of Southeastern Philippines
+https://orcid.org/0000-0001-8267-6482
+DOI:
+https://doi.org/10.32871/rmrj2008.02.03
+Keywords:
+R programming, 											forecasting, 											fire incidence, 											modeling for decision making
+Abstract
+Fire incidence is a big problem for every local government unit in the Philippines. The two most detrimental effects of fire incidence are economic loss and loss of life. To mitigate these losses, proper planning and implementation of control measures must be done. An essential aspect of planning and control measures is prediction of possible fire incidences. This study is conducted to analyze the historical data to create a forecasting model for the fire incidence in Davao City. Results of the analyses show that fire incidence has no trend or seasonality, and occurrences of fire are neither consistently increasing nor decreasing over time. Furthermore, the absence of seasonality in the data indicate that surge of fire incidence may occur at any time of the year. Therefore, fire prevention activities should be done all year round and not just during fire prevention month.
+References
+Adhikari, R., & Agrawal, R. K. (2013). An introductory study on time series modeling and forecasting. LAP Lambert Academic Publishing. arXiv preprint arXiv:1302.6613.
+Ahn, S., Kang, H., Cho, J., Kim, T. O., & Shin, D. (2015). Forecasting model design of fire occurrences with ARIMA models. Journal of the Korean Institute of Gas, 19(2), 20-28. https://doi.org/10.7842/KIGAS.2015.19.2.20
+Barker, J. (2005) Abstraction and Modeling. In: Beginning Java Objects. Apress
+Benjamin, P., Erraguntla, M., Delen, D., & Mayer, R. (1998). Simulation modeling at multiple levels of abstraction. 1998 Winter Simulation Conference. Proceedings (Cat. No.98CH36274), 1, 391-398. 10.1109/WSC.1998.745013
+Burroughs, M. (2016, September). International fire statistics. Retrieved from https://www.frsug.org/reports/International_Fire_Statistics_September_2016.pdf
+Colina, A. (2015, December 29). Fire incidents increase in Davao region. https://www.mindanews.com/top-stories/2015/12/66020/
+Commission on Audit (COA). (2018, December). Bureau of fire protection modernization program. Retrieved from https://www.coa.gov.ph/index.php/bureau-of-fire-protection-modernization-program#
+Contreras, J., Espinola, R., Nogales, F. J., & Conejo, A. J. (2003). ARIMA models to predict next-day electricity prices. IEEE transactions on power systems, 18(3). 10.1109/TPWRS.2002.804943
+Hyndman, R. J. (2001). Box-Jenkins modeling. In Regional Symposium on Environment and Natural Resources, Apr (pp. 10-11). Retrieved from https://robjhyndman.com/papers/BoxJenkins.pdf
+Kavasseri, R. G., & Seetharaman, K. (2009). Day-ahead wind speed forecasting using f-ARIMA models. Renewable Energy, 34(5), 1388-1393. 10.1016/j.renene.2008.09.006
+Keshvani, A. (2013, August 7). How to use the autocorrelation function (ACF)? Retrieved from Coolstatblog: https://coolstatsblog.com/2013/08/07/howto-use-the-autocorreation-function-acf/
+Kurbalija V., RadovanoviÄ‡ M., Geler Z., IvanoviÄ‡ M. (2010) A Framework for Time-Series Analysis. In: Dicheva D., Dochev D. (eds) Artificial Intelligence: Methodology, Systems, and Applications. AIMSA 2010. Lecture Notes in Computer Science, vol 6304. Springer, Berlin, Heidelberg. https://doi.org/10.1007/978-3-642-15431-7_5
+Manayaga, M. C. E., & Ceballos, R. F. (2019). Forecasting the remittances of the Overseas Filipino Workers in the Philippines. International Journal of Statistics and Economics ,20(3),36-44. http://www.ceser.in/ceserp/index.php/bse/article/view/6126
+Montgomery, D. C., Jennings, C. L., & Kulachi, M. (2015). Introduction to time series analysis and forecasting. John Wiley & Sons.
+National Disaster Risk Reduction and Management Council (NDRRMC). (2017). Fire incidence in Bankerohan Public Market. Retrieved from http://ndrrmc.gov.ph/20-incidents-monitored/3252-fire-incident-in-bangkerohan,-davao-city
+Panaji, D. R., Trisasongko, B. H., Susetyo, B., Raimadoya, M. A., & Lees, B. G. (2010). Historical fire detection of tropical forest from NDVI time-series data: a Case study on Jambi, Indonesia. Journal of Mathematical and Fundamental Sciences, 42(1), 49-66.
+Perez, E. G., & Ceballos, R. F. (2019). Malaria Incidence in the Philippines: Prediction using the Autoregressive Moving Average Models. International Journal of Engineering and Future Technology (2019), 16(4), 1-10. http://www.ceser.in/ceserp/index.php/IJEFT/article/view/5961
+Philippine Information Agency (PIA). (2018 April 10). March is Fire prevention Month. https://pia.gov.ph/features/articles/1019379
+Powell, S. G., & Baker, K. R. (2009). Management science: The art of modeling with spreadsheets, Wiley.
+Tatoy, A. M. A., & Ceballos, R. F. (2019). Human Immunodeficiency Virus (HIV) Cases in the Philippines: Analysis and Forecasting. JP Journal of Biostatistics, 16(2), 67-77. http://dx.doi.org/10.17654/BS016020067
+World Health Organization (WHO). (2018, March 6). Burns. https://www.who.int/en/news-room/fact-sheets/detail/burns
+Zhang, D., & Jiang, K. (2012). Application of data mining techniques in the analysis of fire incidents. Procedia Engineering, 43, 250-256. https://doi.org/10.1016/j.proeng.2012.08.043
+Zhanli, M. (2012). Disastrous forecasting of fire accidents in assembly occupancies. Energy procedia, 16, 1899-1903. https://doi.org/10.1016/j.egypro.2012.01.290
+Downloads
+pdf
+Published
+2020-12-29
+How to Cite
+Villa, M. M., & Ceballos, R. F. (2020). Analysis and Forecasting of Fire incidence in Davao City. Recoletos Multidisciplinary Research Journal, 8(2), 35–50. https://doi.org/10.32871/rmrj2008.02.03
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 8 No. 2 (2020)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Most read articles by the same author(s)
+Roel F. Ceballos,
+Mortality Analysis of Early COVID-19 Cases in the Philippines Based on Observed Demographic and Clinical Characteristics
+,
+Recoletos Multidisciplinary Research Journal: Vol. 9 No. 1 (2021)
+Liene Leikuma-Rimicāne,
+Roel F. Ceballos,
+Erick T. Baloran,
+Milton Norman D. Medina,
+Mental Health in Academe Amidst COVID-19 Pandemic:
+What Can We Learn from the Philippines and Latvia?
+,
+Recoletos Multidisciplinary Research Journal: Vol. 11 No. 1 (2023)
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

@@ -1,0 +1,205 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/50
+Validation of Lepidopteran Classification by Morphological Fractal Dimension Analysis
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 2 No. 1 (2014)
+/
+Articles
+Validation of Lepidopteran Classification by Morphological Fractal Dimension Analysis
+Authors
+Anna Rose P. Nillama
+Mark S. Borres
+University of San Jose-Recoletos
+Ricky B. Villeta
+University of San Jose-Recoletos
+Roramie V. Arco
+University of San Jose-Recoletos
+Joyce C. Unabia
+University of San Jose-Recoletos
+DOI:
+https://doi.org/10.32871/rmrj1402.01.19
+Keywords:
+lepidoptera species, 											fractal geometry, 											fractal dimension, 											morphological dimensions and tresholding effect
+Abstract
+The paper uses fractal geometry through the fractal dimension of photos of theLepidopteran species, the commonly named butterflies, collected from the regions of Central Visayas, Philippines to determine if the morphological dimensions can discriminate one species over the other for classification purposes. The images of species were converted into a binary image using the simplest form of image processing known as thresholding effect. The binary images provide a simple view and ease for computing its fractal dimension. The fractal dimension explains the space â€“ filling property of the image. The species available for use were the Cethosia, Idea, Pachliopta, Catopsilia, Troides where 10 subspecies of each were chosen. Also, the male species were isolated and tallied separately from the females. Empirical results revealed that the fractal dimensions can differentiate the species from one another with a general p â€“ value of 0.000 and F â€“ value of 6.483. All sample pairwise comparisons were tested for the significant differences and still differentiates one over the other as evidenced by the corresponding p - values of all equal to 0.000, respectively. Moreover, the fractal dimensions, in relation to the species gender, were tested for possible significant differences, and findings showed that it could differentiate across butterflyâ€™s gender with a p â€“ value of 0.000 and F- value of 8.037. The empirical probability of wrong classification using the fractal dimension is less than 1%.
+Author Biographies
+Mark S. Borres, University of San Jose-Recoletos
+graduated Bachelor of Science in Mathematicsâ€“major in Pure Mathematics at the University of the Philippines, Cebu College. Since 2009, he worked for the University of San Jose- Recoletos as a faculty member of the College of Arts and Sciences and handled Mathematics subjects such as College Algebra, Advanced Algebra, Abstract Algebra, Analytical Geometry, Euclidean geometry, Trigonometry, Business Mathematics, Linear Programming, Mathematics of Investment, Discrete Structure, and Statistics across colleges.
+Ricky B. Villeta, University of San Jose-Recoletos
+graduated from Mindanao State University â€“ Iligan Institute of Technology (MSU-IIT) with a degree of Bachelor of Science in Mathematics (Pure Mathematics) in 2003 as a fulltime scholar, City Mayorâ€™s scholar (Iligan City) granted from having graduated in high school as class valedictorian and a COE (Center of Excellence in Mathematics) scholar awarded by MSU-IIT Mathematics department. He also obtained his Master of Science in Mathematics degree in 2007, with a specialization in Abstract Algebra (group theory) at MSU-IIT. He had served as Mathematics Lecturer from 2003 to 2005 and as graduate teaching assistant from 2005 to 2006 at the Mathematics Department of the College of Science and Mathematics of MSU-IIT. At the same time, he worked as Mathematics Instructor at Systems Technology Institute â€“ Iligan from 2005 to 2006. Since 2006 to present, he is a faculty member of the Department of Mathematics and Sciences of the College of Arts and Sciences at University of San Jose â€“ Recoletos, Cebu City. He handles classes on quantitative analysis in business, calculus for business, differential equations for engineering, probability theory, abstract algebra, linear algebra, number theory, problem solving, differential calculus, integral calculus, applied statistics in business, biostatistics, behavioral statistics, computer aided statistical analysis, mathematics of investment and the like. His research works and interests are in abstract algebra (group theory), graph theory, differential equation, mathematical modeling and simulation, fractal statistics, data mining and theory development. He also serves as a research statistician in graduate and undergraduate theses of the university and a member of the Mathematical Society of the Philippines.
+Roramie V. Arco, University of San Jose-Recoletos
+is a science instructor at the Department of Mathematics and Sciences of the University of San Jose- Recoletos. She obtained her Bachelor of Science in Biology from the University of the Philippines Tacloban College. She earned academic units in Master of Science in Wildlife Studies at the University of the Philippines at Los Banos. She finished her Master of Arts in Education major in Science and Technology from the University of the Visayas through the Expanded Tertiary Education Equivalency and Accreditation Program. Her research interest focuses on microbiology and wildlife conservation. She has attended several training seminars and workshops on science education, instructional materials development and research trends. She is a member of several scientific organizations and has participated in training courses and conferences.
+Joyce C. Unabia, University of San Jose-Recoletos
+obtained her Bachelor of Science in Chemistry and Bachelor of Science in Secondary Education major in Chemistry at the Ateneo de Davao University as CHED scholar. She completed her Master of Arts in Education major in Chemistry from the University of San Jose-Recoletos (USJ-R), Cebu City. Currently she is a full-time science teacher of the Department of Mathematics and Sciences at USJ-R. Ms. Unabiaâ€™s research interests are in Biochemistry and Chemistry education. She also has attended several trainings, seminars and forums on science education.
+References
+Books
+Baltazar, C. R. (1991). An inventory of Philippine Insects II. Order Lepidoptera (Rhopalocera). -399 pp., Los Banos, Philippines (College of Agriculture, University of the Philippines.)
+Briggs, J. & Peat, D. F. (1989). Turbulent Mirror. New York: Harper & Row, Publishers, Inc.
+Corbet, A. S. & Pendlebury, H.M. (1992). The Butterflies of the Malay Peninsula. Kuala Lumpur. United Selangor Press Sdn. Bhd.
+Smart, P. (1976). Encyclopedia of the Butterfly World. Hamlyn Publishing Group Ltd.
+Tsukada, E., (1980). Butterflies of the South East Asian Islands, I, Papilionidae.-51, 91, 230-231 pp., 277 incl. 27, 63 pls., Plapac, Japan.
+Tsukada, E., (1981). Butterflies of the South East Asian Islands, II, Pieridae. Danaidae.-47-49, 153-157, 262-264, 518-520 pp., incl. 15-17, 113-117 pls., Plapac, Japan.
+Tsukada, E., (1985). Butterflies of the South East Asian Islands, IV. Nymphalidae (I).-75, 292 pp., incl. 43 pls., Plapac, Japan.
+Journal
+Borres, M. (2013). From Fractal Geometry to Statistical Fractal.
+Lapinig, V. T., Almirol, C. C., Sabandal, M. O., Gov. Alfonso D. Tan College, Mindanao University of Science and Technology, Northwestern Mindanao State College, Tangub City (2013), Classification of Mangrove
+Species Based on Leaf Fractal Dimensions.
+Padua, R.; Palompon, D.; Onton, D. (2012). Data Roughness and Fractal Statistics (CNU Journal of Higher Education Research, CHED-JAS Category A, Vol. 7, no. 2.
+Literature Cited
+Benson, T. (2013, November). Digital Trends: What is DSLR? Itâ€™s the camera that raises you from amateur to advanced hobbyist. Retrieved from http://www.digitaltrends.com/photography/what-is-a-dslr/
+Cain, A.J. (2014). A classification of living organisms. Encyclopedia Britannica. Retrieved from http://www.britannica.com/EBchecked/topic/584695/taxonomy/48704/A-classification-of-livingorganisms
+Chang, A. (1993, February). Fractals in Biological Systems. Retrieved from http://poignance.coiraweb.com/math/Fractals/FractBio/FractBio.html
+Dean, C. R., et al. (2013, May). Hofstadterâ€™s butterfly and the fractal quantum Hall effect in moirÃ© superlattices. Nature International weekly journal of Science. Retrieved from http://www.eurekalert.org/pub_releases/2013-05/cu-fdp051313.php
+Jeanson, N. T. (2010). New Frontiers in Animal Classification. Retrieved from http://www.icr.org/article/new-frontiers-animal-classification/
+Knowlton, N., and J. B. C. Jackson. (1994). New taxonomy and niche partitioning on coral reeds â€“ jack of all trades or master of some. (Trends Ecol. Evol. 9: 7-9)
+Kumar, S. (February 2013). Role of Butterflies in the Ecosystem. Retrieved from http://justbefirsttoknow.blogspot.com/2013/02/role-ofbutterflies-in-ecosystem.html
+Okubo, P. (2012). Fractal Geometry in the San Andres Fault System. Journal of Geophysical Research: Solid Earth. 92, 345-355. DOI: 10.1029/JB092iB01p00345
+Peng, F., Yu, X., Xu, G., and Xia, Q. (2005, NOvember). Fuzzy Classification Based on Fractal Features for Undersea Image. International Journal of Information Technology, Vol. 11. Retrieved from
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.97.6264&rep=rep1&type=pdf
+Perfect, E. & Kay, B. D. (1995, November). Applications of fractals in soil and tillage research: a review. Soil and Tillage Research, 36 (1-2), 1-20. Retrieved from http://www.sciencedirect.com/science/article/pii/0167198796813973#
+Shashikumar, L. ( 2013, March). Butterflies reflect health of ecosystem. Retrieved from http://www.deccanherald.com/content/316469/butterfliesreflect-health-ecosystem.html
+Spatz, J. (2013, December). The geometry of cancer cells. Max-Planck-Gesellschaft. Retrieved from http://www.mpg.de/7647926/cancer_cell_fractal
+Williams, A. (2009). How to tell the gender of the butterfly. Retrieved from http://animals.pawnation.com/tell-gender-butterfly-6608.html
+Downloads
+full paper
+Published
+2014-06-30
+How to Cite
+Nillama, A. R. P., Borres, M. S., Villeta, R. B., Arco, R. V., & Unabia, J. C. (2014). Validation of Lepidopteran Classification by Morphological Fractal Dimension Analysis. Recoletos Multidisciplinary Research Journal, 2(1). https://doi.org/10.32871/rmrj1402.01.19
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 2 No. 1 (2014)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Most read articles by the same author(s)
+Mark S. Borres,
+Felix M. Diano Jr.,
+Evolutionary Models for the Interaction of the Higher Education Labor Force and Higher Education Market
+,
+Recoletos Multidisciplinary Research Journal: Vol. 3 No. 1 (2015)
+Beverly F. Basalo,
+Mark Ian C. Andres,
+Roramie V. Arco,
+Ricky B. Villeta,
+Joyce C. Unabia,
+Verification on the Impact of Plant Cover Variability to the Anuran Diversity in Bohol, Philippines Using Fractal Analysis
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Mark S. Borres,
+Jergen D. Orias,
+Alvin Mercado,
+A Mathematical Model on Social Integration Explaining Global Suicide Rate Among Men and Women
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Randy K. Salazar,
+Rosario L. Cabillada,
+Mark S. Borres,
+Anthony Jagures,
+Fractal Dimensions of Voice Patterns and Voice Recognition
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Roberto N. Padua,
+Mark S. Borres,
+Randy K. Salazar,
+A Generalized Bootstrap Technique for Dependent Observations
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Mark S. Borres,
+Robert John G. Tupas,
+Joel B. Serad,
+Aspects of Climate Change Induced by Human Activities: Impact on Global Natural Disaster Mortality
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Mark S. Borres,
+Queen Heneylour S. Relatorres,
+Efren O. Barabat,
+Societal Offenders In Prison: Global In-Country Analysis By Fractals
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Roberto N. Padua,
+Mark S. Borres,
+Efren O. Barabat,
+On a Logistic Approximation to the Normal and Other Cumulative Distribution Functions
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Jose D. Velez Jr.,
+Ricky B. Villeta,
+Roberto N. Padua,
+Richard Hao,
+Marielle Colina,
+A Predictive Model on the Spread of HIV in Cebu City
+,
+Recoletos Multidisciplinary Research Journal: Vol. 3 No. 2 (2015)
+Eduardo D. Piedad Jr.,
+Ricky B. Villeta,
+Displacement and Illumination Levels Effect on Short-distance Measurement Errors of Using a Camera
+,
+Recoletos Multidisciplinary Research Journal: Vol. 4 No. 1 (2016)
+1 2 3 > >>
+Similar Articles
+Chris Rudyard F. Naval,
+Kristine June D. Uy,
+Volatility Similarities of Stock Prices within the Same Industries
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+Kristine June D. Uy,
+Chris Rudyard F. Naval,
+Fractal Behavior of Selected Stock Market Prices
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+Kristine June D. Uy,
+Chris Rudyard F. Naval,
+Fractal Volatility of Stock Price Levels
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+You may also start an advanced similarity search for this article.
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

@@ -1,0 +1,110 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/58
+Classification of Marine Seagrasses by Leaf Fractal Dimensions Analysis
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 1 No. 2 (2013)
+/
+Articles
+Classification of Marine Seagrasses by Leaf Fractal Dimensions Analysis
+Authors
+Celso C. Almirol
+Mindanao University of Science and Technology
+Vincent T. Lapinig
+Gov. Alfonso D. Tan College
+Mc Nell O. Sabandal
+Northwestern Mindanao State College, Tangub City
+DOI:
+https://doi.org/10.32871/rmrj1301.02.18
+Keywords:
+leaf fractal dimensions, 											taxonomy, 											sea-grass, 											marine protected area
+Abstract
+This particular study used the fractal dimensions of leaves of sea-grasses that were found near the Marine Protected Area (MPA) of Punta, Panaon, Misamis Occidental to determine if the same can be used for classification purposes. The species of sea-grasses used were: Thalassia hemprichii, Syringodium isoetifolium, and Cymodocea rotundata. Findings revealed that the fractal dimensions can be used to differentiate one seagrass species from another sea-grass species to another species. (f= 6.12, p= 0.015). However, leaf fractal dimensions alone cannot differentiate between (Thalassia hemprichii and Syringodium isoetifolium) while it can differentiate between (Thalassia hemprichii and Cymodocea rotundata) and (Cymodocea rotundata and Syringodium isoetifolium). The results may be due to few samples for each species of sea-grass. The empirical probability of misclassification using the technique is approximately 10.89%.
+References
+A. Schwartz; M. Morrison; I. Hawes; J. Halliday. 2006. Physical and biological characteristics of a rare marine habitat: sub-tidal seagrass beds of offshore islands. Science for Conservation 269. 39 pp.
+A.W.D. Larkum, R.J. Orth, and C.M. Duarte (eds). Seagrass Biology: A Treatise. CRC Press, Boca Raton, FL, in press.
+Aioi, K. and Pollard, P.C. (1993) Biomass, leaf growth and loss rate of the seagrass Syringodium isoetifolium on Dravuni Island, Fiji. Aquatic
+Botany, 46: 283-292.
+Boudon, Godin, Pradal, Puech, Sinoquet (2010). Estimating the fractal dimension of plants using the two-surface method. An analysis based on
+3D-digitized tree foliage.(Forest Science Journal, Vol. 45, 141-149)
+den Hartog, C. 1970. The Sea-grasses of the World. Verhandl. der Koninklijke Nederlandse Akademie van Wetenschappen, Afd.
+Natuurkunde, No. 59(1).
+Devancy, Robert L. 1990. Chaos, fractals and dynamics: computer experiments in mathematics. Menlo Park, CA: Adison â€“Wesley. 178 p.
+Devaney, Robert L. 1988. Fractal patterns arising in chaotic dynamical systems. In: Peitgen, H.O.;
+Saupe, D., eds. The science of fractal images. New York, NY: Springer â€“ Verlag: 137 â€“ 168.
+Duarte, Carlos M. and Carina L. Chiscano â€œSeagrass biomass and production: a reassessmentâ€ Aquatic Botany Volume 65, Issues 1-4, November 1999, Pages 159-174.
+Falconer, Kenneth; Techniques in Fractal Geometry. (John Wiley and Sons, 1997).
+Gouyet, Jean-FranÃ§ois; Physics and Fractal Structures ((Foreword by B. Mandelbrot); Masson, 1996., and New York: Springer-Verlag, 1996).
+Green, E.P. & Short, F.T.(eds). 2003. World Atlas of Seagrasses. University of California Press, Berkeley, CA. 298 pp.
+Hardwick, Richard C. 1990. Ecological power laws. (Nature. 343 â€“ 420).
+Hemminga, M.A. & Duarte, C. 2000. Seagrass Ecology. Cambridge University Press, Cambridge. 298 pp.
+Hogarth, Peter The Biology of Mangroves and Seagrasses (Oxford University Press, 2007)
+Ito, K., ed. 1987. Encyclopedic dictionary of mathematics. 4 vol. 2nd ed. Cambridge, MA: Mathematical Society of Japan. MIT Press. 2,148 p.
+Jones, Jesse; Fractals for the Macintosh, Waite Group Press, Corte Madera, CA, 1993.
+Jonot, P.G.: McNaughton, K.G. 1986. Some remarks on the Hausdorff dimension. In: Cherbit, G., ed. Fractals: non-integral dimensions and
+applications. (New York, NY:John Wiley and Sons: 103 â€“ 119).
+Khilmi, G.F. 1962. Theoretical forest biogeophysics. (Jerusalem, Israel: Israel Program for Scientific Translations. 155 p.)
+Larkum, Anthony W.D., Robert J. Orth, and Carlos M. Duarte (Editors) Seagrasses: Biology, Ecology and Conservation (Springer, 2006)
+Orth, Robert J. et al. â€œA Global Crisis for Seagrass Ecosystemsâ€ BioScience December 2006 / Vol. 56 No. 12, Pages 987-996.
+Padua, R.; Palompon, D.; Ontoy, D.(2012) Data Roughness and Fractal Statistics (CNU Journal of Higher Education Research, CHED-JAS Category A, Vol. 7, no. 2)
+Short, F.T. & Coles, R.G.(eds). 2001. Global Seagrass Research Methods. Elsevier Science, Amsterdam. 473 p.
+Downloads
+full paper
+Published
+2013-12-31
+How to Cite
+Almirol, C. C., Lapinig, V. T., & Sabandal, M. N. O. (2013). Classification of Marine Seagrasses by Leaf Fractal Dimensions Analysis. Recoletos Multidisciplinary Research Journal, 1(2). https://doi.org/10.32871/rmrj1301.02.18
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 1 No. 2 (2013)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

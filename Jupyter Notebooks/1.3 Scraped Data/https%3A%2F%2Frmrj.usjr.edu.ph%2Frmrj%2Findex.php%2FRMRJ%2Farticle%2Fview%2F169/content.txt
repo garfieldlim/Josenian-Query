@@ -1,0 +1,121 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/169
+Screening Indicators for an Improved Faculty Accomplishment
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 4 No. 1 (2016)
+/
+Articles
+Screening Indicators for an Improved Faculty Accomplishment
+Authors
+Juanita M Costillas
+Southern Leyte State University
+http://orcid.org/0000-0002-7840-3411
+Melvin E. Obus
+Southern Leyte State University
+Flordeliza E. Vitor
+Southern Leyte State University
+DOI:
+https://doi.org/10.32871/rmrj1604.01.10
+Keywords:
+faculty accomplishment, 											screened indicators, 											improved accomplishment, 											pca on 	achievement, 											ipoo on faculty accomplishment
+Abstract
+This study determined the indicators for an improved faculty accomplishment based on selected profile (age, the number of years of teaching, performance rating, and salary), Common Criteria for Evaluation or CCE (educational qualification, professional achievements, and academic experience) and Qualitative Contribution Evaluation (QCE) ratings. One hundred percent (160) of faculty with ratings in the NBC- 461 6th cycle comprised the respondent which was evidently adequate as sample based on Kaiserâ€“Meyerâ€“Olkin (KMO) results. The Bartlettâ€™s test of sphericity indicates that variables are well-defined for Principal Component Analysis (PCA). The pre-defined indicators were categorized as indexes labeled as Input-Process-Output-Outcome. Results show that change in the Outcome of HE varies depending on the variables involved in the analysis. Considering full data, data with QCE and data of senior faculty, Inputs, Processes, and Outputs significantly contribute towards an improved (Outcome) faculty accomplishment (FA). The analysis on junior faculty (JF), showed that only Inputs and Outputs were significantly affecting change on Outcome of HE. Moreover, the most significantly affecting indicators towards faculty accomplishments are performance rating, age, and number of years of teaching. Then educational qualification followed, next are professional achievement and academic experience, and lastly the QCE.
+Author Biography
+Juanita M Costillas, Southern Leyte State University
+Juanita M. Costillas is a Professor 5 of Southern Leyte State University.-Main Campus of Sogod, Southern Leyte, Philippines who finished her Doctor of Philosophy in Mathematics Education from the University of the Philippines Open University, Los, BaÃ±os, Laguna. She finished her Master of Arts in Mathematics at the University of the Philippines, Diliman, Quezon City and her Bachelor of Secondary Education major in Mathematics at Saint Joseph College, Maasin City, Southern Leyte. She is a two-time Faculty of the Year awardee in her university (2012 and 2017), a Lingkod Bayan awardee(2013), and a Regional Research In-house Review first placer (2006). Her work in research cut across various disciplines but most are focused on Mathematics Education both in pedagogical and management aspects. She verified the contribution of contextualised teaching on improving the problems solving skills of students in Mathematics. In addition, she was able to make connections between traditions and algebra through an explanation of Finger Mathematics, a traditional routine in getting product of two numbers using fingers, through Binomial Expansion. She further analyzed how Brain-Based Teaching facilitates and sustain critical thinking. Due to the emerging use of technology in teaching Mathematics, she is working on Hybrid Modality of Learning (HML) in a blended context, its effects on critical thinking and problem-solving skills among students. Having exposed to administrative functions for 16 years, she is doing researches on modeling instructional competence via leadership practices among faculty designated with administrative functions and other related studies. She is currently working on researches about money value such as computing marginal rate of return of governmentâ€™s investment on instruction among State Universities and Colleges in the Philippines, screening indicators of faculty accomplishments, and others.
+References
+Al-Hussami M., Saleh M.Y.N. ,Abdalkader R.H. & Mahadeen, A.I. (2011). Predictors of
+Nursing Faculty Membersâ€™ Organizational Commitment in Governmental Universities.
+Journal of Nursing Management19, 556â€“566.
+Bass, J. (2001). Faculty Compensation Systems: Impact on the Quality of Higher Education. ASHE-ERIC Higher Education Report, Volume 28, Number 2.
+Boyd, D.J., Lankford,Hm, Loeb, S., Rockoff, J.E., and Wyckoff, J.H. (2007.) â€œThe Narrowing Gap in New York City Teacher Qualifications and Its Implications for Student Achievement in High-Poverty Schools.â€ CALDER Working Paper 10. Washington, DC: The Urban Institute.
+Clotfelter, C.T., Ladd, H.F., and Vigdor, J.L.(2007a). â€œHow and Why Do Teacher Credentials Matter for Student Achievement?â€ CALDER Working Paper 2. Washington, DC: The Urban Institute.
+Clotfelter, C.T., Ladd, H.F., and Vigdor, J.L. (2007b). â€œTeacher Credentials and Student Achievement in High School: A Cross-Subject Analysis with Student Fixed Effects.â€ CALDER Working Paper 11. Washington, DC: The Urban Institute.
+Dill, D. and F. Van Vught (eds) (2010), National Innovation and the Academic Research 	Enterprise; Public Policy in Global Perspective, the Johns Hopkins University Press, 	Baltimore.
+Garvin, D.D. 1998. The Processes of Organization and Management. MITSloan Management
+Review.http://sloanreview.mit.edu/article/the-processes-of-organization-and-	management/
+Griffin, C.C., Kilgore, K.L, Winn, J.A., Wilborn, A.O., Hou, W. &Garvan, C.W. (2015). First Year Special Educators: The Influence of School and Classroom Context Factors on their Accomplishments and Problems. June 14, 2015 5: 2158244015589994.
+Harris, D.N., and T.R. Sass. (2007). â€œTeacher Training, Teacher Quality, and 	Student 	Achievement.â€ CALDER Working Paper 3. Washington, DC: The Urban Institute.
+Jollifee, I.T. 2002. Principal Component Analysis, 2nd Edition. USA: Springer-Verlag	New 	York, Inc.
+Kane, T.J., Rockoff, J.E. and D.O. Staiger. (2006). â€œWhat Does Certification Tell Us about Teacher Effectiveness? Evidence from New York City.â€ Working Paper 12155. Cambridge, MA: National Bureau of Economic Research.
+Lackritz, J.R. (2004). Information and Decision Systems, San Diego State University, San 	Diego, CA 92182-8234, USA. Available online 28 September 2004
+Ladd, H.F. (2008). â€œValue-Added Modeling of Teacher Credentials: Policy Implications.â€ Paper presented at the second annual CALDER research conference, â€œThe Ins and Outs of Value-Added Measures in Education: What Research Says,â€ Washington, D.C., November 21. http://www. caldercenter.org/upload/Sunny_Ladd_	presentation.pdf.
+Memorandum Circular 17, s. 2013. Civil Service Commission.
+National Budget Circular No. 461 Guidelines. June 1, 1998. Department of Budget and Management.
+Ramsden, P. (2006). A performance indicator of teaching quality in higher education: The Course Experience Questionnaire. Journal on Studies in Higher Education. Volume 	16, 	1991 - Issue 2. August 5, 2006.
+Reece, E. A., Nugent, O., Wheeler, R.P., Smith, C. W., Hough, A.J.,Winter, C. (2008). Adapting Industry-Style Business Model to Academia in a System of 	Performance-Based Incentive Compensation. Association of American Medical Colleges. January 2008;83(1):76-84.
+Rise, JK. (2010). The impact of teacher experience: examining the evidence and policy implications. National Center for Analysis of Longitudinal Data in Education Research. Calder Urban Institute. BRIEF 11. August 2010.
+Sass, T.R. (2007). â€œThe Determinants of Student Achievement: Different Estimates for Different Measures.â€ Paper presented at the first annual CALDER research conference, Washington, D.C., October 4.
+Sass, T.R., Zeyu Xu, J.H., Figlio, D.N., and Feng, L. (2010). â€œValue Added of Teachers in High-Poverty Schools and Lower-Poverty Schools.â€ CALDER Working Paper 52. Washington, DC: The Urban Institute.
+Smock, P.J. and R. Stephenson.(n.d.). Giving and Getting Career Advice: A Guide for Junior and Senior Faculty. The Advance Program. University of Michigan. Retrieved: April 15, 2017 @ advanceprogram@umich.edu.
+Stufflebeam, D. L. (2003). The CIPP model for evaluation. In D. L. Stufflebeam& T. Kellaghan	(Eds.). The international handbook of educational evaluation (Chapter 2). Boston, MA: Kluwer Academic Publishers.
+Tang, T.LP. (1997). Teaching Evaluation at a Public Institution of Higher Education: Factors Related to the Overall Teaching Effectiveness. 	doi: 10.1177/009102609702600307Public Personnel Management September 1997 vol. 26 no. 3 379-389
+Downloads
+PDF
+Published
+2016-06-30
+How to Cite
+Costillas, J. M., Obus, M. E., & Vitor, F. E. (2016). Screening Indicators for an Improved Faculty Accomplishment. Recoletos Multidisciplinary Research Journal, 4(1). https://doi.org/10.32871/rmrj1604.01.10
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 4 No. 1 (2016)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Similar Articles
+Eduardo D. Piedad Jr.,
+Marc Edwin F. Montilla,
+Mark Joseph E. Ortega,
+Optimal Scheduling of Battery Energy Storage for Grid-Connected Load Using Photovoltaic System (PV) via Binary Particle Swarm Optimization (BPSO)
+,
+Recoletos Multidisciplinary Research Journal: Vol. 4 No. 2 (2016)
+You may also start an advanced similarity search for this article.
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

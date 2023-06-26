@@ -1,0 +1,161 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/34
+Air Pollution Attributable Deaths: A Global View Through Fractal Analysis
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 2 No. 1 (2014)
+/
+Articles
+Air Pollution Attributable Deaths: A Global View Through Fractal Analysis
+Authors
+Melvin R. de Castro
+University of San Jose-Recoletos
+Tonette M. Villanueva
+University of San Jose-Recoletos
+Grace C. Arcamo
+University of San Jose-Recoletos
+Rayna Lynn R. de Castro
+Saint Paul University Dumaguete
+DOI:
+https://doi.org/10.32871/rmrj1402.01.16
+Keywords:
+air pollution, 											attributable death, 											global fractal analysis, 											particulate matter, 											fractal dimension
+Abstract
+Air pollution is a global public health threat which requires in depth analysis forpolicy making. It contributes to the mortality in many urban areas. This study compares the variability of the clustered urban areas based on World Health Organization (WHO) region classified in terms of exposure to particulate matter with an aerodynamic diameter of 10 Î¼m or less (PM10) from 2003-2010 and validated through its attributable death from 2004 & 2008. These diverse data were subjected for analysis employing fractal geometry and fractal statistics to compute its respective fractal dimensions. The purpose of such comparison is to validate a possible causative factor of the mortality. Findings revealed that the region with high variability in terms of fractal dimension in air pollution also displays more varied attributable death. This pattern is both demonstrated in all region. The paper concludes that the policies on environmental conservations in controlling air pollution and health care delivery system greatly contributes to the high fractal dimension of air pollution attributable death.
+Author Biographies
+Melvin R. de Castro, University of San Jose-Recoletos
+is a Registered Nurse, graduated from St. Paul University Dumaguete, Philippines in 2007. He worked as full time faculty at the College of Nursing, University of San Jose-Recoletos from 2008 until present. He also finished his Master of Science in Nursing major in Medical Surgical Nursing in March 2011 at Cebu Normal University. He is also a licensed teacher graduated with Diploma in Professional Secondary Education at Cebu Normal University. He is currently a doctorand candidate in Doctor of Science in Nursing major in Gerontology Nursing at Cebu Normal University. He also presented research studies locally and internationally such as De La Salle University-Manila, College of St. Benilde, La Consolacion University of the Philippines in Malolos, Bulacan and Cebu Normal University during the 2nd International Conference for Nursing Students (ICONS). He bagged Best in Podium Presentation at Cebu Normal University during its 2nd University Research Congress in June 2012.
+Tonette M. Villanueva, University of San Jose-Recoletos
+is a Professional Teacher and a Registered Nurse, graduated from Nursing Department, University of the Visayas in 2005. He received his Masters in Nursing at Cebu Normal University in 2010. Currently, he is doing his dissertation in Ph.D. in Education Major in Research and Evaluation. He teaches at he University of San Jose- Recoletos since 2006. He handles the following subjects: Psychiatric Nursing, Elective, Nursing Research and Related learning experience. Since 2011, he became one of the research anchors of the College of Nursing. He presented some of his studies in national and international academic conferences.
+Grace C. Arcamo, University of San Jose-Recoletos
+is a nurse by profession, a graduate of pioneering class 1977 class of UV College of Nursing. Her nursing service accounted since 1977-1985. Her experience as Headnurse in Camp Lapu-Lapu Station Hospital, Lahug Cebu City enriched her to venture abroad from 1985- 1994 in Afif General Hospital, Kingdom of Saudi Arabia as Operating Room Nurse and Recovery Room Nurse for nine (9) years, thereon went back to Philippines to pursue her Master of Arts in Nursing 2008. She pursued further studies and earned Master of Arts in Nursing 2008. Onward she earned the two (2) degrees of Ph. D. TM. 2011 and Dr. Dev. Ed. 2013, Currently, she is on her 3rd degree, Dr. of Science in Nursing at CNU to suffice her verticalization. She started to participate on International Research Presentation in 4th Taiwan Research Conference as Podium presenter at University of San Carlos 2011 and in International Conference in Interdisciplinary Research at La Consolacion, Bulacan 2012 as Podium Presenter; Session Judge for three Plenary Sessions. Won as Co-Author and adviser as 1st place and 2nd place in ICON Presentation on the study, Moringa Olifera, Its antibiotic Effect and 2nd place on poster presentation on the study, Methods of Waste Disposal on Selected Hospitals in Cebu held at CNU 2012. Garnered 1st place as co-author in poster presentation in CVGH-DOST Research Conference with the study, Methods of Waste Disposal on Selected Hospitals in Cebu and got 2nd place as co-author for Moringa Olifera, Its Antibiotic Effect in same research conference held at Cebu Doctors Hospital 2013. Won 1st prize as co-author on Cardiac Standstill on Patient Demise, 2014 at Marcopolo, Cebu.
+Rayna Lynn R. de Castro, Saint Paul University Dumaguete
+is a graduate of Bachelor of Science in Nursing at Saint Paul University Dumaguete in the year 2005. On that same year, she was awarded as Best in Elocution. In the year 2012, she also finished her Master of Arts in Nursing major in Psychiatric Nursing and minor in Medical-Surgical Nursing at Saint Paul University Dumaguete with her thesis entitled â€œThe Lived Experience of Children with Incarcerated Mothers.â€ The researcher was very active in research as evidenced on her participation in many prestigious international and national nursing conferences here and abroad. She presented her thesis during the 3rd International Conference of Nurses. The researcher is a hardworking and diligent person, full of dynamism and enthusiasm in the field of research.
+References
+Bruce, N., Perez-Padilla, R., & Albalak, R. (2000). Indoor air pollution in developing countries: A major environmental and public health challenge. World Health Organization.Bulletin of the World Health Organization, 78(9), 1078-92.
+Brunekreef, B., & Holgate, S. T. (2002). Air pollution and health. The lancet, 360(9341), 1233-1242.
+Chen, B., & Kan, H. (2008). Air pollution and population health: A global challenge. Environmental Health and Preventive Medicine, 13(2), 94-101.
+doi:http://dx.doi.org/10.1007/s12199-007-0018-5
+Chen, Mengersen, Tong (2007) Spatiotemporal relationship between particle air pollution and respiratory emergency hospital admission in
+Brisbane Australia, The Science of the total environment, 373, 57-67
+Daniels, M., Dominici, F., Samet, J., & Zeger, S.(2000). Estimating particulate matter-mortality dose response curves and threshold levels:an analysis of daily time-series for the 20 largest US cities.
+American Journal Epidemiology ;152:397-406
+Environmental Protection Aunthority (n.d). Air Polluiton. Retrieved from http://students. southmountaincc.edu/NR/rdonlyres/C813AB47-30B2-4F30-99F3-4B7FC14541A1/3281/StudentBinder.pdf
+Hooper, S. (2006). The end of the road for the car?.Retrieved from http://edition.cnn.com/2006/WORLD/europe/09/22/tbr.cars/
+Jerrett, M., Burnett, R., Pope, A., Ito, K., Thurston, G., Krewski,D., Shi, Y., Calle, E., & Thun, M. (2002). Lung cancer, cardiopulmonary mortality, and long-term exposure to fine particulate air pollution. Journal of the American Medical Association ;287:1132-41
+Kan, Chen & Jia (2003) A case-cross over study of ambient air pollution and daily mortality in Shang Hai, Zhonghua Liu Xing Bing Za Zhi 24,
+863-7
+Kelly, F. J. (2003). Oxidative stress: Its role in air pollution and adverse health effects. Occupational and Environmental Medicine, 60(8), 612-6.
+Krzyzanowski, M., Cohen, A., & Anderson, R. (2002). Quantification of health effects of exposure to air pollution. Occupational and Environmental Medicine, 59(12), 791-3.
+Kunzli, N, Kaiser, R., Medina, S., Studnika, M., Chanel, O., Fillinger, P. Herry, M., Horal, F. Puybonnieux-Texier, V., Quenel, P., Schneider, J. Seethaler, R. Verganaud, J. & Sommer, H. (2000) Public Health impact of outdoor and traffic related air pollution: a European assessment. Lancet, 356,795-801
+Kunzli, N., Kaiser, R., Medina, S., Studnicka, M., & al,e. (2000). Public-health impact of outdoor and traffic-related air pollution: A European
+assessment. The Lancet, 356(9232), 795-801.
+Myers, C., & Green, T. (2002). Medical advancement determine health-system capacity requirements. Healthcare Financial Management, 56(3), 36-9.
+Nagdeve, D., & International Institute for Population Sciences (2004). Urban Air Pollution and its Influence on Health in India. IIPS Mumbai, ENVIS center, Volume 1, No. 3
+Naidu, S., & Chand, A. (2013). Does central government health expenditure and medical technology advancement determine economic growth rates in the pacific island countries? Asia - Pacific Journal of Business Administration, 5(3), 234-245.
+Navrud, S. (2001). Valuing health impacts from air pollution in europe. Environmental and Resource Economics, 20(4), 305-329.
+Padua, R., Adanza, J. G., Mirasol, J. M. (2013) â€œFractal Statistical Inferenceâ€ (The Threshold, CHED-JAS Category A Journal, pp. 36- 44).
+Padua, R. & Barabat, E. (2013) â€œ On the Properties of Multifractal Spectrumâ€ (The Recoletos Journal of Higher Education, Vol. 1, No.1, Research Journal of the University of San Jose Recoletos, CHED-JAS
+Category B, pp. 78-89)
+Pearson, B. (2013). Air Pollution. Dallas/ Fort Worth Healthcare daily. Retrieved from http://healthcare.dmagazine.com/2013/09/24/airpollution/
+Pope, A. (2004). Air Pollution and Health â€” Good News and BadNewEengand. Journal Medicine 351;11 www.nejm.org
+Schwelm D. ( 2007) Review of Urban Air quality in Sub-Saharan Africa. Clean Air Initiative in Sub-Saharan African Cities, The World Bank, Washington, D.C.
+Wang, X. Y., Hu, W., & Tong, S. (2009) Long-term exposure to gaseous air pollutants and cardio-respiratory mortality in Brisbane, Australia. Geospatial Health, 3(2), pp. 257-263.
+Ward, N. (2003). Environmental policy-making in Britain, Germany and the European union: The europeanisation of air and water pollution
+control. The Geographical Journal, 169, 383-384.
+World Health Organization Map Production. (2004, 2008). Retrieved on October 15, 2013.
+World Health Organization Map Production. (2012). Public Health Information System and Geographic Information System. Retrieved on October 15, 2013.
+Xiao-yu Wang (2008). Spatial analysis of long term exposure to air pollution and cardiorespiratory mortality in Brisbane Australia
+Downloads
+full paper
+Published
+2014-06-30
+How to Cite
+de Castro, M. R., Villanueva, T. M., Arcamo, G. C., & de Castro, R. L. R. (2014). Air Pollution Attributable Deaths: A Global View Through Fractal Analysis. Recoletos Multidisciplinary Research Journal, 2(1). https://doi.org/10.32871/rmrj1402.01.16
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 2 No. 1 (2014)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Most read articles by the same author(s)
+Melvin R. de Castro,
+Tonette M. Villanueva,
+Performance on the Philippine Nursesâ€™ Licensure Examination: Variability and Roughness Analysis
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Tonette M. Villanueva,
+Jessica M. Avenido,
+Juanito B. AliÃ±o Jr.,
+Melvin R. de Castro,
+The Satisfaction Congruency Theory: The Case of Sexual Satisfaction
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Melvin R. de Castro,
+Tonette M. Villanueva,
+Ronnie B. Gonzalve,
+Life Expectancy Simulation Model among HIV (Human Immunodeficiency Virus)-Infected Individuals: A Monte Carlo Approach
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 2 (2014)
+Tonette M. Villanueva,
+Melvin R. de Castro,
+Brian A. Vasquez,
+Social, Economic, Political and Quality of Life across Human Immunodeficiency Virus
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 1 (2013)
+Similar Articles
+Glenn G. Pajares,
+Percia A. Leyte,
+Richard B. Fernandez,
+The Anglo-American Elements in Jose Rizalâ€™s Poem Education Gives Luster to the Motherland
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+You may also start an advanced similarity search for this article.
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

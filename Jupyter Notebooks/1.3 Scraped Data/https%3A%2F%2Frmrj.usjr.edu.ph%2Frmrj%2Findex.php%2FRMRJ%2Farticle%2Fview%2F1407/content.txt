@@ -1,0 +1,146 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/1407
+Digital Finance on Stability among Philippine Banks
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 10 No. 2 (2022)
+/
+Articles
+Digital Finance on Stability among Philippine Banks
+Authors
+Albie Mae G. Sumaylo
+University of San Jose Recoletos, Cebu City, Philippines
+https://orcid.org/0000-0002-0695-4062
+Christine Mae S. Babon
+University of San Jose Recoletos, Cebu City, Philippines
+https://orcid.org/0000-0002-2343-2629
+Marivic L. Bayaras
+University of San Jose Recoletos, Cebu City, Philippines
+https://orcid.org/0000-0002-0880-5554
+Ella Michelle E. Pedrigal
+University of San Jose Recoletos, Cebu City, Philippines
+https://orcid.org/0000-0003-1520-9694
+Aleshia Klyne S. Pening
+University of San Jose Recoletos, Cebu City, Philippines
+https://orcid.org/0000-0002-4314-1108
+Mary Joy C. Teodosio
+University of San Jose Recoletos, Cebu City, Philippines
+https://orcid.org/0000-0002-9437-1528
+Jesse S. Susada
+University of San Jose Recoletos, Cebu City, Philippines
+https://orcid.org/0000-0003-1563-1377
+DOI:
+https://doi.org/10.32871/rmrj2210.02.07
+Keywords:
+digital financial inclusion , 											BSP National Retail Payment System, 											universal banks , 											commercial banks, 											bank stability
+Abstract
+To promote financial inclusivity while being responsive to technology demands, the Philippine government implemented a framework that requires banks to improve and innovate their payment systems. The introduction of the National Retail Payment System raises the question of whether the aim of Bangko Sentral ng Pilipinas in advancing digital financial inclusion significantly impacts the financial stability of universal and commercial banks. This correlational study examines the impact of digital financial inclusion on bank stability utilizing principal component analysis and linear regression analysis from a dataset of 19 universal and commercial banks from 2017 to 2019. Findings showed that a higher level of digital financial inclusion is associated with higher banking stability for Philippine universal and commercial banks. While the results support the study hypothesis of a positive relationship between the two (2) variables, the statistical significance cannot be guaranteed at the outset of this analysis due to the limited number of years examined.
+References
+Achieng, O. C., Karani, K. P., & Tabitha, N. (2015). Financial innovation and the future of financial intermediation. International Journal of Education and Research, 3(5), 386-396. https://www.ijern.com/journal/2015/May-2015/33.pdf
+Agufa, M. M. (2016). The effect of digital finance on financial inclusion in the banking industry in Kenya. University of Nairobi Research Archive. http://erepository.uonbi.ac.ke/handle/11295/98616
+Ahamed, M. M., & Mallick, S.K. (2019). Is financial inclusion good for bank stability? International evidence. Journal of Economic Behavior & Organization, 157, 403-427. https://doi.org/10.1016/j.jebo.2017.07.027
+Akhisar, I., & Tunay, K.B., & Tunay, N. (2015). The effects of innovations on bank performance: The case of electronic banking services. Procedia - Social and Behavioral Sciences, 195, 369-375. https://doi.org/10.1016/j.sbspro.2015.06.336
+Bangko Sentral ng Pilipinas. (2017). Adoption of national retail payment center (NRPS) framework [Circular No.980 Series of 2017]. https://www.bsp.gov.ph/Regulations/Issuances/2017/c980.pdf?fbclid=IwAR1dZTmcGyD61DoLUdgzZ4fJoVUQrQ83bruxWkFpTp88C-8-QY8eez5BveU
+Bangko Sentral ng Pilipinas (2019). 2019 Financial inclusion survey. https://www.bsp.gov.ph/Inclusive%20Finance/Financial%20Inclusion%20Reports%20and%20Publications/2019/2019FISToplineReport.pdf?fbclid=IwAR1WtFAGab0aTLDjYJ2aONhEfMLoP8yShbIzAawfHOW8-8L6UfAtbjyVdZE
+Banna, H., & Alam, M. R. (2021). Is digital financial inclusion good for bank stability and sustainable economic development? Evidence from emerging Asia. Asian Development Bank. https://www.adb.org/publications/digital-financial-inclusion-good-bank-stability-sustainable-economic-development-asia
+Bevans, R. (2020, February 20). Multiple linear regression | A quick guide (examples). Scribbr. Retrieved November 15, 2021, from https://www.scribbr.com/statistics/multiple-linear-regression/
+Bhandari, P. (2021, July 7). Correlational research. When & how to use it. Scribbr. Retrieved November 13, 2021, from https://www.scribbr.com/methodology/correlational-research/
+BSP digital payments transformation roadmap 2020-2023. (n.d.). Retrieved November 13, 2021, from https://www.bsp.gov.ph/Media_And_Research/Primers%20Faqs/Digital%20Payments%20Transformation%20Roadmap%20Report.pdf
+Caputo, S. (2019, August 20). The pivotal role of mobile money agents in driving financial inclusion. GSMA. Retrieved November 13, 2021, from https://www.gsma.com/mobilefordevelopment/blog/the-pivotal-role-of-mobile-money-agents-in-driving-financial-inclusion/?fbclid=IwAR0snkdvpHvSBE48Qkimi8NjCdAdw_b_65rXiXvpTEs727e3wzYcpSgEDqs
+Čihák, M., Mare, D.S., & Melecky, M. (2016). The nexus of financial inclusion and financial stability: A study of trade-offs and synergies [Policy Working Paper No. 7722]. Open Knowledge Repository. https://openknowledge.worldbank.org/handle/10986/24639?locale-attribute=fr
+Danisman, G.O., & Tarazi, A. (2020). Financial inclusion and bank stability: Evidence from Europe. The European Journal of Finance, 26(18), 1842-1855. https://doi.org/10.1080/1351847X.2020.1782958
+Demirguc-Kunt, A., Klapper, L., Singer, D., Ansar, S., & Hess, J. R. (2018). The global findex database 2017 : Measuring financial inclusion and the fintech revolution. The World Bank. https://documents.worldbank.org/en/publication/documents-reports/documentdetail/332881525873182837/the-global-findex-database-2017-measuring-financial-inclusion-and-the-fintech-revolution
+Diokno, B. (2020, November 11). Accelerating digital transformation in the COVID-19 era digital transformation in the financial services and navigating through the pandemic. Bangko Sentral ng Pilipinas. https://www.bsp.gov.ph/SitePages/MediaAndResearch/SpeechesDisp.aspx?ItemIt=76
+Durai, T., & Jesus, S.G. (2019). Digital finance and its impact on financial inclusion. Researchgate. https://www.researchgate.net/publication/330933079_DIGITAL_FINANCE_AND_ITS_IMPACT_ON_FINANCIAL_INCLUSION
+Ezzahid, E., & Elouaourti, Z. (2021). Financial inclusion, mobile banking, informal finance and financial exclusion: micro-level evidence from Morocco. International Journal of Social Economics, 48(7), 1060-1086. https://doi.org/10.1108/IJSE-11-2020-0747
+GCash Resource. (2020, July 27). How to cash-in from your bank account (and unlock higher wallet limits). https://gcashresource.com/how-to-cash-in-from-your-bank-account/
+The General Banking Law of 2000, 11th Congress, 2nd Regular Session (2000). https://lawphil.net/statutes/repacts/ra2000/ra_8791_2000.html
+Kemp, S. (2019, January 31). Digital 2019: The Philippines. DataReportal. https://datareportal.com/digital-in-the-philippines?rq=philippines&fbclid =IwAR3meQG1OTAfMnK_qU7PK-uzN-Jy5iaysBVWvL6OQpPzrKljnbEppKSogR8
+Khera, P., Ng, S.Y., Ogawa, S., & Sahay, R. (2021). Is digital financial inclusion unlocking growth? [Working Paper No. 2021/167]. https://www.elibrary.imf.org/configurable/content/journals$002f001$002f2021$002f167$002farticle-A001-en.xml?t%3Aac=journals%24002f001%24002f2021%24002f167%24002farticle-A001-en.xml
+Kim, H., Batten, J. A., & Ryu, D. (2020). Financial crisis, bank diversification, and financial stability: OECD countries. International Review of Economics & Finance, 65, 94-104. https://doi.org/10.1016/j.iref.2019.08.009
+Kithinji, E. (2017). Effects of digital banking strategy on financial inclusion among commercial banks in Kenya. University of Nairobi Research Archive. http://erepository.uonbi.ac.ke/handle/11295/102435#:~:text=The%20digital%20banking%20strategies%20had,over%20the%205%2Dyear%20period
+Massally, K.N., & Ricart, R.M. (2019). The state of digital payments in the Philippines. https://btca-production-site.s3.amazonaws.com/documents/436/english_attachments/The_State_of_Digital_Payments_in_the_Philippines.pdf?1577119102
+Morales, R. A. (2022, May 11). The Banking regulation review: Philippines. The The Law Reviews. https://thelawreviews.co.uk/title/the-banking-regulation-review/philippines
+Ozili, P.K. (2018). Impact of digital finance on financial inclusion and stability. Borsa Istanbul Review, 18(4), 329-340. https://doi.org/10.1016/j.bir.2017.12.003
+Philippine Deposit Insurance Corporation. (2018). A new horizon: 2018 annual report. https://bit.ly/3WUSzLe
+Philippines: Inflation rate from 1987-2027. (n.d.). Statista. Retrieved April 26, 2022, from https://www.statista.com/statistics/578717/inflation-rate-in-philippines/
+Silber, W. L. (1983). The process of financial innovation. The American Economic Review, 73(2), 89-95. https://www.jstor.org/stable/pdf/1816820.pdf
+Villanueva, J. (2021, October 12). Gov’t boosts digital payments adoption in PH. Philippine News Agency. https://www.pna.gov.ph/articles/1156422?fbclid=IwAR19lHGHRERSiNh2G61zpg6IxMpzripPkZju7oPW3WO1-UJVDVhycn6vLtU
+Vineeth. (2021). ATM - Automated Teller Machine. ClearTax. https://cleartax.in/g/terms/automated-teller-machine-atm
+Visa Inc. (2017). More Filipinos using their smartphones for mobile banking and payments – Visa Study. https://www.visa.com.ph/about-visa/newsroom/press-releases/more-filipinos-using-their-smartphones-for-mobile-banking-and-payments-visa-study.html
+Vo, D.H., Nguyen, N.T., & Van, L.T.H. (2021). Financial inclusion and stability in the Asian region using bank-level data. Borsa Istanbul Review, 21(1), 36-43. https://doi.org/10.1016/j.bir.2020.06.003
+Downloads
+FULL PAPER
+Published
+2022-12-31
+How to Cite
+Sumaylo, A. M. G., Babon, C. M. S., Bayaras, M. L., Pedrigal, E. M. E., Pening, A. K. S., Teodosio, M. J. C., & Susada, J. S. (2022). Digital Finance on Stability among Philippine Banks. Recoletos Multidisciplinary Research Journal, 10(2), 63–73. https://doi.org/10.32871/rmrj2210.02.07
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 10 No. 2 (2022)
+Section
+Articles
+License
+Copyright (c) 2022 University of San Jose-Recoletos
+This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Most read articles by the same author(s)
+Jesse S. Susada,
+Marisa A. Mahilum,
+Dionisel Y. Regalado,
+Simulation Model for the Maintenance of Government and Private Facilities in the Philippine Context
+,
+Recoletos Multidisciplinary Research Journal: Vol. 3 No. 1 (2015)
+Jessica M. Avenido,
+Jesse S. Susada,
+Efren O. Barabat,
+Classical-Romantic Compositions: A Musical Variation Analysis
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

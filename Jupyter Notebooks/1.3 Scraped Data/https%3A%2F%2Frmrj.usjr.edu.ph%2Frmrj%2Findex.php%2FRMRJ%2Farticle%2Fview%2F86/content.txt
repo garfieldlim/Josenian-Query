@@ -1,0 +1,174 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/86
+The Ubiquity of Statistical Fractal Observations
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 1 No. 1 (2013)
+/
+Articles
+The Ubiquity of Statistical Fractal Observations
+Authors
+Roberto N. Padua
+Randy K. Salazar
+University of San Jose-Recoletos
+DOI:
+https://doi.org/10.32871/rmrj1301.01.11
+Keywords:
+fractal, 											self â€“ similar, 											statistical data
+Abstract
+The natural world is recognized to be fractal: from the growth of a leaf to how the trees propagate to form a forest, the neural networks, the DNA and the galaxies in space. The patterns and geometry that nature creates seem familiar and predetermined; actually it is random and unpredictable. It is this characteristic that made fractals a convenient method for such studies. Insights into the unpredictability could be a key in understanding the natural random events, like earthquakes, typhoons and other more subtle, natural occurrence like growths and cell developments. Data in different studies have always been thought of as normally distributed; however, recent investigations found that most of these statistical data are non-normal, and in a lot of cases are found to be fractal. According to Padua et al 2013, statistical fractal observations are random observations that possess stochastically self-similar patterns at various scale. In this light, this paper aims to illustrate the pervasiveness of statistical fractal observations in real-life by examining old data sets that used to be modeled in the framework of normal distribution theory. Samples of such observations will be presented in this paper.
+Author Biographies
+Roberto N. Padua
+Dr. Roberto Natividad Padua, scientist, received his PhD in Mathematical Statistics from Clemson University, South Carolina, USA under the Fullbright-Hays scholarship grant. He is an accomplished author, a multi-awarded researcher and an internationally acclaimed lectured. Dr. Padua is a former Commissioner of CHED and currently a consultant to several State and Private Universities, conducting lectures on research and Fractal Statistics. Dr. Padua is a Summa cum Laude, BS in Mathematics Teaching graduate from the Philippine Normal College under the National Science Development Board (NSDB) program. He obtained his MS in Mathematics Education Degree from the Centro Escolar University as a Presidential Scholar.
+Randy K. Salazar, University of San Jose-Recoletos
+Randy K. Salazar, Mechanical Engineer, Assistant Professor of the University of San Jose Recoletos teaching Mechanical Engineering. Holder of a Masters in Science in Management Engineering from the University of San Jose Recoletos and finishing his Masters degree in Mechanical Engineering â€“ Dynamic Design Systems at the University of San Carlos.
+References
+Huber, P. J. (1981) Robust Statistics. New York: John Wiley and Sons.
+Johnson, R. & Wichern W. (2000) Applied Multivariate Statistics, Wiley Series: New York.
+Mandelbrot, B. (Ed.), The Fractal Geometry of Nature,
+Freeman, New York, 1983, 14-57.
+Stigler, S.M (1977). Do Robust Estimators Work with Real
+Data?,The Annals of Statistics, 5(6), 1055-1098.
+Box, G.E.P.,& Cox, D.R.(1964). AnAnalysisofTransformations, Journal of the Royal Statistical Society, B, 26, 211-246.
+Padua, R., Adanza, J. G.& Mirasol, J. M.(2013). FractalStatistical
+Inference. The Threshold, CHED-JAS Category A Journal, 36-44.
+Padua, R., Barabat, E.& Regalado, D.Y.(2013). ASimpleTestfor Mono and Multifractality of Statistical Observations, NORSU Prism Journal of Higher Education, CHED-JAS Category B, 23-24.
+Family Income by Class. National Statistic Office. (Retrieved February 22, 2013 from http://census.gov. ph/sites/default/ files)
+Philippine Seismic Data: 2011 â€“ 2013. (Retrieved May 9, 2013, from http://www.phivolcs.dost.gov.ph/html/update_SOEPD/EQLatest.html)
+Selvam, A.M. (2008), Fractal Fluctuations and Statistical Normal Distribution.
+Six Annual Fasting and One Hour Post Glucose Blood Sugars. (Retrieved April 16, 2013 from http://lib.stat.cmu.edu/datasets/Andrews)
+Yield of Grain from Each of 1,500 Fifteen-foot Rows of Wheat. (Retrieved April 16, 2013 from http://lib.stat.cmu.edu/datasets/Andrews)
+Downloads
+PDF
+Published
+2013-06-18
+How to Cite
+Padua, R. N., & Salazar, R. K. (2013). The Ubiquity of Statistical Fractal Observations. Recoletos Multidisciplinary Research Journal, 1(1). https://doi.org/10.32871/rmrj1301.01.11
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 1 No. 1 (2013)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Most read articles by the same author(s)
+Randy K. Salazar,
+Rosario L. Cabillada,
+Mark S. Borres,
+Anthony Jagures,
+Fractal Dimensions of Voice Patterns and Voice Recognition
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Roberto N. Padua,
+Mark S. Borres,
+Randy K. Salazar,
+A Generalized Bootstrap Technique for Dependent Observations
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Roberto N. Padua,
+Mark S. Borres,
+Efren O. Barabat,
+On a Logistic Approximation to the Normal and Other Cumulative Distribution Functions
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Jose D. Velez Jr.,
+Ricky B. Villeta,
+Roberto N. Padua,
+Richard Hao,
+Marielle Colina,
+A Predictive Model on the Spread of HIV in Cebu City
+,
+Recoletos Multidisciplinary Research Journal: Vol. 3 No. 2 (2015)
+Randy K. Salazar,
+Josephine E. Petralba,
+Fractal Analysis of Global Fresh Water Use
+,
+Recoletos Multidisciplinary Research Journal: Vol. 3 No. 1 (2015)
+Randy K. Salazar,
+Cris Lawrence B. Laurente,
+Emissivity of â€œGreyâ€ Bodies, Surface Roughness and other Measures
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 2 (2014)
+Roberto N. Padua,
+Mark S. Borres,
+From Fractal Geometry to Statistical Fractal
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 1 (2013)
+Roberto N. Padua,
+Miraluna L. Herrera,
+Adriano V. Patac Jr.,
+Michael V. Sabugaa,
+Gibson T. Maglasang,
+Mark S. Borres,
+Jay M. Ontolan,
+On Fractional and Fractal Derivatives in Relation to the Physics of Fractals
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+Roberto N. Padua,
+Rodel B. Azura,
+Mark S. Borres,
+Adriano V. Patac Jr.,
+ARIMA (p,d,q) and Non-Linear Approximation Models for the Fractal Dimension of the Density of Primes Less or Equal to a Positive Integer
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+Roberto N. Padua,
+Joel G. Adanza,
+Efren O. Barabat,
+Dionisel Y. Regalado,
+Construction of a Simple Multifractal Spectrum as an Alternative to the Legendre Spectra in Multifractal Formalisms
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 1 (2013)
+1 2 > >>
+Similar Articles
+Josephine E. Petralba,
+Paths to Global Competitiveness
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 2 (2014)
+You may also start an advanced similarity search for this article.
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

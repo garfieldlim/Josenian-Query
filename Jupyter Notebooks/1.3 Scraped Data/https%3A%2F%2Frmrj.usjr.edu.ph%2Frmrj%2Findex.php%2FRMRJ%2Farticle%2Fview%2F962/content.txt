@@ -1,0 +1,123 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/962
+Performance Evaluation of a Rice Hull-fueled Cabinet Food Dryer
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 9 No. 1 (2021)
+/
+Articles
+Performance Evaluation of a Rice Hull-fueled Cabinet Food Dryer
+Authors
+Jerry B. Guanco
+Visayas State University, Baybay City, Leyte, Philippines
+https://orcid.org/0000-0002-5150-3447
+Leomarich F. Casinillo
+Visayas State University, Baybay City, Leyte, Philippines
+https://orcid.org/0000-0003-3966-8836
+DOI:
+https://doi.org/10.32871/rmrj2109.01.03
+Keywords:
+rice hull, 											cabinet food dryer, 											thermal conversion efficiency, 											energy use efficiency, 											heat utilization efficiency
+Abstract
+This study was conducted to determine the technical performance of a rice hull-fueled cabinet food dryer. Data gathered from the drying performance in terms of drying behavior, drying rate, and dryer heat utilization efficiency using cassava chips was analyzed through an experimental design. The study also evaluated fuel consumption, thermal conversion efficiency, energy use efficiency, heat utilization efficiency, temperature distribution and economic performance. Results indicated that the dryer's average fuel consumption and the thermal conversion efficiency is 11.19 kg/hr and 6.17%. While the energy use efficiency is 41.51%, and the dryer efficiency is 11.79 %. The moisture reduction of the rice hull-fueled dryer is 8.156 kg/hr, and the heat utilization efficiency is 41.51%. The break-even of using the dryer is â‚± 4.988/kg; if rented out at â‚± 59.86/hr, the payback period is 0.988 batch/hr.
+References
+Adapa, P. K, Sokhansanj, S., & Schoenau, G. J. (2002). Performance study of a re-circulating cabinet dryer using a household dehumidifier. Drying Technology: An International Journal, 20(8), 1673-1689. https://doi.org/10.1081/DRT-120015407
+Boateng, A. A., Walawender, W. P., Fan, L. T., & Chee, C. S. (1992). Fluidized-bed steam gasification of rice hull. Bioresource Technology, 40(3), 235-239. https://doi.org/10.1016/0960-8524(92)90148-Q
+Brennan, J. G., Butters, J. R., Cowelli, N. D., & Lilly, A. E. V. (1976). Food engineering operations (2nd ed.).
+Applied Science Publishers Limited.
+Descoteaux, S., & Savoie, P. (2003, July 6-9). Development and evaluation of a dryer for big square hay bales [Paper presentation]. Canadian Society for Engineering in Agricultural, Food, and Biological Systems/ La Societe Canadienne de Genie Agroalimentaire et Biologique 2003 Meeting, Montreal Quebec.
+file:///C:/Users/imcmain/Downloads/DEVELOPMENT_AND_EVALUATION_OF_A_DDRYE_FOR_BIG_SQUA.pdf
+Erbay, Z., & Hepbasli, A. (2014). Advanced exergoeconomic evaluation of a heat pump food dryer. Biosystems Engineering, 124, 29-39. https://doi.org/10.1016/j.biosystemseng.2014.06.008
+Erbay, Z., & Hepbasli, A. (2017). Exergoeconomic evaluation of a ground-source heat pump food dryer at varying dead state temperatures. Journal of Cleaner Production, 142, 1425-1435. https://doi.org/10.1016/j.jclepro.2016.11.164
+Eze, J. I. (2010). Evaluation of the efficacy of a family sized solar cabinet dryer in food preservation. American Journal of Scientific and Industrial Research, 1(3), 610-617. 10.5251/ajsir.2010.1.3.610.617
+Gan, D. K. W., Loy, A. C. M., Chin, B. L. F., Yusup, S., Unrean, P., Rianawati, E., & Acda, M. N. (2018). Kinetics and thermodynamic analysis in one-pot pyrolysis of rice hull using renewable calcium oxide-based catalysts. Bioresource Technology, 265, 180-190. https://doi.org/10.1016/j.biortech.2018.06.003
+Gatea, A. A. (2010). Design, construction and performance evaluation of solar maize dryer. Journal of Agricultural Biotechnology and Sustainable Development, 2(3), 39-46. https://academicjournals.org/journal/JABSD/article-full-text-pdf/4842C16588
+Iranmanesh, M., Akhijahani, H. S., & Jahromi, M. S. B. (2020). CFD modeling and evaluation the performance of a solar cabinet dryer equipped with evacuated tube solar collector and thermal storage system. Renewable Energy, 145, 1192-1213. https://doi.org/10.1016/j.renene.2019.06.038
+Liu, Y.,
+Guo, F.,
+Li, X., Li, T., Peng, K., Guo, C., & Chang J. (2017). Catalytic effect of iron and nickel on gas formation from fast biomass pyrolysis in a micro fluidized bed reactor: A kinetic study. Energy Fuels, 31(11), 12278-12287. https://doi.org/10.1021/acs.energyfuels.7b02214
+Loy, A. C. M., Gan, D. K. W., Yusup, S., Chin, B. L. F., Lam, M. K., Shahbaz, M., Unrean, P., Acda, M. N., & Rianawati, E. (2018). Thermogravimetric kinetic modelling of in-situ catalytic pyrolytic conversion of rice husk to bioenergy using rice hull ash catalyst. Bioresource Technology, 261, 213-222. https://doi.org/10.1016/j.biortech.2018.04.020
+Luh, E. P. (1980). Rice production and utilization. AVI Publishing Company.
+McNaughton, A. (1983). Report of a seminar on energy conservation in food processing industries [Manuscript reports]. International Development Research Center. https://idl-bnc-idrc.dspacedirect.org/handle/10625/7048
+Pardhi, C. B., & Bhagoria, J. L. (2013). Development and performance evaluation of mixed-mode solar dryer with forced convection. International Journal of Energy and Environmental Engineering, 4(23). https://doi.org/10.1186/2251-6832-4-23
+Smith, D. W., Sims, B. G., & Oâ€™neil, D. H. (1994). Testing and evaluation of agricultural machinery and equipment: Principles and practices. Publications Division, Food and Agriculture Organization of the United Nations. http://www.fao.org/3/t1841e/t1841e.pdf
+Valchev, I., Lasheva, V., Tzolov, T., & Josifov, N. (2009). Silica products from rice hulls. Journal of the University of Chemical Technology and Metallurgy, 44(3), 257-261.
+https://dl.uctm.edu/journal/node/j2009-3/7_Lasheva_257-261.pdf
+Winzer, F.,
+Kraska, T.,
+Elsenberger, C.,
+KÃ¶tter, T., &
+Pude, R. (2017). Biomass from fruit trees for combined energy and food production. Biomass and Bioenergy, 107, 279-286. https://doi.org/10.1016/j.biombioe.2017.10.027
+Downloads
+pdf
+Published
+2021-05-28
+How to Cite
+Guanco, J. B., & Casinillo, L. F. (2021). Performance Evaluation of a Rice Hull-fueled Cabinet Food Dryer. Recoletos Multidisciplinary Research Journal, 9(1), 23–38. https://doi.org/10.32871/rmrj2109.01.03
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 9 No. 1 (2021)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Most read articles by the same author(s)
+Dennis T. Caredo,
+Argina M. Pomida,
+Angelita L. Paradero,
+Leomarich F. Casinillo,
+Modeling Employee Retention Amidst COVID-19 Pandemic: An Econometric Approach
+,
+Recoletos Multidisciplinary Research Journal: Vol. 10 No. 1 (2022)
+Melvin D. Hagonob,
+Leomarich F. Casinillo,
+Utilization of Wastewater from Different Sources as Potential Electrical Energy Source
+,
+Recoletos Multidisciplinary Research Journal: Vol. 9 No. 1 (2021)
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

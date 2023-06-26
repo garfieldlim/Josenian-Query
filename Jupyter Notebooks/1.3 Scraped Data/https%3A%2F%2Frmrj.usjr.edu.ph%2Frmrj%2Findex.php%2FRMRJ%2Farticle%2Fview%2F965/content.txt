@@ -1,0 +1,99 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/965
+Sequential Pattern Mining of Tourist Spatiotemporal Movement
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 9 No. 1 (2021)
+/
+Articles
+Sequential Pattern Mining of Tourist Spatiotemporal Movement
+Authors
+Maria Isabel R. Abucejo
+Holy Name University, Tagbilaran City, Philippines
+https://orcid.org/0000-0001-8217-9494
+Jovelyn C. Cuizon
+University of San Jose - Recoletos, Cebu City, Philippines
+http://orcid.org/0000-0002-1990-7943
+DOI:
+https://doi.org/10.32871/rmrj2109.01.07
+Keywords:
+data mining, 											sequence pattern mining, 											spatiotemporal, 											flowmaps, 											Aprioriall
+Abstract
+The study aimed to develop a software application to capture tourist activity information, extract movement patterns from the dataset through sequential pattern mining (SPM), and visualize spatiotemporal movement. Tourist activity information was captured through crowdsourced trajectory movements by scanning unique QR (Quick Response) codes for each visited tourist spots. The AprioriAll algorithm was used to find frequent trajectory patterns on tourist visits. The resulting maximal k-sequences and their subsequences represent the recommended trip itinerary. The spatial and temporal movements were visualized through a flow map and a heat map, respectively. The directed edges in the flow map show the recommended sequence of tourist sites to visit. The heat map shows the density of tourist visits in different areas at time intervals. The application was validated with selected tour planning experts to verify functional suitability, usability, and acceptability. Experimental results show positive indicators that the application met the usersâ€™ expectations.
+References
+Basiri, A., Amirian, P., & Mooney, P. (2016). Using crowdsourced trajectories for automated OSM data entry approach. Sensors, 16(9), 1510. 10.3390/s16091510
+Basiri, A., Amirian, P., Winstanley, A., & Moore, T. (2018). Making tourist guidance systems more intelligent, adaptive and personalised using crowd sourced movement data. Journal of Ambient Intelligence and Humanized Computing, 9, 413â€“427. https://doi.org/10.1007/s12652-017-0550-0
+Bermingham, L., & Lee, I. (2014). Spatio-temporal sequential pattern mining for tourism sciences. Procedia Computer Science, 29, 379â€“389. https://doi.org/10.1016/j.procs.2014.05.034
+Caldeira, A.M., & Kastenholz, E. (2015). Spatiotemporal behaviour of the urban multi-attraction tourist: Does distance travelledfrom country of origin make a difference? Tourism & Management Studies, 11(1), 91-97. https://www.researchgate.net/publication/277863124_Spatiotemporal_behaviour_of_the_urban_multi-attraction_tourist_does_distance_travelled_from_country_of_origin_make_a_difference
+Fournier-Viger, P. (2010). A hybrid model for supporting learning in procedural and ill-defined areas [Doctoral dissertation, UniversitÃ© du QuÃ©bec Ã  MontrÃ©al]. https://www.researchgate.net/publication/49121771_Un_modele_hybride_pour_le_support_a_l'apprentissage_dans_les_domaines_proceduraux_et_mal_definis
+Grinberger, A., Shoval, N., & Mckercher, B. (2014). Typologies of touristsâ€™ timeâ€“space consumption: A new approach using GPS data and GIS tools. Tourism Geographies, 16(1), 105 - 123. https://doi.org/10.1080/14616688.2013.869249
+Kumar, K.M.V.M., & Srinivas, P.V.S. (2011). Algorithms for mining sequential patterns. International Journal of Information Sciences and Application, 3(1), 59-69. http://www.irphouse.com/ijisa/ijisav3n1_9.pdf
+Lew, A., & McKercher, B. (2006). Modeling tourist movement: A local destination analysis. Annals of Tourism Research, 33(2), 403â€“423. doi:10.1016/j.annals.2005.12.002
+Li, Z. (2014). Spatiotemporal pattern mining: Algorithms and applications. In C.C. Aggarwal, & J. Han (Eds.), Frequent pattern mining (pp. 283-306). Springer International Publishing. 10.1007/978-3-319-07821-2_12
+Ni, B., Shen, Q., Xu, J., & Qu, H. (2017). Spatio-temporal flow maps for visualizing movement and contact patterns. Visual Informatics, 1(1), 57-64. https://doi.org/10.1016/j.visinf.2017.01.007
+Raun, J., Ahas, R., & Tiru, M. (2016). Measuring tourism destinations using mobile tracking data. Tourism Management, 57, 202-212. https://doi.org/10.1016/j.tourman.2016.06.006
+Talpur, A., & Zhang, Y. (2018, October 23-26). A study of tourist sequential activity pattern through Location Based Social Network (LBSN) [Conference session]. 2018 International Conference on Orange Technologies (ICOT), Nusa Dua, BALI, Indonesia. 10.1109/ICOT.2018.8705895
+The Tourism Act. (2004). 14th Congress. 2nd Regular Session. Metro Manila. http://tourism.gov.ph/Downloadable%20Files/Updated_RA_9593_and_IRR_(as_of_01_Nov_2020).pdf
+Thimm, T., & Seepold, R. (2016). Past, present and future of tourist tracking. Journal of Tourism Futures, 2(1), 43-55. 10.1108/JTF-10-2015-0045
+Xia, J., Ciesielski, V., & Arrowsmith, C. (2005). Data mining of touristsâ€™ spatio-temporal movement patterns - a case study on Phillip Island [Paper presentation].
+8th International Conference on GeoComputation, University of Michigan, USA. http://www.geocomputation.org/2005/Xia.pdf
+Downloads
+pdf
+Published
+2021-05-29
+How to Cite
+Abucejo, M. I. R., & Cuizon, J. C. (2021). Sequential Pattern Mining of Tourist Spatiotemporal Movement. Recoletos Multidisciplinary Research Journal, 9(1), 69–78. https://doi.org/10.32871/rmrj2109.01.07
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 9 No. 1 (2021)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

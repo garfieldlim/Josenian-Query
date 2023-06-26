@@ -1,0 +1,511 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/1212
+The Properties of Interlocking Directorates in the Philippines: An Exploratory Analysis
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 10 No. 1 (2022)
+/
+Articles
+The Properties of Interlocking Directorates in the Philippines: An Exploratory Analysis
+Authors
+Stevenson Q. Yu
+University of the Philippines Cebu, Cebu City, Philippines
+https://orcid.org/0000-0002-6291-1796
+DOI:
+https://doi.org/10.32871/rmrj2210.01.06
+Keywords:
+Board interlock, 											interlocking directorate, 											network analysis, 											Philippines, 											centrality
+Abstract
+Governance has become an increasingly important factor in the investment decisions of firms and investors. Thus, it is important to determine the quality and composition of corporate boards, which are vital overseers who act in the best interests of shareholders to improve and strengthen them. While interlocking directorates are not a recent occurrence in the Philippines, updated literature on the structure of the countryâ€™s board interlock network is sparse. Thus, this study provides a baseline snapshot by analyzing all 251 publicly-listed companies on the Philippine Stock Exchange at the director and board levels. More so, the study utilizes social network analysis tools to describe the properties of interlocking directorates and visually maps out the social network that underpins these relationships. It reveals that the board network is extensive, with almost 90% of firms connected, thanks to a handful of key directors who have high degrees of connectivity.
+References
+Adams, R. B., Hermalin, B. E., & Weisbach, M. S. (2010).
+The role of boards of directors in corporate
+governance: A conceptual framework and
+survey. Journal of Economic Literature, 48(1), 58â€“107.
+https://doi.org/10.1257/jel.48.1.58
+Anthonisse, J. M. (1971). The rush in a directed graph.
+Journal of Computational Physics, 1â€“10.
+https://www.scinapse.io/papers/1513185775
+Au, K., Peng, M. W., & Wang, D. (2000). Interlocking
+directorates, firm strategies, and performance
+in Hong Kong: Towards a research agenda. Asia
+Pacific Journal of Management, 17(1), 29â€“47.
+https://doi.org/10.1023/A:1015432819596
+Banderlipe, M. R. S. II (2009). The impact of selected
+corporate governance variables in mitigating
+earnings management in the Philippines.
+DLSU Business & Economics Review, 19(1), 17â€“27.
+https://doi.org/10.3860/ber.v19i1.1110
+Banderlipe, M. R. S. II (2012). Board characteristics
+and its impact on share prices of publicly-listed
+holding companies in the Philippines. Academy
+of Accounting and Financial Studies Journal, 16(4), 25.
+Bangko Sentral ng Pilipinas (2021). Amendments
+to corporate governance guidelines for BSPsupervised
+financial institutions [BSP Circular No. 1129, series of 2021].
+https://www.bsp.gov.ph/Regulations/Issuances/2021/1129.pdf
+Battiston, S., & Catanzaro, M. (2004). Statistical
+properties of corporate board and director networks.
+The European Physical Journal B 38(2), 345â€“352.
+https://doi.org/10.1140/epjb/e2004-00127-8
+Battiston, S., Weisbuch, G., & Bonabeau, E. (2003).
+Spread of decisions in the corporate board network.
+Advances in Complex Systems, 6(4), 631â€“644.
+https://doi.org/10.1142/S0219525903001109
+Bernow, S., & Nuttall, R. (2020, May 26). Why ESG is
+here to stay. McKinsey & Company.
+https://www.mckinsey.com/business-functions/strategy-and-
+corporate-finance/our-insights/why-esg-is-here-to-stay
+Bianco, M., & Pagnoni, E. (1997). Interlocking directorates
+across listed companies in Italy: The case of banks. BNL
+Quarterly Revie, (Special Issue), 203â€“227.
+Bonacich, P. (1987). Power and centrality: A family of
+measures. American Journal of Sociology, 92(5),
+1170â€“1182. https://doi.org/10.1086/228631
+Braam, G., & Borghans, L. (2009). Balanced scorecard
+diffusion from a social network perspective: The
+effects of interlocking directorates on the use of
+balanced scorecard practices (NiCE Working Paper
+09â€“106). Nijmegen Center for Economics (NiCE),
+Institute for Management Research, Radbound University,
+Nijmegen. https://repository.ubn.ru.nl/handle/2066/74898
+CÃ¡rdenas, J. (2016). Why do corporate elites form
+cohesive networks in some countries, and
+do not in others? Cross-national analysis of
+corporate elite networks in Latin America.
+International Sociology, 31(3), 341â€“363.
+https://doi.org/10.1177/0268580916629965
+Carroll, W. K., & Sapinski, J. P. (2011). Corporate
+elites and intercorporate networks. In P. J.
+Carrington & J. Scott (Eds.), The SAGE handbook
+of social network analysis (pp. 180â€“195).
+SAGE Publications.
+CFA Institute (2021). Introduction to corporate
+governance and other ESG considerations.
+https://www.cfainstitute.org/membership/
+professional-development/refresher-readings/
+introduction-corporate-governance-esg-considerations
+Chen, J. (2021, July 4). Corporate governance.Investopedia.
+https://www.investopedia.com/terms/c/corporategovernance.asp
+Chu, J. S. G., & Davis, G. F. (2016). Who killed the
+inner circle? The decline of the American
+corporate interlock network.
+American
+Journal of Sociology, 122(3), 714â€“754.
+https://doi.org/10.1086/688650
+Commerce and Trade, 15 U.S.C. Â§19 (1925).
+https://www.loc.gov/item/uscode1925-001015001/
+Conmy, S. (2021, August 30). What is a board of
+directors? The Corporate Governance Institute.
+https://www.thecorporategovernanceinstitute.com/
+insights/lexicon/what-is-a-board-of-directors/
+Conyon, M. J., & Muldoon, M. R. (2006). The small world
+of corporate boards. Journal of Business Finance
+& Accounting, 33(9â€“10), 1321â€“1343.
+https://doi.org/10.1111/j.1468-5957.2006.00634.x
+Cudia, C. P. & Dela Cruz, A. L. C. (2018).
+Determinants of earnings management
+choice among publicly listed industrial firms
+in the Philippines. DLSU Business & Economics
+Review, 27(2), 119â€“129. https://dlsuber.com/
+wp-content/uploads/2018/9cudia-011918.pdf
+Dal Vesco, D. G., & Beuren, I. M. (2016). Do the
+board of directors composition and the board
+interlocking influence on performance?
+BAR - Brazilian Administration Review, 13(2).
+https://doi.org/10.1590/1807-7692bar2016160007
+Davis, G. F., Yoo, M., & Baker, W. E. (2003). The small
+world of the American corporate elite, 1982-
+2001. Strategic Organization, 1(3), 301â€“326.
+https://doi.org/10.1177/14761270030013002
+de Vera, B. O. (2022, February 16). Cash remittances
+to PH hit new high of $31.4B in 2021. INQUIRER.net.
+https://business.inquirer.net/341015/cashremittances-
+to-ph-hit-new-high-of-31-4bin-2021
+Descalzo, A., Cabaccan, S., Dob, J., Fermante, R.,
+Reyes, C., Simangan, A., & Tuzon, J. (2017).
+Correlation
+between the presence of accountants in the board of
+directors and discretionary accruals:
+The case of Philippines.
+Global Review of Accounting and Finance, 8(1), 84â€“94.
+https://doi.org/10.21102/graf.2017.03.81.07
+Doherty, J. F. (1979). A preliminary study of interlocking
+directorates among financial, commercial,
+manufacturing and service enterprises in
+the Philippines. Philippine eLib Project.
+https://www.elib.gov.ph/details.php?uid=ac7c07fd62a
+a350fa6f825d6963bf6bc&tab=2
+Dooley, P. C. (1969). The interlocking directorate.
+The American Economic Review, 59(3), 314â€“323.
+Drago, C., Manestra, S., & Santella, P. (2011).
+Interlocking directorships and cross-shareholdings
+among the Italian blue chips. European Business
+Organization Law Review, 12, 619â€“652.
+https://doi.org/10.2139/ssrn.1799168
+Drees, J. M., & Heugens, P. P. M. A. R. (2013).
+Synthesizing and extending resource
+dependence theory: A meta-analysis.
+Journal of Management, 39(6), 1666â€“1698.
+https://doi.org/10.1177/0149206312471391
+Durbach, I. N., & Parker, H. (2009). An analysis of
+corporate board networks in South Africa. South
+African Journal of Business Management, 40(2), 15â€“26.
+https://doi.org/10.4102/sajbm.v40i2.537
+Etheridge, D. R. (2012, April 11-13). Boards of a
+feather flock together: Board networks among
+ASX firms [Conference session]. Financial
+Markets & Corporate Governance Conference,
+Melbourne, Australia. https://www.latrobe.
+edu.au/__data/assets/pdf_file/0005/1214519/
+FMCG2012_Program.pdf
+Etzion, D., & Davis, G. F. (2008). Revolving doors?
+A network analysis of corporate officers
+and U.S. government officials. Journal of
+Management Inquiry, 17(3), 157â€“161.
+https://doi.org/10.1177/1056492608316918
+Fama, E. F., & Jensen, M. C. (1983). Separation of Ownership
+and Control. Journal of Law and Economics, XXVI.
+https://doi.org/10.2139/ssrn.94034
+Farwis, M., & Nazar, M. C. A. (2019). Interlocking
+directorate and firm performance of listed
+companies in Sri Lanka. Asian Journal of
+Research in Banking and Finance, 9(3), 1.
+https://doi.org/10.5958/2249-7323.2019.00003.8
+Fattobene, L., Caiffa, M., & Di Carlo, E. (2018).
+Interlocking directorship across Italian listed
+companies: Evidence from a natural experiment.
+Journal of Management and Governance, 22(2), 393â€“425.
+https://doi.org/10.1007/s10997-017-9392-6
+Ferrer, R. C. & Banderlipe, M. R. S. II (2012). The
+Influence of Corporate Board Characteristics on
+Firm Performance of Publicly Listed Property
+Companies in the Philippines. Academy of Accounting
+and Financial Studies Journal, 16(4), 22. Retrieved from
+https://animorepository.dlsu.edu.ph/faculty_research/2351
+Fligstein, N., & Brantley, P. (1992). Bank control,
+owner control, or organizational dynamics:
+Who controls the large modern corporation?
+American Journal of Sociology, 98(2), 280â€“307.
+https://doi.org/10.1086/230009
+Freeman, L. C. (2004). The development of social
+network analysis: A study in the sociology of
+science. Empirical Press.
+Hage, P., & Harary, F. (1995). Eccentricity and centrality
+in networks. Social Networks, 17(1), 57â€“63.
+https://doi.org/10.1016/0378-8733(94)00248-9
+Hallock, K. F. (1997). Reciprocally interlocking boards
+of directors and executive compensation. The
+Journal of Financial and Quantitative Analysis,
+32(3), 331. https://doi.org/10.2307/2331203
+Hamdan, A. (2018). Board interlocking and firm
+performance: The role of foreign ownership
+in Saudi Arabia. International Journal of
+Managerial Finance, 14(3), 266â€“281.
+https://doi.org/10.1108/IJMF-09-2017-0192
+Heemskerk, E. M. (2013). The rise of the European
+corporate elite: Evidence from the network
+of interlocking directorates in 2005 and 2010.
+Economy and Society, 42(1), 74â€“101.
+https://doi.org/10.1080/03085147.2012.686720
+HernÃ¡ndez-Lara, A. B., & Gonzales-Bustos, J. P. (2019).
+The impact of interlocking directorates on
+innovation: The effects of business and social
+ties. Management Decision, 57(10), 2799â€“2815.
+https://doi.org/10.1108/MD-11-2017-1186
+Jamaludin, M. F., & Hashim, F. (2018). Corporate
+governance, institutional characteristics,
+and director networks in Malaysia. Asian
+Academy of Management Journal of
+Accounting and Finance, 13(2), 135â€“154.
+https://doi.org/10.21315/aamjaf2017.13.2.7
+Jeidels, O. (1905). Das verhaltnis der deutschen
+grossbanken zur industrie mit besonderer
+berucksichtigung der eisenindustrie:
+Abschnitt II: Die entwicklung der grossbanken.
+[Doctoral dissertation, Friedrich Wilhelms University, Berlin].
+https://books.google.com/books?id=vwQVAQAAIAAJ
+Jensen, M. C., & Meckling, W. H. (1976). Theory
+of the firm: Managerial behavior, agency
+costs and ownership structure. Journal of
+Financial Economics, 3(4), 305â€“360.
+https://doi.org/10.1016/0304-405X(76)90026-X
+Kaczmarek, S., Kimino, S., & Pye, A. (2014).
+Interlocking directorships and firm
+performance in highly regulated sectors: The
+moderating impact of board diversity. Journal
+of Management & Governance, 18(2), 347â€“372.
+https://doi.org/10.1007/s10997-012-9228-3
+Karim, K. E., Li, J., Lin, K. J., & Robin, A. (2021). Do
+directors have style? Board interlock and
+accounting properties. Journal of Business
+Finance & Accounting, 49(1â€“2), 3â€“32.
+https://doi.org/10.1111/jbfa.12567
+Kerber, R., & Jessop, S. (2021, December 23).
+Analysis: How 2021 became the year of ESG
+investing. Reuters. https://www.reuters.com/markets/
+us/how-2021-became-year-esg-investing-2021-12-23/
+Kim, Y.-H., & Kim, Y.-M. (2008). Changing faces of network
+capitalism in Korea: A case of corporate board of directorsâ€™
+network. Korean Journal of Sociology, 42(8), 38â€“58.
+http://m.ksa21.or.kr/kjs/issues/files/03YH%20Kim_YM%20Kim.pdf
+Lamb, N. H. (2017). Does the number of interlocking directors
+influence a firmâ€™s financial performance?
+An exploratory
+meta-analysis. American Journal of Management, 7(2), 47â€“57.
+http://t.www.na-businesspress.com/AJM/LambN_Web17_2_.pdf
+Lee, Z.-R., & Velema, T. A. (2014). Between state
+power and familism: The interlock network in
+Taiwan throughout the twentieth century. In
+T. David & G. Westerhuls (Eds.), The power of
+corporate networks (1st edition, pp. 276â€“295).
+Routledge.
+Maslov, S., & Sneppen, K. (2002). Specificity and stability
+in topology of protein networks. Science, 296(5569),
+910â€“913.
+https://doi.org/10.1126/science.1065103
+Meeusen, W., & Cuyvers, L. (1985). The interaction
+between interlocking directorships and the
+economic behaviour of companies. In F. N.
+Stokman, R. Ziegler, & J. Scott (Eds.), Networks
+of corporate power (pp. 45â€“72). B. Blackwell.
+Mizruchi, M. S. (1996). What do interlocks do? An analysis,
+critique, and assessment of research on interlocking directorates.
+Annual Review of Sociology, 22(1), 271â€“298.
+https://doi.org/10.1146/annurev.soc.22.1.271
+Murray, G. (2001). Interlocking directorates:
+What do they tell about corporate power in Australia?
+Journal of Australian Political Economy, 47, 5â€“26.
+https://research-repository.griffith.edu.au/handle/10072/3755
+Nelson, G. (2022, May 28). The big differentiator:
+Why ESG reporting is an opportunity for success.
+Forbes. https://www.forbes.com/sites/forbesb
+usinessdevelopmentcouncil/2022/03/28/the-big-
+differentiator-why-esg-reporting-is-an-opportunity-
+for-success/
+Ong, C. H., Wan, D., & Ong, K.-S. (2003). An exploratory
+study on interlocking directorates in listed firms in
+Singapore. Corporate Governance, 11(4). 322â€“334.
+https://doi.org/10.1111/1467-8683.00330
+Pertiwi, M. B., & Yulianto, A. (2020). Board interlocking
+and firm performance: Evidence from Indonesia.
+Management Analysis Journal, 9(1), 26â€“34.
+https://doi.org/10.15294/maj.v9i1.34585
+Pfeffer, J., & Salancik, G. R. (1978). The external
+control of organizations: A resource dependence
+perspective. Stanford University Press.
+Philippines. Securities and Exchange Commission
+(2019). Code of corporate governance for
+public companies and registered issuers [SEC
+Memorandum Circular No. 24, Series of 2019].
+https://www.sec.gov.ph/mc-2019/mc-no-24-
+s-2019-code-of-corporate-governance-for-public-
+companies-and-registered-issuers/
+Proctor, C. H., & Loomis, C. P. (1951). Analysis of
+sociometric data. In M. Jahoda, M. Deutsch,
+& S. W. Cook (Eds.), Research methods in social
+relations (pp. 561â€“568). Dryden Press.
+Raquiza, A. R. (2014). Changing configuration
+of Philippine capitalism. Philippine Political
+Science Journal, 35(2), 225â€“250.
+https://doi.org/10.1080/01154451.2014.969799
+Revised Corporation Code of the Philippines,
+Seventeenth Congress, 3rd Regular Session
+(2018). https://www.sec.gov.ph/wp-content/
+uploads/2019/11/2019Legislation_RA-11232-
+REVISED-CORPORATION-CODE-2019.pdf
+Romano, M., & Favino, C. (2013). Board composition
+and interlocking directorate evolution as a
+consequence of the recent financial crisis:
+Evidence from Italian listed companies.
+Corporate Ownership and Control, 11(1), 175â€“
+192. https://doi.org/10.22495/cocv11i1c1art5
+Rommens, A., Cuyvers, L., & Deloof, M. (2007).
+Interlocking directorates and business groups:
+Belgian evidence. https://www.researchgate.
+net/publication/4904213_Interlocking_
+Directorates_and_Business_Groups_Belgian_
+Evidence
+Roudaki, J., & Bhuiyan, Md. B. U. (2015). Interlocking
+directorship in New Zealand. Australasian
+Accounting, Business and Finance Journal, 9(3),
+45â€“58. https://doi.org/10.14453/aabfj.v9i3.4
+Rowles, D. (2021, October 7). Governance â€“ the most
+important ESG factor? Hargreaves & Lansdown.
+https://www.hl.co.uk/news/articles/
+governance-the-most-important-esg-factor
+Saavedra, S., Gilarranz, L. J., Rohr, R. P., Schnabel,
+M., Uzzi, B., & Bascompte, J. (2014). Stock fluctuations
+are correlated and amplified across networks of
+interlocking directorates. EPJ Data Science, 3(1), 30.
+https://doi.org/10.1140/epjds/s13688-014-0030-0
+Sabidussi, G. (1966). The centrality index of a graph.
+Psychometrika, 31(4), 581â€“603.
+https://doi.org/10.1007/BF02289527
+Salvaj, E., Ferraro, F., & TÃ pies, J. (2008). Family firms
+and the contingent value of board interlocks: The Spanish
+case. In J. TÃ pies & J. L. Ward (Eds.), Family values and value
+creation (pp. 236â€“259). Palgrave Macmillan.
+https://doi.org/10.1057/9780230594227_12
+Samarbakhsh, L., & Tasic, B. (2020). What makes a
+board director better connected? Evidence
+from graph theory. Computer Science and
+Information Systems, 17(2), 357â€“377.
+https://doi.org/10.2298/CSIS190628045S
+Santos, R. L., da Silveira, A. di M., & Barros, L. A.
+(2012). Board interlocking in Brazil: Directorsâ€™
+participation in multiple companies and its
+effect on firm value and profitability. Latin
+American Business Review, 13(1), 1â€“28.
+https://doi.org/10.1080/10978526.2012.673419
+Senekal, B. A., & Stemmet, K. (2014). The South African
+banking director network: An investigation
+into interlocking directorships using social
+network analysis (SNA). International Business
+& Economics Research Journal 13(5), 963â€“980.
+https://doi.org/10.19030/iber.v13i5.8765
+Senekal, B. A., & Stemmet, K. (2019). A weighted
+director network analysis of the big four banks
+on the Johannesburg Stock Exchange. South
+African Journal of Business Management, 50(1).
+https://doi.org/10.4102/sajbm.v50i1.386
+Shaw, T. S., Cordeiro, J. J., & Saravanan, P. (2016).
+Director network resources and firm performance:
+Evidence from Indian corporate governance reforms.
+Asian Business & Management, 15(3), 165â€“200.
+https://doi.org/10.1057/s41291-016-0003-1
+Shropshire, C. (2010). The role of the interlocking
+director and board receptivity in the diffusion of practices.
+Academy of Management Review, 35(2), 246â€“264.
+https://doi.org/10.5465/amr.35.2.zok246
+Soref, M., & Zeitlin, M. (1988). Finance capital and
+the internal structure of the capitalist class in the
+United States. In M. S. Mizruchi & M. Schwartz (Eds.),
+Intercorporate relations: The structural analysis of
+business. Cambridge University Press.
+https://doi.org/10.1017/CBO9780511570841
+Stokman, F. N., Ziegler, R., & Scott, J. (Eds.). (1985).
+Networks of corporate power: A comparative
+analysis of ten countries. Polity Press.
+Tan, E. A. (1993). Interlocking directorates, commercial banks,
+other financial institutions and non-financial corporations.
+Philippine Review of Economics, 30(1), 1â€“50.
+https://pre.econ.upd.edu.ph/index.php/pre/article/view/136/461
+Tan, M., Lee, C. K., Chan, W. C., Koh, S. H., & Sugihardjo,
+S. (2009). A study of interlocking directorships among
+mainland Chinese companies listed on the SGX.
+Corporate Ownership and Control, 6(4), 210â€“217.
+https://doi.org/10.22495/cocv6i4c1p5
+Tang, K. (2019, March 22). Exploring the G in ESG:
+Governance in greater detail â€“ Part I. S&P Global.
+https://www.spglobal.com/en/research-insights/
+articles/exploring-the-g-in-esg-governance-
+in-greater-detail-part-i
+Tang, Y., Li, M., Wang, J., Pan, Y., & Wu, F.-X. (2015).
+CytoNCA: A cytoscape plugin for centrality
+analysis and evaluation of protein interaction
+networks. Biosystems, 127, 67â€“72.
+https://doi.org/10.1016/j.biosystems.2014.11.005
+Valmonte, K. C. G. (2022, January 3). BPOs seen
+to drive office space demand. BusinessWorld Online.
+https://www.bworldonline.com/property/2022/01/04/
+421425/bpos-seen-to-drive-office-space-demand-2/
+Watkins-Fassler, K., Fernandez-PÃ©rez, V., & Rodriguez-
+Ariza, L. (2016). President interlocking, family
+firms and firm performance during turbulent
+times: Evidence from Latin America. European
+Journal of Family Business, 6(2), 63â€“74.
+https://doi.org/10.1016/j.ejfb.2016.12.001
+Watts, D. J., & Strogatz, S. H. (1998). Collective dynamics
+of â€˜small-worldâ€™ networks. Nature, 393, 440â€“442.
+https://www.nature.com/articles/30918
+Wolinsky, J. (2022, March 28). ESG is the third wave
+of change in asset management after Graham
+and MPT. Forbes. https://www.forbes.com/sites/jacobwolinsky/
+2022/03/28/esg-is-the-third-wave-of-change-in-asset-
+management-after-graham-and-mpt/?sh=b70a1e51604b
+Xie, Z., Lin, R., Wang, J., Hu, W., & Miao, L. (2020).
+Vicarious learning: How entrepreneurs
+enhance a firmâ€™s international competitiveness
+through learning from interlocking director
+network partners. Frontiers in Psychology, 11, 689.
+https://doi.org/10.3389/fpsyg.2020.00689
+yWorks (n.d.). yFiles for Java 2.13 developerâ€™s guide:
+Automatic graph layout: Organic layout style.
+https://docs.yworks.com/yfiles/doc/developersguide/
+smart_organic_layouter.html
+Zahra, S. A., & Pearce, J. A. (1989). Boards of directors and
+corporate financial performance: A review and integrative
+model. Journal of Management, 15(2), 291â€“334.
+https://doi.org/10.1177/014920638901500208
+Zona, F., Gomez-Mejia, L. R., & Withers, M.
+C. (2018). Board interlocks and firm
+performance: Toward a combined agencyâ€“
+resource dependence perspective.
+Journal of Management, 44(2), 589â€“618.
+https://doi.org/10.1177/0149206315579512
+Downloads
+FULL PAPER
+Published
+2022-06-08
+How to Cite
+Yu, S. Q. (2022). The Properties of Interlocking Directorates in the Philippines: An Exploratory Analysis. Recoletos Multidisciplinary Research Journal, 10(1), 77–99. https://doi.org/10.32871/rmrj2210.01.06
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 10 No. 1 (2022)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Most read articles by the same author(s)
+Stevenson Q. Yu,
+Evaluating Philippine Studentsâ€™ Class Participation with a Token Currency System
+,
+Recoletos Multidisciplinary Research Journal: Vol. 5 No. 2 (2017)
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

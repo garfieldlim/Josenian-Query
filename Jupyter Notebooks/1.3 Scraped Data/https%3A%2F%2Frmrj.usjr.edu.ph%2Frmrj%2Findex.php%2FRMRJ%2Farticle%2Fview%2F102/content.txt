@@ -1,0 +1,176 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/102
+Transformation To Normality Based On Empirical Distribution Functions
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 2 No. 2 (2014)
+/
+Articles
+Transformation To Normality Based On Empirical Distribution Functions
+Authors
+Mark S. Borres
+University of San Jose-Recoletos
+Efren O. Barabat
+University of San Jose-Recoletos
+DOI:
+https://doi.org/10.32871/rmrj1402.02.12
+Keywords:
+transformation to normality, 											Box-Cox method, 											Johnson method, 											inequalities, 											Dvoretzky-Kiefer-Wolfowitz
+Abstract
+The paper examines an effi cient alternative to the Box-Cox and Yeo-Johnsonâ€™stransformation to normality procedures which works under very general conditions. The method hinges on two fundamental results : the fact that the cumulative distribution function F(x) of a random variable X always has a U(0,1) distribution and the Box-Mueller transformation of uniform random variables to standard normal random variables. Given two observations x and y, we computed Fn(x) and Fn(y) , which for large n, are approximately uniform random variables. These values are then inputted into the Box-Mueller transformations. Bounds for the Kolmogorov-Smirnov statistic between the distribution of the transformed observations and the normal distribution are provided through numerical simulation and by appealing to the Dvoretzky-Kiefer-Wolfowitz inequality.
+Author Biographies
+Mark S. Borres, University of San Jose-Recoletos
+graduated Bachelor of Science in Mathematicsâ€“major in Pure Mathematics at the University of the Philippines, Cebu College. Since 2009, he worked for the University of San Jose- Recoletos as a faculty member of the College of Arts and Sciences and handled Mathematics subjects such as College Algebra, Advanced Algebra, Abstract Algebra, Analytical Geometry, Euclidean geometry, Trigonometry, Business Mathematics, Linear Programming, Mathematics of Investment, Discrete Structure, and Statistics across colleges. Currently, he is one of the Research Staff of CPRDS doing research on Fractal Statistics and Fractal Geometry and also assumes the position of Secretary in the Recoletos Multidisciplinary Research Journal.
+Efren O. Barabat, University of San Jose-Recoletos
+an Electronics Engineer, graduated from the University of San Jose-Recoletos in 2010, Cum Laude honors. He ranked as top 9 examinee in the April 2011 ECE Licensure Examination. He worked as Field Engineer in SMART Communications, Inc. from 2011 to 2012. Currently, a full-time faculty member of the Electronics Engineering Department of USJ-R College of Engineering, handling Mathematics and Major Subjects of ECE.
+References
+Cook, R. D. & Weisberg, S. (1999). Applied Regression Including Computing and Graphics, New York: Wiley.
+Craig, W. & Hogg , An Introduction to Mathematical Statistics, (Wiley and Sons, New York, 2000)
+Dudley, R. M. (1999). â€œUniform Central Limit Theoremsâ€, Cambridge University Press. ISBN 0 521 46102.
+Durrett, R. (1991). Probability: Theory and Examples. Pacific Grove, CA: Wadsworth & Brooks/Cole.
+Esseen, C. (1956). â€œA moment inequality with an application to the central limit theoremâ€. Skand. Aktuarietidskr. 39: 160â€“170.
+Feller, W. (1972). An Introduction to Probability Theory and Its Applications, Volume II (2nd ed.). New York: John Wiley & Sons.
+Graybill, J. An Introductory Course in Mathematical Statistics (Wiley Series, New York, 1987)
+Huber, P. (1985). Projection pursuit. The annals of Statistics, 13(2):435 â€“ 475.
+Johnson, R & Wichern, Applied Multivariate Statistical Analysis (Wiley and Sons, New York, 2000)
+Manoukian, E. B. (1986). Modern Concepts and Theorems of Mathematical Statistics. New York: Springer-Verlag.
+Serfling, R. J. (1980). Approximation Theorems of Mathematical Statistics. New York: John Wiley & Sons.
+Shevtsova, I. G. (2007). â€œSharpening of the upper bound of the absolute constant in the Berryâ€“Esseen inequalityâ€. Theory of Probability and its Applications 51 (3): 549â€“553.
+Shevtsova, I. G. (2008). â€œOn the absolute constant in the Berry-Esseen inequalityâ€. The Collection of Papers of Young Scientists of the Faculty of Computational Mathematics and CyberneticsTheory of Probability and
+its Applications (5): 101-110.
+Shiganov, I.S. (1986). â€œRefinement of the upper bound of a constant in the remainder term of the central limit theoremâ€. Journal of Soviet mathematics 35: 109â€“115.
+Shorack, G.R., Wellner J.A. (1986) Empirical Processes with Applications to Statistics, Wiley.
+Tyurin, I.S. (2009). â€œOn the accuracy of the Gaussian approximationâ€. Doklady Mathematics 80 (3): 840-843.
+A. W. van der Vaart (1998), Asymptotic Statistics. Cambridge Series in Probabilistic Mathematics.
+Vapnik, V.N. and Chervonenkis, A. Ya (1971). On uniform convergence of the frequencies of events to their probabilities. Theor. Prob. Appl. 16, 264-280.
+Yeo, I. & Johnson, R. (2000). A new family of power transformations to improve normality or symmetry. Biometrika, 87, 954-959.
+Downloads
+PDF
+Published
+2014-12-28
+How to Cite
+Borres, M. S., & Barabat, E. O. (2014). Transformation To Normality Based On Empirical Distribution Functions. Recoletos Multidisciplinary Research Journal, 2(2). https://doi.org/10.32871/rmrj1402.02.12
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 2 No. 2 (2014)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Most read articles by the same author(s)
+Mark S. Borres,
+Felix M. Diano Jr.,
+Evolutionary Models for the Interaction of the Higher Education Labor Force and Higher Education Market
+,
+Recoletos Multidisciplinary Research Journal: Vol. 3 No. 1 (2015)
+Anna Rose P. Nillama,
+Mark S. Borres,
+Ricky B. Villeta,
+Roramie V. Arco,
+Joyce C. Unabia,
+Validation of Lepidopteran Classification by Morphological Fractal Dimension Analysis
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Mark S. Borres,
+Jergen D. Orias,
+Alvin Mercado,
+A Mathematical Model on Social Integration Explaining Global Suicide Rate Among Men and Women
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Randy K. Salazar,
+Rosario L. Cabillada,
+Mark S. Borres,
+Anthony Jagures,
+Fractal Dimensions of Voice Patterns and Voice Recognition
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Roberto N. Padua,
+Mark S. Borres,
+Randy K. Salazar,
+A Generalized Bootstrap Technique for Dependent Observations
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Mark S. Borres,
+Robert John G. Tupas,
+Joel B. Serad,
+Aspects of Climate Change Induced by Human Activities: Impact on Global Natural Disaster Mortality
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Mark S. Borres,
+Queen Heneylour S. Relatorres,
+Efren O. Barabat,
+Societal Offenders In Prison: Global In-Country Analysis By Fractals
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Roberto N. Padua,
+Mark S. Borres,
+Efren O. Barabat,
+On a Logistic Approximation to the Normal and Other Cumulative Distribution Functions
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Jessica M. Avenido,
+Efren O. Barabat,
+A Fractal View on the Suicide Incidence of Countries
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+Roberto N. Padua,
+Mark S. Borres,
+From Fractal Geometry to Statistical Fractal
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 1 (2013)
+1 2 3 > >>
+Similar Articles
+Joel B. Serad,
+Mathea M. Baguia,
+Resolving Ethical Dilemmas of Human Resource Management
+In The Academe: A Decision-Making Process Model
+,
+Recoletos Multidisciplinary Research Journal: Vol. 3 No. 2 (2015)
+You may also start an advanced similarity search for this article.
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

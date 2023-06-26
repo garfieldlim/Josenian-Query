@@ -1,0 +1,168 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/60
+Fractal Analysis of Sea Surface Temperature Anomaly and Tropical Depression Occurrence
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 1 No. 2 (2013)
+/
+Articles
+Fractal Analysis of Sea Surface Temperature Anomaly and Tropical Depression Occurrence
+Authors
+Randy K. Salazar
+University of San Jose-Recoletos
+DOI:
+https://doi.org/10.32871/rmrj1301.02.17
+Keywords:
+cyclone, 											sea surface temperature, 											fractal dimension
+Abstract
+The study analyzes the fractal image of sea surface temperature (SST) anomalies that were taken from the Pacific Ocean and relates this to the tropical depressions and cyclones in the Pacific basin. Previous studies indicate a significant statistical correlation between tropical cyclone power dissipation and SSTs, although it is not clear on what aspect of SSTs affects the cyclone forming. SSTs are calculated from infrared pictures that the polar-orbitingsatellites take twice a week around the globe. The National Oceanic and Atmospheric Administration, NOAA, defines anomalies in SST against a long-term mean SST. A positive anomaly means that the current SST is warmer than average, and a negative anomaly means it is cooler than mean SST. This study reveals that the high fractal dimensions of the upper range of the SST anomaly and the low mean barometric pressure on the cyclone basin closely correlates to the frequency and intensity of tropical depressions and tropical cyclones.
+Author Biography
+Randy K. Salazar, University of San Jose-Recoletos
+is a Mechanical Engineer, Assistant Professor of the University of San Jose Recoletos teaching Mechanical Engineering. Holder of a Masters in Science in Management Engineering from the University of San Jose Recoletos and finishing his Masters degree in Mechanical Engineering â€“ Dynamic Design Systems at the University of San Carlos.
+References
+BOOK:
+Mandelbrot, B. B. (1983). The fractal geometry of nature. Macmillan.
+JOURNALS:
+Berg, R. (2002). Tropical cyclone intensity in relation to SST and moisture variability: A global perspective. In Preprints, 25th Conf. on
+Hurricanes and Tropical Meteorology, San Diego, CA, Amer. Meteor. Soc. C (Vol. 16).
+Deser, C., Alexander, M. A., Xie, S. P., & Phillips, A. S. (2010). Sea surface temperature variability: Patterns and mechanisms. Annual Review of Marine Science, 2, 115-143.
+Emanuel, K.A. (2000). A statistical analysis of tropical cyclone intensity . Monthly Weather Review 128 (4): 1139â€“1152. Bibcode:2000MWRv..128.1139E.doi:10.1175/1520-0493 (2000) 128
+<1139:ASAOTC>2.0.CO;2. Retrieved 2013-06-12.
+Emanuel, K. (2007). Environmental factors affecting tropical cyclone power dissipation. Journal of Climate, 20(22), 5497-5509.
+Evans, J. L. (1993). Sensitivity of tropical cyclone intensity to sea surface temperature. Journal of Climate, 6(6), 1133-1140.
+Faghmous, J. H., Liess, S., Ganguly, A., Steinbach, M., Semazzi, F., & Kumar, V. (2012) Understanding the Sea Surface Temperature-Tropical Cyclone Relationship: A Data-Driven Approach.
+Knutson, T. R., McBride, J. L., Chan, J., Emanuel, K., Holland, G., Landsea, C., ... & Sugi, M. (2010). Tropical cyclones and climate change. Nature Geoscience, 3(3), 157-163.
+Michaels, P. J., Knappenberger, P. C., & Davis, R. E. (2006). Sea-surface temperatures and tropical cyclones in the Atlantic basin. Geophysical
+Research Letters, 33(9), L09708.
+Trenberth, K. E. (2011). Changes in precipitation with climate change. Climate Research, 47(1), 123.
+ONLINE SOURCES:
+Australian Severe Weather. South Pacific Ocean Tropical Cyclone Season 2007-2008, Retrieve March 2013 from:
+http://www.australiasevereweather.com/tropical_cyclones/oper_2007_2008_south_pacific_ocean_tropical_cyclones.htm
+Australian Severe Weather. South Pacific Ocean Tropical Cyclone Season 2008-2009, (Retrieve March 2013 from: http://www.australiasevereweather.com/tropical_cyclones/oper_ 2008_2009_south_pacific_ocean_tropical_cyclones.htm)
+CPHC. 2008 Tropical Cyclones Central North Pacific (Retrieved June 2013 from: http://www.prh.noaa. gov/cphc/summaries/2008.php)
+Harmonic and Fractal Image Analyzer (HarfA 5.5.3 Demo Version) download http://www.fch.vutbr.cz/lectures/imagesci
+HKO. Tropical Cyclones in 2008, (Retrieved March 2013 from: http://www.weather.gov.hk/publica/tc/tc2008/english/section2.htm)
+JMA, RSMC Tokyo Typhoon Center, Annual Report on the Activities of the RSMC-Tokyo Typhoon Center 2008 (Retrieved June 2013 from: http://
+www.jma.go.jp/jma/jma-eng/jma-center/rsmc-hp-pub-eg/AnnualReport/2008/Text/Text2008.pdf)
+NASA. Hurricanes/Tropical Cyclones: Hurricanes in 2008, (Retrieved March 2013 from: http://www.nasa.gov/mission_pages/hurricanes/
+archives/index.html#.UoRnlxDWr6A)
+National Hurricane Center. HC2008 Eastern Pacific Hurricane Season (Retrieve June 2013 from: http://www.nhc.noaa.gov/2008epac.shtml)
+NOAA. Operational SST Anomaly Charts for the year 2008 (Retrieve June 2013 from: http://www. ospo.noaa.gov/Products/ocean/sst/anomaly/2008.html)
+PAGASA. Weather : 2008 Tropical Cyclone Tracks, (Retrieved March 2013 from: http://www.pagasa.dost.gov.ph/wb/advi.html)
+Pidwirny, M. ( 2013 ). The Encyclopedia of the Earth: â€œEnergy Balance of the Earthâ€ (Retrieve November 11 2013, from: http://www.eoearth.
+org/view/article/152458/)
+Russell, R (2009). Windows to the Universe : Temperature in the Troposphere (Retrieve November 11 2013, from: http://www.
+windows2universe.org /earth/Atmosphere /troposphere_ temperature. html&edu=high)
+Smith, R. K. (2003). LECTURES ON TROPICAL METEOROLOGY.
+Zmeskal, O. Bzatec, T., Nezadal, M. & Buchnicek, M. ( 2013 ), Image Fundamentals: HarFA Basics, (Retrieved November 11 2013 from: http://
+www.fch.vutbr.cz/lectures/imagesci.)
+Downloads
+full paper
+Published
+2013-12-31
+How to Cite
+Salazar, R. K. (2013). Fractal Analysis of Sea Surface Temperature Anomaly and Tropical Depression Occurrence. Recoletos Multidisciplinary Research Journal, 1(2). https://doi.org/10.32871/rmrj1301.02.17
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 1 No. 2 (2013)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Most read articles by the same author(s)
+Randy K. Salazar,
+Rosario L. Cabillada,
+Mark S. Borres,
+Anthony Jagures,
+Fractal Dimensions of Voice Patterns and Voice Recognition
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Roberto N. Padua,
+Mark S. Borres,
+Randy K. Salazar,
+A Generalized Bootstrap Technique for Dependent Observations
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Randy K. Salazar,
+Josephine E. Petralba,
+Fractal Analysis of Global Fresh Water Use
+,
+Recoletos Multidisciplinary Research Journal: Vol. 3 No. 1 (2015)
+Randy K. Salazar,
+Cris Lawrence B. Laurente,
+Emissivity of â€œGreyâ€ Bodies, Surface Roughness and other Measures
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 2 (2014)
+Roberto N. Padua,
+Randy K. Salazar,
+The Ubiquity of Statistical Fractal Observations
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 1 (2013)
+Roberto N. Padua,
+Efren O. Barabat,
+Mark S. Borres,
+Randy K. Salazar,
+Some Results on Multifractal Spectral Analysis
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+Randy K. Salazar,
+Efren O. Barabat,
+Socio Political Economic Dimensions of Technological Advancement
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 1 (2013)
+Similar Articles
+Rodel B. Azura,
+Dennis A. Tarepe,
+Mark S. Borres,
+Jocelyn T. Panduyos,
+The Density of Primes Less or Equal to a Positive Integer up to 20,000: Fractal Approximation
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+You may also start an advanced similarity search for this article.
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

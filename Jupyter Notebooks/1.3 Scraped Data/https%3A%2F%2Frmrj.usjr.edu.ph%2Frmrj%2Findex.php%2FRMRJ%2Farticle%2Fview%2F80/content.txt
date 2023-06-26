@@ -1,0 +1,172 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/80
+From Fractal Geometry to Statistical Fractal
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 1 No. 1 (2013)
+/
+Articles
+From Fractal Geometry to Statistical Fractal
+Authors
+Roberto N. Padua
+Mark S. Borres
+University of San Jose-Recoletos
+DOI:
+https://doi.org/10.32871/rmrj1301.01.09
+Keywords:
+fractal geometry, 											fractal statistics, 											fractal dimension, 											scale- invariance, 											self- similarity, 											probability distribution
+Abstract
+The development from fractal geometry to fractal statistics was established in this paper. Interesting features such as self similarity, scale invariance, and the spacefilling property of objects (fractal dimension) of fractal geometry provided an enormous groundwork to build a link towards the statistical paradigm since most data sets are endowed with its non-normal and irregular characteristic. A new probability distribution called fractal distribution was modeled to accommodate this non-normal conforming characteristic of most data sets and sample investigations were presented at the end of the paper.
+Author Biographies
+Roberto N. Padua
+Dr. Roberto Natividad Padua, scientist, received his PhD in Mathematical Statistics from Clemson University, South Carolina, USA under the Fullbright-Hays scholarship grant. He is an accomplished author, a multi-awarded researcher and an internationally acclaimed lectured. Dr. Padua ia a former Commissioner of CHED and currently a consultant to several State and Private Universities, conducting lectures on research and Fractal Statistics. Dr. Padua is a Summa cum Laude, BS in Mathematics Teaching graduate from the Philippine Normal College under the National Science Development Board (NSDB) program. He obtained his MS in Mathematics Education Degree from the Centro Escolar University as a Presidential Scholar
+Mark S. Borres, University of San Jose-Recoletos
+graduated Bachelor of Science in Mathematicsâ€“major in Pure Mathematics at the University of the Philippines, Cebu College. Since 2009, he worked for the University of San Jose- Recoletos as a faculty member of the College of Arts and Sciences and handled Mathematics subjects such as College Algebra, Advanced Algebra, Abstract Algebra, Analytical Geometry, Euclidean geometry, Trigonometry, Business Mathematics, Linear Programming, Mathematics of Investment, Discrete Structure, and Statistics across colleges.
+References
+Akinyemi, Gbenga M. and Abiddin, Norhasni Zainal. (2013). Human Capital Developments an Interdisciplinary Approach for Individual,
+Organization Advancement and Economic Improvementâ€, Asian Social Science.
+Barnsley, M. (1988). Fractals Everywhere. San Diego, CA: Academic Press Inc.
+Borres, M. et al. (2013). Some Results on Multifractal Spectral Analysis. Unpublished manuscript.
+D. Rendon. (2003). Wavelet based estimation of the fractal dimension in fBm images, First International IEEE EMBS Conference on Neural Engineering 2003 Conference Proceedings CNE-03, ieeexplore.ieee.
+org/xpl/mostRecentIssue.jsp?punumber=8511
+Li, Q., et al. (2002).Computer vision based system for apple surface defect detection, Computers and Electronics in Agriculture.
+Padua, R., et al. (2013). Statistical Fractal Inference. Unpublished manuscript.
+Padua, R., et al. (2013). Statistical Analysis of Fractal Observations: Applications in Education and in Poverty Estimation. Unpublished manuscript.
+Sun, W., et al. (2006).Fractal analysis of remotely sensed images: A review of methods and Applications.
+Downloads
+PDF
+Published
+2013-06-18
+How to Cite
+Padua, R. N., & Borres, M. S. (2013). From Fractal Geometry to Statistical Fractal. Recoletos Multidisciplinary Research Journal, 1(1). https://doi.org/10.32871/rmrj1301.01.09
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 1 No. 1 (2013)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Most read articles by the same author(s)
+Mark S. Borres,
+Felix M. Diano Jr.,
+Evolutionary Models for the Interaction of the Higher Education Labor Force and Higher Education Market
+,
+Recoletos Multidisciplinary Research Journal: Vol. 3 No. 1 (2015)
+Anna Rose P. Nillama,
+Mark S. Borres,
+Ricky B. Villeta,
+Roramie V. Arco,
+Joyce C. Unabia,
+Validation of Lepidopteran Classification by Morphological Fractal Dimension Analysis
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Mark S. Borres,
+Jergen D. Orias,
+Alvin Mercado,
+A Mathematical Model on Social Integration Explaining Global Suicide Rate Among Men and Women
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Randy K. Salazar,
+Rosario L. Cabillada,
+Mark S. Borres,
+Anthony Jagures,
+Fractal Dimensions of Voice Patterns and Voice Recognition
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Roberto N. Padua,
+Mark S. Borres,
+Randy K. Salazar,
+A Generalized Bootstrap Technique for Dependent Observations
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Mark S. Borres,
+Robert John G. Tupas,
+Joel B. Serad,
+Aspects of Climate Change Induced by Human Activities: Impact on Global Natural Disaster Mortality
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Mark S. Borres,
+Queen Heneylour S. Relatorres,
+Efren O. Barabat,
+Societal Offenders In Prison: Global In-Country Analysis By Fractals
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Roberto N. Padua,
+Mark S. Borres,
+Efren O. Barabat,
+On a Logistic Approximation to the Normal and Other Cumulative Distribution Functions
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Jose D. Velez Jr.,
+Ricky B. Villeta,
+Roberto N. Padua,
+Richard Hao,
+Marielle Colina,
+A Predictive Model on the Spread of HIV in Cebu City
+,
+Recoletos Multidisciplinary Research Journal: Vol. 3 No. 2 (2015)
+Roberto N. Padua,
+Miraluna L. Herrera,
+Adriano V. Patac Jr.,
+Michael V. Sabugaa,
+Gibson T. Maglasang,
+Mark S. Borres,
+Jay M. Ontolan,
+On Fractional and Fractal Derivatives in Relation to the Physics of Fractals
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+1 2 > >>
+Similar Articles
+Paskalis Seran,
+Corazon G. Anzano,
+Financial Assessment of A Credit Union In West Timor, Indonesia
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 2 (2014)
+You may also start an advanced similarity search for this article.
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

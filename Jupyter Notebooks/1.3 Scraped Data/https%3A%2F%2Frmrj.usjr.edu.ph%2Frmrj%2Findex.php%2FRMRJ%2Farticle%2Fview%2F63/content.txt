@@ -1,0 +1,144 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/63
+Interpretation of Fractal Dimensions in Poverty Estimation
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 1 No. 2 (2013)
+/
+Articles
+Interpretation of Fractal Dimensions in Poverty Estimation
+Authors
+Baceledes Estal
+Surigao del Sur State University
+Ariston S. Ronquillo Jr.
+Surigao del Sur State University
+Joel B. Serad
+University of the Visayas
+Brian A. Vasquez
+University of the Visayas
+Le Roy Gerald A. Sarchez
+DOI:
+https://doi.org/10.32871/rmrj1301.02.10
+Keywords:
+poverty incidence, 											income-based poverty measure, 											fractal statistics
+Abstract
+The paper analyzed the poverty incidence data among families in the Philippinesacross the different provinces for three periods: 2006, 2009, and 2012, using a surrogate measure of data roughness through fractal dimensions. Fractal dimensions as statistical quantities are robust measures which are not easily influenced by extreme observations unlike other variance-based poverty measures. Results showed that poverty incidence is most pronounced and severe in 2009 and significantly least severe in 2012. This did not coincide with the classical analysis of the National Statistical Coordination Board which averred no significant improvement in the poverty situation in the Philippines using thesame data report. Moreover, multifractal spectrum analysis revealed that some provinces which used to be members of the 20 poorest provinces were delisted in 2012. The attribution of the improvement in the poverty situation are discussed in the paper considering some of the poverty alleviation projects in the Arroyo administration and the current Aquino administrationâ€™s poverty alleviation thrusts.
+Author Biographies
+Joel B. Serad, University of the Visayas
+R.N. is the assistant Director of the Center for Research and Development of the University of the Visayas. He finished his Bachelor of Science in Nursing, Master of Arts in Nursing major in Medical-Surgical Nursing and Doctor of Management major in Human Resource Management from UV. His researches are published in national and international peer reviewed journals.
+Brian A. Vasquez, University of the Visayas
+earned his Bachelor of Science in Psychology from the University of San Carlos in 2002 and Bachelor of Science in Nursing from the University of the Visayas in 2005. He received his Master of Arts in Nursing, Major in Medical Surgical Nursing in 2009 from the University of the Visayas where he also obtained additional masteral units in Guidance and Counseling, and Nursing Management. He graduated with the Best Thesis Award and received commendation from the Philippine Association for Graduate Education â€“ Region VII. He finished his academic requirements for Doctor of Philosophy in Education, Major in Research and Evaluation, and is currently finishing his dissertation paper. He is currently the newly installed Director of the Center for Research Planning and Development of the University of the Visayas. He has presented several qualitative research papers at international conferences.
+References
+Ahmed, Akhter, Agnes Quisumbing, James Villafuerte and Rena de la Cruz-Dona (2004b). â€œStrengthening Social Protection in the Philippines,â€ Policy note to the World Bank in the Philippines, unpublished.
+Albert, Jose Ramon and Andre Philippe Ramos (2010). â€œTrends in Household Vulnerability,â€Philippine Institute for Development Studies, Discussion Paper Series No. 2010- 01.
+Asian Development Bank (2006). Poverty in the Philippines: Incomes, Assets and Access. Manila:Asian Development Bank
+Asian Development Bank (2009). Poverty in the Philippines: Causes, Constraints, Opportunities. Mandaluyong City: Asian Development Bank
+Asian Development Bank (2010). Poverty in the Philippines: Causes, Constraints and Opportunities. Manila: Asian Development Bank
+Balisacan, Arsenio (2007). â€œWhy Does Poverty Persist in the Philippines? Facts, Fancies andPolicies,â€ Agricultural and Development Discussion Paper Series 2007-1, Southeast Asian Regional Center for Graduate Study and Research in Agriculture.
+Balisacan, Arsenio, Rosemarie Edillion, Alex Brilliantes and Dante Canlas (2002). Approaches to Targeting the Poor. Makati: National Economic and Development Authority and the United Nations Development Program.
+Balisacan, Arsenio and Nobuhiku Fuwa (2004). â€œGoing Beyond Cross Country Averages: Growth, Inequality and Poverty Reduction in the Philippines,â€ World Development 32 (11), pp. 1891- 1907.
+Balisacan, Arsenio, Sharon Faye Piza, Dennis Mapa, Carlos Abad Santos and Donna Mae Odra(2010). â€œTackling Poverty and Social Impacts: Philippine Response of the Crisis to the Global Economic Crisis,â€ Report to the United Nations Development Program, Manila.
+Buendia, Emmanuel (2005). Democratizing Governance in the Philippines: Redefining and Measuring the State of Peopleâ€™s Participation in Governance. Quezon City: University of the Philippines.
+Canlas, Dante, Fernando Aldaba and Emmanuel Esguerra (2006). â€œGrowth, Employment Creation and Poverty Reduction,â€ Paper prepared for the National Employment Summit.
+Castro, Lina (2008). â€œ2006 Poverty Statistics for the Basic Sectors,â€ Presentation to the Usersâ€™Forum on the 2006 Poverty Statistics for the Basic Sectors and 2006 Child Development Index,â€ Makati, Philippines.
+De Dios, Emmanuel (1993). Poverty, Growth and the Fiscal Crisis. Makati: Philippine Institute for Development Studies
+Di Gropello, Emanuela with Hong Tan and Prateek. Tandon (2010). Skills for the Labor Market inthe Philippines. Washington, D.C.: World Bank.
+Dy, Rolando (2011). â€œPhilippine Agriculture and Fishery: Challenges, Opportunities and Global Competitiveness,â€ Presentation to the Department of Agriculture.
+Padua, Roberto, N. with Palompon, Daisy, R. and Ontoy, Dexter S. (2012) â€œData Roughness and Fractal Statisticsâ€ (CNU Journal of Higher Education, Vol. 6, No.1, CHED-JAS Category A, pp. 87-101)
+Padua, Roberto with Barabat, Efren (2013) â€œ On the Properties of Multifractal Spectrumâ€ (The Recoletos Journal of Higher Education, Vol. 1, No.1, Research Journal of the University of San Jose Recoletos,
+CHED-JAS Category B, pp. 78-89)
+Downloads
+full paper
+Published
+2013-12-31
+How to Cite
+Estal, B., Ronquillo Jr., A. S., Serad, J. B., Vasquez, B. A., & Sarchez, L. R. G. A. (2013). Interpretation of Fractal Dimensions in Poverty Estimation. Recoletos Multidisciplinary Research Journal, 1(2). https://doi.org/10.32871/rmrj1301.02.10
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 1 No. 2 (2013)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Most read articles by the same author(s)
+Mark S. Borres,
+Robert John G. Tupas,
+Joel B. Serad,
+Aspects of Climate Change Induced by Human Activities: Impact on Global Natural Disaster Mortality
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Brian A. Vasquez,
+Philosophical Bases of Research Methods:An Integrative Narrative Review Part 2
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Joel B. Serad,
+Mathea M. Baguia,
+Resolving Ethical Dilemmas of Human Resource Management
+In The Academe: A Decision-Making Process Model
+,
+Recoletos Multidisciplinary Research Journal: Vol. 3 No. 2 (2015)
+Tonette M. Villanueva,
+Melvin R. de Castro,
+Brian A. Vasquez,
+Social, Economic, Political and Quality of Life across Human Immunodeficiency Virus
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 1 (2013)
+Brian A. Vasquez,
+Philosophical Bases of Research Methods: An Integrative Narrative Review Part 1
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+Similar Articles
+Jessica M. Avenido,
+Roberto M. Cabardo,
+Rosario L. Cabillada,
+Vote Pricing Spatial Probability Models in the Philippines
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+You may also start an advanced similarity search for this article.
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

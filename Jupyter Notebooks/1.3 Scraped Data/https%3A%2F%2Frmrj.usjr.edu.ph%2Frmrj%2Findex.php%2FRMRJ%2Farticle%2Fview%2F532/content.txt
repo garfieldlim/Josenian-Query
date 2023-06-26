@@ -1,0 +1,109 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/532
+An Analytic Approximation to the Density of Twin Primes
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 6 No. 2 (2018)
+/
+Articles
+An Analytic Approximation to the Density of Twin Primes
+Authors
+Dionisel Y. Regalado
+Rodel Azura
+Agusan del Sur State of Agriculture and Technology
+DOI:
+https://doi.org/10.32871/rmrj1806.02.05
+Keywords:
+twin primes, inter-arrival time
+Abstract
+The highly irregular and rough fluctuations of the twin primes below or equal to a positive integer x     are considered in this study. The occurrence of a twin prime on an interval [0,x] is assumed to be random. In particular, we considered the waiting time between arrivals of twin primes as approximated by a geometric distribution which possesses the discrete memory-less property. For large n, the geometric distribution is well-approximated by the exponential distribution. The number of twin primes less or equal to x will then follow the Poisson distribution with the same rate parameter as the exponential distribution. The results are compared with the Hardy-Littlewood conjecture on the frequency of twin primes. We successfully demonstrated that for large n, the proposed model is superior to the H-L conjecture in predicting the frequency of twin primes.
+References
+Azura, R. B., Tarepe, D. A., Borres, M. S., & Panduyos, J. T. (2017). The Density of Primes Less or Equal to a Positive Integer up to 20,000: Fractal Approximation. Recoletos Multidisciplinary Research Journal, 1(2).
+Banks,W.D., Freiberg,T.,& Maynard, J. (2014). On the limit points of the sequence of normalized prime gaps. arXiv preprint arXiv:1404.5094
+Hardy, G. H., & Littlewood, J. E. (1984). SOME PROBLEMS OFâ€™PARTITIO NUMERORUMâ€™; III: ON THE EXPRESSION OF A NUMBER AS A SUM OF PRIMES. In Goldbach Conjecture(pp. 21-60).
+Fliegel, Henry F.; Robertson, Douglas S. (1989). "Goldbach's Comet: the numbers related to Goldbach's Conjecture". Journal of Recreational Mathematics. 21 (1): 1â€“7.
+Ford,K., Green,B.,Konyagin,S., & Tao, T.(2014).Large gaps between consecutive prime numbers. arXiv preprint arXiv: 1408.4505
+Maynard,J.(2013). Small gaps between primes. arXiv preprint arXiv:1311.4600
+Maynard, J. (2013). Bounded length intervals containing two primes and an almost-prime. Bulletin of the London Mathematical Society, 45(4), 753-764.
+Padua, R. N., & Libao, M. F. (2017). ON STOCHASTIC APPROXIMATIONS TO THE DISTRIBUTION OF PRIMES AND PRIME METRICS. Journal of Higher Education Research Disciplines, 1(1), 33-38.
+Regalado, D. & Azura, R. On a Mixed Regression Estimator for the Density of Prime Gaps. Journal of Higher Education Research Disciplines. 1 (2), 48-57.
+Sloane, N.J.A. (ed.). "Sequence A001692 (Number of irreducible polynomials of degree n over GF(5); dimensions of free Lie algebras)". The On-Line Encyclopedia of Integer Sequences. OEIS Foundation. Retrieved 2011-02-02. -- A page of number theoretical constants
+Young, J., & Potler, A. (1989). First occurrence prime gaps. Mathematics of Computation, 221-224.
+Downloads
+pdf
+Published
+2018-12-31
+How to Cite
+Regalado, D. Y., & Azura, R. (2018). An Analytic Approximation to the Density of Twin Primes. Recoletos Multidisciplinary Research Journal, 6(2). https://doi.org/10.32871/rmrj1806.02.05
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 6 No. 2 (2018)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Most read articles by the same author(s)
+Jesse S. Susada,
+Marisa A. Mahilum,
+Dionisel Y. Regalado,
+Simulation Model for the Maintenance of Government and Private Facilities in the Philippine Context
+,
+Recoletos Multidisciplinary Research Journal: Vol. 3 No. 1 (2015)
+Roberto N. Padua,
+Joel G. Adanza,
+Efren O. Barabat,
+Dionisel Y. Regalado,
+Construction of a Simple Multifractal Spectrum as an Alternative to the Legendre Spectra in Multifractal Formalisms
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 1 (2013)
+Dionisel Y. Regalado,
+Approximate Analytic Solution to the Three Species Lotka â€“ Volterra Differential Equation Model
+,
+Recoletos Multidisciplinary Research Journal: Vol. 9 No. 2 (2021)
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

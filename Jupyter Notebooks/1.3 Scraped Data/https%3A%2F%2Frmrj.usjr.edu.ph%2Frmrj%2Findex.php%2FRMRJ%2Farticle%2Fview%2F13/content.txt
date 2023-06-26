@@ -1,0 +1,102 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/13
+Algebraic Method for Solving System of Linear Congruences
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 3 No. 1 (2015)
+/
+Articles
+Algebraic Method for Solving System of Linear Congruences
+Authors
+Polemer M. Cuarto
+Mindoro State College of Agriculture and Technology
+DOI:
+https://doi.org/10.32871/rmrj1503.01.07
+Keywords:
+Algebraic algorithm, 											system of linear congruences, 											Number Theory, 											Chinese Remainder Theorem, 											crypthography
+Abstract
+The paper aimed to devise an alternative algorithm for solving system of linearcongruences. This algorithm is an extension of the algebraic algorithm which is an alternative method for finding solutions in linear congruences. The basic idea of the technique is to convert the given linear congruences into linear equations and solve them algebraically. The advantage of this algorithm is the simplicity of its computations and its applicability to systems of linear congruences where the conditions of the Chinese Remainder Theorem that the moduli m1â€¦mn should be pairwise coprime is not satisfied. Some illustrative examples are given to show validity of this method for solving system of linear congruences.
+Author Biography
+Polemer M. Cuarto, Mindoro State College of Agriculture and Technology
+is a graduate of Bachelor of Secondary Education Major in Mathematics with magna cum laude honors and a graduate of Master of Arts in Education Major in Mathematics at Mindoro State College of Agriculture and Technology. He is a Ph.D. in Education Major in Mathematics candidate at the University of Batangas. Presently, he is a Mathematics Instructor of Mindoro State College of Agriculture and Technology Calapan City Campus. He is teaching major subjects such as Probability, Elementary and Advanced Statistics, Linear Algebra, Abstract Algebra, Mathematical Investigation and Modeling, and Problem Solving.
+References
+Adams, D.G.(2010). Distinct Solutions of Linear Congruences. Acta Arithmetica Vol. 141 (2), 103-152
+Burger, E. B. (2006). Small Solutions of Linear Congruence over Number of Fields. Rocky Mountain Journal of Mathematics Vol. 26 (3), 875-888
+Congruences [Online]. (2013). Natick, MA : MathWorks. Retrieved http://www.mathworks.com/help/symbolic/ mupad.ug/congruences.html.
+Frieze, A. et al. (2006). Reconstructing Truncated Integer Variables Satisfying Linear Congruences. SIAM Journal on Computing. Vol. 17 No. 2. pp 262-280
+Gold, J.F., Tucker, D. H. (1995). A novel solution of linear congruences. Salt Lake City, UT.
+Koshy, T. (2007). Elementary Number Theory with Applications. (2nd Ed.) Cambridege, MA : Academic Press.
+Lindahl, L. A. (2002). Lectures on Number Theory [Online]. Sweden : Uppsala University Retrieved http://www2.math.uu.se/~astrombe/talteori2016/lindahl2002.pdf
+Linear Congruences [Online]. (2013). Retrieved from http://www.math.cornell.edu/~csheridan//Math1350Schedule_files/LinearCongruences.pdf.
+Linear Congruences [Online]. (2013). Dekalb, IL: Northern Illinois University. Retrived http://www.math.niu.edu/~richard/Math420/lin_cong.pdf.
+Sburlati, G. (2003). Counting the Number of Solutions of Linear Congruences. Rocky Mountain Journal of Mathematics Vol. 33 No. 4.pp
+1487-1497
+Stein, W. (2009). Elementary Number Theory : Primes, Congruences and Secrets. 1st Ed. Springer Publication. pp 21-44
+System of Linear Congruences 2013. Ohio : Xavier University Computer Science. Retrieved from http://www.cs.xu.edu/math /math302/08f/06_CRT.pdf.
+Weisstein, E. W. (2013). Linear congruence equation. [Online] Retrieved http://mathworld.wolfram.comLinearCongruenceEquation.html.
+Downloads
+PDF
+Published
+2015-06-30
+How to Cite
+Cuarto, P. M. (2015). Algebraic Method for Solving System of Linear Congruences. Recoletos Multidisciplinary Research Journal, 3(1). https://doi.org/10.32871/rmrj1503.01.07
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 3 No. 1 (2015)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Similar Articles
+Dennis V. Madrigal,
+Responding to the Challenges Of Employment Through Graduate Attributes
+,
+Recoletos Multidisciplinary Research Journal: Vol. 3 No. 1 (2015)
+You may also start an advanced similarity search for this article.
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

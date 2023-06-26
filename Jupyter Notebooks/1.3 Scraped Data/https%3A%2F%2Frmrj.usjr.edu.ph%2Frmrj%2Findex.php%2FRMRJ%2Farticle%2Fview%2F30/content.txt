@@ -1,0 +1,125 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/30
+A Correlational Analysis of Global Climate Risk Indices and Tourism Industry Indicators Using Fractal Statistics
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 2 No. 1 (2014)
+/
+Articles
+A Correlational Analysis of Global Climate Risk Indices and Tourism Industry Indicators Using Fractal Statistics
+Authors
+Ryan O. Tayco
+Negros Oriental State University
+Agnes C. SequiÃ±o
+University of San Jose-Recoletos
+DOI:
+https://doi.org/10.32871/rmrj1402.01.04
+Keywords:
+Climate Risk, 											Tourism Industry, 											Fractal Statistics, 											Correlation Analysis
+Abstract
+In this study, we demonstrate the use of techniques associated to a newly-developed fractal statistics in the analysis of data roughness of climate risk indices across the country as these induce a consequent ruggedness in the tourism industry indicators. Fractal dimensions and roughness correlation are used to show relationship while Pearson r correlation analysis to show association of the variables, climate risk index (as X variable), travel and tourism competitiveness, tourist arrival, tourism income and GDP per country(as Y variable). It is found out that climate risk condition is a cause of the decreases of the tourism activity and income of the country. The result lends proof thatn the weather patterns of a country, specifically climate risk condition, has considerable effects on tourism industry. Changing climate and weather patterns at tourist destinations and tourist generating countries can significantly affect the touristsâ€™ comfort and their travel decisions. Influx in international tourist arrivals in response to climate risk affects all countries across the globe. However, developing countries are more vulnerable as theyhave less resources and mechanisms to mitigate the impacts.
+Author Biographies
+Ryan O. Tayco, Negros Oriental State University
+is a graduate of Bachelor of Science in Hotel and Restaurant Management at Negros Oriental State University. He finished his Masterâ€™s Degree in Business Administration major in Hospitality Management from University of the Visayas. He is presently connected with Negros Oriental State University, Main Campus I, Dumaguete City as an HM Instructor and as University Researcher.
+Agnes C. SequiÃ±o, University of San Jose-Recoletos
+is an Industrial Technologist, has eleven years of experience in the industry prior to her twenty year stint in the academe. She earned her Master in Management degree from the University of San a Jose Recoletos and her PhD in Research and Evaluation degree from the Cebu Normal University. Her exposure to the volunteer work with the Maryknoll Missionaries in the past opened her horizons to be a volunteer adviser to the Business Advisory Program of the Philippine Business for Social Progress while working as a professor and faculty researcher of the Dept. of Business and Management of the University of San Jose Recoletos. She has coached entrepreneurs in the BidNetwork of Netherlands and has been a recipient of various awards in research. She has published research papers related to the IT â€“ BPO Industry and was one of the invited speakers to the First World Congress for IT Outsourcing held at Nikko Hotel, Dalian City, China in August 28-30 2012.Her competencies are in the field of business research, marketing and management.She has been awarded a scholarship grant by the Tallberg Foundation to be the country representative to the 5th Global Entrepreneurship Summit in Leksand, Sweden in 2010 and was invited as panelist representing the Philippines to the 19th Annual International Conference of the Association of Employment Practices and Principles (AEPP) held at the East West Center in the University of Hawaii at Manoa in October 2011. She presented and published her latest study on the Palm Oil Industry in Southeast Asia: Challenges and Opportunities in the Journal of Strategic and International Studies in Key West, Florida, U. S. A. in May 2013. Being the Director of the Center for Policy , Research and Development Studies of the University of San Jose â€“ Recoletos, she has recently presented her environmental scanning study on the Palm Oil Biomass Industry in Malaysia at the International Conference for Academic Disciplines at the American University of Rome, Italy in October 2014.
+References
+Blanke, J., & Chiesa, T. (2013). The Travel & Tourism Competitiveness Report 2013. In The World Economic Forum.
+GDP per capita (current US$). (http://data. worldbank.org/ indicator/NY.GDP. PCAP.CD). Retrieved 2nd April, 2014.
+GÃ¶ssling, S., Scott, D., Hall, C. M., Ceron, J. P., & Dubois,G. (2012). Consumer behaviour and demand response of tourists to climate change. Annals of Tourism Research, 39(1), 36-58.
+Harmeling, S. and Eckstein, D.(2012) Global Climate Risk Index 2013. Who Suffers Most from Extreme Weather Events? Weather-Related Loss Events in 2011 and 1992 to 2011. (https://germanwatch.org/en/download/7170.pdf) Retrieved 14th
+November 2013.
+â€œInterim Updateâ€.UNWTO World Tourism Barometer (2013).(http://mkt.unwto .org /en/publication/unwto-tourism-highlights-2013-edition). Retrieved 05th January 2014.
+Most, W. S., & Weather, E. (2012). Global Climate Risk Index 2013.
+Padua, R. (2013). On Fractal Probability Distributions:Results on Fractal Spectrum. (SSDSU Multidisciplinary Journal, Vol. 1, 87 â€“ 92, CHED â€“
+JAS B).
+The Travel & Tourism Competitiveness Report 2013. Retrieved 3rd April, 2014. UNEP, 2008. Disaster Risk Management for Coastal Tourism Destination Responding to Climate Change. A Practical Guide for Decision-makers. 15, rue de Milan, 75441 Paris CEDEX 09, France.
+UNEP, 2008. Disaster Risk Reduction. A toolkit for Tourism Destinations. Practical examples from Coastal Settlements in Asia. 15, rue de Milan, 75441 Paris CEDEX 09, France.
+UNEP, 2007. Disaster Risk Reduction in Tourism Destinations. Disaster Reduction through Awareness, Preparedness and Prevention Mechanisms in Coastal Settlements in Asia-Demonstration in Tourism Destinations. 15, rue de Milan, 75441 Paris CEDEX 09, France.
+United Nations World Tourism Organization & United Nations Environment Programme (UNWTO & UNEP) (2008). Climate change and tourism:
+Responding to global challenges, Madrid: UNWTO & UNEP.(http://www.unep.org/greeneconomy/Portals/88/documents/ger/ger_final_dec_2011/Tourism%20in%20the%20green_economy%20unwto_unep.pdf). Retrieved 3rd March, 2014.
+UNWTO. (2013). UNWTO Tourism Highlights, 2013 Edition Tourism. United Nations World Tourism Organizations. (http://mkt.unwto.org/en/
+publication/unwto-tourism-highlights-2013-edition.pdf). Retrieved 3rd March 2014.
+UNWTO, UNEP. â€œWMO (2008): Climate Change and Tourismâ€“Responding to Global Challenges.â€Advanced Summary, October (2007).
+World Bank Group (Ed.). (2012). World Development
+Indicators 2012. World Bank Publications. â€œWorldâ€™s top destinations by international tourism receiptsâ€. World Tourism Barometer.UNWTO.
+(http://dtxtq4w60wqpw.cloudfront.net/sites/all/files/pdf.Worlds_top_destinations_pr_27.pdf). Retrieved 11th March 2014.
+Downloads
+full paper
+Published
+2014-06-30
+How to Cite
+Tayco, R. O., & SequiÃ±o, A. C. (2014). A Correlational Analysis of Global Climate Risk Indices and Tourism Industry Indicators Using Fractal Statistics. Recoletos Multidisciplinary Research Journal, 2(1). https://doi.org/10.32871/rmrj1402.01.04
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 2 No. 1 (2014)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Most read articles by the same author(s)
+Agnes C. SequiÃ±o,
+Jessica M. Avenido,
+The Worldâ€™s Leader in the Palm Oil Industry : Indonesia
+,
+Recoletos Multidisciplinary Research Journal: Vol. 3 No. 1 (2015)
+Agnes C. SequiÃ±o,
+Zosima A. PaÃ±ares,
+The Palm Oil Industry in Southeast Asia: Challenges and Opportunities
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 1 (2013)
+Similar Articles
+Roberto N. Padua,
+Mark S. Borres,
+Efren O. Barabat,
+On a Logistic Approximation to the Normal and Other Cumulative Distribution Functions
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+You may also start an advanced similarity search for this article.
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

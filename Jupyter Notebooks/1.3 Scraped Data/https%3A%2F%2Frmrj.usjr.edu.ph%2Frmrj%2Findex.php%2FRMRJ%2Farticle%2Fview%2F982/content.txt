@@ -1,0 +1,123 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/982
+A Sound-based Machine Learning to Predict Traffic Vehicle Density
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 9 No. 1 (2021)
+/
+Articles
+A Sound-based Machine Learning to Predict Traffic Vehicle Density
+Authors
+Geoferleen Flores
+University of San Jose-Recoletos, Cebu City, Philippines
+https://orcid.org/0000-0003-4205-9804
+Eduardo Jr. Piedad
+University of San Jose-Recoletos, Cebu City, Philippines
+http://orcid.org/0000-0002-9723-1731
+Anzeneth Figueroa
+University of San Jose-Recoletos, Cebu City, Philippines
+https://orcid.org/0000-0002-9417-855X
+Romari Tumamak
+University of San Jose-Recoletos, Cebu City, Philippines
+https://orcid.org/0000-0003-3492-6621
+Nesrah Jane Marie Berdon
+University of San Jose-Recoletos, Cebu City, Philippines
+https://orcid.org/0000-0002-5161-960X
+DOI:
+https://doi.org/10.32871/rmrj2109.01.05
+Keywords:
+vehicle density, 											sound features, 											sound intensity, 											machine learning, 											traffic prediction, 											random forest, 											artificial neural network, 											support vector machine
+Abstract
+Traffic flow mismanagement is a significant challenge in all countries especially in crowded cities. An alternative solution is to utilize smart technologies to predict traffic flow. In this study, frequency spectrum describing traffic sound characteristics is used as an indicator to predict the next five-minute vehicle density. Sound frequency and vehicle intensity are collected during a thirteen-hour data gathering. The collected sound intensity and frequency are then used to learn three machine-learning models - support vector machine, artificial neural network, and random forest and to predict vehicle intensity. It was found out that the performances of the three models based on root-mean-square-error values are 12.97, 16.01, and 10.67, respectively. These initial and satisfactory results pave a new way to predict traffic flow based on traffic sound characteristics which may serve as a better alternative to conventional features.
+Author Biography
+Eduardo Jr. Piedad, University of San Jose-Recoletos, Cebu City, Philippines
+Instructor I, Department of Electrical Engineering
+References
+Caladcad, J. A., Cabahug, S., Catamco, M. R., Villaceran, P. E., Cosgafa, L., Cabizares, K. N., Hermosilla, M., & Piedad, E. (2020).
+Determining Philippine coconut maturity level using machine learning algorithms based on acoustic signal. Computers and Electronics in Agriculture, 172, 105327. https://doi.org/10.1016/j.compag.2020.105327
+Celikoglu, H.B. (2013). An approach to dynamic classification of traffic flow patterns.
+Computer-Aided Civil and Infrastructure Engineering, 28(4), 273-288. https://doi.org/10.1111/j.1467-8667.2012.00792.x
+Chang, H. C., Kuo, C. C., Chen, Y. T., Wu, W. B., & Piedad, E. J. (2018, August 19-21). Energy consumption level prediction based on classification approach with machine learning technique [Paper presentation]. 4th World Congress on New Technologies (NewTechâ€™18), Madrid, Spain. https://www.semanticscholar.org/paper/Energy-Consumption-Level-Prediction-Based-on-with-Chang-Kuo/f54dd7d4ac0cd1723f4725ef0326d35d8ddb54ed
+Chen, Y. T., Piedad, E., & Kuo, C. C. (2019). Energy consumption load forecasting using a level-based random forest classifier. Symmetry, 11(8), 956. https://doi.org/10.3390/sym11080956
+The city of the future â€“ sustainable social, economic and environmental management. (2016, April 4). Planet Energies. https://www.planete-energies.com/en/medias/close/city-future-sustainable-social-economic-and-environmental-Management
+Halim, H., & Abdullah, R. (2014). Equivalent noise level response to number of vehicles: A comparison between a high traffic flow and low traffic flow highway in Klang Valley, Malaysia. Frontiers in Environmental Science, 2, 1-4. https://doi.org/10.3389/fenvs.2014.00013
+Hegina, A. J. (2015, January 20). PH traffic ranks 9th worst in the world-study. Inquirer.Net. https://globalnation.inquirer.net/117785/ph-traffic-ranks-9th-worst-in-the-world-study
+Kumar, K., Parida, M., & Katiyar, V.K. (2015). Short term traffic flow prediction in heterogeneous conditions using artificial neural network. Transport, 30(4), 397-405. https://doi.org/10.3846/16484142.2013.818057
+Lisangan, E. A., & Sumarta, S. C. (2017, October 26-27). Route selection based on real time traffic condition using Ant Colony System and Fuzzy Inference System [Conference session]. 2017 3rd International Conference on Science in Information Technology (ICSITech), Bandung, Indonesia. https://doi.org/10.1109/ICSITech.2017.8257087
+Litman, T. (2006). Smart transportation investments II reevaluating the role of public transit for improving urban transportation. ETDEWEB. https://www.osti.gov/etdeweb/biblio/20818730
+Piedad, E. J., Le, T. T., Aying, K., Pama, F. K., & Tabale, I. (2019, October 17-20). Vehicle count system based on time interval image capture method and deep learning Mask R-CNN [Conference session]. IEEE Region 10 Conference (TENCON) 2019. https://doi.org/10.1109/tencon.2019.8929426
+Silvano, A., & Bang, K. L. (2016). Impact of speed limits and road characteristics on free-Flow speed in urban areas.
+Journal of Transportation Engineering, 142(2).
+https://doi.org/10.1061/(ASCE)TE.1943-5436.0000800
+Tan, L. (2016, September 15). Waze: Cebu is the worst place in the world for drivers. CNN. https://cnnphilippines.com/news/2016/09/15/Cebu-Metro-Manila-Philippines-traffic-Waze.html#:~:text=GPS%2Dbased%20traffic%20app%20Waze,countries%20and%20235%20metro%20areas
+Vergel, K. N., Cacho, F. T., & Capiz, C. L. E. (2004). A study on roadside noise generated by tricycles. Philippine Engineering Journal, 25(12), 1â€“22. http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.919.8016&rep=rep1&type=pdf
+Vlahogianni, E. I., & Karlaftis, M. G., & Golias, J.C. (2014). Short-term traffic forecasting: Where we are and where weâ€™re going. Transportation Research Part C: Emerging Technology, 43(Part 1), 3-19. https://doi.org/10.1016/j.trc.2014.01.005
+Wild, D. (1997). Short-term forecasting based on a transformation and classification of traffic volume time series. International Journal of Forecasting, 13(1), 63â€“72. https://doi.org/10.1016/S0169-2070(96)00701-7
+Downloads
+pdf
+Published
+2021-05-29
+How to Cite
+Flores, G., Piedad, E. J., Figueroa, A., Tumamak, R., & Berdon, N. J. M. (2021). A Sound-based Machine Learning to Predict Traffic Vehicle Density. Recoletos Multidisciplinary Research Journal, 9(1), 55–62. https://doi.org/10.32871/rmrj2109.01.05
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 9 No. 1 (2021)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Most read articles by the same author(s)
+Eduardo Jr. Piedad,
+Barne Roxette Carpio,
+Kristine Sanchez,
+Marven Jabian,
+A Computer Vision Application for Measuring the Deflection in a Two-dimensional View of Reinforced Concrete Beams
+,
+Recoletos Multidisciplinary Research Journal: Vol. 9 No. 1 (2021)
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

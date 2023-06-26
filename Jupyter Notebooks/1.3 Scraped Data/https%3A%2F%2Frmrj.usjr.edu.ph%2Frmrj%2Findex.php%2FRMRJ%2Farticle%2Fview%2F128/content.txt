@@ -1,0 +1,170 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/128
+Emissivity of â€œGreyâ€ Bodies, Surface Roughness and other Measures
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 2 No. 2 (2014)
+/
+Articles
+Emissivity of â€œGreyâ€ Bodies, Surface Roughness and other Measures
+Authors
+Randy K. Salazar
+University of San Jose-Recoletos
+Cris Lawrence B. Laurente
+University of San Jose-Recoletos
+DOI:
+https://doi.org/10.32871/rmrj1402.02.14
+Keywords:
+emissivity, 											grey body, 											surface roughness, 											electron microscopy, 											fractal dimension, 											heat transfer, 											thermal radiation, 											regression analysis
+Abstract
+The Stefan-Boltzmann law quantifies the radiating energy of a body, but this requires knowledge on emissivity. The surface emissivity values more often are determined using instruments in a test or experiments. This procedure may not be practical for large objects that are difficult to mount in a laboratory. This paper reviews the different concepts and dimensions that affect emissivity. This explores the relationship of emissivity with the selected thermodynamic properties, dimensions including the surface microstructure of the material. Thermodynamic properties and surface microstructure images from online sources were utilized as data for the selected materials. Field Emission Scanning Electron Microscope (FESEM) provides the rest of the unavailable images. Fractal image analysis characterized and gave dimension to the roughness of the surface microstructure of the material. Different regression models of the relevant dimensions were tested to determine the statistical relation and the optimum correlation to emissivity. Overall, the calculated values of the emissivity model of the study yields strong correlation with the published emissivity values.
+Author Biography
+Randy K. Salazar, University of San Jose-Recoletos
+is a Mechanical Engineer, Assistant Professor of the University of San Jose Recoletos teaching Mechanical Engineering. Holder of a Masters in Science in Management Engineering from the University of San Jose Recoletos and finishing his Masters degree in Mechanical Engineering â€“ Dynamic Design Systems at the University of San Carlos.
+References
+Amonette, J. E., & Joseph, S. (2009). Characteristics of biochar: Microchemical properties. Biochar for environmental management: Science and technology. Earthscan, London, 33-52.
+Astarita, T., & Carlomagno, G. M. (2013). Infrared Thermography for Thermo-Fluid-Dynamics.
+Attalah, S. (1966). A relationship between emissivity and thermal conductivity of metals. British journal of applied physics, 17(573), 0508-3443.
+Batchelor, G. K. (2000). An introduction to fluid dynamics. Cambridge university press.
+Berry,
+B. (2014, November 14). General Posts: Does emissivity change with temperature? Retrieved June 23, 2015, from Thermal Vision: http://www.thermalvision.ie
+Bloise, A., Fornero, E., Belluso, E., Barrese, E., & Rinaudo, C. (2008). Synthesis and characterization of tremolite asbestos fibres. European Journal of Mineralogy, 20(6), 1027-1033.
+Brewster, M. Q. (1992). Thermal radiative transfer and properties. John Wiley & Sons.
+Cengel, Y. A., Klein, S., & Beckman, W. (1998). Heat transfer: a practical approach.
+Chen, L., Yang, B. T., & Hu, X. (1990). Design principle for simultaneous emissivity and temperature measurements. Optical Engineering, 29(12), 1445-1448.
+Crystal Mark Inc. (2014). Retrieved November 24, 2014, from Crystal Mark Inc: http://www.crystalmarkinc.com/wp-content/uploads
+D'Annunzio, J. (2010). Reflectivity, emissivity important factors when selecting a cool roof. (Retrieve December 20 2014, from: http://www.facilitiesnet.com/roofing/article/Reflectivity-Emissivity-Important-Factors-When-Selecting-A-Cool-Roof--11641#)
+Dozier, J., & Warren, S. G. (1982). Effect of viewing angle on the infrared brightness temperature of snow. Water Resources Research, 18(5), 1424-1434.
+EN12524, B. S. (2000). Building materials and productsâ€“Hygrothermal propertiesâ€“Tabulated design values. British Standards Institution, London. ISBN 0, 580(34797), 4.
+Engineering Toolbox. (n.d, ). Material Properties:. Retrieved November 20, 2014, from The engineering Toolbox: http://www.engineeringtoolbox.com/material-properties-t_24.html
+Especel, D., & Mattei, S. (1996). Total emissivity measurements without use of an absolute reference. Infrared physics & technology, 37(7), 777-784.
+Flynn, A. J., & Stachurski, Z. H. (2006, Spetember). Microstructure and properties of stoneware clay bodies. Clay Minerals, 41, 775-789. Retrieved November 24, 2014, from Clay Minerals: http://claymin.geoscienceworld.org/content
+Firefly Diapers. (2014). Retrieved November 24, 2014, from Firefly Diapers: http://www.fireflydiapers. com
+Fluke Corporation. (2007, September 1). Emissivity of Common Materials. Everett, Washington, USA. Retrieved November 20, 2013, from www.frigidn.com/resources/EmissivityTable.pdf
+Fuji & Co. (2009). Thermopile, (Retrieved December 20 2014 from: http://www.fuji-piezo.com/)
+Grey Cast Iron Technical Data. (n.d.). Retrieved November 14, 2014, from Durham Foundry: http://www.castironcastings.com/images/high-tensile-strength-hardness.jpg)
+Jalaal, M., Ghasemi, E., Ganji, D. D., Bararnia, H., Soleimani, S., Nejad, G. M., & Esmaeilpour, M. (2011). Effect of temperature-dependency of surface emissivity on heat transfer using the parameterized perturbation method. Thermal Science, 15(suppl. 1), 123-125.
+Johnson, R. B., Feng, C., & Fehribach, J. D. (1988, January). On the validity and techniques of temperature and emissivity measurements. In 1988 Orlando Technical Symposium (pp. 202-206). International Society for Optics and Photonics.
+Mandelbrot, B. B. (1983). The fractal geometry of nature (Vol. 173). Macmillan.
+Merckx, B., Dudoignon, P., Garnier, J. P., & Marchand, D. (2012). Simplified Transient Hot-Wire Method for Effective Thermal Conductivity Measurement in Geo Materials: Microstructure and Saturation Effect. Advances in Civil Engineering, 2012.
+Micrographs : Microstructures. (2014). Retrieved November 24, 2014, from Internet Microscope for Schools: http://pwatlas.mt.umist.ac.uk/internetmicroscope/
+Minkina, W., & Dudzik, S. (2009). Infrared thermography: errors and uncertainties. John Wiley & Sons.
+MusilovÃ¡, V. (2010). Factors that influence emissivity values, (Retrieved December 20, 2014, from: http://www.evitherm.org/default.asp?ID=216)
+National Physical Laboratory. (2008, ). Kaye and Laby Table of Physical & Chemical Constants. Retrieved November 20, 2013, from National Physical Laboratory: http://www.kayelaby.npl.co.uk/general_ physics/2_3/2_3_7.html
+Omega Engineering. (n.d.). Temperature: Table of Total Emissivity. Retrieved November 20, 2014, from Omega: www.omega.com/temperature/z/pdf/z088-089.pdf
+Paloposki, T., & Liedquist, L. (2005). Steel emissivity at high temperatures. Technical Research Centre of Finland. Research Notes, (2299), 81.
+Powell, R. W., Ho, C. Y., & Liley, P. E. (1966). Thermal conductivity of selected materials (No. NSRDS-NBS-8). NATIONAL STANDARD REFERENCE DATA SYSTEM.
+Thompson, P. (2010, March 25). FAQs: What is emissivity and why is it important? Retrieved June 23, 2015, from NPL: http://www.npl.co.uk/
+Shanmugavadivu, P., & Sivakumar, V. (2012). Fractal dimension based texture analysis of digital images. Procedia Engineering, 38, 2981-2986.
+Siegel, R., & Howell, J. R. (1992). Thermal radiation heat transfer. NASA STI/Recon Technical Report A, 93, 17522.
+Siegel, R. (2001). Thermal radiation heat transfer (Vol. 1). CRC press.
+Siroux, M., Tang-Kwor, E., & MatteÃ¯, S. (1998). A periodic technique for
+emissivity measurements of insulating materials at moderate temperature. Measurement Science and Technology, 9(12), 1956.
+Touloukian, Y. S., & DeWitt, D. P. (1989). Themal radiative properties: Metallic elements and alloys. UMI.
+Voort, G. V. (n.d.). Resources: Miecrostructure of Ferrous Alloy. Retrieved November 24, 2014, from Vac Aero International Inc: http://vacaero.com/information-resources/metallography-with-george-vander-voort/894-microstructure-of-ferrous-alloys.html
+Wen, C. D., & Mudawar, I. (2005). Emissivity characteristics of polished aluminum alloy surfaces and assessment of multispectral radiation thermometry (MRT) emissivity models. International journal of heat and mass transfer, 48(7), 1316-1329.
+Wen, C. D., & Mudawar, I. (2006). Modeling the effects of surface roughness on the emissivity of aluminum alloys. International journal of heat and mass transfer, 49(23), 4279-4289.
+Weng, Q. (2003). Fractal analysis of satellite-detected urban heat island effect. Photogrammetric engineering & remote sensing, 69(5), 555-566.
+You, Z., & Butlar, W. (2010, January 31). Imaging Technology Group. Retrieved November 24, 2014, from Beckman Institute: https://itg.beckman.illinois.edu/communications/iotw/2003-12-23/
+Zalba, B., MarÄ±Ìn, J. M., Cabeza, L. F., & Mehling, H. (2003). Review on thermal energy storage with phase change: materials, heat transfer analysis and applications. Applied thermal engineering, 23(3), 251-283.
+Zmeskal, O. Bzatec, T., Nezadal, M. & Buchnicek, M. (2013). Image Fundamentals: HarFA Basics, (Retrieved December 20 2014, from: http://www.fch.vutbr.cz/lectures/imagesci.)
+Downloads
+PDF
+Published
+2014-12-09
+How to Cite
+Salazar, R. K., & Laurente, C. L. B. (2014). Emissivity of â€œGreyâ€ Bodies, Surface Roughness and other Measures. Recoletos Multidisciplinary Research Journal, 2(2). https://doi.org/10.32871/rmrj1402.02.14
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 2 No. 2 (2014)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Most read articles by the same author(s)
+Randy K. Salazar,
+Rosario L. Cabillada,
+Mark S. Borres,
+Anthony Jagures,
+Fractal Dimensions of Voice Patterns and Voice Recognition
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Roberto N. Padua,
+Mark S. Borres,
+Randy K. Salazar,
+A Generalized Bootstrap Technique for Dependent Observations
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Randy K. Salazar,
+Josephine E. Petralba,
+Fractal Analysis of Global Fresh Water Use
+,
+Recoletos Multidisciplinary Research Journal: Vol. 3 No. 1 (2015)
+Roberto N. Padua,
+Randy K. Salazar,
+The Ubiquity of Statistical Fractal Observations
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 1 (2013)
+Roberto N. Padua,
+Efren O. Barabat,
+Mark S. Borres,
+Randy K. Salazar,
+Some Results on Multifractal Spectral Analysis
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+Randy K. Salazar,
+Fractal Analysis of Sea Surface Temperature Anomaly and Tropical Depression Occurrence
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+Randy K. Salazar,
+Efren O. Barabat,
+Socio Political Economic Dimensions of Technological Advancement
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 1 (2013)
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

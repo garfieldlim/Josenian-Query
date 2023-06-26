@@ -1,0 +1,167 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/52
+A Fractal View on the Suicide Incidence of Countries
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 1 No. 2 (2013)
+/
+Articles
+A Fractal View on the Suicide Incidence of Countries
+Authors
+Jessica M. Avenido
+University of San Jose-Recoletos
+Efren O. Barabat
+University of San Jose-Recoletos
+DOI:
+https://doi.org/10.32871/rmrj1301.02.16
+Keywords:
+suicide, 											suicide rate, 											fractal dimension
+Abstract
+Various studies on suicide and the reasons why people commit it across cultures have been conducted. However, a global view of the suicide rates, has not been explored yet. This study will prove helpful in understanding further the effect of specific cultural and social factors of the phenomenon using Fractal Statistics. This statistical method describes the irregularity of the variable. Its appropriateness is anchored on the fact that Fractal Statistics as a tool can measure the non-normal behaviour of a data set such as those found in the suicide incidence report. The data associated with female suicide do not differmuch from country to country. However, differences in the male suicide rate are immensely observable. Causes such as family breakdown, overwork, and employment security are identified. Yet, questions linger regarding this psychological â€œshort circuitâ€, especially on the high incidence of suicide in the male population traceable to lack of cultural support and menâ€™s unwillingness to talk about suicide..
+Author Biographies
+Jessica M. Avenido, University of San Jose-Recoletos
+finished her M.A. in Religious Education at Mother of Life Center, Quezon City, Philippines. Her catechetical training paved the way for her 5-year stint as staff member of the Campus Ministry. Eventually, she engaged herself in full time catechetical instruction in the tertiary level. Among her field of interests are education, religion, curriculum development and values education. Currently, she is an assistant professor in the Center for Religious Education of the University of San Jose-Recoletos, Cebu City, Philippines and handles the formation program of a core group of the children of the Overseas Filipino Workers (OFW).
+Efren O. Barabat, University of San Jose-Recoletos
+Efren O. Barabat, an Electronics Engineer, graduated from the University of San Jose-Recoletos in 2010, Cum Laude honors. He ranked as top 9 examinee in the April 2011 ECE Licensure Examination. He worked as Field Engineer in SMART Communications, Inc. from 2011 to 2012. Currently, a full-time faculty member of the Electronics Engineering Department of USJ-R College of Engineering, handling Mathematics and Major Subjects of ECE.
+References
+Amaranath, S. Sri Lanka Suicide Rate One of the Worldâ€™s Highest. 2012. World Socialist Web Site.
+Barabat, Borres et al. Some Results on Multifractal Spectral Analysis. 2013. Unpublished. Recoleto Multidisciplinary Journal, vol 2.
+Borres, Barabat, et al. Societal Offenders in Prison: Global In-Country Analysis By Fractals. 2013. Unpublished. Recoleto Multidisciplinary Journal,
+Vol 2.
+Canadian Mental Health.â€œSuicideâ€. (2013) Chung, J. , et al (2010). The Cultural Theory and Model of Suicide. Applied and Preventive Psychology vol. 14 issues 1-4. June 2010, pp 25-40.
+Dan Bilsker, Jennifer White. The Silent Epidemic of Male Suicide. BCMJ, vol. 53, no. 10, December 2011, pp.529-534. http://www.bcmj.org/articles/silent-epidemic-male-suicide http://www.annalsgeneral-psychiatry.com/content/12/1/21
+Joiner, Thomas .â€The Interpersonal-Psychological Theory of Suicidal Behavior: Current Empirical Status. Psychological Science Agenda. June 2009.
+Kim, Hyun-Chung. South Korea: Highest Suicide Rate DespitePercent Drops. http://www.euronews.com/2013/09/30/south-korea-highest-suiciderate-despite-11-percent-drop/
+Kwanwoo, J.. Suicide Rates falls in Seoul but still Very High. http://blogs.wsj.com/korearealtime/2013/10/07/suicide-rate-falls-inseoul-but-still-very-high/
+Padua, Barabat et al. Construction of a Simple Multifractal Spectrum as an Alternative to the Legendre Spectra in Multifractal Formalisms. 2013. Recoleto Multidisciplinary Journal, vol 1.
+Rihmer, Z.,Gonda,X.,et al. Suicide in Hungary-Epidemiological and Clinical perspectives. Annals of General Psychiatry. 2013
+Springen, Karen. Daring to Die: the Psychology of Suicide.2010. Scientific American.
+World health Organization.Bulletin of the WHO- Women and Suicide in Rural China, 2009. Vol. 87.
+Downloads
+full paper
+Published
+2013-12-31
+How to Cite
+Avenido, J. M., & Barabat, E. O. (2013). A Fractal View on the Suicide Incidence of Countries. Recoletos Multidisciplinary Research Journal, 1(2). https://doi.org/10.32871/rmrj1301.02.16
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 1 No. 2 (2013)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Most read articles by the same author(s)
+Tonette M. Villanueva,
+Jessica M. Avenido,
+Juanito B. AliÃ±o Jr.,
+Melvin R. de Castro,
+The Satisfaction Congruency Theory: The Case of Sexual Satisfaction
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Mark S. Borres,
+Queen Heneylour S. Relatorres,
+Efren O. Barabat,
+Societal Offenders In Prison: Global In-Country Analysis By Fractals
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Roberto N. Padua,
+Mark S. Borres,
+Efren O. Barabat,
+On a Logistic Approximation to the Normal and Other Cumulative Distribution Functions
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Jessica M. Avenido,
+Roberto M. Cabardo,
+Juanito B. AliÃ±o Jr.,
+Casual Sex among Young People
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 1 (2013)
+Agnes C. SequiÃ±o,
+Jessica M. Avenido,
+The Worldâ€™s Leader in the Palm Oil Industry : Indonesia
+,
+Recoletos Multidisciplinary Research Journal: Vol. 3 No. 1 (2015)
+Roberto M. Cabardo,
+Jessica M. Avenido,
+Efren O. Barabat,
+Socio-Economic and Technological Factors of English Proficiency Index
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 2 (2014)
+Efren O. Barabat,
+Roberto M. Cabardo,
+Feature Changes of Selected Cebu City Landmarks: Forms and Roughness Analysis
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+Jessica M. Avenido,
+Roberto M. Cabardo,
+Rosario L. Cabillada,
+Vote Pricing Spatial Probability Models in the Philippines
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+Jessica M. Avenido,
+Jesse S. Susada,
+Efren O. Barabat,
+Classical-Romantic Compositions: A Musical Variation Analysis
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+Mark S. Borres,
+Efren O. Barabat,
+Transformation To Normality Based On Empirical Distribution Functions
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 2 (2014)
+1 2 > >>
+Similar Articles
+Mark S. Borres,
+Efren O. Barabat,
+Jocelyn T. Panduyos,
+On Fractional Derivatives and Application
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+You may also start an advanced similarity search for this article.
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

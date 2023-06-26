@@ -1,0 +1,111 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/987
+Angle Trisection, Bhaskaraâ€™s Proof, and Pythagorean Theorem
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 9 No. 1 (2021)
+/
+Articles
+Angle Trisection, Bhaskaraâ€™s Proof, and Pythagorean Theorem
+Authors
+Emiliano C. De Catalina
+Cebu Technological University, Cebu City, Philippines
+https://orcid.org/0000-0003-0609-2682
+DOI:
+https://doi.org/10.32871/rmrj2109.01.01
+Keywords:
+right angle, 											angle trisection, 											Bhaskaraâ€™s first proof, 											Pythagorean theorem
+Abstract
+This paper deals with 1) angle trisection, 2) Bhaskaraâ€™s first proof, and 3) Pythagorean theorem. The purpose of this paper is threefold. First, to show a new, direct method of trisecting the 900 angle using unmarked straight edge and compass; secondly, to show Bhaskaraâ€™s first proof of the Pythagorean theorem (c2 = a2 + b2) as embedded in this new, direct trisection of the 900 angle; lastly, to show the derivation of the Pythagorean theorem from this trisection of the 900 angle. This paper employs the direct dissection method. It concludes by presenting four points: a) the concept of trisectability as distinct from concept of constructability; b) the trisection of the 900 angle as really a new, different method; c) Bhaskaraâ€™s first proof of the Pythagorean theorem as truly embedded in this trisection of the 900 angle and; d) another way of deriving Pythagorean theorem from this trisection of the 900 angle.
+References
+Bailey, D. H. (2018). Simple proofs: The impossibility of trisection.
+https://mathscholar.org/2018/09/simple -proofs-the -impossibility- oftrisection/#:~:
+text=Gist%20of%20the%20proof%3A&text=Since%20the%20only%20
+numbers%20and,60%2Ddegree%20angle%20is%20impossible
+Bhat, R. (2019). Ram's theorem for trisection.
+https://www.researchgate.net/publication/331034329_Ram's_theorem_for_Trisection
+Bogomolny, A. (2016). Pythagorean theorem.
+https://www.cut-the-knot.org/pythagoras/
+Head, A. (n.d.). Pythagorean theorem. http://jwilson.coe.uga.edu/EMT668/EMT668.Student.Folders/HeadAngela/essay1/Pythagorean.HTML
+Heilbron, J. L. (2001). Trisecting the angle: Archimedes' method.
+In Britinnica Online Encyclopedia. Retrieved September 16, 2019, from
+https://www.britannica.com/topic/Trisecting-the-Angle-Archimedes-Method-724632
+Loomis, E. S. (1968). The pythagorean proposition.
+The National Council of Teachers of Mathematics, Inc. (ED037335). ERIC.
+https://files.eric.ed.gov/fulltext/ED037335.pdf
+Yates, R. C. (1971). The trisection problem. National
+Council of Teachers of Mathematics, Inc.(ED058058). ERIC.
+https://files.eric.ed.gov/fulltext/ED058058.pdf
+Zimba, J. (2009). On the possibility of trigonometric
+proofs of the Pythagorean theorem. Forum Geometricorum, 9.
+https://forumgeom.fau.edu/FG2009volume9/FG200925.pdf
+Downloads
+pdf
+Published
+2021-05-28
+How to Cite
+De Catalina, E. C. (2021). Angle Trisection, Bhaskaraâ€™s Proof, and Pythagorean Theorem. Recoletos Multidisciplinary Research Journal, 9(1), 1–11. https://doi.org/10.32871/rmrj2109.01.01
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 9 No. 1 (2021)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Most read articles by the same author(s)
+Joanna Z. De Catalina,
+Emiliano C. De Catalina,
+The Yapian Classification of the Vocabulary of the Austronesian Visayan-Cebuano Language
+,
+Recoletos Multidisciplinary Research Journal: Vol. 10 No. 1 (2022)
+Emiliano C. De Catalina,
+Timeless Existence and Principle of Creation: Notions Embedded in John 1:1, â€œIn the Beginning Was the Wordâ€
+,
+Recoletos Multidisciplinary Research Journal: Vol. 10 No. 1 (2022)
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

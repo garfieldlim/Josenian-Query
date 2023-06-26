@@ -1,0 +1,176 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/94
+Microbial Modeling and Monte Carlo Simulation to Determine Microbial Performance Criteria on Wooden Cutting Boards
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 2 No. 2 (2014)
+/
+Articles
+Microbial Modeling and Monte Carlo Simulation to Determine Microbial Performance Criteria on Wooden Cutting Boards
+Authors
+Roramie V. Arco
+University San Jose-Recoletos
+Ricky B. Villeta
+University of San Jose-Recoletos
+Marisa M. Mahilum
+University of San Jose-Recoletos
+DOI:
+https://doi.org/10.32871/rmrj1402.02.01
+Keywords:
+Bacterial growth, 											simulation modeling, 											sanitary guidelines
+Abstract
+This study used simulation modeling to evaluate the microbial performance over time for four types of meat and the effect on the frequency of changing cutting boards. The results revealed that pork chopping boards can be used up to time t = 9 minutes, that is, with the corresponding bacterial counts of 19 CFU/4cm2. Beef chopping boards can be changed or clean beyond the time t = 7 minutes since the bacterial growth already exceeds the standard sanitary requirement of using wooden cutting boards. On the other hand, chicken cutting boards can be used only for up to t=10 minutes out of a 20 â€“ minute period of chopping chicken meat to meet the sanitary guidelines. Wooden cutting boards used tochop fish meat can be used for a maximum of t= 9 minutes to meet the acceptable sanitary requirement. These findings suggest that wet market meat vendors can be constrained to the allowable time in minutes of using the wooden cutting boards in order to meet the sanitary guidelines that guarantee safe meat cutting boards utilized in most wet market settings.
+Author Biographies
+Roramie V. Arco, University San Jose-Recoletos
+is a science instructor at the Department of Mathematicsand Sciences of the University of San Jose- Recoletos. She obtained her Bachelor of Science in Biology from the University of the Philippines Tacloban College. She earned academic units in Master of Science in Wildlife Studiesat the University of the Philippines at Los Banos. She fi nished her Master of Arts in Education major in Science and Technology from the University of the Visayas through the Expanded Tertiary Education Equivalency and Accreditation Program. Her research interest focuses on microbiology and wildlife conservation. She has attended several training seminars and workshops on science education, instructional materials development and research trends. She is a member of several scientifi c organizations and has participated in training courses and conferences.
+Ricky B. Villeta, University of San Jose-Recoletos
+graduated from Mindanao State University â€“ Iligan Institute of Technology (MSU-IIT) with a degree of Bachelor of Science in Mathematics (Pure Mathematics) in 2003 as a fulltime scholar, City Mayorâ€™s scholar (Iligan City) granted from having graduated in high school as class valedictorian and CHED-COE (Center of Excellence in Mathematics) scholar awarded by MSU-IIT mathematics and statistics department. He also obtained his Master of Science in Mathematics degree in 2007, with a specialization in abstract algebra (group theory) at MSU-IIT. He had served as Mathematics Lecturer from 2003 to 2005 and as graduate teaching assistant from 2005 to 2006 at the Mathematics and Statistics Department of the College of Science and Mathematics of MSU-IIT. Since 2006 to present, he is a faculty member of the Department of Mathematics and Sciences of the College of Arts and Sciences at University of San Jose â€“ Recoletos (USJ-R), Cebu City. He has been teaching research methods, design of experiments and statistical models in the graduate school, differential equation, differential calculus, integral calculus, applied statistics in business, behavioral statistics, biostatistics, computer aided analysis, linear algebra, abstract algebra, number theory, probability theory, quantitative analysis in business, mathematical investigations and modeling, among others. He is also a trainer for basic and tertiary non-deped teachers on senior high curriculum in mathematics, statistics and probability areas in the Visayas region. His research works and interests are in abstract algebra (group theory), graph theory, differential equation, mathematical modeling and simulation, fractal statistics, data mining and theory development. He also serves as researcher and research statistician at the Center for Policy, Research and Development Studies in USJ-R.
+Marisa M. Mahilum, University of San Jose-Recoletos
+graduated Cum laude in Bachelor of Science inComputer Science major in Natural Language Processing at the University of San Jose - Recoletos (USJ-R) in March 2012. She is a member of Recoletos Educational Assistance for Deserving Students (READS). She worked forone year as a Software Engineer developing Microsoft supported projects. She is now fi nishing her Master in Computer Science in Cebu Institute of Technology - University. She is currently a full-time faculty member ofUSJ-R, College of Information, Computer and Communications Technology.
+References
+Abrishami, S. H., B. D. Tall, T. J. Bruursema, P. S. Epstein, and D. B. Shah. 1994. Bacterial adherence and viability on cutting board
+surfaces. J. Food Safety. 14:153â€“172.
+Ak, N. O., D. O. Cliver, and C. W. Kaspar. 1994. Decontamination of plastic and wood cutting boards for kitchen use. J. Food
+Prot. 57:23â€“36.
+Buckalew, J. J., D. W. Schaffner, and M. Solberg. 1996. Surface sanitation and microbiological food quality of a university foodservice
+operation. J. Food Serv. Syst. 9:25â€“39.
+Gilbert, R. J., and H.M. Watson. 1971. Some laboratory experiments on various meat preparation surfaces with regard to
+surface contamination and cleaning. J. Food Technology. 6. 163-170.
+Kampelmacher, E.H.,D. A. A. Mossel, M. Van Schoethorst, and L. M. Van Noorle-Jansen, 1971.
+Quantitative investigations on the efficacy of methods for decontaminating wooden surfaces used in meat preparation. Alimenta 1971:70-76.
+RÃ¶del, W., Hechelmann, H. and J. Dresel (1994) Hygieneaspekte zu Schneidunterlagenaus Holz und Kunststoff. Fleischwirtsch. 74
+(8):814â€“821.
+Downloads
+PDF
+Published
+2014-12-28
+How to Cite
+Arco, R. V., Villeta, R. B., & Mahilum, M. M. (2014). Microbial Modeling and Monte Carlo Simulation to Determine Microbial Performance Criteria on Wooden Cutting Boards. Recoletos Multidisciplinary Research Journal, 2(2). https://doi.org/10.32871/rmrj1402.02.01
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 2 No. 2 (2014)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Most read articles by the same author(s)
+Beverly F. Basalo,
+Mark Ian C. Andres,
+Roramie V. Arco,
+Ricky B. Villeta,
+Joyce C. Unabia,
+Verification on the Impact of Plant Cover Variability to the Anuran Diversity in Bohol, Philippines Using Fractal Analysis
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Anna Rose P. Nillama,
+Mark S. Borres,
+Ricky B. Villeta,
+Roramie V. Arco,
+Joyce C. Unabia,
+Validation of Lepidopteran Classification by Morphological Fractal Dimension Analysis
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Jose D. Velez Jr.,
+Ricky B. Villeta,
+Roberto N. Padua,
+Richard Hao,
+Marielle Colina,
+A Predictive Model on the Spread of HIV in Cebu City
+,
+Recoletos Multidisciplinary Research Journal: Vol. 3 No. 2 (2015)
+Eduardo D. Piedad Jr.,
+Ricky B. Villeta,
+Displacement and Illumination Levels Effect on Short-distance Measurement Errors of Using a Camera
+,
+Recoletos Multidisciplinary Research Journal: Vol. 4 No. 1 (2016)
+Mark Ian C. Andres,
+Brendalyn R. Basilan,
+Camille Yvonne D. Cubar,
+Ricky B. Villeta,
+Levels of Multidrug-Resistant Tuberculosis Treatment Success among ASEAN Countries
+,
+Recoletos Multidisciplinary Research Journal: Vol. 3 No. 2 (2015)
+Ricky B. Villeta,
+Roramie V. Arco,
+Gallardo E. Gulay,
+Percia A. Leyte,
+On Technological Readiness of ASEAN Countries for Global Competitiveness
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 2 (2014)
+Gallardo E. Gulay,
+Percia A. Leyte,
+Ricky B. Villeta,
+Roramie V. Arco,
+Factors Affecting Business Stability among ASEAN Member States
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 2 (2014)
+Ricky B. Villeta,
+On Some Results of a Torsion-Free Abelian Kernel Group
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 2 (2014)
+Ricky B. Villeta,
+On Some Results of a Torsion-Free Abelian Trace Group
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 2 (2014)
+Ricky B. Villeta,
+Elmer C. Castillano,
+Roberto N. Padua,
+On the Generators of the Group of Units Modulo a Prime and Its Analytic and Probabilistic Views
+,
+Recoletos Multidisciplinary Research Journal: Vol. 9 No. 2 (2021)
+Similar Articles
+Jellemer M. Benitez,
+Chelsea V. Cimafranca,
+Louisse Phillina Paz V. Gimenez,
+Jezyl C. Cutamora,
+Effectiveness of Custard Apple (Annona squamosa) Seed Extract in Treating Pediculosis Capitis
+,
+Recoletos Multidisciplinary Research Journal: Vol. 3 No. 2 (2015)
+You may also start an advanced similarity search for this article.
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

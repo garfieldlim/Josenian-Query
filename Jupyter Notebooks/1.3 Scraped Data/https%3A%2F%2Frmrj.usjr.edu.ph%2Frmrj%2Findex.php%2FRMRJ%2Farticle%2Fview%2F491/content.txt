@@ -1,0 +1,115 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/491
+Geographic Information System-Based Suitability Analysis for Potential Shallow Tube-Well Irrigation Development
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 6 No. 2 (2018)
+/
+Articles
+Geographic Information System-Based Suitability Analysis for Potential Shallow Tube-Well Irrigation Development
+Authors
+Shirly O. Agcaoili
+Cagayan State University
+DOI:
+https://doi.org/10.32871/rmrj1806.02.04
+Keywords:
+shallow tube-well, 											irrigation development, 											geographic information system (GIS), 											suitability mapping, 											Isabela, 											Philippines
+Abstract
+This study developed a geographic information system (GIS)-based decision support system in the spatial identification of a viable location for shallow tube-well irrigation development in the province of Isabela. Factors such as slope, soil type; land cover and groundwater depth were used as input parameters. Around 98% of the existing shallow tube-wells were within the suitable area. The developed map was validated using existing irrigated areas. Results show that more than 377,000 hectares were found potentially suitable locations for shallow tube-well irrigation development. These areas are characterized with a water table depth of <6.5 m, a slope of<18%, soil textures (sandy loam, clay loam, and sandy clay). Sufficient factors in combination with the GIS tool is a great tool to carry out spatial data in land-use analysis and the use of this as a means in identifying viable locations for shallow tube-well irrigation development in other places is reliable.
+References
+Agricultural and Fisheries Modernization Act of the Philippines (AFMA law) Retrieved from https://www.lawphil.net/statutes/repacts/ra1997/ra_8435_1997.html
+Aguilar-Manjarrez, J., &Ross, L. G. (1995). Geographical information system (GIS) environmental models for aquaculture development in Sinaloa State, Mexico. Aquaculture International, 3(2), 103-115.
+Asian Development Bank Report (2012). Shallow Tubewell Irrigation in Nepal: Impacts of the Community Groundwater Irrigation Sector Project. Impact Evaluation Study. Retrieved from
+https://www.adb.org/sites/default/files/evaluation-document/35900/files/ies-nep-final.pdf
+Center for Engineering Research and Development.(2007). Development of database for irrigation development in Nepal. Retrieved from http://www.rlarrdc.org.in/images/Development%20of%20Database%20for%20 Irrigation%20Development%20in%20Nepal.pdf
+Chandio, I. A., Talpur, M. A., &Taufique, A. Q. (2016, April).Integrated GIS-based site selection of hillside development for future growth of urban areas.Mehran University Research Journal of Engineering & Technology, 35(2), 303-308. Retrieved from https://www.researchgate.net/publication/297332606_Integrated_GIS
+Based_Site_Selection_of_Hillside_Development_for_Future_Growth_of_Urban_Areas
+Fasina, A. S., Awe, G. O., &Aruleba, J. O. (2008, July). Irrigation suitability evaluation and crop yield: An example with Amaranthuscruentus in South-western Nigeria. African Journal of Plant Science, 2(7), 61-66.
+Jusoh, F., Zawawi, M.A.M., Man, H.C., &Kamaruddin S. (2013).Performance of Shallow Tube Well on Groundwater Irrigation in Tropical Lowland Rice Cultivation Area.Sains Malaysia 42(8)(2013): 1101-1108. Retrieved from
+https://www.researchgate.net/publication/264786840_Performance_of_Shallow_Tube_Well_on_Groundwa
+ter_Irrigation_in_Tropical_Lowland_Rice_Cultivation_Area
+Food and Agriculture Organization (FAO).(1977). Crop water requirements. FAO Irrigation and Drainage Paper, 24. Retrieved from http://www.fao.org/3/a-f2430e.pdf
+Food and Agriculture Organization (FAO). (1985). Guidelines land evaluation for irrigated agriculture. FAO Soils Bull, 55, 290. Retrieved from http://www.fao.org/docrep/018/t0412e/t0412e.pdf
+Food and Agriculture Organization (FAO). (1993). Guidelines for land-use planning. FOA Development Series 1. Retrieved from https://www.mpl.ird.fr/crea/taller-colombia/FAO/AGLL/pdfdocs/guidelup.pdf
+Food and Agriculture Organization (FAO). (1997). Irrigation potential in Africa: A basin approach. Retrieved from http://www.fao.org/docrep/W4347E/W4347E00.htm
+Hailegebriel, S. (2007).Irrigation potential evaluation and crop suitability analysis using GIS and remote sensing technique in Beles Sub-basin, BeneshangulGumez Region.(Masterâ€™s thesis). Addis Ababa University, Ethiopia. Retrieved from http://etd.aau.edu.et/handle/123456789/6736
+Hecker, F. (2000).Land classification for irrigation in Alberta. Retrieved from https://open.alberta.ca/dataset/cff31d54-1cbd-40c2-8536-6ae0e16e54a7/resource/3d485fde-ca8f-4e31-9a11-cebf6d94854d/download/2000-560-3.pdf
+Hussain I., &Hanjra, M. (2004). Irrigation and poverty alleviation: Review of the empirical evidence. Irrigation and Drainage, 53, 1-15.
+LatitudeLongitude.org. Retrieved from https://latitudelongitude.org/ph/isabela/
+Manos, B., Bournaris, T., Papathanasiou, J., & Moulogianni, C. (2007, July 24-26).A DDS for agricultural land use, water management and environmental protection. 3rd IASME/WSEAS International Conference on Energy, Environment, Ecosystems and Sustainable Development. Agios Nikolaos, Greece.
+National Economic and Development Authority Regional Office 02. (2017). Cagayan Valley Regional Development Plan (CVRDP) 2017-2022. Retrieved from http://www.neda.gov.ph/wp-content/uploads/2018/02/2-Cagayan-Valley-RDP-2017-2022-19Jan18.pdf
+National Irrigation Administration.(2016). 2016 annual report: Ang NIA at magsasaka, magkatuwangsa ginhawa! Retrieved from http://www.nia.gov.ph/sites/default/files/newsletter/2016-annualreport.pdf
+Pimentel, D., Berger, B., Filiberto, D., Newton, M., Wolfe, B., Karabinakis, E., Clark, S., . . .& Nandagopal, S. (2004). Water resources: Agricultural and environmental issues. BioScience, 54(10), 909-918.
+Rosegrant, M. W., Cai, X., & Cline, S. A. (2002). World water and food to 2025: Dealing with scarcity. Washington D. C.: International Food Policy Research Institute. Retrieved from https://www.worldfoodprize.org/documents/filelibrary/images/borlaug_dialogue/2002/transcripts/
+rosegrant_transcript_F2A98817596C1.pdf
+Girma, R., Moges A., &Qurashi S. (2015).GIS Based Physical Land Suitability Evaluation for Crop Production in Eastern Ethopia: A Case Study in Jello Watershed.Agrotechnology 2015, 5:1 DOI: 10.4172/2168-9881.1000139. Retrieved from https://www.omicsonline.org/open-access/gis-based-physical-land-suitability-evaluation-
+for-crop-production-in-eastern-ethiopia-a-case-study-in-jello-watershed-2168-9881-1000139.pdf
+Trondillo, M. J., Generalao, I. C., Valleser, R. A., Lopez, M. T., Janson, A. Z., Bejarasco, J., Molina, R. J., . . . Mativo, A. (N.D.). Identifying suitable sites for pump irrigation system from open source and shallow tube well in selected areas of Davao del Sur through geographic information system-based water resources assessment. Retrieved from http://www.academia.edu/36673517/Identifying_Suitable_Sites_for_Pump_Irrigation_System_from_Open
+_Source_and_Shallow_Tube_Well_In_Selected_Areas_of_Davao_Del_Sur_through_Geographic_
+Information_System-Based_Water_Resources_Assessment
+United Nations Development Program (UNDP), Food and Agriculture Organization - European Commission on Agriculture (FAO-ECA), lOA and the Regional Government of Tigray.(1994). Sustainable agriculture and environmental rehabilitation in Tigray (Saert). Retrieved from http://repository.uneca.org/bitstream/handle/10855/1243/Bib-12910.pdf?sequence=1
+Downloads
+pdf
+Published
+2018-12-31
+How to Cite
+Agcaoili, S. O. (2018). Geographic Information System-Based Suitability Analysis for Potential Shallow Tube-Well Irrigation Development. Recoletos Multidisciplinary Research Journal, 6(2). https://doi.org/10.32871/rmrj1806.02.04
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 6 No. 2 (2018)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Most read articles by the same author(s)
+Shirly O. Agcaoili,
+Enhancing the Growth and Yield of Lettuce (Lactuca sativa L.) in Hydroponic System Using Magnetized Irrigation Water
+,
+Recoletos Multidisciplinary Research Journal: Vol. 7 No. 2 (2019)
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

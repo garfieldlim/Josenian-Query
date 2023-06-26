@@ -1,0 +1,313 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/625
+Toxicity Evaluation and Anthelminthic Property of Cebu Cinnamon (Cinnamomum cebuense Kosterm.) Leaf Extracts
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 7 No. 1 (2019)
+/
+Articles
+Toxicity Evaluation and Anthelminthic Property of Cebu Cinnamon (Cinnamomum cebuense Kosterm.) Leaf Extracts
+Authors
+Genette Chile Bilbao
+Cebu Normal University
+Michael Ryan Alimpoos
+Cebu Normal University
+Jholvenjey Baguio
+Cebu Normal University
+Stephen Sabal
+Cebu Normal University
+Shiela Mae Ursal
+Cebu Normal University
+Jay P. Picardal
+Cebu Normal University
+DOI:
+https://doi.org/10.32871/rmrj1907.01.05
+Keywords:
+Cinnamomum cebuense (Kosterm.), 											toxicity study, 											anthelmintic assay, 											brine shrimp lethality assay, 											Philippine cinnamon
+Abstract
+Cinnamomum cebuense (Kosterm.) is widely known as stomachache remedy, but adverse reaction to varying amount of herbal extract has also been reported, thus, requiring toxicity-profiling studies. Here, the toxicity of C. cebuense leaf extract (CCLE) was evaluated using brine shrimp lethality assay (BSLA) and anthelminthic assay under a complete randomized design with equal replications. Results in BSLA revealed an LC50 value of 7.05 Î¼g/ml (pâ‰¤0.05) which is considerably medium-toxic based on standard toxicity criterion. Influence on earthworm activity showed significant difference (pâ‰¤0.01) among the different concentrations of the extract (100 mg/ml, 75 mg/ml, 50 mg/ml, and 25 mg/ml) following a concentration-dependent response trend. Results suggest strong toxicity against earthworms at 75â€“100 mg/ml while having a moderate to weak toxicity at 25â€“50mg/ml. Both assays were able to elucidate toxicity of CCLE which may be due to the presence of cinnamaldehyde, the main phytochemical found in cinnamon leaves. CCLE is toxic at elevated dosages and thus warrants parallel studies using higher-vertebrate models.
+References
+Ahmed, J., Sultana N., Dewan S.M.R., Amin, M.N.
+& Uddin, S.M.N. (2013). Determination
+of Chemical Groups and Investigation of
+Anthelmintic, Cytotoxic, and Antibacterial
+Activities of Leaves of Cinnamomum tamala
+(Family: Lauraceae). International Journal of
+Pharmamedix, 1, 222â€“232.
+Ajaiyeoba, E.O., Onocha, P.A. & Olarenwaju, O.T.
+(2001). In vitro anthelmintic properties of
+Buchholzia coriaceae and Gynandropsis
+gynandra extracts. Pharmaceutical Biology,
+39, 217â€“220.
+Akhtar, M.S., Iqbal, Z., Khan, M.N. & Lateef, M. (2001).
+Anthelmintic activity of medicinal plants with
+particular reference to their use in animals
+in the Indoâ€“Pakistan subcontinent. Small
+Ruminant Research, 38, 99â€“107.
+Asha, M.K., Prashanth, D., Murali, B., Padmaja, R.,
+& Amit, A. (2001). Anthelminthic activity
+of essential oil of Ocimum sanctum and
+eugenol. Fitoterapia, 72, 669â€“70.
+Barceloux, D.G. (2009). Cinnamon (Cinnamomum
+species). Dis Mon: DM, 55, 327-335.
+Biswas, S.K., Chowdhury, A., Das, J., Karmakar,
+U.K., Shill, M.C., & Raihan, S.Z. (2011).
+Assessment of toxicity, antibacterial activity
+and phytochemical screening of ethanol
+extract of Phyllanthus acidus L. bark. Journal
+of Applied Pharmaceutical Science, 1, 112â€“114.
+Brine Shrimp Direct Inc. (2018). Hatching Brine
+Shrimp Cysts. Retrieved from https://www.
+brineshrimpdirect.com/about-us/articles/
+hatching-brine-shrimp-cysts/.
+Chudzik, M., Korzonek-Szlacheta, I. & KrÃ³l, W.
+(2015). Triterpenes as potentially cytotoxic
+compounds. Molecules, 20, 1610â€“1625.
+Clarkson, C., Maharaj, V.J., Crouch, N.R., Grace,
+O.M., Pillay, P., Matsabisa, M.G., Bhagwandin,
+N., Smith, P.J. & Folb, P.I. (2004). In vitro
+antiplasmodial activity of medicinal plants
+native to or naturalized in South Africa.
+Journal of Ethnopharmacology, 92, 177â€“191.
+Del Fierro, R.S., Maquilang, Q.M., Sanjorjo, R.A.,
+Tradio, M.D., Shen, C.C. & Ragasa, C.Y. (2012).
+Secondary metabolites from Cinnamomum
+cebuense. Journal of Medicinal Plant Research,
+6, 2146â€“2149.
+Drug Office. (2013). Oral Anthelmintics. Available
+at: https://www.drugoffice.gov.hk/eps/do/
+en/consumer/news_informations/dm_19.
+html.
+Espineli, D.L., Agoo, E.M., del Fierro, R.S., Shen,
+C.C., & Ragasa, C.Y. (2014). Cytotoxic
+and antimicrobial compounds from
+Cinnamomum cebuense Kosterm. (Lauraceae).
+Pharmaceutical Chemistry Journal, 48, 598â€“
+602.
+Fennell, C.W., Lindsey, K.L., McGaw, L.J., Sparg,
+S.G., Stafford, G.I., Elgorashi, E.E., Grace, O.M.
+& Van Staden, J. (2004). Assessing African
+medicinal plants for efficacy and safety:
+pharmacological screening and toxicology.
+Journal of Ethnopharmacology, 94, 205â€“217.
+Finney, D. J., Ed. (1952). Probit Analysis. Cambridge,
+England, Cambridge University Press.
+Geethaa, S., Thavamany PJ, Chiew SP, and Thong
+OM. 2013. Interference from ordinarily used
+solvents in the outcomes of Artemia salina
+lethality test. J Adv Pharm Tech Res, 4:179â€“182.
+Hamidi, M, Jovanova, B. & Panovska, T. (2014).
+ToxicÐ¾logical evaluation of the plant products
+using Brine Shrimp (Artemia salina L.) model.
+Macedonian Pharmaceutical Bulletin, 60, 9â€“18.
+Jagota, S.C. (1986). Albendazole, a broadspectrum
+anthelmintic, in the treatment of
+intestinal nematode and cestode infection:
+a multicenter study in 480 patients. Clinical
+Therapeutics, 8, 226â€“231.
+Kerala Agricultural University (KAU). (2013).
+Cinnamon. Retrieved from http://www.
+celkau.in/crops/spices/Cinnamon/cinnamon.
+aspx.
+Kong, J.O., Lee, S.M., Moon, Y.S., Lee, S.G. & Ahn,
+Y.J. (2007). Nematicidal activity of cassia
+and cinnamon oil compounds and related
+compounds toward Bursaphelenchus
+xylophilus (Nematoda: Parasitaphelenchidae).
+Journal of Nematology, 39, 31â€“36.
+Kundu, S., Roy, S.& Lyndem, L.M. (2012). Cassia alata
+L: potential role as anthelmintic agent against
+Hymenolepis diminuta. Parasitology Research,
+111, 1187â€“1192.
+Ling, F., Jiang, C., Liu, G., Li, M. & Wang, G. (2015).
+Anthelmintic efficacy of cinnamaldehyde
+and cinnamic acid from cortex cinnamon
+essential oil against Dactylogyrus intermedius.
+Parasitology, 142, 1744â€“1750.
+Maridass, M. (2008). Evaluation of brine
+shrimp lethality of Cinnamomum species.
+Ethnobotany Leaflets, 12, 772â€“775.
+Martin, R.J., Robertson, A.P.& Bjorn, H. (1997). Target
+sites of anthelmintics. Parasitology, 114, 111â€“
+124.
+Mclaughlin, J.L., Rogers, L.L. & Anderson, J.E. (1998).
+The use of biological assays to evaluate
+botanicals. Drug Information Journal, 32, 513â€“
+524.
+Meyer, B.N., Ferrigni, N.R., Putnam, J.E., Jacobsen,
+L.B., Nichols, D.E. & McLaughlin, J.L. (1982).
+Brine shrimp: a convenient general bioassay
+for active plant constituents. Planta medica,
+45:31â€“34.
+Moshi, M.J., Innocent, E., Magadula, J.J., Otieno,
+D.F., Weisheit, A., Mbabazi, P.K. & Nondo, R.S.
+(2010). Brine shrimp toxicity of some plants
+used as traditional medicines in Kagera
+region, northwestern Tanzania. Tanzania
+Journal of Health Research, 12, 63â€“67.
+Mounanga, M.B., Mewono, L. & Angone,
+S.A.(2015). Toxicity studies of medicinal
+plants used in sub-Saharan Africa. Journal of
+Ethnopharmacology, 174, 618â€“627.
+Olowa, L.F. & NuÃ±eza, O.M. (2013). Brine shrimp
+lethality assay of the ethanolic extracts of
+three selected species of medicinal plants
+from Iligan City, Philippines. International
+Research Journal of Biological Sciences, 2:74â€“77.
+Panda, S.K., Das, D. & Tripathy, N.K. (2011).
+Evaluation of Anthelmintic activity of
+Chlorophytum borivilianum santapau &
+fernandes. International Journal of Research
+in Pharmaceutical and Biomedical Sciences,
+2:676â€“679.
+Pathare, Y.S. & Wagh, V.D. (2012). Herbal medicines
+and nutritional supplements used in the
+treatment of glaucoma: A review. Research
+Journal of Pharmaceutical, Biological, and
+Chemical Sciences, 3, 331â€“339.
+Patwardhan, V. & Ghaskadbi, S. (2013). Invertebrate
+alternatives for toxicity testing: hydra stakes
+its claim. ATEX, 2, 69â€“76.
+PITAHC. (2018). Department of Health - Philippine
+Institute of Traditional and Alternative Health
+Care. Retrieved from http://pitahc.gov.
+ph/pitahc-remains-strong-as-a-researchinstitute-
+for-tcm/.
+Rabiu, H., Subasish, M. & Parag, G.H. (2011).
+Investigation of in vitro anthelmintic
+activity of Cinnamomum camphor leaves.
+International Journal of Drug Development
+Research, 3:295Â¬â€“300.
+Ragasa, C.Y., Espineli, D.L., Agoo, E., Del Fierro,
+R.S., Don, M.J. & Shen, C.C. (2013). Chemical
+constituents of Cinnamomum cebuense.
+Chinese Journal of Natural Medicine, 11,
+264Â¬268.
+Rakhshandehroo, E., Asadpour, M., Jafari, A. &
+Malekpour, S.H. (2016). The effectiveness
+of Cinnamomum zeylanicum, Punica
+granatumflower, and Capsicum annuum
+extract against Parascaris equorum infective
+larvae. Journal of the Faculty of Veterinary
+Medicine - Istanbul University, 42, 132â€“137.
+Research Information Series on Ecosystems [RISE]
+(1992). Distribution and Site Requirements of
+Some Reforestation Species. Special Issue No.
+4. ERDB, College, Laguna 12 pp.
+Sarah, Q.S., Anny, F.C. & Misbahuddin, M. (2017).
+Brine shrimp lethality assay. Bangladesh
+Journal of Pharmacology, 12, 5-2017.
+Schultz, E. & Joutti, A. (2007). Arsenic Ecotoxicity
+in Soils, Geological Survey of Finland.
+Miscellaneous Publications, 53 p.
+Singh, R. & Jawaid, T. (2012). Cinnamomum
+camphora (Kapur). Pharmacognosy Journal,
+4, 1â€“5.
+U.S. Food and Drug Administration (USFDA). (2018).
+The Drug Development Process â€“ Step 2:
+Preclinical Research. Retrieved from: https://
+www.fda.gov/ForPatients/Approvals/Drugs/
+ucm405658.htm.
+Vercruysse, J. & Claerebout, E. (2016). Mechanisms
+of Action of Anthelmintics. Retrieved
+from: http://www.merckvetmanual.com/
+pharmacology/anthelmintics/mechanismsof-
+action-of-anthelmintics.
+Williams, A.R., Ramsay, A., Hansen, T.V., Ropiak,
+H.M., Mejer, H., Nejsum, P., Mueller-Harvey, I. &
+Thamsborg, S.M. (2015). Anthelmintic activity
+of trans-cinnamaldehyde and A-and B-type
+proanthocyanidins derived from cinnamon
+(Cinnamomum verum). Scientific Reports,
+5,14791.
+Wong, Y.C., Ahmad-Mudzaqqir, M.Y. & Wan-
+Nurdiyana, W.A. (2014). Extraction of
+essential oil from cinnamon (Cinnamomum
+zeylanicum). Oriental Journal of Chemistry, 30,
+37â€“47.
+World Health Organization. (1997). Working
+Group on Herbal Medicines. Western Pacific
+Regional Office, Manila, Philipines. 206 pp.
+Retrieved from http://www.who.int/iris/
+handle/10665/207932.
+World Health Organization. (2016). Test procedures
+for insecticide resistance monitoring in
+malaria vector mosquitoes 2nd ed. Geneva,
+Switzerland: WHO Document Production
+Services.
+World Health Organization. (2017). Soil-transmitted
+helminth infections. Retrieved from http://
+www.who.int/mediacentre/factsheets/fs366/
+en/.
+Downloads
+PDF
+Published
+2019-06-20
+How to Cite
+Bilbao, G. C., Alimpoos, M. R., Baguio, J., Sabal, S., Ursal, S. M., & Picardal, J. P. (2019). Toxicity Evaluation and Anthelminthic Property of Cebu Cinnamon (Cinnamomum cebuense Kosterm.) Leaf Extracts. Recoletos Multidisciplinary Research Journal, 7(1), 47–61. https://doi.org/10.32871/rmrj1907.01.05
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 7 No. 1 (2019)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Most read articles by the same author(s)
+Dinna G. Carangue,
+Immar Jun R. Geverola,
+Marijul B. Jovero,
+Eva NiÃ±a B. Lopez,
+Aylene D. PizaÃ±a,
+Josephine M. Salmo,
+Joysyl A. Silvosa,
+Jay P. Picardal,
+Green Chemistry Education among Senior High School Chemistry Teachers: Knowledge, Perceptions, and Level of Integration
+,
+Recoletos Multidisciplinary Research Journal: Vol. 9 No. 2 (2021)
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

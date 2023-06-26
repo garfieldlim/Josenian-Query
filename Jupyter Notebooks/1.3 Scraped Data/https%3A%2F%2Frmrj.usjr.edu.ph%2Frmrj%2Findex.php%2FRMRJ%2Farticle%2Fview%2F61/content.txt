@@ -1,0 +1,171 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/61
+Fractal Behavior of Selected Stock Market Prices
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 1 No. 2 (2013)
+/
+Articles
+Fractal Behavior of Selected Stock Market Prices
+Authors
+Kristine June D. Uy
+University of San Jose-Recoletos
+Chris Rudyard F. Naval
+University of San Jose-Recoletos
+DOI:
+https://doi.org/10.32871/rmrj1301.02.02
+Keywords:
+fractals, 											fractals in finance, 											risk in the stock market, 											financial market, 											stock price volatility
+Abstract
+This research views the concept of risk in the stock market trading by examining the volatility of closing market prices through the ruggedness of information as represented by its fractal dimension. Using the historical data of the closing stock prices of McDonaldâ€™s, Bank of America, and AT&T, the researchers applied fractal statistics and equated the riskiness of the stocks to their fractal behavior (i.e. fractal spectrum). An analysis of the fractal spectrum revealed a distinct behavior exhibited by the different stocks. This behavior was further explored by dividing the fractal spectrum into discrete scales that correspond to a shift in the behavior, and performing an intercompany comparison to ascertain the riskiness of the stock.
+Author Biographies
+Kristine June D. Uy, University of San Jose-Recoletos
+is a faculty member of the University of San Jose Recoletos, was born in 1982 and educated at the University of San Jose Recoletos where she graduated magna cum laude (Bachelor of Science in Accountancy , 2003). She also obtained her Master in Business Administration degree (2008) from the same university. A Certified Public Accountant, she worked with Isla Lipana and Company, a member firm of Pricewaterhouse Coopers (2004-2006). She has been a faculty member of the accountancy department of the University of San Jose Recoletos since 2006 up to the present, handling the subjects Basic Accounting, Partnership and Corporation Accounting, Financial Accounting, Auditing and Assurance Services, and Integrated Auditing Theory.
+Chris Rudyard F. Naval, University of San Jose-Recoletos
+received his Masterâ€™s degree in Accountancy from the University of San Carlos (USC), Cebu City, Philippines. Chris holds a baccalaureate degree in Management Accounting from the University of San Carlos, and is currently taking Master of Arts in Economics and PhD in Management from the University of San Carlos. He is a finance faculty of the University of San Jose - Recoletos in Cebu City. He finds his comfort in research, both academic and industry-based. Some his works are: An Empirical Validation of the Psychological Anatomy of Gossip, Fractal Behaviour of Selected Stock Prices, Fractal Volatility of Stock Price Levels, and Volatility Similarities of Stock Prices within the Same Industries. His interests are in finance, mathematics and statistics, physics, and financial engineering.
+References
+Barabat, E. O., Borres, M., & Salazar, R. (2013). Some Results on Multifractal Spectral Analysis. The Recoletos Journal of Higher Education, 78- 89.
+Corazza, M., & Malliaris, A. (2002). MultiFractality in Foreign Currency Markets. Multinational Finance Journal, Vol. 6, 387-401. Available at
+SSRN: http://ssrn.com/abstract=1084659
+Ely, B. (2008). â€œFinancial Regulation.â€ The Concise Encyclopedia of Economics. Retrieved August 14, 2013, from Library of Economics
+and Liberty: http://www.econlib.org/library/Enc/FinancialRegulation.html
+Lento, C. (2009, November 20). A synthesis of technical analysis and fractal geometry:Evidence from the Dow Jones Industrial Average components. Ontario, Canada. Available at SSRN: http://ssrn.
+com/abstract=1263615 or http://dx.doi.org/10.2139/ssrn.1263615
+Los, C. (2003). Financial Market Risk: Measurement & Analysis. London, UK: Routledge International Studies in Money and Banking, Taylor & Francis Ltd.
+Los, C., & Yalamova, R. (2004, July 20). Multifractal Spectral Analysis of the 1987 Stock Market Crash. Canada.
+Padua, R. N. (2013, March). Data Roughness and Fractal Statistics. Cebu Normal University Journal of Higher Education. Cebu, Cebu, Philippines: Cebu Normal Press.
+Velasquez, T. (2010). Chaos Theory and the Science of Fractals in Finance. ODEON, No. 5. Available at SSRN: http://ssrn.com/abstract=1866332
+Yu, H.-C., & Huang, M.-C. (2004, August 7). Statistical Properties of Volatility in Fractal Dimensions and Probability Distribution among Six Stock Markets. Taiwan.
+Downloads
+full paper
+Published
+2013-12-31
+How to Cite
+Uy, K. J. D., & Naval, C. R. F. (2013). Fractal Behavior of Selected Stock Market Prices. Recoletos Multidisciplinary Research Journal, 1(2). https://doi.org/10.32871/rmrj1301.02.02
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 1 No. 2 (2013)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Most read articles by the same author(s)
+Kristine June D. Uy,
+Jun Brian B. Alenton,
+Marjurie Lourince E. Zanoria,
+Helmae N. Etulle-Tapanan,
+An Assessment of the Burnout Levels of Accountancy Students
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Helmae N. Etulle-Tapanan,
+Kristine June D. Uy,
+Sandy Valmores,
+Assessment of Studentsâ€™ Learning on a Fractal Viewpoint
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Sandy Valmores,
+Kristine June D. Uy,
+Virgilio C. Lumayno Jr.,
+Helmae N. Etulle-Tapanan,
+The Fractal Dimension of the Levels of Depression
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Sandy Valmores Chua,
+Helmae N. Etulle-Tapanan,
+Kristine June D. Uy,
+A Theory on Multiple Sexual Partnership
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Kristine June D. Uy,
+Jun Brian B. Alenton,
+Peter Dante E. Amparado,
+Investigating Student Study Engagement among College Students across Year Levels
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Kristine June D. Uy,
+Chris Rudyard F. Naval,
+Sandy Valmores,
+Helmae N. Etulle-Tapanan,
+Financial Sustainability of Research Centers in a University Setting
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Yener C. Cabalida,
+Alessa Joy D. Cruz,
+Kristine June D. Uy,
+Marjurie Lourince E. Zanoria,
+Sovereign Bankruptcy in the Perspective of the ASEAN Integration
+,
+Recoletos Multidisciplinary Research Journal: Vol. 3 No. 1 (2015)
+Sandy Valmores,
+Kristine June D. Uy,
+The Psychological Anatomy of Gossip
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 1 (2013)
+Kristine June D. Uy,
+Chris Rudyard F. Naval,
+Sandy Valmores,
+An Empirical Validation of the Psychological Anatomy of Gossip
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+Marjurie Lourince E. Zanoria,
+Kristine June D. Uy,
+Clifford Rey G. Borlasa,
+Nation Branding in the verge of the ASEAN Integration
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 2 (2014)
+1 2 > >>
+Similar Articles
+Daisy R. Palompon,
+Laurence L. Garcia,
+Jose Mari Louis Alforque,
+Ubiquity of Fractals in Gerontology
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+You may also start an advanced similarity search for this article.
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

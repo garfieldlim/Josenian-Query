@@ -1,0 +1,190 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/863
+Companion: A Social Support Generating Application for Lonely and Socially Isolated Individuals using Lazy Supervised Algorithm
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 8 No. 1 (2020)
+/
+Articles
+Companion: A Social Support Generating Application for Lonely and Socially Isolated Individuals using Lazy Supervised Algorithm
+Authors
+Marisa M. Buctuanon
+University of San Jose-Recoletos
+https://orcid.org/0000-0002-7362-4055
+Xavier Comabig
+University of San Jose-Recoletos
+Wavina Vivienne Mayola
+University of San Jose-Recoletos
+DOI:
+https://doi.org/10.32871/rmrj2008.01.07
+Keywords:
+Social support group, 											loneliness, 											social isolation, 											KNN, 											instance-based algorithm, 											lazy supervised algorithm
+Abstract
+The adverse effect of depression, which is a significant health problem associated with loneliness and social isolation, leads to suicidal ideation, alcohol use, cardiovascular disease, and altered brain function. Administering them with appropriate and effective mental health outreach and treatment services can prevent and alleviate these effects. Studies state that being with individuals who can help them cope with their situation under the supervision of a professional psychologist or psychiatrist can help them achieve a state of well-being. Thus, this study develops Companion, an app that utilizes the KNN algorithm to create a social support group that matches a seeker to the group based on his interest and problem at hand. He finds new friends with whom he can feel a sense of care, love, understanding, and belongingness. It comes with a set of physical activities designed for the group. The algorithm yields an 84% accuracy rate after evaluating the result.
+Author Biography
+Marisa M. Buctuanon, University of San Jose-Recoletos
+Marisa M. Buctuanon is an advocate of cellular nutrition. She is an IT professional who worked for 1 year as a Software Engineer developing Microsoft supported projects. She has the passion for sharing algorithmic expertise to the College of Information, Computer and Communications Technology in University of San Jose - Recoletos. She is a member of Recoletos Educational Assistance for Deserving Students. She graduated Bachelor of Science in Computer Science major in Natural Language Processing, Cum laude. She finished her Master in Computer Science in Cebu Institute of Technology - University.
+References
+Aha, D. W. (1997). Lazy Learning. Springer, Dordrecht.
+Andrade, A. (2016). K Nearest Neighbor and Lazy
+Learning. Retrieved June 25, 2020, from DataScience Guide:
+https://datascienceguide.github.io/k-nearest-neighbor
+Cattan, M., White, M., Bond, J., & Learmouth, A.
+(2005). Preventing social isolation and
+loneliness among older people: a systematic
+review of health promotion interventions.
+Ageing & Society, 25(1), 41-67.
+Chen, C.-C., Petrick, J., & Shahvali, M. (2016).
+Tourism Experiences as a Stress Reliever:
+Examining the Effects of Tourism Recovery
+Experiences on Life Satisfaction. Journal of
+Travel Research, 55(2), 150-160.
+Cherry, K. (2018, Nov 16). Social Support Is Imperative
+for Health and Well-Being. Retrieved Jan 15,
+2020, from Verywell Mind: https://www.
+verywellmind.com/social-support-forpsychological-health-4119970.
+Cobb, S. (1976). Social Support as a Moderator of
+Life Stress. Psychosomatic medicine, 38(5), 300-314.
+Cohen, S., & Wills, T. (1985). Stress, Social Support,
+and the Buffering Hypothesis. Psychological
+Bulletin, 98(2), 310-357.
+Confusion Matrix in Machine Learning. (n.d.).
+Retrieved Jan 15, 2020, from GeeksforGeeks:
+https://www.geeksforgeeks.org/confusionmatrix-machine-learning/
+Cutrona, C., & Russell, D. (1993). The provisions of
+social relationships and adaptation to stress.
+American Journal of Orthopsychiatry, 63(4), 597-605.
+Equation of a Circle. (2007). Retrieved Jan 15,
+2020, from Varsity Tutors: https://www.
+varsitytutors.com/hotmath/hotmath_help/
+topics/equation-of-a-circle
+Euclidean Distance. (n.d.). (NIST, Producer)
+Retrieved Jan 15, 2020, from Statistical
+Engineering Division: https://www.itl.nist.
+gov/div898/software/dataplot/refman2/
+auxillar/eucldist.htm
+Garlow, S., Rosenberg, J., Moore, D., Haas, A.,
+Koestner, B., Hendin, H., & Nemeroff, C.
+(2008). Depression, desperation, and
+suicidal ideation in college students: results
+from the American Foundation for Suicide
+Prevention College Screening Project at
+Emory University. Depression and anxiety,
+25(6), 482-488.
+Gazda, G. (1969). Group Counseling: A Development
+Approach. Canadian Journal of Counselling
+and Psychotherapy/Revue canadienne de
+counseling et de psychothÃ©rapie, 3(4).
+Geolocation API. (n.d.). Retrieved Jan 15, 2020,
+from https://developers.google.com/maps/
+documentation/geolocation/intro
+Grippo, A., Gerena, D., Huang, J., Kumar, N.,
+Shah, M., Ughreja, R., & Carter, C. (2007).
+Social isolation induces behavioral and
+neuroendocrine disturbances relevant to
+depression in female and male prairie voles.
+Psychoneuroendocrinology, 32(8-10), 966-980.
+Happify: Science-Based Activities and Games.(n.d.).
+Retrieved Jan 15, 2020, from https://www.happify.com/
+Kataria, A., & Singh, M. D. (2013). A Review of Data
+Classification Using K-Nearest Neighbour.
+International Journal of Emerging Technology
+and Advanced Engineering, 3(6).
+Maps JavaScript API. (n.d.). Retrieved Jan 15, 2020,
+from https://developers.google.com/maps/
+documentation/javascript/tutorial
+Movable Type Scripts. (n.d.). Retrieved Jan 15, 2020,
+from Calculate distance, bearing and more
+between Latitude/Longitude points: https://
+www.movable-type.co.uk/scripts/latlong.html
+Quotes and expressions. The most inspiring
+expressions of mankind. (n.d.). Retrieved Jan
+15, 2020, from https://forismatic.com/en/
+Satapathy, S., & Naik, A. (2016). Social group
+optimization (SGO): a new population
+evolutionary optimization technique.
+Complex & Intelligent Systems, 2(3), 173-203.
+Stigma: Mood Tracker and Journal. (n.d.). Retrieved
+Jan 15, 2020, from https://psyberguide.org/apps/stigma/
+Stults-Kolehmainen, M. A., & Sinha, R. (2014). The
+effects of stress on physical activity and
+exercise. Sports medicine, 44(1), 81-121.
+Talkspace. (n.d.). Retrieved Jan 15, 2020, from
+Talkspace: shorturl.at/aqL27
+Tomaka, J., Thompson, S., & Palacios, R. (2006). The
+relation of social isolation, loneliness, and
+social support to disease outcomes among
+the elderly. Journal of aging and health, 18(3),
+359-384.
+Truschel, J.(2020). Top 25 Mental Health Apps for
+2018: An effective alternative for when you
+can't afford theraphy? Retrieved from https://
+www.psycom.net/25-best-mental-healthapps
+University of California at San Francisco PRIME. (2016).
+Retrieved from https://apps.apple.com/tr/app/ucsf-prime/id1031402495
+Wenger, G., Davies, R., Shahtahmasebi, S., & Scott,
+A. (1996). Social isolation and loneliness
+in old age: review and model refinement.
+Ageing & Society, 16(3), 333-358.
+Youtube API. (n.d.). Retrieved Jan 15, 2020, from
+https://developers.google.com/youtube/v3
+Downloads
+pdf
+Published
+2020-06-30
+How to Cite
+Buctuanon, M. M., Comabig, X., & Mayola, W. V. (2020). Companion: A Social Support Generating Application for Lonely and Socially Isolated Individuals using Lazy Supervised Algorithm. Recoletos Multidisciplinary Research Journal, 8(1), 97–111. https://doi.org/10.32871/rmrj2008.01.07
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 8 No. 1 (2020)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

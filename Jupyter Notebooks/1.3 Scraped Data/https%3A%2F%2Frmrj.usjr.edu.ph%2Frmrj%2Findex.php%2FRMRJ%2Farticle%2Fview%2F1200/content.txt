@@ -1,0 +1,94 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/1200
+Deriving a Formula in Solving Reverse Fibonacci Means
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 10 No. 2 (2022)
+/
+Articles
+Deriving a Formula in Solving Reverse Fibonacci Means
+Authors
+Steven Elizalde
+North Eastern Mindanao State University, Surigao del Sur, Philippines
+Romeo Patan
+North Eastern Mindanao State University, Surigao del Sur, Philippines
+DOI:
+https://doi.org/10.32871/rmrj2210.02.03
+Keywords:
+fibonacci sequence , 											reverse fibonacci sequence, 											Binet’s formula, 											means
+Abstract
+Reverse Fibonacci sequence $\{J_n\}$ is defined by the relation $J_n = 8(J_{n-1} - J_{n-2})$ for $n\geq2$ with $J_0=0$ and $J_1=1$ as initial terms. A few formulas have been derived for solving the missing terms of a sequence in books and mathematical journals, but not for the reverse Fibonacci sequence. Thus, this paper derived a formula that deductively solves the first missing term $\{x_1\}$ of the reverse Fibonacci sequence and is given by the equation
+$x_1=\frac{b+8aJ_n}{J_{n+1}}$.
+By using the derived formula for $\{x_1\}$, it is now possible to solve the means of the reverse Fibonacci sequence as well as solving the sequence itself.
+References
+Janičko, O. (2018). New fundamental discovery of the Reverse Fibonacci sequence. Academia. Retrieved February 05, 2019, from https://www.academia.edu/38243263/New_fundamental_discovery_of_the_reverse_Fibonacci_sequence#:~:text=The%20reverse%20Fibonacci%20ratio%20is,discovery%20will%20be%20seriously%20recognized
+Natividad, L. R. (2011a). Deriving a formula in solving Fibonacci-like sequence. International Journal of Mathematical and Scientific Computing,1(1),19-21. https://veltech.edu.in/wp-content/uploads/2016/04/IJMSC01-02-Paper04.pdf
+Natividad, L. R. (2011b). On solving Pell means. International Journal of Mathematical Archive, 2(12), 2736-2739. http://ijma.info/index.php/ijma/article/view/807
+Natividad, L. R. (2012). Fibonacci means and its applications. International Journal of Mathematical Archive, 3(3), 1087-1090. http://ijma.info/index.php/ijma/issue/view/20
+Patan, R. A., & Elizalde, S. L. (2017). Alternative method for finding means of Fibonacci and Fibonacci-like sequences. SDSSU
+Multidisciplinary Research Journal (SMRJ), 5, 15-17. https://www.smrj.sdssu.edu.ph/index.php/SMRJ/article/view/137
+Rabago, J. F. T. (2012). On Natividad’s formula for solving the missing terms of a recurrence sequence. International Journal of Mathematical Archive, 3(8), 3105-3107. https://www.researchgate.net/publication/269371138_On_Natividad'd_Formula_for_solving_the_missing_terms_of_a_recurrence_sequence/citations
+Sisodiya, K. S., Singh, B., & Sisodiya, K. (2014). On Lucas sequence formula for solving the missing terms of a recurrence sequence. International Journal of Technology Enhancements and Emerging Engineering Research, 2(5), 142-144. https://issuu.com/ijteee/docs/on-lucas-sequence-formula-for-solvi
+Souček, J. & Janičko, O., (2019). Reverse Fibonacci sequence and its description. Academia. Retrieve February 07, 2019, from https://www.academia.edu/38228570/Reverse_Fibonacci_Sequence_and_its_description
+Downloads
+FULL PAPER
+Published
+2022-12-30
+How to Cite
+Elizalde, S., & Patan, R. (2022). Deriving a Formula in Solving Reverse Fibonacci Means. Recoletos Multidisciplinary Research Journal, 10(2), 41–45. https://doi.org/10.32871/rmrj2210.02.03
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 10 No. 2 (2022)
+Section
+Articles
+License
+Copyright (c) 2022 University of San Jose-Recoletos
+This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

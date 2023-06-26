@@ -1,0 +1,175 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/1320
+Auditors’ Professional Skepticism and Its Relationship with Their Thinking Styles
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 10 No. 2 (2022)
+/
+Articles
+Auditors’ Professional Skepticism and Its Relationship with Their Thinking Styles
+Authors
+Teovy Erdel Bongcales
+University of San Jose Recoletos, Cebu City, Philippines
+Ariel Balunan
+University of San Jose Recoletos, Cebu City, Philippines
+Loriemar Igot
+University of San Jose Recoletos, Cebu City, Philippines
+Jurienel Mae Laude
+University of San Jose Recoletos, Cebu City, Philippines
+JJ Jycka Mojados
+University of San Jose Recoletos, Cebu City, Philippines
+Kristine June Uy
+University of San Jose Recoletos, Cebu City, Philippines
+DOI:
+https://doi.org/10.32871/rmrj2210.02.04
+Keywords:
+thinking styles, 											professional skepticism, 											Philippines , 											sociodemographic attributes, 											auditors
+Abstract
+The complexity of financial reporting highlights the need for professional skepticism among auditors. This study examined the relationship between auditors’ professional skepticism (PS) and thinking styles (TS) and explored what associations exist among PS, TS, and auditors’ sociodemographic attributes. Using snowball sampling, we surveyed 139 auditors in the Philippines using the Thinking Styles Inventory – Revised II and the Professional Skepticism Scale. Confirmatory analysis using Kendall’s tau-B showed a strong correlation between PS and TS I (creativity-generating style), implying that it plays a prominent role in professional skepticism. Contrary to earlier studies, our study found only a moderate correlation between TS II (norm-favoring style) and PS. The k-Modes clustering algorithm revealed that auditors showing high PS were low-ranking, less-experienced licensed female CPAs in firms with global affiliations and manifesting creative-generating TS. These findings add to the accounting profession’s understanding of PS and may be of valuable help in cultivating PS among auditors.
+References
+Acampado, A. G., & Pajares, G. G. (2021). Visayan philosophy of labor: A reflection from the notion of Kahimtang and John Paul II's philosophy. Recoletos Multidisciplinary Research Journal, 9(2), 53–65. https://doi.org/10.32871/rmrj2109.02.07
+Agaton, S. I. G. (2015). Morality and religiosity: A Filipino experience. Recoletos Multidisciplinary Research Journal, 3(2). https://doi.org/10.32871/rmrj1503.02.07
+Akoglu, H. (2018). User's guide to correlation coefficients. Turkish Journal of Emergency Medicine, 18(3), 91-93. https://doi.org/10.1016/j.tjem.2018.08.001
+American Institute of Certified Public Accountants (1999). Broad business perspective competencies. https://bit.ly/3VZIsEE
+Arens, A. A., Elder, R. J., & Beasley, M. S. (2012). Auditing and assurance services: An integrated approach (14th ed.). Pearson Prentice Hall.
+Atmaja, I. W., & Sukartha, I. M. (2021). The influence of self efficacy, professional skepticism, and gender of auditors on audit judgment. American Journal of Humanities and Social Sciences Research, 5(1), 643-650. https://www.ajhssr.com/volume-5-issue-01/
+Baskerville, R. F., & Hay, D. (2010). The impact of globalization on professional accounting firms: Evidence from New Zealand. Accounting History, 15(3), 285-308. https://doi.org/10.1177/1032373210367669
+Beasley, M. S., Carcello, J. V., Hermanson, D. R., & Neal, T. L. (2013). An analysis of alleged auditor deficiencies in SEC fraud investigations: 1998-2010. Center for Audit Quality (CAQ). https://www.thecaq.org/news/new-report-financial-reporting-fraud-released/
+Benitez, J. L. (2022). An inquiry into the problems concerning Filipino values and norms. Recoletos Multidisciplinary Research Journal, 10(1), 39–50. https://doi.org/10.32871/rmrj2210.01.03
+Bernardo, A. B., Zhang, L. F., & Callueng, C. M. (2002). Thinking styles and academic achievement among Filipino students. The Journal of Genetic Psychology, 163(2), 149-163. http://dx.doi.org/10.1080/00221320209598674
+Chia-Ah, E., & Karlsson, J. (2010). The impact of extended audit tenure on auditor independence: Auditors perspective [Master’s thesis, Umea School of Business]. Digitala Vetenskapliga Arkivet. https://bit.ly/3haLOWy
+Chung, J., & Monroe, G. S. (2001). A research note on the effects of gender and task complexity on an audit judgment. Behavioral Research in Accounting, 13(1), 111-125. https://doi.org/10.2308/bria.2001.13.1.111
+Coppage, R., & Shastri, T. (2014). Effectively applying professional skepticism to improve audit quality. The CPA Journal, 84(8), 24-28. https://bit.ly/3C4DhZJ
+Endrawes, M. (2010). Professional sceptisicm of auditors: A cross-cultural experiment [Doctoral dissertation, University of Western Sydney]. Western Sydney University. https://bit.ly/3FBo7Qy
+Farag, M. S., & Elias, R. Z. (2012). The impact of accounting students’ professional skepticism on their ethical perception of earnings management. In C. Jeffrey (Ed.), Research on professional responsibility and ethics in accounting (pp. 185-200). Emerald Group Publishing Limited.
+Florido, A. M. (n.d.). Educational profile of the Philippines and best practices in Filipino schools and classrooms. Docobook. Retrieved March 15, 2014, from https://docobook.com/educational-profile-of-the-philippines.html
+Gissel, J. L. (2018). Professional skepticism: Practitioners’ perceptions and training practices. Review of Business Information Systems, 22(2), 1-14. https://bit.ly/3FmHZpw
+Glover, S. M., & Prawitt, D. F. (2014). Enhancing auditor professional skepticism: The professional skepticism continuum. Current Issues in Auditing, 8(2), 1-10. https://doi.org/10.2308/ciia-50895
+Goyal, M., & Aggarwal, S. (2017). A review on K-mode clustering algorithm. International Journal of Advanced Research in Computer Science, 8(7). 725-729. https://doi.org/10.26483/ijarcs.v8i7.4301
+Griffith, E. E., Hammersley, J. S., Kadous, K., & Young, D. (2014). Auditor mindsets and audits of complex estimates. Journal of Accounting Research, 53(1), 49–77. https://doi.org/10.1111/1475-679X.12066
+Gu, X., Wang, H., & Mason, J. (2017). Are they thinking differently: A cross-cultural study on the relationship of thinking styles and emerging roles in computer-supported collaborative learning. Journal of Educational Technology & Society, 20(1), 13-24. http://www.jstor.org/stable/jeductechsoci.20.1.13
+Hai, P.T., Toanc, L.D., Quy, N.L., & Tung, N.T. (2020). Research factors affecting professional skepticism and audit quality: Evidence in Vietnam. International Journal of Innovation, Creativity and Change, 13(1), 830-847. https://www.ijicc.net/images/vol_13/13182_Hai_2020_E_R.pdf
+Han, S. (2010). Cultural differences in thinking styles. In B. Glatzeder, V. Goel, & A. Muller (Eds.), Towards a theory of thinking: Building blocks for conceptual framework (pp. 279-288). Springer. https://doi.org/10.1007/978-3-642-03129-8
+Hardies, K., Breesch, D., & Branson, J. (2010). Are female auditors still women? Analyzing the sex differences affecting audit quality. SSRN. http://dx.doi.org/10.2139/ssrn.1409964
+Heidar, M., & Nikomaram, H. (2018). Thinking styles and professional skepticism in auditing (Theory of Mental Self-Government). Iranian Journal of Value and Behavioral Accounting, 3(5), 151-185. https://doi.org/10.29252/aapc.3.5.151
+Hofstede, G. (2001). Culture's consequences: Comparing values, behaviors, institutions and organizations across nations (2nd ed.). Sage Publications.
+Hou, Y., Gao, G., Wang, F., Li, T., & Yu, Z. (2011). Organizational commitment and creativity: The influence of thinking styles. Annals of Economics and Finance, 12(2), 411-431. https://bit.ly/3n49xrx
+Hovencamp, S. A. (2014). The relationship between thinking styles and emotional intelligence: An exploratory study of retail managers. (Publication No. 3607705) [Doctoral dissertation, Capella University]. ProQuest Dissertations and Theses Global.
+Hurtt, R. K. (2010). Development of a scale to measure professional skepticism. Auditing, 29(1), 149-171. https://doi.org/10.2308/aud.2010.29.1.149
+Hussin, S. A. H., Iskandar, T. M., Saleh, N. M., & Jaffar, R. (2017). Professional skepticism and auditors' assessment of misstatement risks: The moderating effect of experience and time budget pressure. Economics & Sociology, 10(4), 225-250. https://doi.org/10.14254/2071-789X.2017/10-4/17
+International Ethics Standards Board for Accountants. (2021). Handbook of the code of ethics for professional accountants: Including international independence standards (2020 ed.). International Federation of Accountants. https://www.ethicsboard.org/publications/2020-handbook-international-code-ethics-professional-accountants
+Janssen, S., Hardies, K., Vanstraelen, A., & Zehms, K. M. (2020). Auditors’ professional skepticism: Traits, behavioral intentions, and actions in the field. Foundation for Auditing Research. https://foundationforauditingresearch.org/files/sanne-janssen-2016b05-2-final.pdf
+Kamla, R. (2007). Critically appreciating social accounting and reporting in the Arab Middle East: A postcolonial perspective. Advances in International Accounting, 20(1), 105-177. https://doi.org/10.1016/S0897-3660(07)20005-4
+Kwock, B., Ho, R. & James, M. (2016). The effectiveness of professional skepticism training for auditors in China: Evidence from a university in China. China Journal of Accounting Studies, 4(2), 205–224. https://doi.org/10.1080/21697213.2016.1196055
+Lee, C. C., & Welker, R. B. (2008). Identification of perceived interviewee behaviors that influence auditors' assessment of deception. International Journal of Auditing, 12(3), 205-220. https://doi.org/10.1111/j.1099-1123.2008.00380.x
+Magidson, J., & Vermunt, J. (2002). Latent class models for clustering: A comparison with K-means. Canadian Journal of Marketing Research, 20(1), 36-43. https://jeroenvermunt.nl/cjmr2002.pdf
+Mardijuwono, A.W., & Subianto, C. (2018). Independence, professionalism, professional skepticism: The relation toward the resulted audit quality. Asian Journal of Accounting Research, 3(1), 61-71. https://doi.org/10.1108/AJAR-06-2018-0009
+Muniandy, B., & Ali, M. J. (2012). Development of financial reporting environment in Malaysia. Research in Accounting Regulation, 24(2), 115-125. https://doi.org/10.1016/j.racreg.2012.05.004
+Nelson, M. W. (2009). A model and literature review of professional skepticism in auditing. Auditing: A Journal of Practice & Theory, 28(2), 1-34. https://doi.org/10.2308/aud.2009.28.2.1
+Nisbett, R. E., Peng, K., Choi, I., & Norenzayan, A. (2001). Culture and systems of thought: Holistic versus analytic cognition. Psychological Review, 108(2), 291-310. https://doi.org/10.1037/0033-295x.108.2.291
+Nobes, C. (2011). IFRS practices and the persistence of accounting system classification. Abacus, 47(3), 267-283. https://doi.org/10.1111/j.1467-6281.2011.00341.x
+Ogunjimi, A. (2018, April 13). What services are provided by accounting firms? AZCentral. https://bit.ly/3xyoWWK
+Paik, Y., Lee, J. M., & Pak, Y. S. (2019). Convergence in international business ethics? A comparative study of ethical philosophies, thinking style, and ethical decision-making between US and Korean managers. Journal of Business Ethics, 156, 839-855. https://doi.org/10.1007/s10551-017-3629-9
+Payne, E. A., & Ramsay, R. J. (2005). Fraud risk assessments and auditors’ professional skepticism. Managerial Auditing Journal, 20(3), 321-330. https://doi.org/10.1108/02686900510585636
+Pennazza, G., & Santonico, M. (Eds.). (2019). Breath analysis. Academic Press.
+Pennstate Eberly College of Science. (n.d.). Kendall Tau-b correlation coefficient. https://online.stat.psu.edu/stat509/lesson/18/18.3
+Phillips, F. (1999). Auditor attention to and judgments of aggressive financial reporting. Journal of Accounting Research, 37(1), 167-189. https://bit.ly/3olvn9k
+Popova, V. (2013). Exploration of skepticism, client-specific experiences, and audit judgments. Managerial Auditing Journal, 28(2), 140-160. https://doi.org/10.1108/02686901311284540
+Public Company Accounting Oversight Board. (2012, December 4). Maintaining and applying professional skepticism in audits (Staff Audit Practice Alert No. 10). https://bit.ly/3HofZ7p
+Public Company Accounting Oversight Board. (2016, December 31). AS1015: Due professional care in the performance of work. https://bit.ly/3uzzzG6
+Public Company Accounting Oversight Board. (2018, December 20). Amendments to auditing standards for auditor's use of the work of specialists [PCAOB Release No. 2018-006]. https://bit.ly/3FfxPa7
+Quadackers, L., Groot, T., & Wright, A. (2014). Auditors' professional skepticism: Neutrality versus presumptive doubt. Contemporary Accounting Research, 31(3), 639-657. https://bit.ly/3n4jtS3
+Rani, P., & Agarwal, N. (2015). Thinking styles: An overview. Cosmos: An International Journal of Art & Higher Education, 4(2), 1-3. https://doi.org/10.5281/zenodo.3837701
+Rasso, J. T. (2015). Construal instructions and professional skepticism in evaluating complex estimates. Accounting, Organizations and Society, 46, 44–55. https://doi.org/10.1016/j.aos.2015.03.003
+Robinson, S. N., Curtis, M. B., & Robertson, J. C. (2018). Disentangling the trait and state components of professional skepticism: Specifying a process for state scale development. Auditing, 37(1), 215. https://bit.ly/3bZMdVs
+Rufino, H. (2016). Core competencies for accountants of BS Accountancy students of Tarlac State University : Input to accounting education. Review of Integrative Business and Economics Research, 5(4), 16-28. https://ssrn.com/abstract=2864186
+Sagiv, L., & Schwartz, S. H. (2000). Value priorities and subjective well‐being: Direct relations and congruity effects. European Journal of Social Psychology, 30(2), 177-198. https://doi.org/10.1002/(SICI)1099-0992(200003/04)30:2<177::AID-EJSP982>3.0.CO;2-Z
+Sari, M. M. R. (2014). Gender audit committee and audit delay. The Indonesian Accounting Review, 4(1), 81-88. http://dx.doi.org/10.14414/tiar.v4i01.287
+Saudagaran, S. M., & Diga, J. G. (1998). Accounting harmonization in ASEAN: Benefits, models and policy issues. Journal of International Accounting, Auditing and Taxation, 7(1), 21-45. https://doi.org/10.1016/S1061-9518(98)90004-0
+Schwartz, S. H. (2012). An overview of the Schwartz theory of basic values. Online Readings in Psychology and Culture, 2(1), 2307-0919. https://doi.org/10.9707/2307-0919.1116
+Shaub, M. K., & Lawrence, J. E. (1996). Ethics, experience, and professional skepticism: A situational analysis. Behavioral Research in Accounting, 8(Suppl), 3. https://bit.ly/3n2lNZA
+Shaub, M. K., & Lawrence, J. E. (1999). Differences in auditors’ professional skepticism across career levels in the firm. In J.E. Hunton (Ed.), Advances in accounting behavioral research: Volume 2 (pp. 61-84). Jai Press Inc. https://bit.ly/3HreTaX
+Sternberg, R. J. (1997). Thinking styles. Cambridge University Press. https://doi.org/10.1017/CBO9780511584152
+Sternberg, R. J. (1998). Styles of thinking and learning. Canadian Journal of School Psychology, 13(2), 15–40. https://doi.org/10.1177/082957359801300204
+Sternberg, R. J., & Wagner, R. K. (1991). MSG thinking styles inventory [Manual]. https://bit.ly/3BlY3qj
+Sternberg, R. J., Wagner, R. K., & Zhang, L. F. (2007). Thinking styles inventory: Revised II (TSI-R2). Tufts University.
+Sunday, J. (2020). Enhancing professional skepticism. Internal Auditing, 35(6), 34-38. https://bit.ly/3n3DgAY
+Suseno, N. S., & Nofianti, L. (2018). Empirical evidence of audit firm size toward audit quality and reputation of public accounting firm. Advanced Science Letters, 24(5), 3327-3331. https://doi.org/10.1166/asl.2018.11367
+Tang, J. M. (2003). Are Asian thinking styles different? Acculturation and thinking styles in a Chinese Canadian population (Publication No. 3126420) [Doctoral dissertation, George Fox University]. Proquest Dissertations and Theses global.
+Thomson, M., Adams, B., Taylor, T., & Satori, J. (2007). The impact of culture on moral and ethical decision-making: An integrative literature review. ResearchGate. https://bit.ly/3FeIP7x
+Triani, N.N.A. (2018). Perceptions of public accountants on professional skepticism, competence, independence, integrity, and objectivity to audit quality. In Wendy, M. Kartika, N.F. Dosinta, & H. Brata (Eds.), The 19th Malaysia Indonesia International Conference on Economics, Management and Accounting (MIICEMA) (pp. 588-602). https://bit.ly/3BndqhZ
+Turki, J. (2012). Thinking styles “In Light of Sternberg’s Theory” prevailing among the students of Tafila Technical University and its relationship with some variables. American International Journal of Contemporary Research, 2(3), 140-152. https://bit.ly/3qrJYTn
+Tysiac, K. (2017, April). Last-minute guide to the updated CPA exam. Journal of Accountancy. https://bit.ly/3YdGBhh
+Urboniene, A., Endrawes, M., & Matawie, K. (2013). The relationship between students' thinking styles and professional skepticism. International Journal on Global Business Management & Research, 1(2), 5-13. https://bit.ly/3n1PsCk
+Varnum, M. E., Grossmann, I., Kitayama, S., & Nisbett, R. E. (2010). The origin of cultural differences in cognition: Evidence for the social orientation hypothesis. Current Directions in Psychological Science, 19(1), 9–13. https://doi.org/10.1177/0963721409359301
+Vasquez, K., Keltner, D., Ebenbach, D. H., & Banaszynski, T. L. (2001). Cultural variation and similarity in moral rhetorics: Voices from the Philippines and the United States. Journal of Cross-Cultural Psychology, 32(1), 93-120. https://doi.org/10.1177/0022022101032001010
+Vinciguerra, B. (2003, October). An examination of the effect of consultation review, financial dependence, and moral development on auditor judgment. SSRN. http://dx.doi.org/10.2139/ssrn.488382
+Wheeler, P. R., & Arunachalam, V. (2008). The effects of decision aid design on the information search strategies and confirmation bias of tax professionals. Behavioral Research in Accounting, 20(1), 131-145. https://bit.ly/3c3eiLU
+Yaakobi, E. (2017). Thinking styles and performance. Journal Clinical Psychiatry and Cognitive Psychology, 1(1), 7-8. https://doi.org/10.35841/Clinical-Psychiatry.1000104
+Ying, S. X., & Patel, C. (2016). Skeptical judgments and self-construal: A comparative study between Chinese accounting students in Australia and China. Journal of International Accounting Research, 15(3), 97-111. https://doi.org/10.2308/jiar-51491
+Zhang, L.F. (2002). Thinking styles and modes of thinking: Implications for education and research. The Journal of Psychology, 136(3), 245-61. https://doi.org/10.1080/00223980209604153
+Zhang, L.F. (2012). Why schools should care about intellectual styles. Journal of Cognitive Education and Psychology, 11(3), 256-270. https://bit.ly/3qsO4dR
+Zhang, L. F., & Sternberg, R. J. (2005). A threefold model of intellectual styles. Educational Psychology Review, 17(1), 1–53. https://www.jstor.org/stable/23363884
+Zhang, L.-F., & Sternberg, R.J. (2006). The nature of intellectual styles. Routledge. https://doi.org/10.4324/9780203053881
+Downloads
+FULL PAPER
+Published
+2022-12-31
+How to Cite
+Bongcales, T. E., Balunan, A., Igot, L., Laude, J. M., Mojados, J. J., & Uy, K. J. (2022). Auditors’ Professional Skepticism and Its Relationship with Their Thinking Styles. Recoletos Multidisciplinary Research Journal, 10(2), 1–17. https://doi.org/10.32871/rmrj2210.02.04
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 10 No. 2 (2022)
+Section
+Articles
+License
+Copyright (c) 2022 University of San Jose-Recoletos
+This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

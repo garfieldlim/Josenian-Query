@@ -1,0 +1,169 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/56
+ARIMA (p,d,q) and Non-Linear Approximation Models for the Fractal Dimension of the Density of Primes Less or Equal to a Positive Integer
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 1 No. 2 (2013)
+/
+Articles
+ARIMA (p,d,q) and Non-Linear Approximation Models for the Fractal Dimension of the Density of Primes Less or Equal to a Positive Integer
+Authors
+Roberto N. Padua
+Rodel B. Azura
+Mindanao University of Science and Technology
+Mark S. Borres
+University of San Jose-Recoletos
+Adriano V. Patac Jr.
+Surigao State College of Technology
+DOI:
+https://doi.org/10.32871/rmrj1301.02.20
+Keywords:
+time series model, 											fractal density of primes, 											autoregressive, 											moving average AMS Classification, 											Number theory, 											applied mathematics
+Abstract
+The study compares the performance of the Azura et al. (2013) prediction model for the fractal dimension of the density of primes less or equal to a positive integer x with the performance of an autoregressive integrated moving average model (ARIMA(p,d,q). The actual density of primes used in this study were gathered from published table of primes . Results revealed that the time series model ARIMA(p,d,q) outperforms the Azura et al. (2013) prediction model particularly for larger values of X in the range of forecast values. The time series model is more convenient to use in practice since it only involves the previous calculated values of the fractal dimensions.
+Author Biographies
+Roberto N. Padua
+Dr. Roberto Natividad Padua, scientist, received his PhD in Mathematical Statistics from Clemson University, South Carolina, USA under the Fullbright-Hays scholarship grant. He is an accomplished author, a multi-awarded researcher and an internationally acclaimed lecturer. Dr. Padua is a former Commissioner of CHED and currently a consultant to several state and private universities. He is also conducting lectures on research and Fractal Statistics. Dr. Padua is a Summa Cum Laude, BS in Mathematics Teaching graduate from the Philippine Normal College under the National Science Development Board (NSDB) program. He obtained his MS in Mathematics Education Degree from the Centro Escolar University as a Presidential Scholar.
+Mark S. Borres, University of San Jose-Recoletos
+graduated Bachelor of Science in Mathematicsâ€“major in Pure Mathematics at the University of the Philippines, Cebu College. Since 2009, he worked for the University of San Jose- Recoletos as a faculty member of the College of Arts and Sciences and handled Mathematics subjects such as College Algebra, Advanced Algebra, Abstract Algebra, Analytical Geometry, Euclidean geometry, Trigonometry, Business Mathematics, Linear Programming, Mathematics of Investment, Discrete Structure, and Statistics across colleges.
+References
+Box, G. (1980). Time Series Analysis, Forecasting and Control. (Wiley Series: New York, 2nd edition,1980).
+Laurance, A. J. and Lewis, P. W (1987). Models for Pairs of Dependent Exponential Random Variables. (Office of Naval Research, Grant HR â€“ 42 â€“ 469).
+Malik, H and Trudel, R. (1986). Probability Density Function of the Product and Quotient of Two Correlated Exponential Random Variables
+(Canadian Mathematical Bulletin, Vol. 29(4), 413 â€“ 418)
+Marshall, A. W and Olkin, I. (1967). A generalized bivariate Exponential Distribution. (Journal of Applied Probability, Vol. 4, 291 â€“ 302)
+Moran, P. (1967). Testing for Correlation Between Non â€“ Negative Variables. (Biometrika, Vol. 54, 385 - 394).
+Padua, R. (1996). Advanced Lecture Notes in Time Series Analysis. (Unpublished Monograph, Mindanao Polytechnic State College)
+Padua, R. (2013). On Fractal Probability Distributions: Results on Fractal Spectrum. (SSDSU Multidisciplinary Journal, Vol. 1, 87 â€“ 92, CHED â€“
+JAS B).
+Downloads
+full paper
+Published
+2013-12-31
+How to Cite
+Padua, R. N., Azura, R. B., Borres, M. S., & Patac Jr., A. V. (2013). ARIMA (p,d,q) and Non-Linear Approximation Models for the Fractal Dimension of the Density of Primes Less or Equal to a Positive Integer. Recoletos Multidisciplinary Research Journal, 1(2). https://doi.org/10.32871/rmrj1301.02.20
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 1 No. 2 (2013)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Most read articles by the same author(s)
+Mark S. Borres,
+Felix M. Diano Jr.,
+Evolutionary Models for the Interaction of the Higher Education Labor Force and Higher Education Market
+,
+Recoletos Multidisciplinary Research Journal: Vol. 3 No. 1 (2015)
+Anna Rose P. Nillama,
+Mark S. Borres,
+Ricky B. Villeta,
+Roramie V. Arco,
+Joyce C. Unabia,
+Validation of Lepidopteran Classification by Morphological Fractal Dimension Analysis
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Mark S. Borres,
+Jergen D. Orias,
+Alvin Mercado,
+A Mathematical Model on Social Integration Explaining Global Suicide Rate Among Men and Women
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Randy K. Salazar,
+Rosario L. Cabillada,
+Mark S. Borres,
+Anthony Jagures,
+Fractal Dimensions of Voice Patterns and Voice Recognition
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Roberto N. Padua,
+Mark S. Borres,
+Randy K. Salazar,
+A Generalized Bootstrap Technique for Dependent Observations
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Mark S. Borres,
+Robert John G. Tupas,
+Joel B. Serad,
+Aspects of Climate Change Induced by Human Activities: Impact on Global Natural Disaster Mortality
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Mark S. Borres,
+Queen Heneylour S. Relatorres,
+Efren O. Barabat,
+Societal Offenders In Prison: Global In-Country Analysis By Fractals
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Roberto N. Padua,
+Mark S. Borres,
+Efren O. Barabat,
+On a Logistic Approximation to the Normal and Other Cumulative Distribution Functions
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Jose D. Velez Jr.,
+Ricky B. Villeta,
+Roberto N. Padua,
+Richard Hao,
+Marielle Colina,
+A Predictive Model on the Spread of HIV in Cebu City
+,
+Recoletos Multidisciplinary Research Journal: Vol. 3 No. 2 (2015)
+Louida P. Patac,
+Adriano V. Patac Jr.,
+An Application of Student Self- Assessment and Newman Error Analysis in Solving Math Problems
+,
+Recoletos Multidisciplinary Research Journal: Vol. 3 No. 1 (2015)
+1 2 3 > >>
+Similar Articles
+Brian A. Vasquez,
+Philosophical Bases of Research Methods: An Integrative Narrative Review Part 1
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+You may also start an advanced similarity search for this article.
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

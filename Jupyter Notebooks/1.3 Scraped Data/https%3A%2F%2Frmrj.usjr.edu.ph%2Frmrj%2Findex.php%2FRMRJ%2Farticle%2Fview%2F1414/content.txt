@@ -1,0 +1,107 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/1414
+Sugbo Negosyo Program Digital Card Implementation: Technology Acceptance and Satisfaction among Microentrepreneur-Beneficiaries
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 10 No. 2 (2022)
+/
+Articles
+Sugbo Negosyo Program Digital Card Implementation: Technology Acceptance and Satisfaction among Microentrepreneur-Beneficiaries
+Authors
+Mary Gretchen Chaves
+University of the Philippines Cebu, Cebu City, Philippines
+https://orcid.org/0000-0001-8201-3558
+DOI:
+https://doi.org/10.32871/rmrj2210.02.06
+Keywords:
+e-payment system, 											technology acceptance model, 											PLS-SEM, 											Cebu, 											COVID-19 pandemic, 											Philippines
+Abstract
+The COVID-19 lockdowns upended business operations, impacting microenterprises which prompted the Cebu Province to implement a stimulus grant to revive existing and encourage start-up microenterprises known as the Sugbo Negosyo program. A digital card system (DCS) with a quick response (QR) code payment was utilized to facilitate the disbursement of financial assistance and to enable real-time monitoring of the program beneficiaries’ expenditure transactions. This study evaluates the effectiveness of the DCS, investigating how the perceived ease of use, perceived usefulness, and attitude towards its use have influenced the actual use and satisfaction of the DCS use by the beneficiaries. The research, a mix of quantitative and qualitative methods, was participated by 212 beneficiaries through face-to-face surveys. With the Technology Acceptance Method (TAM) as the study’s framework, the partial least squares structural equation modeling (PLS-SEM) results show that the DCS is evaluated as useful and easy to use and satisfied the beneficiaries.
+References
+Ali, S., Poulova, P., Akbar, A., Javed, H. M. U., & Danish, M. (2020). Determining the influencing factors in the adoption of solar photovoltaic technology in Pakistan: A decomposed technology acceptance model approach. Economies, 8(4), 108. https://doi.org/10.3390/economies8040108
+Al-Qaysi, N., Mohamad-Nordin, N., & Al-Emran, M. (2020). Employing the technology acceptance model in social media: A systematic review. Education and Information Technologies, 25, 4961-5002. https://doi.org/10.1007/s10639-020-10197-1
+Al-Emran, M., Mezhuyev, V., & Kamaludin, A. (2018). Technology acceptance model in M-learning context: A systematic review. Computers & Education, 125, 389–412. https://doi.org/10.1016/j.compedu.2018.06.008
+Anshari, M., Arine, M. A., Nurhidayah, N., Aziyah, H., & Salleh, M. H. A. (2021). Factors influencing an individual in adopting eWallet. Journal of Financial Services Marketing, 26, 10–23. https://doi.org/10.1057/s41264-020-00079-5
+Asian Development Bank. (2020). The COVID-19 impact on Philippine business: Key findings from the enterprise survey. https://www.adb.org/sites/default/files/publication/622161/covid-19-impact-philippine-business-enterprise-survey.pdf
+Bangko Sentral ng Pilipinas (BSP). (n.d.). BSP digital payments transformation roadmap 2020-2023. https://www.bsp.gov.ph/Media_And_Research/Primers%20Faqs/Digital%20Payments%20Transformation%20Roadmap%20Report.pdf
+Bvuma, S., & Marnewick, C. (2020). An information and communication technology adoption framework for small, medium, and micro-enterprises operating in townships in South Africa. The Southern African Journal of Entrepreneurship and Small Business Management, 12(1), 1-12. https://doi.org/10.4102/sajesbm.v12i1.318
+Chaouali, W., & Souiden, N. (2019). The role of cognitive age in explaining mobile banking resistance among elderly people. Journal of Retailing and Consumer Services, 50, 342-350. https://doi.org/10.1016/j.jretconser.2018.07.009
+Charness, N., & Boot, W. R. (2016). Technology, gaming, and social networking. In K. W. Schaie & S. L. Willis (Eds.), Handbook of the psychology of aging (8th ed., pp. 389-407). Elsevier. https://scitechconnect.elsevier.com/wp-content/uploads/2016/04/Technology-Gaming.pdf
+Davis, F. D. (1989). Perceived usefulness, perceived ease of use, and user acceptance of information technology. MIS Quarterly, 13(3), 319–340. http://www.jstor.org/stable/249008
+Deloritos, B. G. (2021). Factors affecting the adoption of mobile payments in the Philippines. Global Scientific Journals, 9(6), 1361-1370. https://www.globalscientificjournal.com/researchpaper/FACTORS_AFFECTING_THE_ADOPTION_OF_MOBILE_PAYMENTS_IN_THE_PHILIPPINES.pdf
+Department of Information and Communications Technology (DICT). (2019). The Philippines’ DICT launches E-Government master plan 2022. https://opengovasia.com/the-philippines-dict-launches-e-government-masterplan-2022/
+Estioko, R., Mesina-Romero, B. R., & Masangkay, M. C. (2021). State of digital payments in the Philippines: 2019 update and 2020 preview. Bangko Sentral ng Pilipinas. https://www.bsp.gov.ph/PaymentAndSettlement/210616_BTC_Philippines_Report_DPS.pdf
+Hair, J. F., Hult, G. T. M., Ringle, C. M., & Sarstedt, M. (2016). A primer on partial least squares structural equation modeling (PLS-SEM) (2nd ed.). SAGE Publications.
+Hair, J. F., Risher, J. J., Sarstedt, M., & Ringle, C. M. (2019). When to use and how to report the results of PLS-SEM. European Business Review, 31(1), 2–24. https://doi.org/10.1108/EBR-11-2018-0203
+Harding, J. (2015). Making summaries of interview data and drawing out themes: Experiences of working in Higher Education. SAGE Publications. https://dx.doi.org/10.4135/9781473938120
+Huffman, B. D. (2017). E-Participation in the Philippines: A capabilities approach to socially inclusive governance. JeDEM-eJournal of eDemocracy and Open Government, 9(2), 24-46. https://doi.org/10.29379/jedem.v9i2.461
+Mois, G., & Beer, J. M. (2020). Robotics to support aging in place. In R. Pak, E. de Visser, & E. Rovira (Eds.), Living with robots: Emerging issues on the psychological and socialvimplications of robotics (1st ed., pp. 49-74). Academic Press. https://doi.org/10.1016/B978-0-12-815367-3.00003-7
+Morris, M. G., & Venkatesh, V. (2000). Age differences in technology adoption decisions: Implications for a changing work force. Personnel Psychology, 53(2), 375-403.
+Purnamasari, P., Pramono, I. P., Haryatiningsih, R., Ismail, S. A., & Shafie, R. (2020). Technology acceptance model of financial technology in micro, small, and medium enterprises (MSME) in Indonesia. The Journal of Asian Finance, Economics, and Business, 7(10), 981-988. https://doi.org/10.13106/jafeb.2020.vol7.no10.981
+United Nations (UN). (2016). United Nations E-Government surveys 2016: E-Government in support of sustainable development. https://publicadministration.un.org/egovkb/Portals/egovkb/Documents/un/2016-Survey/E-Government%20Survey%202016.pdf
+United Nations (UN). (n.d.). Sustainable development goal 9: Build resilient infrastructure, promote sustainable industrialization and foster innovation. https://sdg-tracker.org/infrastructure-industrialization
+Wibowo, M. P. (2019). Technology acceptance models and theories in library and information science research. Library Philosophy and Practice. https://digitalcommons.unl.edu/libphilprac/3674
+World Bank (2015). E-government. Retrieved December 12, 2021, from https://www.worldbank.org/en/topic/digitaldevelopment/brief/e-government
+Yuen, K. F., Cai, L., Qi, G., & Wang, X. (2020). Factors influencing autonomous vehicle adoption: An application of the technology acceptance model and innovation diffusion theory. Technology Analysis & Strategic Management, 33(5), 505-519. https://doi.org/10.1080/09537325.2020.1826423
+Downloads
+FULL PAPER
+Published
+2022-12-31
+How to Cite
+Chaves, M. G. (2022). Sugbo Negosyo Program Digital Card Implementation: Technology Acceptance and Satisfaction among Microentrepreneur-Beneficiaries. Recoletos Multidisciplinary Research Journal, 10(2), 47–61. https://doi.org/10.32871/rmrj2210.02.06
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 10 No. 2 (2022)
+Section
+Articles
+License
+Copyright (c) 2022 University of San Jose-Recoletos
+This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

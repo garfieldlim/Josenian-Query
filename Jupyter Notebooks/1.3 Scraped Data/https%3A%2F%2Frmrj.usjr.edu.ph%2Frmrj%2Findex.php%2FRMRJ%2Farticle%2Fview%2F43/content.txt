@@ -1,0 +1,134 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/43
+Performance on the Philippine Nursesâ€™ Licensure Examination: Variability and Roughness Analysis
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 2 No. 1 (2014)
+/
+Articles
+Performance on the Philippine Nursesâ€™ Licensure Examination: Variability and Roughness Analysis
+Authors
+Melvin R. de Castro
+University of San Jose-Recoletos
+Tonette M. Villanueva
+University of San Jose-Recoletos
+DOI:
+https://doi.org/10.32871/rmrj1402.01.15
+Keywords:
+fractal analysis, 											fractal dimension, 											school performance, 											below and above national passing percentage, 											Philippine Nursesâ€™ Licensure Examination (PNLE)
+Abstract
+The study compares the fractal dimensions of the board examination percentage scores for nursing graduates in June 2012 and December 2012. The purpose of such a comparison is to assess the ruggedness or roughness of the scores over the two assessment periods. The more rugged the scores viz. higher fractal dimensions, implies the variability of the studentsâ€™ performance. Results revealed that the June, 2012 test scores have higher fractal dimension than the December, 2012 test scores. The paper concludes that students behavior pertinent to the assessment varies in June than December PNLE. This is in contrast to the usual notion that it is with test difficulty where disparity of performance takes place. The author deduced some observations minimizing such disparity.
+Author Biographies
+Melvin R. de Castro, University of San Jose-Recoletos
+is a Registered Nurse, graduated from St. Paul University Dumaguete, Philippines in 2007. He worked as full time faculty at the College of Nursing, University of San Jose-Recoletos from 2008 until present. He also finished his Master of Science in Nursing major in Medical Surgical Nursing in March 2011 at Cebu Normal University. He is also a licensed teacher graduated with Diploma in Professional Secondary Education at Cebu Normal University. He is currently a doctorand candidate in Doctor of Science in Nursing major in Gerontology Nursing at Cebu Normal University. He also presented research studies locally and internationally such as De La Salle University-Manila, College of St. Benilde, La Consolacion University of the Philippines in Malolos, Bulacan and Cebu Normal University during the 2nd International Conference for Nursing Students (ICONS). He bagged Best in Podium Presentation at Cebu Normal University during its 2nd University Research Congress in June 2012.
+Tonette M. Villanueva, University of San Jose-Recoletos
+is a Professional Teacher and a Registered Nurse, graduated from Nursing Department, University of the Visayas in 2005. He received his Masters in Nursing at Cebu Normal University in 2010. Currently, he is doing his dissertation in Ph.D. in Education Major in Research and Evaluation. He teaches at he University of San Jose- Recoletos since 2006. He handles the following subjects: Psychiatric Nursing, Elective, Nursing Research and Related learning experience. Since 2011, he became one of the research anchors of the College of Nursing. He presented some of his studies in national and international academic conferences.
+References
+Aiken, L.H., Buchan, J., Sochalski, J., Nichols, B., & Powell, M., (2004). Trends in International Nurse Migration. Health Affairs, 23, no. 3 (2004): 69-77. doi: 10.1377/hlthaff.23.3.69
+Borek, L. B. (2006). Selected Bachelor of Science in Nursing Program Variables Impacting Graduate Scores on the National Council Licensure Examination for Registered Nurses (Doctoral dissertation, Liberty University).
+CHED (2011).Retrieved on March 25, 2013 from http://www.gov.ph/2011/07/29/chedmemorandum-order-no-18-s-2011/
+Estella, C. (2005). Lack of nurses burdens an ailing healthcare system. Philippine Center for Investigative Journalism.
+Del Rosario, B.I. & Estrada, R. (2010). Predictors of success in the philippine nursing licensure examination (pnle) among ddc nursing graduates (2004 â€“ 2006). College of Nursing Faculty Research Journal.
+Dioquino, R.J. (2012). Nursing profession plagued by unemployment, poor-quality schools.
+Gloria, R. (2011). The impact of evolve apply case studies on evolve reach exit examination scores for nursing students preparing for the national council licensure examination for registered nurses (nclex).
+Health Alliance for Democracy (2006). Export of Filipino Nurses: From Brain Drain to National Hemorrhage to NLE leakage (Powerpoint).
+La Barbera, P., and R. Rosso (1989), On the fractal dimension of stream networks, Water Resour. Res., 25(4), 735â€“741, doi:10.1029/WR025i004p00735.
+Lovejoy, S. and Mandelbrot, B. B. (1985), Fractal properties of rain, and a fractal model. TellusA, 37A: 209â€“232. doi: 10.1111/j.1600-0870.1985.tb00423.x
+Mandelbrot, B. B. (1977). Fractals: form, chance, and dimension (p. 365). San Francisco: WHFreeman.
+Padua, R., Adanza, J. G., Mirasol, J. M. (2013) â€œFractal Statistical Inferenceâ€ (The Threshold, CHEDJAS Category A Journal, pp. 36- 44).
+Professional Regulation Commission (2012). Top Performing Schools and Performance of Schools.
+Talete, H.C. (2009). Ched warns 152 nursing schools for low performance.
+Varona, V. (2007). St. paul university manila vollege of nursing faculty performance and the graduatesâ€™ preparation as factors in the nurse licensure examination performance.
+Downloads
+full paper
+Published
+2014-06-30
+How to Cite
+de Castro, M. R., & Villanueva, T. M. (2014). Performance on the Philippine Nursesâ€™ Licensure Examination: Variability and Roughness Analysis. Recoletos Multidisciplinary Research Journal, 2(1). https://doi.org/10.32871/rmrj1402.01.15
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 2 No. 1 (2014)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Most read articles by the same author(s)
+Melvin R. de Castro,
+Tonette M. Villanueva,
+Grace C. Arcamo,
+Rayna Lynn R. de Castro,
+Air Pollution Attributable Deaths: A Global View Through Fractal Analysis
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Tonette M. Villanueva,
+Jessica M. Avenido,
+Juanito B. AliÃ±o Jr.,
+Melvin R. de Castro,
+The Satisfaction Congruency Theory: The Case of Sexual Satisfaction
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Melvin R. de Castro,
+Tonette M. Villanueva,
+Ronnie B. Gonzalve,
+Life Expectancy Simulation Model among HIV (Human Immunodeficiency Virus)-Infected Individuals: A Monte Carlo Approach
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 2 (2014)
+Tonette M. Villanueva,
+Melvin R. de Castro,
+Brian A. Vasquez,
+Social, Economic, Political and Quality of Life across Human Immunodeficiency Virus
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 1 (2013)
+Similar Articles
+Juanito B. AliÃ±o Jr.,
+Analyzing the Economic Costs of Corruption Using a Basic Keynesian Framework: Part 1
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+You may also start an advanced similarity search for this article.
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

@@ -1,0 +1,165 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/82
+Socio Political Economic Dimensions of Technological Advancement
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 1 No. 1 (2013)
+/
+Articles
+Socio Political Economic Dimensions of Technological Advancement
+Authors
+Randy K. Salazar
+University of San Jose-Recoletos
+Efren O. Barabat
+University of San Jose-Recoletos
+DOI:
+https://doi.org/10.32871/rmrj1301.01.03
+Keywords:
+Technological advancement
+Abstract
+The technological advancements of countries are varied, making the competition essentially uneven. Different studies had been made using a variety of determinants with the common objective of proposing theories on how to advance the technological capability of a country. This paper intends to look into the social, political and economic dimensions of countries that exemplify different degree of technological advancements, and determine how these factors affect the advancements. To derive the characteristics, data mining and multivariate clustering method were used. Technologically advanced countries demonstrate social and political characteristics that promote these advancements.
+Author Biographies
+Randy K. Salazar, University of San Jose-Recoletos
+is Mechanical Engineer, Assistant Professor of the University of San Jose Recoletos teaching Mechanical Engineering. Holder of a Masters in Science in Management Engineering from the University of San Jose Recoletos and finishing his Masters degree in Mechanical Engineering â€“ Dynamic Design Systems at the University of San Carlos.
+Efren O. Barabat, University of San Jose-Recoletos
+graduated from the University of San Jose-Recoletos in 2010, Cum Laude honors. He ranked as top 9 examinee in the April 2011 ECE Licensure Examination. He worked as Field Engineer in SMART Communications, Inc. from 2011 to 2012. Currently, a full-time faculty member of the Electronics Engineering Department of USJ-R College of Engineering, handling Mathematics and Major Subjects of ECE.
+References
+Bolay, J.C. and Kern, A. (2011). Technology and Cities: What Type of Development Is Appropriate for the Cities of the South? Journal of Urban Technology, 18:3, 25-43.
+Fazel, S. (2003). Advances in Technology and Global Welfare, Journal for Economic Educators, 4:1.
+Han, J. and Kamber, M. (2006). Data Mining: Concepts and Techniques 2nd ed, San Francisco, CA: Elsevier Inc.
+Human Development Report 2009, Overcoming Barriers: Human mobility and development. New York, NY: United Nations Development
+Program pp. 171-204,
+J. D. Sachs and J.W. McArthur (2002). Technological Advancement and Long-Term Economic Growth in Asia. In Bai Bai, C.E. and Yuen, C.W.
+(Eds.), Technology and the new economy (pp 157 â€“ 185) MIT Press Cambridge, MA, USA.
+Solow, M. (1957). The Review of Economics and Statistics: Technical Change and the Aggregate Production Function, JSTOR, 39:3, 312-320.
+Tan, P.N., Steinbach, M. and Kumar, V. (2005). Cluster Analysis, Introduction to Data Mining, Boston, Ma: Addison-Wesley.
+Thearling, K. (n.d.). Data Mining and Customer Relationships, What is data mining? Top 100 Engineering Universities in the World
+2012.
+World Bank (2008). Global Economic Prospects: Technology Diffusion in the Developing World. Washington: World Bank.
+World Intellectual Property Organization, World Patent Report 2008, Switzerland.
+Downloads
+PDF
+Published
+2013-06-18
+How to Cite
+Salazar, R. K., & Barabat, E. O. (2013). Socio Political Economic Dimensions of Technological Advancement. Recoletos Multidisciplinary Research Journal, 1(1). https://doi.org/10.32871/rmrj1301.01.03
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 1 No. 1 (2013)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Most read articles by the same author(s)
+Randy K. Salazar,
+Rosario L. Cabillada,
+Mark S. Borres,
+Anthony Jagures,
+Fractal Dimensions of Voice Patterns and Voice Recognition
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Roberto N. Padua,
+Mark S. Borres,
+Randy K. Salazar,
+A Generalized Bootstrap Technique for Dependent Observations
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Mark S. Borres,
+Queen Heneylour S. Relatorres,
+Efren O. Barabat,
+Societal Offenders In Prison: Global In-Country Analysis By Fractals
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Roberto N. Padua,
+Mark S. Borres,
+Efren O. Barabat,
+On a Logistic Approximation to the Normal and Other Cumulative Distribution Functions
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Jessica M. Avenido,
+Efren O. Barabat,
+A Fractal View on the Suicide Incidence of Countries
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+Randy K. Salazar,
+Josephine E. Petralba,
+Fractal Analysis of Global Fresh Water Use
+,
+Recoletos Multidisciplinary Research Journal: Vol. 3 No. 1 (2015)
+Randy K. Salazar,
+Cris Lawrence B. Laurente,
+Emissivity of â€œGreyâ€ Bodies, Surface Roughness and other Measures
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 2 (2014)
+Roberto N. Padua,
+Randy K. Salazar,
+The Ubiquity of Statistical Fractal Observations
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 1 (2013)
+Roberto M. Cabardo,
+Jessica M. Avenido,
+Efren O. Barabat,
+Socio-Economic and Technological Factors of English Proficiency Index
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 2 (2014)
+Efren O. Barabat,
+Roberto M. Cabardo,
+Feature Changes of Selected Cebu City Landmarks: Forms and Roughness Analysis
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+1 2 > >>
+Similar Articles
+Roramie V. Arco,
+Ricky B. Villeta,
+Marisa M. Mahilum,
+Microbial Modeling and Monte Carlo Simulation to Determine Microbial Performance Criteria on Wooden Cutting Boards
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 2 (2014)
+You may also start an advanced similarity search for this article.
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

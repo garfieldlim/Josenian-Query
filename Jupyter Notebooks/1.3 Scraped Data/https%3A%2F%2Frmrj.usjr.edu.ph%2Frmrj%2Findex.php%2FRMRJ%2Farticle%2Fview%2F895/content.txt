@@ -1,0 +1,132 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/895
+A Computer Vision Application for Measuring the Deflection in a Two-dimensional View of Reinforced Concrete Beams
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 9 No. 1 (2021)
+/
+Articles
+A Computer Vision Application for Measuring the Deflection in a Two-dimensional View of Reinforced Concrete Beams
+Authors
+Eduardo Jr. Piedad
+University of San Jose-Recoletos, Cebu City, Philippines
+https://orcid.org/0000-0002-9723-1731
+Barne Roxette Carpio
+Mindanao State University-Iligan Institute of Technology, Iligan City, Philippines
+https://orcid.org/0000-0001-8543-6804
+Kristine Sanchez
+Mindanao State University-Iligan Institute of Technology, Iligan City, Philippines
+https://orcid.org/0000-0002-3932-2790
+Marven Jabian
+Mindanao State University-Iligan Institute of Technology, Iligan City, Philippines
+https://orcid.org/0000-0003-2531-6549
+DOI:
+https://doi.org/10.32871/rmrj2109.01.02
+Keywords:
+beam deflection, 											computer vision, 											dial gauge, 											structural member, 											reinforced concrete, 											reaction framework
+Abstract
+A novel computer vision application is developed to measure the deflection of two-dimensional (2D) reinforced concrete structural members. Eight beam samples, with dimensions of 160 mm x 150 mm x 1400 mm are loaded and simulated under a four-point loading test until failure using a reaction framework machine. A camera is fixed at the center front view of the concrete beams to capture the deflection of the samples while testing. In each test, a dial indicator is installed and the maximum deflection is manually recorded. Based on the results, the maximum deflection values recorded by the proposed application obtained an average error of 18.38 % when compared to the manual measured results. This indicates that computer vision-based application can provide a beam-wide scale deflection performance, compared to the traditional point-based deflection reading. This study paves a new possibility of aiding manual measurements of concrete beams and all other structural studies.
+Author Biography
+Eduardo Jr. Piedad, University of San Jose-Recoletos, Cebu City, Philippines
+Instructor I, Department of Electrical Engineering
+References
+American Society for Testing and Materials, International. (2001). Standard test method
+for density, relative density (specific gravity), and absorption of coarse aggregate, C127-15.
+ASTM International. 10.1520/C0127-15
+American Society for Testing and Materials, International. (2002). Standard practice
+for making and curing test specimens in the laboratory, C192-C192M-02. ASTM
+International. 10.1520/C0192_C0192M-02
+American Society for Testing and Materials, International. (2003). Standard test method
+for density, relative density and absorption of fine aggregate, C128-01. ASTM International.
+10.1520/C0128-01E01
+Bradski, G.,&Kaehler, A. (2008). Learning OpenCV: Computer vision with the OpenCV library.
+Oâ€™Reilly Media, Inc.
+Chaczko, Z., Yeoh, L. A., & Mahadevan, V. (2010, February 9-11). A preliminary investigation
+on computer vision for telemedicine systems using OpenCV [Conference session]. Second
+International Conference on Machine Learning and Computing, Bangalore, India.
+10.1109/ICMLC.2010.70
+Florczyk, S. (2005). Robot vision: Video-based indoor exploration with autonomous and
+mobile robots. WILEY-VCH Verlag GmbH & Co. KGaA.
+LÃ¼, C., Wang, X., & Shen, Y. (2013, December 16-18). A stereo vision measurement system
+based on OpenCV [Conference session]. 6th International Congress on Image and Signal
+Processing, Hangzhou, China. 10.1109/CISP.2013.6745259
+Maas, H. G., & Hampel, U. (2006). Photogrammetric techniques in civil engineering material testing
+and structural monitoring. Photogrammetric Engineering & Remote Sensing, 72(1),39-45.
+https://www.asprs.org/wp-content/uploads/
+Piedad, E. J. (2015). Civil-ivision. https://github.com/epiedadjr/civil-ivision.git
+Piedad, E.D. Jr., & Villeta, R. B. (2016). Displacement and illumination levels effect on shortdistance
+measurement errors of using a camera. Recoletos Multidisciplinary Research Journal, 4(1). https://doi.org/10.32871/rmrj1604.01.06
+Piedad, E. J., Le, T. T., Aying, K., Pama, F. K., & Tabale, I. (2019, October 17-20). Vehicle count system
+based on time interval image capture method and deep learning mask R-CNN [Conference session].
+TENCON 2019-2019 IEEE Region 10 Conference (TENCON), Kochi, India. 10.1109/TENCON.2019.8929426
+Vernon, D. (1991). Machine vision: Automated visual inspection and robot vision.
+Prentice-Hall International.
+Downloads
+pdf
+Published
+2021-05-28
+How to Cite
+Piedad, E. J., Carpio, B. R., Sanchez, K., & Jabian, M. (2021). A Computer Vision Application for Measuring the Deflection in a Two-dimensional View of Reinforced Concrete Beams. Recoletos Multidisciplinary Research Journal, 9(1), 13–21. https://doi.org/10.32871/rmrj2109.01.02
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 9 No. 1 (2021)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Most read articles by the same author(s)
+Geoferleen Flores,
+Eduardo Jr. Piedad,
+Anzeneth Figueroa,
+Romari Tumamak,
+Nesrah Jane Marie Berdon,
+A Sound-based Machine Learning to Predict Traffic Vehicle Density
+,
+Recoletos Multidisciplinary Research Journal: Vol. 9 No. 1 (2021)
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

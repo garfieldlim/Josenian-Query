@@ -1,0 +1,200 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/51
+Verification on the Impact of Plant Cover Variability to the Anuran Diversity in Bohol, Philippines Using Fractal Analysis
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 2 No. 1 (2014)
+/
+Articles
+Verification on the Impact of Plant Cover Variability to the Anuran Diversity in Bohol, Philippines Using Fractal Analysis
+Authors
+Beverly F. Basalo
+University of San Jose-Recoletos
+Mark Ian C. Andres
+University of San Jose-Recoletos
+Roramie V. Arco
+University of San Jose-Recoletos
+Ricky B. Villeta
+University of San Jose-Recoletos
+Joyce C. Unabia
+University of San Jose-Recoletos
+DOI:
+https://doi.org/10.32871/rmrj1402.01.20
+Keywords:
+Anurans, 											fractal correlation, 											plant covers, 											fractal dimension, 											novel method
+Abstract
+This study attempted to analyse the impact of the diversity of plant covers of the different sites of Bohol, Philippines to the diversity of Anurans. The researchers utilized a novel method of analysis in the nature of geometrical fractal and statistical analysis where the following are computed: 1.) the number of species per site per cover (agricultural/forest) 2.) the record of species of the respective covers 3.) the fractal dimension of the relationship that exists between 1 and 2 were calculated in five (5) trials. The centroidregression approach was used to determine the strength of relationship and the degree of impact of the variability in the plant covers to the diversity of Anurans in the area. The fitted regression line (with R-sp. of 91.9%) states that Anuran speciesâ€™ diversity increased the number of the plant covers in both agricultural and forest increased. In fact, for every unit increased the number of species they cover increased the Anuran speciesâ€™ diversity to approximate 46%. Moreover, fractal correlation in terms of the diversity of plant covers explained the increase in the diversity of Anuransâ€™ species where implication for policies ongreening tree planting and environmental protection could be advanced.
+Author Biographies
+Roramie V. Arco, University of San Jose-Recoletos
+is a science instructor at the Department of Mathematics and Sciences of the University of San Jose- Recoletos. She obtained her Bachelor of Science in Biology from the University of the Philippines Tacloban College. She earned academic units in Master of Science in Wildlife Studies at the University of the Philippines at Los Banos. She finished her Master of Arts in Education major in Science and Technology from the University of the Visayas through the Expanded Tertiary Education Equivalency and Accreditation Program. Her research interest focuses on microbiology and wildlife conservation. She has attended several training seminars and workshops on science education, instructional materials development and research trends. She is a member of several scientific organizations and has participated in training courses and conferences.
+Ricky B. Villeta, University of San Jose-Recoletos
+graduated from Mindanao State University â€“ Iligan Institute of Technology (MSU-IIT) with a degree of Bachelor of Science in Mathematics (Pure Mathematics) in 2003 as a fulltime scholar, City Mayorâ€™s scholar (Iligan City) granted from having graduated in high school as class valedictorian and a COE (Center of Excellence in Mathematics) scholar awarded by MSU-IIT Mathematics department. He also obtained his Master of Science in Mathematics degree in 2007, with a specialization in Abstract Algebra (group theory) at MSU-IIT. He had served as Mathematics Lecturer from 2003 to 2005 and as graduate teaching assistant from 2005 to 2006 at the Mathematics Department of the College of Science and Mathematics of MSU-IIT. At the same time, he worked as Mathematics Instructor at Systems Technology Institute â€“ Iligan from 2005 to 2006. Since 2006 to present, he is a faculty member of the Department of Mathematics and Sciences of the College of Arts and Sciences at University of San Jose â€“ Recoletos, Cebu City. He handles classes on quantitative analysis in business, calculus for business, differential equations for engineering, probability theory, abstract algebra, linear algebra, number theory, problem solving, differential calculus, integral calculus, applied statistics in business, biostatistics, behavioral statistics, computer aided statistical analysis, mathematics of investment and the like. His research works and interests are in abstract algebra (group theory), graph theory, differential equation, mathematical modeling and simulation, fractal statistics, data mining and theory development. He also serves as a research statistician in graduate and undergraduate theses of the university and a member of the Mathematical Society of the Philippines.
+References
+Adamus, P. R. (1996). Bioindicators for assessing ecological integrity of prairie wetlands. EPA/600/R-96/082. Corvallis, OR: U.S. Environmental
+Protection Agency, Environmental Research Laboratory.
+Alados C.L., Pueyo Y., Navas D., Cabezudo B., Gonzales A. and Freeman D.C. (2005). Fractal analysis of plant spatial patterns: a monitoring tool for
+vegetation transition shifts. Biodiversity and Conservation 14: 1453â€“1468, 2005. Springe DOI10.1007/s10531-004-9669-3
+Alcala, A.C. (1986). Guide to Philippine Flora and Fauna. Vol. X, Amphibians and Reptlies.Natural Resource Management Center, Ministry of Natural Resources and the University of the Philippines.195 pp.
+Alcala, A.C. and Brown, W.C. (1998). Philippine Amphimbians: An Illustrated Field Guide. Bookmarked Incorporated, Makati City.
+Andres, M.I.C. (2009). Taxonomic survey of frog and toad species (order Anura) in the Rajah Sikatuna Protected Landscape Bohol, Philippines
+Baillie, J.E.M., Hilton-Taylor, C. and Stuart, S.N. 2004 (eds.). 2004 IUCN Red List of Threatened Species.A Global Species Assessment.IUCN,
+Gland, Switzerland and Cambridge, UK. Retrieved from: http://www.iucnredlist.org/initiatives/amphibians/process/publications
+Brown, RM, Diesmos, A.C., Alcala, A.C. (2008). Philippine Amphibian Biodiversity is Increasing in Leaps and Bounds. In: Threatened Amphibians of the World. Lynx Ediciones. Barcelona, Spain. Stuart SN, Hoffmann M, Chanson JS, Cox NA, Berridge R, Ramani P, Young BE. eds.
+IUCN, Gland, Switzerland; and Conservation International, Arlington, Virginia, USA: p. 82â€“83.
+Chambers, J. (2008) Terrestrial habitat requirements of a suite of anuran species inhabiting a semiarid region of South East Queensland.PhD thesis, Queensland University of Technology.
+Chaturved A. & Prasad, P R C. (2013) Application of fractal geometry in determining optimal quadrat size for vegetation sampling. CURRENT
+SCIENCE, VOL. 105, NO. 9,
+Diesmos A. C., Diesmos M. L., Brown R. M. (2006). Status and Distribution of alien invasive frogs in the Philippines. Journal of Environmental Science and Management, Philippines 9:41-53.
+Duellman, W.E. (1999). Patters of Distribution of Amphibians: A Global Perspective Retrieved from: http://books.google.com.ph/books?id=2WScSPkvY0AC&pg=PA76&lpg=PA76&dq=anurans+diversity&source=bl&ots=vVBqJKj5ye&sig=PRhPcSwiGfnHqGgC1HiJwT5gEe0&hl=fil&sa=X&ei=c7nsUvmtJsbGkQWgjICYAw&ved=0CGsQ6AEwCQ#v=onepage&q=anurans%20diversity&f=false
+Eterovick P C. (2003). Distribution of anuran species among montane streams in south -eastern Brazil. Journal of Tropical Ecology, 19, pp 219-
+228.doi:10.1017/S0266467403003250.
+Faruk A, Belabut D, A. N; Knell RJ, Garner TW. (2013). Effects of oil-palm plantation on diversity of tropical anurans. 27(3):615-24. doi: 10.1111/cobi.12062
+Gray, M. J., Smith, L., Brenes, R. (2004). Effects of agricultural cultivationnon demographic of southern high plains amphibians. Conservation Biology Vol. 18 No. 5 Pages 1368-1377
+Heaney, L.H. & Regalado, J. C. (1998).Vanishing Treasure of the Philippines Rain Forest.The Field Museum, Chicago, IL. USA.
+Heying, H. (2003.)â€Anuraâ€ (On-line), Animal Diversity Web. Accessed February 01, 2014 at http://animaldiversity.ummz.umich.edu/accounts/
+Anura/
+Hopkins, W. G., (1998). Quantitative Research Design. Retrieved from: http://www.sportsci.org/resource/design/design.html
+Inger, R.F. 1954. Systematics and Zoogeography of Philippine Amphibia.Feildiana33:261-264
+Jelinek H., Jones C., Warfel, Lucas C., Depardieu C., Aurel G. (2005). Understanding fractal analysis? The case of fractal linguistics.Retrieved from http://www.biourbanism.org/understanding-fractalanalysis-case-fractal-linguisics/
+Jose, R.P. (2012). Distribution of Anuran Species in Loboc Watershed of Bohol Island, Philippines. Vol. 3, #86, pp.126-141 January 2012 Asian
+Journal of Biodiversity CHED Accredited Research Journal, Category A Print ISSN 2094-1519 Electronic ISSN 2244-0461 doi:http://dx.doi.org/10.7828/ajob.v3i1.86
+Microbeatic (2012) Diversity Index: Shannon Index/Shannon-Weaver Index (H). retrieved from http://microbeatic.wordpress. com/2012/01/26/diversity-index -shannonindexshannon-weaver-index-h/
+Padua, R.; Palompon, D.; Ontoy, D.(2012) Data Roughness and Fractal Statistics (CNU Journal of Higher Education Research, CHED-JAS Category A, Vol. 7, no.2)
+Olsen E.R, Ramsey R.D, Winn D.S. (1993). A modified fractal dimension as a measure of landscape diversity.Photogrammetric Engineering &
+Remote Sensing. Vol. 59, No. 10, October 1993, pp. 1517-1520. Retrieved froms http://www.gis.usu.edu/~doug/pubs/fractal.pdf
+Shah, A. 2014.â€œBiodiversityâ€.Global Issues. Retrieved from http://www.globalissues.org/issue/169/biodiversity
+Shannon C.E. and Weaver W. (1949).The Mathematical Theory of Communication. University of Illinois Press, Urbana, Illinois.
+Vasudevan K., Kumar A., Noon BR., Chellam R.(2008). Density and diversity of forest floor anurans in rain forest of Southern Western Ghat, India. Herpetologica 64(2):207-215.doi: http://dx.doi.org/10.1655/07-066.1
+Downloads
+full paper
+Published
+2014-06-30
+How to Cite
+Basalo, B. F., Andres, M. I. C., Arco, R. V., Villeta, R. B., & Unabia, J. C. (2014). Verification on the Impact of Plant Cover Variability to the Anuran Diversity in Bohol, Philippines Using Fractal Analysis. Recoletos Multidisciplinary Research Journal, 2(1). https://doi.org/10.32871/rmrj1402.01.20
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 2 No. 1 (2014)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Most read articles by the same author(s)
+Anna Rose P. Nillama,
+Mark S. Borres,
+Ricky B. Villeta,
+Roramie V. Arco,
+Joyce C. Unabia,
+Validation of Lepidopteran Classification by Morphological Fractal Dimension Analysis
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Jose D. Velez Jr.,
+Ricky B. Villeta,
+Roberto N. Padua,
+Richard Hao,
+Marielle Colina,
+A Predictive Model on the Spread of HIV in Cebu City
+,
+Recoletos Multidisciplinary Research Journal: Vol. 3 No. 2 (2015)
+Eduardo D. Piedad Jr.,
+Ricky B. Villeta,
+Displacement and Illumination Levels Effect on Short-distance Measurement Errors of Using a Camera
+,
+Recoletos Multidisciplinary Research Journal: Vol. 4 No. 1 (2016)
+Mark Ian C. Andres,
+Brendalyn R. Basilan,
+Camille Yvonne D. Cubar,
+Ricky B. Villeta,
+Levels of Multidrug-Resistant Tuberculosis Treatment Success among ASEAN Countries
+,
+Recoletos Multidisciplinary Research Journal: Vol. 3 No. 2 (2015)
+Ricky B. Villeta,
+Roramie V. Arco,
+Gallardo E. Gulay,
+Percia A. Leyte,
+On Technological Readiness of ASEAN Countries for Global Competitiveness
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 2 (2014)
+Roramie V. Arco,
+Ricky B. Villeta,
+Marisa M. Mahilum,
+Microbial Modeling and Monte Carlo Simulation to Determine Microbial Performance Criteria on Wooden Cutting Boards
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 2 (2014)
+Gallardo E. Gulay,
+Percia A. Leyte,
+Ricky B. Villeta,
+Roramie V. Arco,
+Factors Affecting Business Stability among ASEAN Member States
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 2 (2014)
+Ricky B. Villeta,
+On Some Results of a Torsion-Free Abelian Kernel Group
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 2 (2014)
+Ricky B. Villeta,
+On Some Results of a Torsion-Free Abelian Trace Group
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 2 (2014)
+Ricky B. Villeta,
+Elmer C. Castillano,
+Roberto N. Padua,
+On the Generators of the Group of Units Modulo a Prime and Its Analytic and Probabilistic Views
+,
+Recoletos Multidisciplinary Research Journal: Vol. 9 No. 2 (2021)
+Similar Articles
+Baceledes Estal,
+Ariston S. Ronquillo Jr.,
+Joel B. Serad,
+Brian A. Vasquez,
+Le Roy Gerald A. Sarchez,
+Interpretation of Fractal Dimensions in Poverty Estimation
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+You may also start an advanced similarity search for this article.
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

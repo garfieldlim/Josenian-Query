@@ -1,0 +1,188 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/87
+A Fractal Statistical Analysis of Enron Stock Prices
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 2 No. 2 (2014)
+/
+Articles
+A Fractal Statistical Analysis of Enron Stock Prices
+Authors
+Kristine June D. Uy
+University of San Jose-Recoletos
+Marjurie Lourince E. Zanoria
+University of San Jose-Recoletos
+DOI:
+https://doi.org/10.32871/rmrj1402.02.20
+Keywords:
+Enron stock prices, 											fractal dimension, 											investor losses, 											fractal statistics
+Abstract
+This study examined the stock prices of Enron for the periods 1997 to 2002 with the use of fractal statistical analysis. The researchers posited that, since stock prices are products of human decisions, it should follow a fractal distribution. Any deviation from this fractal distribution is deemed to represent interventions and manipulations. Using the fundamental theorem of fractal statistics, the results of the analysis revealed that Enronâ€™s stock prices exhibit a hidden fractal dimension that, when uncovered, showed how it reflects the investorsâ€™ risk exposure in the periods before and after the fraud. The researchers also examined the fractal dimension of the cluster of stock prices found to exhibit a fractal distribution in the pre and post fraud periods. Results of the analysis led to the conclusion that the fractal dimension of stock prices can be an indicator of how close or how far stock prices are to its â€œnaturalâ€ behaviour. The farther it moves from this natural state, the higher is the risk associated with it.
+Author Biographies
+Kristine June D. Uy, University of San Jose-Recoletos
+faculty member of the University of San JoseRecoletos, was born in 1982 and educated at the University of San Jose Recoletos where she graduated magna cum laude (Bachelor of Science in Accountancy, 2003). She also obtained her Master in Business Administration degree (2008) from the same university. A Certifi ed Public Accountant, she worked with Isla Lipana and Company, a member fi rm of Pricewaterhouse Coopers (2004-2006). She has been a faculty member of the accountancy department of the University of San Jose Recoletos since 2006 up to the present, handling the subjects Basic Accounting, Partnership and Corporation Accounting, Financial Accounting, Auditing and Assurance Services, and Integrated Auditing Theory.
+Marjurie Lourince E. Zanoria, University of San Jose-Recoletos
+is currently working as full-time Instructor at the University of San Jose - Recoletos. Prior joining the academe, she worked for Punongbayan & Araullo, an auditing firm based in Makati handling clients in the industries manufacturing, resort, academe and business process outsourcing. While studying and reviewing to take the Certified Public Accountant examination, she served as the Sangguniang Kabataan Chairman for the years 2007-2010. After her stint in serving the youth, she was elected as the Barangay Councilor for the years 2010 to 2013. She had units in Master in Business Administration at USJ-R and is transferring to Cebu Normal University to take up Master in Public Administration to prepare for more terms in public service
+References
+Ausubel, Lawrence M. 1990. â€œInsider Trading in a Rational Expectations Economy.â€ The American Economic Review, 80(5): 1022â€“1041.
+By Wall Street Journal staff reporters Jeanne Cummings, John R Emshwiller, Tom Hamburger, Scot J Paltrow, Jathon Sapsford, Ellen E Schultz, Randall Smith and,Rebecca Smith. (2002, Jan 15). Enron
+lessons: Big political giving wins firms a hearing, doesnâ€™t assure aid --- case also shows the need to shield 401(k) plans and oversee auditors --- why we had glasssteagall. Wall Street Journal Retrieved from http://search.proquest.com/docview/398874892?accountid=33262
+By Kathryn Kranhold, Rick Wartzman and,John R. (2002, Apr 30). Following the trail: As enron inquiry intensifies, midlevel players face spotlight --- they could help prosecutors build a criminal case against top executives --- seven areas of vulnerability. Wall Street Journal Retrieved from http://search.proquest.com/docview/398965545?accountid=33262
+Corazza, M., & Malliaris, A. (2002). MultiFractality in Foreign Currency Markets. Multinational Finance Journal, Vol. 6, 387-401. Available at SSRN: http://ssrn.com/abstract=1084659
+Cunningham, G. M., & Harris, J. E. (2006). ENRON AND ARTHUR ADNDERSEN: THE CASE OF THE CROOKED E AND THE FALLEN
+A. Global Perspectives on Accounting Education, 3, 27. Retrieved on February 17, 2015 from http://search.proquest.com/docview/203140401?accountid=33262
+Fama, E. F. 1965. â€œThe Behavior of Stock Prices,â€ Journal of Business, 37(January), 34-105.
+Fishman, Michael J., and Kathleen M. Hagerty. 1992. â€œInsider Trading and the Efficiency of Stock Prices.â€ RAND Journal of Economics, 23(1): 106â€“122.
+Hurst, H., 1951, â€œLong-term Storage of Reservoirs: An Experimental Study,â€ Transactions of the American Society of Civil Engineers,
+116, 770 â€“ 799.
+Laffont, Jean-Jacques, and Eric S. Maskin. 1990. â€œThe Efficient Market Hypothesis and Insider Trading on the Stock Market.â€ The Journal of Political Economy, 98(1): 70â€“93.
+Laura, N. B. (2007). Insider trading laws and stock markets around the world: An empirical contribution to the theoretical law and
+economics debate. Journal of Corporation Law, 32(2), 237-300. Retrieved from http://search.proquest.com/docview/220768794?accountid=33262
+Los, C. A., &Yalamova, R. M. (2004).Multi-fractal spectral analysis of the 1987 stock market crash. Available at SSRN 588823.
+Ma, Y., & Huey-Lian, S. (1998). Where should the line be drawn on insider trading ethics? Journal of Business Ethics, 17(1), 67-75. Retrieved from http://search.proquest.com/docview/198110410?accountid=33262
+Madsen, S., & Vance, C. (2009). Unlearned lessons from the past: An insiderâ€™s view of enronâ€™s downfall. Corporate Governance,9(2),
+216-227. doi:http://dx.doi.org/10.1108/14720700910946640
+Malkiel, B. G. (1999). A random walk down Wall Street: including a life-cycle guide to personal investing. WW Norton & Company.
+Manne, Henry G. 1966a. Insider Trading and the Stock Market. New York: Free Press.
+Manne, Henry G. 1966b. â€œIn Defense of Insider Trading.â€ Harvard Business Review, 44(6): 113â€“122.
+Manove, Michael. 1989. â€œThe Harm From Insider Trading and Informed Speculation.â€ The Quarterly Journal of Economics, 104(4): 823â€“845.
+New York Times. http://topics.nytimes.com/top/news/business/companies/enron/index.html?8qa
+Padilla, A., & Gardiner, B. (2009). Insider trading: Is there an economist in the room? Journal of Private Enterprise, 24(2), 113-136.
+Retrieved from http://search.proquest.com/docview/215098961?account
+id=33262
+Peters, E. E. (1994). Fractal market analysis: applying chaos theory to investment and economics (Vol.24). John Wiley & Sons.
+Remorov, R. (2014). Stock price and trading volume during market crashes. International Journal of Marketing Studies, 6(1), 21-30.
+Retrieved from http://search.proquest.com/docview/1510281809?accountid=33262
+Stoll, H. R. (2006). Electronic trading in stock markets. The Journal of Economic Perspectives, 20 (1), 153-174. doi: http://dx.doi.org/10.1257/089533006776526067
+Downloads
+PDF
+Published
+2014-12-28
+How to Cite
+Uy, K. J. D., & Zanoria, M. L. E. (2014). A Fractal Statistical Analysis of Enron Stock Prices. Recoletos Multidisciplinary Research Journal, 2(2). https://doi.org/10.32871/rmrj1402.02.20
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 2 No. 2 (2014)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Most read articles by the same author(s)
+Kristine June D. Uy,
+Jun Brian B. Alenton,
+Marjurie Lourince E. Zanoria,
+Helmae N. Etulle-Tapanan,
+An Assessment of the Burnout Levels of Accountancy Students
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Helmae N. Etulle-Tapanan,
+Kristine June D. Uy,
+Sandy Valmores,
+Assessment of Studentsâ€™ Learning on a Fractal Viewpoint
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Sandy Valmores,
+Kristine June D. Uy,
+Virgilio C. Lumayno Jr.,
+Helmae N. Etulle-Tapanan,
+The Fractal Dimension of the Levels of Depression
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Sandy Valmores Chua,
+Helmae N. Etulle-Tapanan,
+Kristine June D. Uy,
+A Theory on Multiple Sexual Partnership
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Kristine June D. Uy,
+Jun Brian B. Alenton,
+Peter Dante E. Amparado,
+Investigating Student Study Engagement among College Students across Year Levels
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Kristine June D. Uy,
+Chris Rudyard F. Naval,
+Sandy Valmores,
+Helmae N. Etulle-Tapanan,
+Financial Sustainability of Research Centers in a University Setting
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Yener C. Cabalida,
+Alessa Joy D. Cruz,
+Kristine June D. Uy,
+Marjurie Lourince E. Zanoria,
+Sovereign Bankruptcy in the Perspective of the ASEAN Integration
+,
+Recoletos Multidisciplinary Research Journal: Vol. 3 No. 1 (2015)
+Sandy Valmores,
+Kristine June D. Uy,
+The Psychological Anatomy of Gossip
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 1 (2013)
+Kristine June D. Uy,
+Chris Rudyard F. Naval,
+Sandy Valmores,
+An Empirical Validation of the Psychological Anatomy of Gossip
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+Marjurie Lourince E. Zanoria,
+Kristine June D. Uy,
+Clifford Rey G. Borlasa,
+Nation Branding in the verge of the ASEAN Integration
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 2 (2014)
+1 2 > >>
+Similar Articles
+Helmae N. Etulle-Tapanan,
+Cindy M. Carmelotes,
+Philippine Enhanced Basic Education (K to12) Dropout Simulation Model
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 2 (2014)
+You may also start an advanced similarity search for this article.
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

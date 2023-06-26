@@ -1,0 +1,174 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/619
+Development and Performance Evaluation of an Indirect Heat Copra Dryer with Phase Changer
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 7 No. 1 (2019)
+/
+Articles
+Development and Performance Evaluation of an Indirect Heat Copra Dryer with Phase Changer
+A Comparison with Kiln Drying and Open Sun Drying of Copra
+Authors
+Marvin C. Credo
+Instructor @ Southern Leyte State University
+http://orcid.org/0000-0002-3867-8576
+Rommel T. Valmoria
+Faculty, Southern Leyte State University
+DOI:
+https://doi.org/10.32871/rmrj1907.01.03
+Keywords:
+thermal efficiency, 											solar radiation, 											moisture content, 											fired dryer, 											copra grading
+Abstract
+In the Philippines, farming communities produce copra using traditional open sun drying method that could be severely affected by heavy rainfall, temperature change, and intermittent sunshine, which could cause high microbial infection to the product. On the other hand, kiln drying may avoid these circumstances. However, smoke deposits in the finished product still cause farmers to have low-quality grade copra. Keeping this in view, an indirect heat copra dryer with phase changer (IHCDPC) was designed, fabricated, and evaluated in the hopes of providing farmers an alternative approach in drying copra, which may yield to producing a high-quality grade product. The developed IHCDPC was able to reduce the moisture content in fresh coconut meat from 57.4% w.b. to about 7.2% w.b. for a drying time of twenty-five hours. The IHCDPC was found out to have a thermal efficiency of 30.87%. The copra produced were graded as 84% MGC1, 13% MGC2, and 3% MGC3.
+Author Biographies
+Marvin C. Credo, Instructor @ Southern Leyte State University
+College of Engineering and Technology-Electrical Engineering and Electrical Technology Department
+Rommel T. Valmoria, Faculty, Southern Leyte State University
+Mechanical Engineering Faculty
+Department of Mechanical Engineering
+Southern Leyte State Univeristy
+References
+Ayyappan, S & Mayilsamy, K. (2010). Experimental
+investigation on a solar tunnel drier for copra
+drying. Journal of Scientific and Industrial
+Research, 69, 635-638.
+Chua, K. ., & Chou, S. (2003). Low-cost drying
+methods for developing countries. Trends in
+Food Science & Technology, 14(12), 519â€“528
+doi:10.1016/j.tifs.2003.07.003
+Ivanova, D., & Andonov, K. (2001). Analytical and
+experimental study of combined fruit and
+vegetable dryer. Energy Conversion and
+Management, 42(8), 975â€“983. doi:10.1016/
+s0196-8904(00)00108-4
+Fudholi, A., Sopian, K., Ruslan, M. H., Alghoul, M.
+A., & Sulaiman, M. Y. (2010). Review of solar
+dryers for agricultural and marine products.
+Renewable and Sustainable Energy Reviews,
+14(1), 1â€“30. doi:10.1016/j.rser.2009.07.032
+Guarte, R. C., MÃ¼hlbauer, W., & Kellert, M. (1996).
+Drying characteristics of copra and quality
+of copra and coconut oil. Postharvest Biology
+and Technology, 9(3), 361â€“372. doi:10.1016/
+s0925-5214(96)00032-4
+Jain, D., & Tiwari, G. N. (2003). Thermal aspects of
+open sun drying of various crops. Energy, 28(1),
+37â€“54. doi:10.1016/s0360-5442(02)00084-1
+Kadam, D. M., & Samuel, D. V. K. (2006). Convective
+Flat-plate Solar Heat Collector for Cauliflower
+Drying. Biosystems Engineering, 93(2), 189â€“198.
+doi:10.1016/j.biosystemseng.2005.11.012
+Leon, A. M., Kumar, S., & Bhattacharya, S. (2002). A
+comprehensive procedure for performance
+evaluation of solar food dryers. Renewable
+and Sustainable Energy Reviews, 6(4), 367â€“393.
+doi:10.1016/s1364-0321(02)00005-9
+Madhiyanon, T., Phila, A., & Soponronnarit, S.
+(2009). Models of fluidized bed drying
+for thin-layer chopped coconut. Applied
+Thermal Engineering, 29(14-15), 2849â€“2854.
+doi:10.1016/j.applthermaleng.2009.02.003
+Mohanraj, M., & Chandrasekar, P. (2008). Drying
+of copra in a forced convection solar drier.
+Biosystems Engineering, 99(4), 604â€“607.
+doi:10.1016/j.biosystemseng.2007.12.004
+Thanaraj, T., Dharmasena, N. D. A., & Samarajeewa,
+U. (2007). Comparison of drying behaviour,
+quality and yield of copra processed in either
+a solar hybrid dryer on in an improved copra
+kiln. International Journal of Food Science
+& Technology, 42(2), 125â€“132. doi:10.1111/
+j.1365-2621.2006.01087.x
+Thanaraj, T., Dharmasena, N. D. A., & Samarajeewa,
+U. (2004). Development of a rotary solar
+hybrid dryer. Tropical Agriculture Research, 16,
+305-315.
+Singh, S., Singh, P. P., & Dhaliwal, S. (2004). Multi-shelf
+portable solar dryer. Renewable Energy, 29(5),
+753â€“765. doi:10.1016/j.renene.2003.09.010
+Singh, S., & Kumar, S. (2012). New approach for
+thermal testing of solar dryer: Development
+of generalized drying characteristic curve.
+Solar Energy, 86(7), 1981â€“1991. doi:10.1016/j.
+solener.2012.04.001
+Shanmugam, V., & Natarajan, E. (2006). Experimental
+investigation of forced convection and
+desiccant integrated solar dryer. Renewable
+Energy, 31(8), 1239â€“1251. doi:10.1016/j.
+renene.2005.05.019
+Swain, S. (2013). Performance Evaluation of Biomass
+Fired Dryer for Copra Drying: A Comparison
+with Traditional Drying in Subtropical Climate.
+Journal of Food Processing & Technology,
+05(01). doi:10.4172/2157-7110.1000294
+Thiruchelvam T; Nimal D A D; Upali S (2007).
+Comparison of quality and yield of copra
+processed in CRI improved kiln drying and
+sun drying. Journal of Food Engineering, 78,
+1446â€“1451.
+Tyagi, V. V., Pandey, A. K., Kaushik, S. C., & Tyagi, S.
+K. (2011). Thermal performance evaluation
+of a solar air heater with and without
+thermal energy storage. Journal of Thermal
+Analysis and Calorimetry, 107(3), 1345â€“1352.
+doi:10.1007/s10973-011-1617-3
+Downloads
+pdf
+Published
+2019-06-03
+How to Cite
+Credo, M. C., & Valmoria, R. T. (2019). Development and Performance Evaluation of an Indirect Heat Copra Dryer with Phase Changer: A Comparison with Kiln Drying and Open Sun Drying of Copra. Recoletos Multidisciplinary Research Journal, 7(1), 27–36. https://doi.org/10.32871/rmrj1907.01.03
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 7 No. 1 (2019)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

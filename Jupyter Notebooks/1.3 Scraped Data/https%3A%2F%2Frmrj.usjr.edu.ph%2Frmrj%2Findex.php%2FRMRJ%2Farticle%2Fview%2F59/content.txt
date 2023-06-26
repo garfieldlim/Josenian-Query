@@ -1,0 +1,165 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/59
+Feature Changes of Selected Cebu City Landmarks: Forms and Roughness Analysis
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 1 No. 2 (2013)
+/
+Articles
+Feature Changes of Selected Cebu City Landmarks: Forms and Roughness Analysis
+Authors
+Efren O. Barabat
+University of San Jose-Recoletos
+Roberto M. Cabardo
+University of San Jose-Recoletos
+DOI:
+https://doi.org/10.32871/rmrj1301.02.09
+Keywords:
+binary image, 											thresholding effect, 											fractal dimension
+Abstract
+The study aims to examine the physical change of the old and new photographs ofselected Cebu City landmarks. The images were converted into a binary image using the simplest form of image processing known as thresholding effect. The binary image provides a simple view and ease for computing its fractal dimension. The fractal dimension explains the space-filling property of the image. The change of the fractal dimension between the old and new image may be attributed to a number of factors such as environmental change, local development agenda and legislative clarity.
+Author Biographies
+Efren O. Barabat, University of San Jose-Recoletos
+is an Electronics Engineer, graduated from the University of San Jose-Recoletos in 2010, Cum Laude honors. He ranked as top 9 examinee in the April 2011 ECE Licensure Examination. He worked as Field Engineer in SMART Communications, Inc. from 2011 to 2012. Currently, a full-time faculty member of the Electronics Engineering Department of USJ-R College of Engineering, handling Mathematics and Major Subjects of ECE.
+Roberto M. Cabardo, University of San Jose-Recoletos
+graduated Master of Arts in Development Communication from the University of San Jose-Recoletos (USJ-R). His interests include law, education, mass media and research. At present, he is a faculty member of the Department of Journalism and Communication of the College of Arts and Sciences of USJ-R. His previous work in government as Information Officer of the Philippine Information Agency gave him the chance to conduct media fora, surveys, databanking, and focus group discussions about the programs of the Bureau of Internal Revenue, Department of Health, National Kidney Training Institute, DENR, OPAPP, Pag-Ibig, GSIS, SSS, National Nutrition Council, DOLE, DOE, PRC, POEA, OWWA, DILG, DTI, Cultural Center of the Philippines, NCCA, private institutions, and some local government units.
+References
+Carl, A. The Heritage of Cebu, Nov.25, 2007. Cebu City.
+Cuizon, Jully Venus. (Dec. 30, 2008).City Library to close. Cebu Daily News. Cebu City : Eileen Mangubat.
+Falconer, Kenneth (2003). Fractal Geometry. New York: Wiley. p. 308. ISBN 978-0-470-84862-3.
+Jones, Alan L. (1987).Image Segmentation via Fractal Dimension. Air Force Institute of Technology, Air.
+Lopes, R. & N. Betrouni. (27 May 2009). Fractal and Multifractal Analysis: A Review. USA:Elsevier.
+M. Sezgin and B.Sankur (2004). â€œSurvey over image thresholding techniques and quantitative performance evaluationâ€. Journal of Electronic Imaging 13 (1): 146â€“165
+Montebon, M. Retracing Our Roots: A Journey into Cebuâ€™s Precolonial and Colonial Past. Poblacion, Minglanilla, Cebu: E.S. Villaver Publishing. p.15-19.
+Nobuyuki Otsu (1979). â€œA threshold selection method from gray-level histogramsâ€. IEEE Trans. Sys., Man., Cyber. 9 (1): 62â€“66.
+Ping-Sung Liao and Tse-Sheng Chen and Pau-Choo Chung (2001). â€œA Fast Algorithm for Multilevel Thresholdingâ€. J. Inf. Sci. Eng. 17 (5): 713â€“727.
+Sy, Dionisio A. (1996) A short History of Cebu: 1500-1890, and The Anti-Spanish Revolution in Cebu. Cebu City: Bathalad inc.
+Villaflor, Noel S.(2004). Market:Cebu.Cebu Yearbook. Cebu City: Sunstar. p.63.
+Xie, Y. and Ye X.(January 2007). Comparative temporspatial pattern analysis:CTSPA.International Journal of Geographical Information Science, Vol. 21, Issue 1.
+Your Complete Guide to Cebuâ€™s Best Club Cebu, 2nd ed.(2009). South Korea: Wincard Discount Marketing Services.
+Downloads
+full paper
+Published
+2013-12-31
+How to Cite
+Barabat, E. O., & Cabardo, R. M. (2013). Feature Changes of Selected Cebu City Landmarks: Forms and Roughness Analysis. Recoletos Multidisciplinary Research Journal, 1(2). https://doi.org/10.32871/rmrj1301.02.09
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 1 No. 2 (2013)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Most read articles by the same author(s)
+Mark S. Borres,
+Queen Heneylour S. Relatorres,
+Efren O. Barabat,
+Societal Offenders In Prison: Global In-Country Analysis By Fractals
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Roberto N. Padua,
+Mark S. Borres,
+Efren O. Barabat,
+On a Logistic Approximation to the Normal and Other Cumulative Distribution Functions
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Jessica M. Avenido,
+Efren O. Barabat,
+A Fractal View on the Suicide Incidence of Countries
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+Jessica M. Avenido,
+Roberto M. Cabardo,
+Juanito B. AliÃ±o Jr.,
+Casual Sex among Young People
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 1 (2013)
+Roberto M. Cabardo,
+Jessica M. Avenido,
+Efren O. Barabat,
+Socio-Economic and Technological Factors of English Proficiency Index
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 2 (2014)
+Jessica M. Avenido,
+Roberto M. Cabardo,
+Rosario L. Cabillada,
+Vote Pricing Spatial Probability Models in the Philippines
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+Jessica M. Avenido,
+Jesse S. Susada,
+Efren O. Barabat,
+Classical-Romantic Compositions: A Musical Variation Analysis
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+Mark S. Borres,
+Efren O. Barabat,
+Transformation To Normality Based On Empirical Distribution Functions
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 2 (2014)
+Mark S. Borres,
+Efren O. Barabat,
+Jocelyn T. Panduyos,
+On Fractional Derivatives and Application
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+Jessica M. Avenido,
+Sandy Valmores,
+Roberto M. Cabardo,
+Confidence in the Church and its Impact on the Quality of Life
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 1 (2013)
+1 2 > >>
+Similar Articles
+Ryan L. Contamina,
+Symbolism at the Heart of Bantu Traditional Religion (Research conducted in Bantu Land of Republic of Zambia and Republic of Malawi)
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+You may also start an advanced similarity search for this article.
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

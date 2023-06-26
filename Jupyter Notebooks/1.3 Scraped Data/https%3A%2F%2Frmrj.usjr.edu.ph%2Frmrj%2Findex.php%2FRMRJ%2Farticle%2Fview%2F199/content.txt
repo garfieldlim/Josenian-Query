@@ -1,0 +1,166 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/199
+Displacement and Illumination Levels Effect on Short-distance Measurement Errors of Using a Camera
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 4 No. 1 (2016)
+/
+Articles
+Displacement and Illumination Levels Effect on Short-distance Measurement Errors of Using a Camera
+Authors
+Eduardo D. Piedad Jr.
+University of San Jose-Recoletos
+Ricky B. Villeta
+University of San Jose-Recoletos
+DOI:
+https://doi.org/10.32871/rmrj1604.01.06
+Keywords:
+short-distance measurement error, 											camera-to-lens displacement, 											illumination, 											computer vision, 											camera, 											descriptive and comparative analysis
+Abstract
+Using a camera for measurement reading is simplified through the incorporation of computer vision application. The variations in the environmentâ€™s setting, however, may constitute to the occurrence of measurement errors. A study investigated the significant effect of changing the camera-to-lens displacements and the variations of the illumination level on the short-distance measurement reading. This is performed initially by developing an actual setup calibrated though the comparison with the hypothesized values. Then, an experiment on this calibrated setup generates the measurement results of varying the displacement positions and the illumination levels. Through descriptive and comparative statistical analysis, there is evidence that the variations of the displacement alone do not significantly change the measurement results. Similarly, the variations in the illumination levels do not also constitute significant changes on the measurement results. Hence, each of the variables bears no contribution on the occurrence of the measurement error of using camera. It is further confirmed through the two way analysis of variance that there is no significant difference on the displacement positions and illumination levels, and on their interactions. These results verified that a camera can be used as a short-distance measurement tool adequately regardless on the object-to-lens displacement positions and on the illumination levels.
+Author Biography
+Eduardo D. Piedad Jr., University of San Jose-Recoletos
+Faculty, University of San Jose-Recoletos
+References
+Abaya, W. F., Basa, J., Sy, M., Abad, A. C., & Dadios, E. P. (2014, November). Low cost smart security camera with night vision capability using Raspberry Pi and OpenCV. In 2014 International Conference on Humanoid, Nanotechnology, Information Technology, Communication and Control, Environment and Management (HNICEM), (pp. 1-6). IEEE. Palawan, Philippines.
+Alegria, E. C., & Serra, A. C. (2000).Automatic calibration of analog and digital measuring instruments using computer vision. IEEE transactions on instrumentation and measurement, 49(1), 94-99. Bradski,
+G., & Kaehler, A. (2008). Learning OpenCV: Computer vision with the OpenCV library. California: Learning OpenCV: Computer vision with the OpenCV library.
+Heng, L., Lee, G. H., &Pollefeys, M. (2015).Selfcalibration and visual slam with a multi-camera system on a micro aerial vehicle. Autonomous Robots, 39(3), 259- 277.
+LaganiÃ¨re, R. (2011). OpenCV 2 Computer Vision Application Programming Cookbook: Over 50 recipes to master this library of programming functions for real-time computer vision. Birmingham: Packt Publishing Ltd.
+Lee, K. W. (2014). Implementation of Video Surveillance System with Motion Detection based on Network Camera Facilities. The Journal of the Institute of Internet, Broadcasting and Communication, 14(1), 169-177.
+Lei, Z., Xue-fei, Z., & Yin-ping, L. (2008, December). Research of the real-time detection of traffic flow based on OpenCV. In Computer Science and Software Engineering, 2008 International Conference on Computer Science and Software Engineering (Vol. 2, pp. 870- 873). IEEE.Wuhan, China.
+Liu, X., Su, H., Kang, S., Kane, T. D., &Shekhar, R. (2015, March). Application of single-image camera calibration for ultrasound augmented laparoscopic visualization. In SPIE Medical Imaging (pp. 94151T-94151T).International Society for Optics and Photonics.
+Luccheseyz, L., &Mitray, S. K. (2001). Color image segmentation: A state-of-theart survey. Proceedings of the Indian National Science Academy (INSA-A), 67(2), 207-221.
+Luhmann, T., Fraser, C., & Maas, H. G. (2016).Sensor modelling and camera calibration for close-range photogrammetry. ISPRS Journal of Photogrammetry and Remote Sensing, 115, 37-46.
+Meyer, F., &Beucher, S. (1990).Morphological segmentation. Journal of visual communication and image representation, 1(1), 21-46.Fontainebleau, France.
+Rathi, Y., Vaswani, N., Tannenbaum, A., &Yezzi, A. (2007). Tracking deforming objects using particle filtering for geometric active contours. IEEE transactions on pattern analysis and machine intelligence, 29(8), 1470-1475.
+Szeliski, R. (2010). Computer vision: algorithms and applications. New York: Springer Science & Business Media.
+Tuohy, S., Oâ€™Cualain, D., Jones, E., &Glavin, M. (2010, June). Distance determination for an automobile environment using inverse perspective mapping in OpenCV. In Proc. Irish Signals and Systems Conference (Vol. 2010).
+Xin, Y., Ruishuang, Z., & Li, S. (2011). A calibration method based on OpenCV. 3rd International Workshop on Intelligent Systems and Applications, (pp. 1-4). Wuhan, China.
+Downloads
+PDF
+Published
+2016-06-30
+How to Cite
+Piedad Jr., E. D., & Villeta, R. B. (2016). Displacement and Illumination Levels Effect on Short-distance Measurement Errors of Using a Camera. Recoletos Multidisciplinary Research Journal, 4(1). https://doi.org/10.32871/rmrj1604.01.06
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 4 No. 1 (2016)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Most read articles by the same author(s)
+Beverly F. Basalo,
+Mark Ian C. Andres,
+Roramie V. Arco,
+Ricky B. Villeta,
+Joyce C. Unabia,
+Verification on the Impact of Plant Cover Variability to the Anuran Diversity in Bohol, Philippines Using Fractal Analysis
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Anna Rose P. Nillama,
+Mark S. Borres,
+Ricky B. Villeta,
+Roramie V. Arco,
+Joyce C. Unabia,
+Validation of Lepidopteran Classification by Morphological Fractal Dimension Analysis
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Jose D. Velez Jr.,
+Ricky B. Villeta,
+Roberto N. Padua,
+Richard Hao,
+Marielle Colina,
+A Predictive Model on the Spread of HIV in Cebu City
+,
+Recoletos Multidisciplinary Research Journal: Vol. 3 No. 2 (2015)
+Mark Ian C. Andres,
+Brendalyn R. Basilan,
+Camille Yvonne D. Cubar,
+Ricky B. Villeta,
+Levels of Multidrug-Resistant Tuberculosis Treatment Success among ASEAN Countries
+,
+Recoletos Multidisciplinary Research Journal: Vol. 3 No. 2 (2015)
+Ricky B. Villeta,
+Roramie V. Arco,
+Gallardo E. Gulay,
+Percia A. Leyte,
+On Technological Readiness of ASEAN Countries for Global Competitiveness
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 2 (2014)
+Eduardo D. Piedad Jr.,
+Various Trends on the National Development of Renewable Energy Source Affecting the Natural Resource Depletion
+,
+Recoletos Multidisciplinary Research Journal: Vol. 4 No. 1 (2016)
+Roramie V. Arco,
+Ricky B. Villeta,
+Marisa M. Mahilum,
+Microbial Modeling and Monte Carlo Simulation to Determine Microbial Performance Criteria on Wooden Cutting Boards
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 2 (2014)
+Gallardo E. Gulay,
+Percia A. Leyte,
+Ricky B. Villeta,
+Roramie V. Arco,
+Factors Affecting Business Stability among ASEAN Member States
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 2 (2014)
+Eduardo D. Piedad Jr.,
+Marc Edwin F. Montilla,
+Mark Joseph E. Ortega,
+Optimal Scheduling of Battery Energy Storage for Grid-Connected Load Using Photovoltaic System (PV) via Binary Particle Swarm Optimization (BPSO)
+,
+Recoletos Multidisciplinary Research Journal: Vol. 4 No. 2 (2016)
+Ricky B. Villeta,
+On Some Results of a Torsion-Free Abelian Kernel Group
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 2 (2014)
+1 2 > >>
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

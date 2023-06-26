@@ -1,0 +1,172 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/18
+Evolutionary Models for the Interaction of the Higher Education Labor Force and Higher Education Market
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 3 No. 1 (2015)
+/
+Articles
+Evolutionary Models for the Interaction of the Higher Education Labor Force and Higher Education Market
+Authors
+Mark S. Borres
+University of San Jose-Recoletos
+Felix M. Diano Jr.
+University of the Visayas
+DOI:
+https://doi.org/10.32871/rmrj1503.01.09
+Keywords:
+HEIs, 											Higher education graduates, 											global labor market, 											market configuration, 											Evolution
+Abstract
+The higher education market portends to be a huge market in the future that traditional systems of delivery of services will be insufficient. This paper proposes a model that links two (2) global markets: the higher education market and the labor market, as dramatic changes are taking place in the 21st century. A modeling and simulation strategy has been employed in this paper predicting the impact of higher education market to the labor market. Results indicated that with the rapid expansion of the Higher Education(HE) market, the size of the higher education labor force will inevitably expand.The labor market tolerates a maximum expansion capacity for HE graduates beyond which the excess HE graduates will bifurcate into two (2) channels of productive sector, namely: (a) the creation of new economies or (b) the integration of HE graduates into the skilled labor force. This dynamics necessarily yields a highly fragmented labor force configuration. In essence, the evolution of the labor market is a replica of Darwinâ€™s Biological Theory of Evolution where only the fittest will survive, i.e. evolution through mutation and adaptation whose equivalent concepts in this setting are â€œinnovationâ€ and â€œadaptationâ€ respectively. It is well-established in Evolutionary Biology that â€œmutationâ€ is the shortest-route to evolution and so we posit that â€œinnovationâ€ is the shortest route to the labor market evolutionary ladder.Therefore, a good university must be able to produce graduates who are innovative and adaptive at the same time to survive in a competitive labor market.
+Author Biographies
+Mark S. Borres, University of San Jose-Recoletos
+graduated Bachelor of Science in Mathematicsâ€“major in Pure Mathematics at the University of the Philippines, Cebu College. Since 2009, he worked for the University of San Jose- Recoletos as a faculty member of the College of Arts and Sciences and handled Mathematics subjects such as College Algebra, Advanced Algebra, Abstract Algebra, Analytical Geometry, Euclidean geometry, Trigonometry, Business Mathematics, Linear Programming, Mathematics of Investment, Discrete Structure, and Statistics across colleges.
+Felix M. Diano Jr., University of the Visayas
+is a full time College Research Coordinator and a part-time Mathematics Instructor in theUniversity of the Visayas. He graduated his Bachelor of Secondary Education major in Mathematics (Magna Cum laude) in the University of the Visayas. He is a candidate of Master of Arts in Education with concentration in Mathematics. He is a certified TESDA trainer (TMC 1 Holder). He received various awards in Research, Mathematics and Leadership. To name a few, he is one of the authors of the study â€œEvolutionary Models for the Interaction of the Higher Education Labor Force and Higher Education Marketâ€ that was recognized as â€œBest Research Paperâ€ in the National Research Conference in Leyte Normal University. He received a â€œCertificate of Meritâ€ given by the RAFI-Eduardo Aboitiz Development Studies Center. Mr. Diano also serves as an adviser of the undergraduate thesis. He also gives lectures on Basic Research Methods, Mathematics, and Assessment of Student Learning.
+References
+Barshay, Jill (4 August 2014). â€œReflections on the underemployment of college graduatesâ€. Hechniger Report. Teachers College at Columbia University. Retrieved30 March 2015.
+Brennan, John (2004) The social role of the contemporary university: contradictions, boundaries and change, in Center for Higher Education Research and Information (ed.)
+Cohen, Richard (2014-10-06). â€œRichard Cohen: The actual value of a college educationâ€. The Washington Post (in en-US). ISSN 0190-8286. Retrieved 2015-10-11.
+Cote, James; Allahar, Anton (2007), Ivory Tower Blues: A University System in Crisis, University of Toronto Press, p. 256, ISBN 978-0802091826
+Frank, Robert H.; Microeconomics and Behavior. McGraw-Hill/Irwin, 6th Edition: 2006
+Gustav Ranis (February 1997). â€œThe Micro-Economics of Surplus Labourâ€ (PDF). Yale University.
+Hacker, R. Scott (2000). â€œThe Impact of International Capital Mobility on the Volatility of Labour Incomeâ€. Annals of Regional Science 34 (2): 157â€“172. doi:10.1007/s001689900005.
+Verger, Jacques: â€œPatternsâ€, in: Ridder-Symoens, Hilde de (ed.): A History of the University in Europe. Vol. I: Universities in the Middle Ages, Cambridge University Press, 2003, ISBN 978-0-521-54113-8, pp. 35â€“76 (35)
+Paul L. Gaston (2010). The Challenge of Bologna. p. 18. ISBN 1-57922-366-4.
+Trow, Martin (2007) [2005] Reflections on the transition from elite to mass to universal access: forms and phases of higher education in modern societies since WWII, Springer International Handbooks of Education volume 18, 2007, 243-280
+Downloads
+PDF
+Published
+2015-06-30
+How to Cite
+Borres, M. S., & Diano Jr., F. M. (2015). Evolutionary Models for the Interaction of the Higher Education Labor Force and Higher Education Market. Recoletos Multidisciplinary Research Journal, 3(1). https://doi.org/10.32871/rmrj1503.01.09
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 3 No. 1 (2015)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Most read articles by the same author(s)
+Anna Rose P. Nillama,
+Mark S. Borres,
+Ricky B. Villeta,
+Roramie V. Arco,
+Joyce C. Unabia,
+Validation of Lepidopteran Classification by Morphological Fractal Dimension Analysis
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Mark S. Borres,
+Jergen D. Orias,
+Alvin Mercado,
+A Mathematical Model on Social Integration Explaining Global Suicide Rate Among Men and Women
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Randy K. Salazar,
+Rosario L. Cabillada,
+Mark S. Borres,
+Anthony Jagures,
+Fractal Dimensions of Voice Patterns and Voice Recognition
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Roberto N. Padua,
+Mark S. Borres,
+Randy K. Salazar,
+A Generalized Bootstrap Technique for Dependent Observations
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Mark S. Borres,
+Robert John G. Tupas,
+Joel B. Serad,
+Aspects of Climate Change Induced by Human Activities: Impact on Global Natural Disaster Mortality
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Mark S. Borres,
+Queen Heneylour S. Relatorres,
+Efren O. Barabat,
+Societal Offenders In Prison: Global In-Country Analysis By Fractals
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Roberto N. Padua,
+Mark S. Borres,
+Efren O. Barabat,
+On a Logistic Approximation to the Normal and Other Cumulative Distribution Functions
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Roberto N. Padua,
+Mark S. Borres,
+From Fractal Geometry to Statistical Fractal
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 1 (2013)
+Roberto N. Padua,
+Miraluna L. Herrera,
+Adriano V. Patac Jr.,
+Michael V. Sabugaa,
+Gibson T. Maglasang,
+Mark S. Borres,
+Jay M. Ontolan,
+On Fractional and Fractal Derivatives in Relation to the Physics of Fractals
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+Roberto N. Padua,
+Rodel B. Azura,
+Mark S. Borres,
+Adriano V. Patac Jr.,
+ARIMA (p,d,q) and Non-Linear Approximation Models for the Fractal Dimension of the Density of Primes Less or Equal to a Positive Integer
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+1 2 > >>
+Similar Articles
+Ryan O. Tayco,
+Agnes C. SequiÃ±o,
+A Correlational Analysis of Global Climate Risk Indices and Tourism Industry Indicators Using Fractal Statistics
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+You may also start an advanced similarity search for this article.
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

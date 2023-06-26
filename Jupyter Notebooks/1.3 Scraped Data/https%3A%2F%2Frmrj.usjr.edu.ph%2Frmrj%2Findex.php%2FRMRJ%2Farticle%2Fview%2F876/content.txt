@@ -1,0 +1,154 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/876
+Wordnet Semantic Relations in a Chatbot
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 8 No. 2 (2020)
+/
+Articles
+Wordnet Semantic Relations in a Chatbot
+Authors
+Josephine Petralba
+University of San Jose-Recoletos
+https://orcid.org/0000-0002-3943-8793
+DOI:
+https://doi.org/10.32871/rmrj2008.02.02
+Keywords:
+Wordnet, 											Dialogflow, 											chatbot, 											semantic relation, 											phrase structure
+Abstract
+The goal of this research is to design and implement a chatbot for querying Wordnet semantic relations. The study creates a contextual chatbot named WordnetBot, a web application that utilizes the use of technologies such as Dialogflow, React, NodeJS, Javascript, and MariaDB. The Wordnet database which leverages all other dictionaries due to its semantic relations representation was used as the data source. Phrase Structure Analysis extracts the keyword and the semantic relation from a userâ€™s message or query. It complements the Machine Learning and AI capabilities of Dialogflow in the analysis. The researcher designed an architectural framework for the integration of the different components of WordnetBot.
+References
+AbuShawar, B., & Atwell, E. (2015). ALICE chatbot: trials and outputs. ComputaciÃ³n y Sistemas, 19(4), 625-632.
+Chou, P. T. M. (2011). The effects of vocabulary knowledge and background knowledge on reading comprehension of Taiwanese EFL students. Electronic Journal of Foreign Language Teaching, 8(1).
+Datta, D., Phillips, M., Chiu, J., Watson, G. S., Bywater, J. P., Barnes, L., & Brown, D. (2020). Improving classification through weak supervision in context-specific conversational agent development for teacher education. arXiv preprint arXiv:2010.12710.
+De Pietro, O., & Frontera, G. (2005). Tutorbot: an application aiml-based for web-learning. Advanced Technology for Learning, 2(1), 29-34.
+Feng, D., Shaw, E., Kim, J., & Hovy, E. (2006, January). An intelligent discussion-bot for answering student queries in threaded discussions. In Proceedings of the 11th international conference on Intelligent user interfaces, 171-177.
+Fryer, L., & Carpenter, R. (2006). Bots as language learning tools. Language Learning & Technology, 10(3), 8-14.
+Google. (2020). Quotas and limits Dialogflow Google Cloud. https://cloud.google.com/dialogflow/
+Kretzschmar Jr, W. A. (2015). Language and complex systems. Cambridge University Press.
+Miller, G. A., & Fellbaum, C. (1992). WordNet and the organization of lexical memory. In Intelligent tutoring systems for foreign language learning. Springer.
+Petralba, J. E. (2014a). An extracted database content from WordNet for natural language processing and word games. In 2014 International Conference on Asian Language Processing (IALP), 199-202.
+Petralba.(2014b). WordnetPort. http://wordnetport.sourceforge.net/
+Princeton University. (2010). Related Projects. https://wordnet.princeton.edu/related-projects
+Sciforce. (2019). NLP vs. NLU: From understanding a language to its processing. 	https://medium.com/sciforce/nlp-vs-nlu-from-understanding-a-language-to-its-processing-1bf1f62453c1
+Downloads
+pdf
+Published
+2020-12-29
+How to Cite
+Petralba, J. (2020). Wordnet Semantic Relations in a Chatbot. Recoletos Multidisciplinary Research Journal, 8(2), 15–34. https://doi.org/10.32871/rmrj2008.02.02
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 8 No. 2 (2020)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Similar Articles
+Halzi D. Dabon,
+Corazon A. Prejoles,
+Lelani Cabarrubias-Dapat,
+Gibson T. Maglasang,
+Patterns of Roughness in Global Literacy Rates
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+Glenn G. Pajares,
+Insights of Conflict Management Strategies from the Perspectives of Selected Philosophers
+,
+Recoletos Multidisciplinary Research Journal: Vol. 3 No. 1 (2015)
+Roberto N. Padua,
+Joel G. Adanza,
+Efren O. Barabat,
+Dionisel Y. Regalado,
+Construction of a Simple Multifractal Spectrum as an Alternative to the Legendre Spectra in Multifractal Formalisms
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 1 (2013)
+Glenn G. Pajares,
+A Philosophical Reinterpretation of Philippine History in the Perspective of Friedrich Nietzsche
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+Kristine June D. Uy,
+Jun Brian B. Alenton,
+Marjurie Lourince E. Zanoria,
+Helmae N. Etulle-Tapanan,
+An Assessment of the Burnout Levels of Accountancy Students
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Brian A. Vasquez,
+Philosophical Bases of Research Methods:An Integrative Narrative Review Part 2
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Jonas Robert L. Miranda,
+The Pseudoscientific Characteristic of Traditional and Alternative Medicines
+,
+Recoletos Multidisciplinary Research Journal: Vol. 4 No. 1 (2016)
+Wilfred V. Rios,
+Virgilio C. Lumayno Jr.,
+Ma. Teresa T. Barola,
+Joey S. Estorosos,
+The Impact of Education on the Socioeconomic and Political Development of a Nation
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 1 (2013)
+Glenn G. Pajares,
+Percia A. Leyte,
+Richard B. Fernandez,
+The Anglo-American Elements in Jose Rizalâ€™s Poem Education Gives Luster to the Motherland
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Rino Anthony M. Demeterio,
+Rosein A. Ancheta Jr.,
+Lanndon A. Ocampo,
+Dennis L. Capuyan,
+Reylan G. Capuno,
+An Investigation on the Intralocality Differences in Health and Safety Implementation of Construction Industries
+,
+Recoletos Multidisciplinary Research Journal: Vol. 7 No. 1 (2019)
+1 2 > >>
+You may also start an advanced similarity search for this article.
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

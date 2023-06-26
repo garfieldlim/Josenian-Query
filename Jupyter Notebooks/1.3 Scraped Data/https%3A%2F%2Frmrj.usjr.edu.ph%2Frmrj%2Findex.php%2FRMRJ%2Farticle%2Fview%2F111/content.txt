@@ -1,0 +1,180 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/111
+Levels of Multidrug-Resistant Tuberculosis Treatment Success among ASEAN Countries
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 3 No. 2 (2015)
+/
+Articles
+Levels of Multidrug-Resistant Tuberculosis Treatment Success among ASEAN Countries
+Authors
+Mark Ian C. Andres
+University of San Jose-Recoletos
+Brendalyn R. Basilan
+University of San Jose-Recoletos
+Camille Yvonne D. Cubar
+University of San Jose-Recoletos
+Ricky B. Villeta
+University of San Jose-Recoletos
+DOI:
+https://doi.org/10.32871/rmrj1503.02.11
+Keywords:
+Multidrug-resistant tuberculosis (MDR-TB), 											multivariate cluster analysis, 											principal component analysis, 											health expenditure, 											adult literacy rate
+Abstract
+Health expenditure of a country is intended to finance medicines and other medical services and assistance for those people affected with diseases especially those communicable ones. The global issue of tuberculosis has been a well-known communicable disease which could result in another type of such disease, if untreated. This study is conducted to assess the treatment success of multidrug-resistant tuberculosis (MDR-TB) cases, which had been a burden for countries in terms of financial aspects. Through the use of multivariate cluster and principal component analyses, ASEAN countries were grouped and ranked from very highly successful to least successful in the level of treatment success which would provide comprehensive findings as to what ASEAN country successfully provides financial to their diagnosed patients. Further, it was found out that the level of success of MDR-TB treatments among ASEAN countries varies inversely with the number of patients undergoing the treatment while directly proportional to the amount of investments in health expenditures. Hence, MDR-TB treatment success depends on the level of amount of investments for health the ASEAN country has and the number of patients undergoing the treatment. Thus, the success of the treatment can be achieved at high economic price.
+Author Biography
+Ricky B. Villeta, University of San Jose-Recoletos
+graduated from Mindanao State University â€“ Iligan Institute of Technology (MSU-IIT) with a degree of Bachelor of Science in Mathematics (Pure Mathematics) in 2003 as a fulltime scholar, City Mayorâ€™s scholar (Iligan City) granted from having graduated in high school as class valedictorian and CHED-COE (Center of Excellence in Mathematics) scholar awarded by MSU-IIT mathematics and statistics department. He also obtained his Master of Science in Mathematics degree in 2007, with a specialization in abstract algebra (group theory) at MSU-IIT. He had served as Mathematics Lecturer from 2003 to 2005 and as graduate teaching assistant from 2005 to 2006 at the Mathematics and Statistics Department of the College of Science and Mathematics of MSU-IIT. Since 2006 to present, he is a faculty member of the Department of Mathematics and Sciences of the College of Arts and Sciences at University of San Jose â€“ Recoletos (USJ-R), Cebu City. He has been teaching research methods, design of experiments and statistical models in the graduate school, differential equation, differential calculus, integral calculus, applied statistics in business, behavioral statistics, biostatistics, computer aided analysis, linear algebra, abstract algebra, number theory, probability theory, quantitative analysis in business, mathematical investigations and modeling, among others. He is also a trainer for basic and tertiary non-deped teachers on senior high curriculum in mathematics, statistics and probability areas in the Visayas region. His research works and interests are in abstract algebra (group theory), graph theory, differential equation, mathematical modeling and simulation, fractal statistics, data mining and theory development. He also serves as researcher and research statistician at the Center for Policy, Research and Development Studies in USJ-R.
+References
+Albanna, A. S., & Menzies, D. (2011). Drug-Resistant Tuberculosis. Drugs,71(7), 815-825.
+Brigden, G., Nyang'wa, B. T., du Cros, P., Varaine, F., Hughes, J., Rich, M., ... & Balasegaram, M. (2014). Principles for designing future regimens for multidrug-resistant tuberculosis. Bulletin of the World Health Organization,92(1), 68-74.
+Caminero, J. A. (2005). Management of multidrug-resistant tuberculosis and patients in retreatment. European Respiratory Journal, 25(5), 928-936.
+Castillo-Chavez, C., & Feng, Z. (1997). To treat or not to treat: the case of tuberculosis. Journal of Mathematical Biology, 35(6), 629-656.
+Chee, C. B., Hsu, L. Y., Sng, L. H., Leo, Y. S., Cutter, J., & Wang, Y. T. (2013). MDR TB Transmission, Singapore. Emerging infectious diseases,19(7), 1151.
+Chee, C. B., Khin-Mar, K. W., Cutter, J., & Wang, Y. T. (2012). The imminent threat of multidrug-resistant tuberculosis in Singapore. Singapore medical journal, 53(4), 238-240.
+Cutter, J., & Wang, Y. T. (2010). Tuberculosis-an under-appreciated disease. Annals of the Academy of Medicine, Singapore, 39(3), 261.
+Enemark, C. (2013). Drug-resistant tuberculosis: Security, ethics and global health. Global Society, 27(2), 159-177.
+Espinal, M. A. (2003). The global situation of MDR-TB. Tuberculosis, 83(1), 44-51.
+Fisher, M. (2002). Diagnosis of MDR-TB: a developing world problem on a developed world budget. Expert review of molecular diagnostics, 2(2), 151-159.
+Goble, M., Iseman, M. D., Madsen, L. A., Waite, D., Ackerson, L., & Horsburgh Jr, C. R. (1993). Treatment of 171 patients with pulmonary tuberculosis resistant to isoniazid and rifampin. New England Journal of Medicine, 328(8), 527-532.
+Kent, J. H. (1993). The epidemiology of multidrug-resistant tuberculosis in the United States. The Medical clinics of North America, 77(6), 1391-1409.
+Lee, K., Yach, D., & Kamradt-Scott, A. (2011). Globalization and health.
+Martin, A., Camacho, M., Portaels, F., & Palomino, J. C. (2003). Resazurin microtiter assay plate testing of Mycobacterium tuberculosis susceptibilities to second-line drugs: rapid, simple, and inexpensive method. Antimicrobial agents and chemotherapy, 47(11), 3616-3619.
+Masjedi, M. R., Tabarsi, P., Chitsaz, E., Baghaei, P., Mirsaeidi, M., Amiri, M. V., ... & Velayati, A. A. (2008). Outcome of treatment of MDR-TB patients with standardised regimens, Iran, 2002â€“2006. The International Journal of Tuberculosis and Lung Disease, 12(7), 750-755.
+Migliori, G. B., Besozzi, G., Girardi, E., Kliiman, K., Lange, C., Toungoussova, O. S., ... & Raviglione, M. C. (2007). Clinical and operational value of the extensively drug-resistant tuberculosis definition. European Respiratory Journal, 30(4), 623-626.
+Monedero, I., & Caminero, J. A. (2009). MDR-/XDR-TB management: what it was, current standards and what is ahead.
+Mukherjee, J. S., Rich, M. L., Socci, A. R., Joseph, J. K., VirÃº, F. A., Shin, S. S., ... & Seung, K. J. (2004). Programmes and principles in treatment of multidrug-resistant tuberculosis. The Lancet, 363(9407), 474-481.
+Ormerod, L. P. (2005). Multidrug-resistant tuberculosis (MDR-TB): epidemiology, prevention and treatment. British medical bulletin, 73(1), 17-24.
+Ormerod, L. P. (2005). Multidrug-resistant tuberculosis (MDR-TB): epidemiology, prevention and treatment. British medical bulletin, 73(1), 17-24.
+Ormerod, L. P. (2005). Multidrug-resistant tuberculosis (MDR-TB): epidemiology, prevention and treatment. British medical bulletin, 73(1), 17-24.
+Quelapio, M. I. D., Tupasi, T. E., Mira, N. R. C., & Gler, M. T. S. (2007). The Philippines case study. Bulletin of the World Health Organization, 85(5), 392.
+Sharma, S. K., & Mohan, A. (2006). Multidrug-resistant tuberculosis: a menace that threatens to destabilize tuberculosis control. CHEST Journal, 130(1), 261-272.
+Velayati, A. A., Masjedi, M. R., Farnia, P., Tabarsi, P., Ghanavi, J., ZiaZarifi, A. H., & Hoffner, S. E. (2009). Emergence of new forms of totally drug-resistant tuberculosis bacilli: super extensively drug-resistant tuberculosis or totally drug-resistant strains in Iran. Chest Journal, 136(2), 420-425.
+Wang, Y., Liu, X., Rui, D., Zhu, M., Zhang, H., Chen, C., ... & Zheng, L. (2014). Detection of mutations associated with resistance to rifampicin and isoniazid in Mycobacterium tuberculosis by polymerase chain reaction-ligase detection reaction. Acta biochimica et biophysica Sinica, 46(1), 78-81.
+White, V. L. C., & Moore-Gillon, J. (2000). Resource implications of patients with multidrug resistant tuberculosis. Thorax, 55(11), 962-963
+Whittier, K. Ethics, Autonomy and the Treatment of Tuberculosis in Impoverished Patients in India.
+World Health Organization. (2008). Anti-tuberculosis drug resistance in the world, fourth global report: the WHO/IUATLD Global Project on Anti-Tuberculosis Drug Resistance Surveillance. World Health Organization.
+Downloads
+PDF
+Published
+2015-12-03
+How to Cite
+Andres, M. I. C., Basilan, B. R., Cubar, C. Y. D., & Villeta, R. B. (2015). Levels of Multidrug-Resistant Tuberculosis Treatment Success among ASEAN Countries. Recoletos Multidisciplinary Research Journal, 3(2). https://doi.org/10.32871/rmrj1503.02.11
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 3 No. 2 (2015)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Most read articles by the same author(s)
+Beverly F. Basalo,
+Mark Ian C. Andres,
+Roramie V. Arco,
+Ricky B. Villeta,
+Joyce C. Unabia,
+Verification on the Impact of Plant Cover Variability to the Anuran Diversity in Bohol, Philippines Using Fractal Analysis
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Anna Rose P. Nillama,
+Mark S. Borres,
+Ricky B. Villeta,
+Roramie V. Arco,
+Joyce C. Unabia,
+Validation of Lepidopteran Classification by Morphological Fractal Dimension Analysis
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Jose D. Velez Jr.,
+Ricky B. Villeta,
+Roberto N. Padua,
+Richard Hao,
+Marielle Colina,
+A Predictive Model on the Spread of HIV in Cebu City
+,
+Recoletos Multidisciplinary Research Journal: Vol. 3 No. 2 (2015)
+Eduardo D. Piedad Jr.,
+Ricky B. Villeta,
+Displacement and Illumination Levels Effect on Short-distance Measurement Errors of Using a Camera
+,
+Recoletos Multidisciplinary Research Journal: Vol. 4 No. 1 (2016)
+Ricky B. Villeta,
+Roramie V. Arco,
+Gallardo E. Gulay,
+Percia A. Leyte,
+On Technological Readiness of ASEAN Countries for Global Competitiveness
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 2 (2014)
+Roramie V. Arco,
+Ricky B. Villeta,
+Marisa M. Mahilum,
+Microbial Modeling and Monte Carlo Simulation to Determine Microbial Performance Criteria on Wooden Cutting Boards
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 2 (2014)
+Gallardo E. Gulay,
+Percia A. Leyte,
+Ricky B. Villeta,
+Roramie V. Arco,
+Factors Affecting Business Stability among ASEAN Member States
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 2 (2014)
+Ricky B. Villeta,
+On Some Results of a Torsion-Free Abelian Kernel Group
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 2 (2014)
+Ricky B. Villeta,
+On Some Results of a Torsion-Free Abelian Trace Group
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 2 (2014)
+Ricky B. Villeta,
+Elmer C. Castillano,
+Roberto N. Padua,
+On the Generators of the Group of Units Modulo a Prime and Its Analytic and Probabilistic Views
+,
+Recoletos Multidisciplinary Research Journal: Vol. 9 No. 2 (2021)
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

@@ -1,0 +1,95 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/884
+DSS Framework:
+A Proposal for Disaster Logistic Support System for the Province of Laguna
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 8 No. 2 (2020)
+/
+Articles
+DSS Framework:
+A Proposal for Disaster Logistic Support System for the Province of Laguna
+Authors
+Rene H. Alipio
+Laguna State Polytechnic University
+Francis F. Balahadia
+Laguna State Polytechnic University
+https://orcid.org/0000-0001-6666-4975
+DOI:
+https://doi.org/10.32871/rmrj2008.02.04
+Keywords:
+ICT-based logistic, logistics, 											decision tree models, 											provincial and municipal disaster risk reduction management
+Abstract
+The Philippinesâ€™ location within the Pacific Ring of Fire brings enormous threat to its people. Intervention and innovation are to be in place for survival and growth, since nothing can be done about its geographic location and the threats that come with it. This study aims to create a framework for developing a decision support system, a mobile and web application for the efficient implementation of the disaster logistics support system. The study will utilize Agile Methodology for the software development in the proposed framework. This proposed framework exhibits the features of the system such as identifying location, affected families, supplies, reports, management of inventory, vehicle outsourcing, and monitoring. The system framework can be a helpful tool for the efficient and speedy delivery of needed help and an effective approach to disaster supply chain issues.
+References
+A-Iryani, N. & Gassin, T. (2005). Logistic and transportation management. Master Thesis No. 2005:65. Retrieved from: https://gupea.ub.gu.se/bitstream/2077/2262/1/gbs_thesis_62.pdf
+Azmi, I., Hamid, N. A., Hussin, M. N. M., & Ibrahim, N. I. (2017). Logistics and supply chain management: The importance of integration for business processes. Journal of emerging economies and Islamic Research, 5(4), 73-80. Retrieved from: https://www.researchgate.net/publication/322553696
+Bastos, M., Campos, V., & Bandeira, R., (2014). Logistic processes in a post-disaster relief operation. Procedia - Social and Behavioral Sciences, 111, 1175-1184. https://doi.org/10.1016/j.sbspro.2014.01.152
+Dâ€™Uffizi A., Simonetti M., Stecca G., & Confessore G. (2015). A Simulation study of logistics for disaster relief operations. Procedia CIRP, 33, 157-162. https://doi.org/10.1016/j.procir.2015.06.029
+Li, X. (2014). Operations management of logistics and supply chain: Issues and directions. Discrete Dynamics in Nature and Society, 2014. https://doi.org/10.1155/2014/701938
+Nahleh Y., Kumar A., Daver A., & Al-Hindawi R., (2014). Decision tree modeling in emergency logistics planning. International Journal of Industrial and Manufacturing Engineering, 8(6), 1704-1708. Retrieved from: https://www.researchgate.net/publication/320294294_Decision_Tree_Modeling_in_Emergency_Logistics_Planning
+Ndonye, S. K., (2014). Influence of information technology on logistics performance in Kenya with reference to cargo transportation. Research Journal of Supply Chain Management. 1(2). Retrieved from: http://www.ijsrp.org/research-paper-0415/ijsrp-p40116.pdf
+Republic Act No. 10121. (2010).
+â€œPhilippine Disaster Risk Reduction and Management Act of 2010.â€ Retrieved from: https://lawphil.net/statutes/repacts/ra2010/ra_10121_2010.html
+Thaller, C., Moraitakis, N., Rogers, H., Sigge, D., Clausen, U., Pfohl, H. C., Hartmann, E., & Hellingrath, B. (2012). Analysis of the logistics research in Indiaâ€“white paper. BMBF, Germany. Under Contract IND, 11, A15. Retrived from: https://web.iitd.ac.in/~ravi1/4a_White%20Paper%20Logistics%20Research%20in%20India%20%282%29.pdf
+Van Dyk, E., Ittmann, H. W., Marais, M. A., & Meyer, I. (2006). State of logistics: Research priorities for sustained improvement. Retrieved from: http://hdl.handle.net/10204/1039
+Downloads
+pdf
+Published
+2020-12-29
+How to Cite
+Alipio, R. H., & Balahadia, F. F. (2020). DSS Framework: A Proposal for Disaster Logistic Support System for the Province of Laguna. Recoletos Multidisciplinary Research Journal, 8(2), 51–62. https://doi.org/10.32871/rmrj2008.02.04
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 8 No. 2 (2020)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

@@ -1,0 +1,86 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/245
+Social Media Character Assessment for Talent Selection using Natural Language Processing
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 5 No. 1 (2017)
+/
+Articles
+Social Media Character Assessment for Talent Selection using Natural Language Processing
+Authors
+Jovelyn Cuizon
+University of San Jose - Recoletos
+Kent Ferolino
+DOI:
+https://doi.org/10.32871/rmrj1705.01.02
+Keywords:
+social media analytics, 											text mining, 											NLP
+Abstract
+This study aims to use social media data as corpus to assess personâ€™s character to provide a preliminary background check on job seekers. It will provide recruiters an initial assessment of the candidates as well as supplementary information to support traditional recruitment and talent acquisition activities thereby reducing time and cost spent for character investigation. The application uses social media analytics to assign a social profile score. Unstructured text data are preprocessed to include only keywords which are relevant to the analysis. Word sense disambiguation is applied to determine the underlying meaning of the words. The bag-of-word is then checked for occurrence of associated words defined for each factor. Posts containing at least one occurrence of words associated with the factors are further tested for content polarity. Social character score is computed using proposed formula. The system recommends applicants based on skills and uses social character score for relevancy ranking of candidates relative to the job posts.
+Downloads
+PDF
+Published
+2017-10-11
+How to Cite
+Cuizon, J., & Ferolino, K. (2017). Social Media Character Assessment for Talent Selection using Natural Language Processing. Recoletos Multidisciplinary Research Journal, 5(1). https://doi.org/10.32871/rmrj1705.01.02
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 5 No. 1 (2017)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Similar Articles
+Dennis V. Madrigal,
+Enrique G. Oracion,
+Rethinking Catholic Education: Experiences of Teachers of a Catholic University
+,
+Recoletos Multidisciplinary Research Journal: Vol. 6 No. 1 (2018)
+You may also start an advanced similarity search for this article.
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

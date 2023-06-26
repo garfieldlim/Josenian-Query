@@ -1,0 +1,104 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/66
+Organizational and Financial Performance of Cooperatives in Misamis Occidental
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 1 No. 2 (2013)
+/
+Articles
+Organizational and Financial Performance of Cooperatives in Misamis Occidental
+Authors
+Wilson C. Nabua
+Northwestern Mindanao State College
+Reynaldo L. Aleman
+Northwestern Mindanao State College
+Marilou M. Abatayo
+Northwestern Mindanao State College
+Edna E. dela Sierra
+Gov. Alfonso D. Tan College
+DOI:
+https://doi.org/10.32871/rmrj1301.02.04
+Keywords:
+organizational and financial performance, 											cooperatives, 											fractal statistics
+Abstract
+This paper tried to assess the performance of the cooperatives using a surrogate measure of data roughness through fractal dimensions. Fractal dimensions as statistical quantities are robust measures which are not easily influenced by extreme observations unlike other variancebased performance measures. This study used the data of the 35 farmersâ€™ cooperatives in Misamis Occidental provided by the Department of Agrarian Reform. The fractal dimensions on membership, farm and off-farm income of members, capital build up, savings mobilization, assets and liabilities were measured through the fractal software. The results revealed that all the variables mentioned had high fractal dimensions. The farm and non-farm income of the members and the number of members with capital build up had the lowest fractal dimensions while the general membership and assets had the highest ones. The implication is that thevariables with higher fractal dimensions are more volatile and unpredictable than those with lower fractal dimensions. In particular, the farm and non-farm incomes are unreliable as indicators of financial stability of the economic conditions of the member farmers.
+References
+Das, B., N. K. Palai, and K. Das. (2006). Problems and Prospects of the Cooperative Movement in India Under the Globalization Regime.
+XIV International Economic History Congress
+Mills, Cliff and W. Davies. (2013). Blueprint for Cooperative Decade. International Co-operative Alliance. University of Oxford.
+Nabua, W.C., A.O. Lanioso, J. T. Aquino, C. Bidad, L. Cainta. (2013). OE-NADA on Rice Farming Mechanization with Demo Farm Cum Rice Trading. ARCCESS Program of the Department of Agrarian Reform, Zamboanga del Norte.
+Nwanko, F., N. Ewuim and N. Aoya (2013) Role of Cooperatives in Small and Medium Scale Enterprises (SMEs) Development in Nigeria: Challenges and the Way Forward.
+Padua, Roberto, N. with Palompon, Daisy, R. and Ontoy, Dexter S. (2012) â€œData Roughness and Fractal Statisticsâ€ (CNU Journal of Higher
+Education, Vol. 6, No.1, CHED-JAS Category A, pp. 87-101)
+Padua, Roberto with Barabat, Efren (2013) â€œ On the Properties of Multifractal Spectrumâ€ (The Recoletos Journal of Higher Education, Vol. 1,
+No.1, Research Journal of the University of San Jose Recoletos, CHED-JAS Category B, pp. 78-89)
+Prakash, D. (n.d. ) Capacity Building of Agricultural Cooperatives To Meet the Market and Human Resources Development Demands: A Stepby-Step Approach. PAMDA-NETWORK International. J-102 Kalkaji, New Delhi 110019
+Downloads
+full paper
+Published
+2013-12-31
+How to Cite
+Nabua, W. C., Aleman, R. L., Abatayo, M. M., & dela Sierra, E. E. (2013). Organizational and Financial Performance of Cooperatives in Misamis Occidental. Recoletos Multidisciplinary Research Journal, 1(2). https://doi.org/10.32871/rmrj1301.02.04
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 1 No. 2 (2013)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Similar Articles
+Roberto N. Padua,
+Joel G. Adanza,
+Efren O. Barabat,
+Dionisel Y. Regalado,
+Construction of a Simple Multifractal Spectrum as an Alternative to the Legendre Spectra in Multifractal Formalisms
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 1 (2013)
+You may also start an advanced similarity search for this article.
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

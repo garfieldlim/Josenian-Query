@@ -1,0 +1,192 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/78
+Construction of a Simple Multifractal Spectrum as an Alternative to the Legendre Spectra in Multifractal Formalisms
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 1 No. 1 (2013)
+/
+Articles
+Construction of a Simple Multifractal Spectrum as an Alternative to the Legendre Spectra in Multifractal Formalisms
+Authors
+Roberto N. Padua
+Joel G. Adanza
+Negros Oriental State University
+Efren O. Barabat
+University of San Jose-Recoletos
+Dionisel Y. Regalado
+DOI:
+https://doi.org/10.32871/rmrj1301.01.10
+Keywords:
+monofractal, 											multifractal statistical observations, 											power-law
+Abstract
+It is important to realize at the beginning of a statistical analysis whether the data are from a monofractal or multifractal distribution because the methods of analysis are different for each. In seismic sequence analysis, for instance, the monofractal method uses the R/S and DFA (range-scale and detrended fluctuation analysis, respectively) techniques while the multifractal formalism uses the partition function technique (PFT) and the Legendre spectra outputting three parameters: maximum Â of the spectrum, asymmetry B and width W of the curve (Lapenna et al. (2003)). In this paper, we introduce a simple test of mono or multifractality of data sets. The test is based on fitting a power-law distribution to a random sample obtained from some unknown distribution G(.). For each quantile, a fractal dimension Â is obtained. This corresponds to the Legendre spectra or multifractal spectra. A regression function is fitted to the points (tk, Â ) and the slope b of this line is tested. If b = 0, then the observations are deduced to have come from a monofractal distribution f(x). The paper proposed a test for monofractality which, in effect, also tests for multifractality or non-fractality of a set of observations. For monofractal observations, the proposed new multifractal spectral analysis revealed a single point (singularity at a point) while for multifractal observations, a single-humped continuous quadratic function is observed. The parameters of the quadratic function are interpreted as the measure of asymmetry (B), ruggedness (C) and width (W). The new proposed multifractal spectrum function is easier to calculate and is consistent with the more complicated Legendre spectrum proposed in the literature.
+Author Biographies
+Roberto N. Padua
+Dr. Roberto Natividad Padua, scientist, received his PhD in Mathematical Statistics from Clemson University, South Carolina, USA under the Fullbright-Hays scholarship grant. He is an accomplished author, a multi-awarded researcher and an internationally acclaimed lectured. Dr. Padua ia a former Commissioner of CHED and currently a consultant to several State and Private Universities, conducting lectures on research and Fractal Statistics. Dr. Padua is a Summa cum Laude, BS in Mathematics Teaching graduate from the Philippine Normal College under the National Science Development Board (NSDB) program. He obtained his MS in Mathematics Education Degree from the Centro Escolar University as a Presidential Scholar.
+Joel G. Adanza, Negros Oriental State University
+graduated from Mapua Institute of Technology with the degree of Bachelor of Science in Industrial Engineering in 1977 and finished his MA. Ed.(major in Mathematics) at the University of Perpetual Help System. He has co-authored three books in Statistics and Logic. He has also presented research papers in graph theory and mathematics education in the annual and regional convention of the MSP. At present he is an assistant professor II teaching mathematics at the Negros Oriental State University. He is also pursuing his Ph.D. in Mathematics.
+Efren O. Barabat, University of San Jose-Recoletos
+an Electronics Engineer, graduated from the University of San Jose-Recoletos in 2010, Cum Laude honors. He ranked as top 9 examinee in the April 2011 ECE Licensure Examination. He worked as Field Engineer in SMART Communications, Inc. from 2011 to 2012. Currently, a full-time faculty member of the Electronics Engineering Department of USJ-R College of Engineering, handling Mathematics and Major Subjects of ECE.
+Dionisel Y. Regalado
+research assistant, is a graduate from Mindanao University of Science and Technology with a degree in Bachelor of Science in Mathematics Teaching.
+References
+Bak P, Tang C. Earthquakes as a self â€“ organized critical phenomenon. J Geophys Res 1989;94:15635-7.
+Bittner HR, Tosi P. Braun C, Maeesman M, Kniffki KD. Counting statistics of fluctuations: a new method for analysis of earthquake data. Geol
+Rundsch 1996;85:110-5.
+Boschi E, Gasperini P, Mulargia F. Forecasting where larger crustal earthquakes are likely to occur in Italy in the near future. Bull Seism Soc Am 1995;85:1475-82.
+Bruno R, BAvassano B, Pietropaolo E, Carbone V, Veltri P. Effects of intermittency on interplanetary velocity and magnetic field fluctuations anisptropy. Geophys Res Lett 1999;26:3185-8.
+Carlson JM, Langer JS. Properties of earthquakes generated by fault dynamics. Phys Rev Lett 1989;62:2632-6.
+Chen K, Bak P, Obukhov SP. Self â€“ organized critically in a crack â€“ propagation model of earthquakes. Phys Rev A 1991;43:625-30.
+Corrieg AM, Urquizu M, Vila J, Manrubia S. Analysis of the temporal occurrence of seismicity at Deception Island (Antartica). A nonlinear approach. Pageoph 1997;149:553-74.
+Cox DR. Isham V. Point Processes. London: Chapman and Hall; 1980.
+Davis A, Marshak A, Wiscombe W. Wavelet â€“ based Multifractal analysis of nonstationary and/or intermittent geophysical signals. In: Foufoula â€“
+Geogiou E, Kumar P, editors. Wavelet in geophysics. New York: Academic Press; 1994. P. 249-98.
+Davis A, Marshack A, Wiscombe W, Cahalan R. Multifractal characterization of nonstationary and intermittency in geophysical fields:
+observed, retrieved or simulated. J Geophys Res 1994;99:8055-72.
+Diego JM, Martinez â€“Gonazales E, Sanz JL, Mollerach S, Mart VJ. Partition function based analysis of cosmic microwave background maps. Mon Not R Astron Soc 1999;306:427-36.
+Gutenberg B, Richter CF. Frequency of earthquakes in California. Bull Seism Soc Am 1944;34:185-8.
+Hurst HE. Long â€“ term capacity of reservoirs.Trans Am Soc Civ Eng 1951;116:770-808.
+Ito K, Matsuzaki M. Earthquakes as a Self â€“ organized critical phenomena. J Geophys Res 1990;95:6853-60.
+Johnson, R. and W. Wichern (2000) Applied Multivariate Statistics (Wiley Series: New York)
+Kagan YY. Observation evidence for earthquakes as a nonlinear dynamics process.Physica D 1994;77:160 â€“ 92.
+Kagan YY, Jackson DD. Long â€“ term earthquake clustering. Geophys J Int 1991;104:117-33.
+Kagan YY, Knopoff L. Statistical short â€“ term earthquakes prediction. Science 1987;236:1563.
+Kantelhardt JW, Koscienly â€“ Bunde E, Rego HNA, Havlin S, Bunde A. Detecting long-range correlations with detrended fluactuation analysis. Physica A 2001;295:441-54.
+Lapenna V, Macchiato M, Telesca L. 1/f^(-Î²) Fluctuations and self-similarity in earthquakes dynamics: observational evidences in southern Italy. Phys Earth Planet INt 1998;106:115-27.
+Mandelbrot BB. Intermittent turbulence in self-similar cascades: divergence of high moments and dimension of the carrier. J Fluid Mech 1974;62:331-58.
+Meneveau C, Screenivasan KR. The Multifractal nature of turbulent energy dissipation. J Fluid Mech 1991;224:429-84.
+Padua, R., Adanza, Joel G., Mirasol, Joy M. (2013) â€œFractal Statistical Inferenceâ€ ( The Threshold, CHED-JAS Category A Journal, pp. 36- 44).
+Peng C-K, Halvin S, Stanley HE, Goldberger Al. Quantification of scaling exponents and crossover phenomena in nonstationary heartbeat time series CHAOS 1995;5:82-7.
+Schertzer D, Lovejoy S, Schmitt F, Chigirinsya Y, Marsan D. Multifractal cascade dynamics and turbulent intermittency. Fractals 1998;5:427-71.
+Downloads
+PDF
+Published
+2013-06-18
+How to Cite
+Padua, R. N., Adanza, J. G., Barabat, E. O., & Regalado, D. Y. (2013). Construction of a Simple Multifractal Spectrum as an Alternative to the Legendre Spectra in Multifractal Formalisms. Recoletos Multidisciplinary Research Journal, 1(1). https://doi.org/10.32871/rmrj1301.01.10
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 1 No. 1 (2013)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Most read articles by the same author(s)
+Roberto N. Padua,
+Mark S. Borres,
+Randy K. Salazar,
+A Generalized Bootstrap Technique for Dependent Observations
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Mark S. Borres,
+Queen Heneylour S. Relatorres,
+Efren O. Barabat,
+Societal Offenders In Prison: Global In-Country Analysis By Fractals
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Roberto N. Padua,
+Mark S. Borres,
+Efren O. Barabat,
+On a Logistic Approximation to the Normal and Other Cumulative Distribution Functions
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Jose D. Velez Jr.,
+Ricky B. Villeta,
+Roberto N. Padua,
+Richard Hao,
+Marielle Colina,
+A Predictive Model on the Spread of HIV in Cebu City
+,
+Recoletos Multidisciplinary Research Journal: Vol. 3 No. 2 (2015)
+Jessica M. Avenido,
+Efren O. Barabat,
+A Fractal View on the Suicide Incidence of Countries
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+Roberto N. Padua,
+Mark S. Borres,
+From Fractal Geometry to Statistical Fractal
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 1 (2013)
+Roberto N. Padua,
+Miraluna L. Herrera,
+Adriano V. Patac Jr.,
+Michael V. Sabugaa,
+Gibson T. Maglasang,
+Mark S. Borres,
+Jay M. Ontolan,
+On Fractional and Fractal Derivatives in Relation to the Physics of Fractals
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+Roberto N. Padua,
+Randy K. Salazar,
+The Ubiquity of Statistical Fractal Observations
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 1 (2013)
+Roberto M. Cabardo,
+Jessica M. Avenido,
+Efren O. Barabat,
+Socio-Economic and Technological Factors of English Proficiency Index
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 2 (2014)
+Efren O. Barabat,
+Roberto M. Cabardo,
+Feature Changes of Selected Cebu City Landmarks: Forms and Roughness Analysis
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+1 2 3 > >>
+Similar Articles
+Nestor Godofredo B. Ramirez,
+Marjurie Lourince E. Zanoria,
+Andre Mikhail F. Obierez,
+Cebu Coal Mine Tragedies: Print Media Effects on Policy Legislation
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 2 (2014)
+You may also start an advanced similarity search for this article.
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

@@ -1,0 +1,168 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/96
+On a Fractal Representation of the Density of Primes
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 2 No. 2 (2014)
+/
+Articles
+On a Fractal Representation of the Density of Primes
+Authors
+Joy Mirasol
+Bukidnon State University
+Efren O. Barabat
+University of San Jose-Recoletos
+DOI:
+https://doi.org/10.32871/rmrj1402.02.13
+Keywords:
+fractal density, 											prime number theorem, 											Riemann hypothesis
+Abstract
+The number of primes less or equal to a real number x, Ï€(x), has been approximated in the past by the reciprocal of the logarithm of the number x. Such an approximation works well when x is large but it can be poor when x is small. This paper introduces a fractal formalism to provide more fl exible approximation to the density of primes less or equal to a number x using the Î»(s)-fractal spectrum. Results revealed that the density of primes less than or equal to x can be modeled as a monofractal probability mass function with highfractal dimension for large x. High fractal dimensions can often be decomposed to form a multifractal representation. The fractal density representation of the density of primes is closely linked to the Riemann zeta function and, thus, to the famous unsolved Riemann hypothesis.
+Author Biography
+Efren O. Barabat, University of San Jose-Recoletos
+is an Electronics Engineer, graduated from the University of San Jose-Recoletos in 2010, Cum Laude honors. He ranked as top 9 examinee in the April 2011 ECE Licensure Examination. He worked as Field Engineer in SMART Communications, Inc. from 2011 to 2012. Currently, a full-time faculty member of the Electronics Engineering Department of USJ-R College of Engineering, handling Mathematics and Major Subjects of ECE.
+References
+Dusart, P. (1999). The k th prime is greater than k (ln k+ ln ln k-1) for kâ‰¥ 2. Mathematics of Computation, 68(225), 411-415.
+Glaisher, J. W. L. (1891). On the sums of inverse powers of the prime numbers. The Quarterly Journal of Pure and Applied
+Mathematics, 25, 347-362.
+Graybill, F. A. (1961). An introduction to linear statistical models. New York : McGraw-Hill.
+Hardy, G. H. & Littlewood, J. E. (1916). Contributions to the theory of the
+reimann zeta-function and the theory of the distribution of primes. Acta
+Mathematica, 41(1), 199-196.
+Harrison, J. (2009). Formalizing an analytic proof of the prime number theorem. Journal of Automated Reasoning, 43(3), 243-261.
+Ingham, A. E. (1932). The distribution of prime numbers. [S. l.] : Cambridge University Press.
+Merrifield, C. W. (1881). The sums of the series of reciprocals of the prime numbers and of their powers. Proceedings of the Royal
+Society of London. 33, 4-10.
+Newman, D. J. (1980). Simple analytic proof of the prime number theorem. The American Mathematics Monthly, 87(9), 693-696.
+Shanker, O. (2006). Random matrices, generalized zeta functions and self-similarity of zero distributions. Journal of Physics A: Mathematical and General, 39(45), 13983-13997.
+UCLA (2009, January 22). Terence Tao: Structure and randomness in the prime numbers. Retrieved from https://www.youtube.com/watch?v=PtsrAw1LR3E
+Downloads
+PDF
+Published
+2014-12-28
+How to Cite
+Mirasol, J., & Barabat, E. O. (2014). On a Fractal Representation of the Density of Primes. Recoletos Multidisciplinary Research Journal, 2(2). https://doi.org/10.32871/rmrj1402.02.13
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 2 No. 2 (2014)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Most read articles by the same author(s)
+Mark S. Borres,
+Queen Heneylour S. Relatorres,
+Efren O. Barabat,
+Societal Offenders In Prison: Global In-Country Analysis By Fractals
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Roberto N. Padua,
+Mark S. Borres,
+Efren O. Barabat,
+On a Logistic Approximation to the Normal and Other Cumulative Distribution Functions
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Jessica M. Avenido,
+Efren O. Barabat,
+A Fractal View on the Suicide Incidence of Countries
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+Roberto M. Cabardo,
+Jessica M. Avenido,
+Efren O. Barabat,
+Socio-Economic and Technological Factors of English Proficiency Index
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 2 (2014)
+Efren O. Barabat,
+Roberto M. Cabardo,
+Feature Changes of Selected Cebu City Landmarks: Forms and Roughness Analysis
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+Jessica M. Avenido,
+Jesse S. Susada,
+Efren O. Barabat,
+Classical-Romantic Compositions: A Musical Variation Analysis
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+Mark S. Borres,
+Efren O. Barabat,
+Transformation To Normality Based On Empirical Distribution Functions
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 2 (2014)
+Mark S. Borres,
+Efren O. Barabat,
+Jocelyn T. Panduyos,
+On Fractional Derivatives and Application
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+Roberto N. Padua,
+Joel G. Adanza,
+Efren O. Barabat,
+Dionisel Y. Regalado,
+Construction of a Simple Multifractal Spectrum as an Alternative to the Legendre Spectra in Multifractal Formalisms
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 1 (2013)
+Roberto N. Padua,
+Efren O. Barabat,
+Mark S. Borres,
+Randy K. Salazar,
+Some Results on Multifractal Spectral Analysis
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+1 2 > >>
+Similar Articles
+Mark Ian C. Andres,
+Brendalyn R. Basilan,
+Camille Yvonne D. Cubar,
+Ricky B. Villeta,
+Levels of Multidrug-Resistant Tuberculosis Treatment Success among ASEAN Countries
+,
+Recoletos Multidisciplinary Research Journal: Vol. 3 No. 2 (2015)
+You may also start an advanced similarity search for this article.
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

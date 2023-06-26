@@ -1,0 +1,208 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/20
+Fractal Analysis of Global Fresh Water Use
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 3 No. 1 (2015)
+/
+Articles
+Fractal Analysis of Global Fresh Water Use
+Authors
+Randy K. Salazar
+University of San Jose-Recoletos
+Josephine E. Petralba
+University of San Jose-Recoletos
+DOI:
+https://doi.org/10.32871/rmrj1503.01.06
+Keywords:
+Fractal Statistics Analysis, 											Freshwater extraction, 											water scarcity, 											water scarcity impact, 											water stress, 											environmental degradation, 											desertification
+Abstract
+Fresh water withdrawals refer to the total fresh water withdrawn in a given year, expressed as a percentage of total renewable water resource. Withdrawals can exceed 100 percent of total renewable resource where extraction from nonrenewable aquifers or desalination plants is considerable or where there is significant water reuse. Exploratory data analysis using Fractal Statistics were used to determine significant information about the global freshwater extractions of the different countries. Fractal Statistics Analysis, has determinedthe data to be exponential in distribution across regions and the impact of water scarcity on countries is fractal. Other significant issues are over-extraction of underground water, fresh water depletion, and environmental degradation.
+Author Biographies
+Randy K. Salazar, University of San Jose-Recoletos
+is a Mechanical Engineer, Assistant Professor of the University of San Jose Recoletos teaching Mechanical Engineering. Holder of a Masters in Science in Management Engineering from the University of San Jose Recoletos and finishing his Masters degree in Mechanical Engineering â€“ Dynamic Design Systems at the University of San Carlos.
+Josephine E. Petralba, University of San Jose-Recoletos
+is a faculty of the Computer Science Department of the College of Information, Computer and Communications Technology of the University of San Jose Recoletos. She graduated Cum Laude, Bachelor of Science in Computer Science at the University of San Jose-Recoletos. Â She also obtained her Master in Business Administration degree from the same university and a Diploma in Computer Science from the University of the Philippines, Open University. Â Her expertise is on SQL having obtained an Oracle SQL certification. She has just presented a research in the International Conference on Asian Language Processing (IALP 2014) at Kuching, Malaysia. The paper was published by the Institute of Electrical and Electronics Engineers (IEEE).
+References
+(2008). Water profile of United Arab Emirates. Retrieved from http://www.eoearth.org /view/article /51cbef337896bb431f69d0df
+Africa, S., Moma, J. G., Haidara, F., Kalua, P., Matavele, A., & Matongo, M. (2014). From promise to reality.Bahrain. (2009). Retrieved June 14, 2015, from Food and Agriculture Organization of the United Nations: http://www.fao.org/nr/water/ aquastat/countries_regions/BHR/index.stm
+Ahmed, M., & Al-Rawahy, S. A. (2011). Living with Soil Salinity: Is it Possible?. The Environment and the Middle East , 25 - 27.
+Al-Weshah, R. (2003). The role of UNESCO in sustainable water resources management in the Arab World. Desalination, 152(1), 1-13.
+Alderman, L. (2010). Dubai faces environmental problems after growth. The New York Times. October, 27.
+Amster, A., Pallant, E., & Saranga, D. (Eds.). (2007). Integrated water resources management and security in the Middle East. Springer.
+Arnell, N. W. (2004). Climate change and global water resources: SRES emissions and socio-economic scenarios. Global environmental change, 14(1), 31-52.
+Ashton, P. J. (2002). Avoiding conflicts over Africaâ€™s water resources. AMBIO: A Journal of the Human Environment, 31(3), 236-242.
+Barbier, E. B. (1994). Valuing environmental functions: tropical wetlands. Land economics, 155-173.
+Bouwer, H. (2002). Artificial recharge of groundwater: hydrogeology and engineering. Hydrogeology Journal, 10(1), 121-142.
+Brown, A., & Matlock, M. D. (2011). A review of water scarcity indices and methodologies. The Sustainability Consortium, White paper, 106, 19.
+Brown, J. H., Burnside, W. R., Davidson, A. D., DeLong, J. P., Dunn, W. C., Hamilton, M. J., ... & Zuo, W. (2011). Energetic limits to economic growth. BioScience, 61(1), 19-26.
+Brown, L. R. (2000). Population growth sentencing millions to hydrological poverty. Worldwatch Institute Issue Alert, 21.
+Brown, L. (2001). How water scarcity will shape the new century. Water Science & Technology, 43(4), 17-22.
+Chenoweth, J. (2008). A re-assessment of indicators of national water scarcity. Water International, 33(1), 5-18.
+Cohen, J. E. (1995). Human carrying capacity. Science, 269, 341.
+Derobert, E., & Tolba, M. World business council for sustainable development.
+Everett, T., Ishwaran, M., Ansaloni, G. P., & Rubin, A. (2010). Economic growth and the environment.
+Falkenmark, M., Lundqvist, J., & Widstrand, C. (1989, November). Macroâ€scale water scarcity requires microâ€scale approaches. In Natural resources forum (Vol. 13, No. 4, pp. 258-267). Blackwell Publishing Ltd.
+Falkenmark, M., & Lundqvist, J. (1998, February). Towards water security: political determination and human adaptation crucial. In Natural Resources Forum (Vol. 22, No. 1, pp. 37-51). Blackwell Publishing Ltd.
+Garrett, J. L., & Ruel, M. T. (Eds.). (2000).Achieving urban food and nutrition security in the developing world.
+Gardner-Outlaw, T., & Engelman, R. (1999). Sustaining Water, Easing Scarcity: A Second Update: Revised Data for the Population Action International Report, Sustaining Water: Population and the Future of Renewable Water Supplies. Population action international. Population and environment program.
+Gassert, F., Reig, P., Luo, T., & Maddocks, A. (2013). Aqueduct country and river basin rankings: A weighted aggregation of spatially distinct hydrological indicators. World Resources Institute, December. Available at: http://wri. org/publication /aqueduct-country-river-basin-rankings
+Gilbert, R., Stevenson, D., Girardet, H., & Stren, R. (2013). Making Cities Work: Role of Local Authorities in the Urban Environment. Routledge.
+Gilbuena, R., Kawamura, A., Medina, R., Amaguchi, H., Nakagawa, N., & Du Bui, D. (2013). Environmental impact assessment of structural flood mitigation measures by a rapid impact assessment matrix (RIAM) technique: A case study in Metro Manila, Philippines. Science of the Total Environment, 456, 137-147.
+Glover, I. (2004). Southeast Asia: from prehistory to history. Psychology Press.
+Halili, C. N. (2004). Philippine history. Rex Bookstore, Inc..
+Hamoda, M. F. (2001). Desalination and water resource management in Kuwait. Desalination, 138(1), 385-393.
+Hepler, R. (2015). Liberal Environmental Policies Largely to Blame for Californian Drought. Retrieved October 18, 2015, from The Federabalist Paper Project: https://www. thefederalistpapers.org/us/liberal-environmental-policies-largely-to-blame-for-californian-drought
+Holway, J. M., & Burby, R. J. (1990). The effects of floodplain development controls on residential land values. Land Economics, 259-271.
+Homer-Dixon, T. F. (2010). Environment, scarcity, and violence. Princeton University Press.
+Hussein, M. A. (2011). Impacts of Water Scarcity on the Social Welfare of Citizens in the Middle East. The Environment and the Middle East , 20-24.
+Indonesia. (2012). Retrieved June 14, 2015, from Food and Agriculture Organization of the United Nations: http://www.fao.org/nr /water/aquastat/countries_regions/IDN/index.stm
+Israel. (2009). Retrieved June 14, 2015, from Food And Agriculture Organization of the United Nations: http://www.fao.org/nr/water/aquastat/countries_regions/ISR/index.stm
+JÃ¸nch-Clausen, T. (2004). â€œ--Integrated Water Resources Management (IWRM) and Water Efficiency Plans by 2005â€: Why, what and How?. Global Water Partnership.
+Kuwait. (2009). Retrieved June 14, 2015, from Food and Agriculture Organization of the United Nations: http://www.fao.org/nr/ water/aquastat/countries_regions/KWT/index.stm
+Lazarova, V., Levine, B., Sack, J., Cirelli, G., Jeffrey, P., Muntau, H., ... & Brissaud, F. (2001). Role of water reuse for enhancing integrated water management in Europe and Mediterranean countries. Water Science & Technology, 43(10), 25-33.
+Libya. (2005). Retrieved June 14, 2015, from Food and Agriculture Organization of the United Nations: http://www.fao.org/nr/water /aquastat/countries_regions/LBY/index.stm
+Malaysia. (2012). Retrieved June 14, 2015, from Food and Agriculture Organization of the United Nations: http://www.fao.org/nr/ water/aquastat/countries_regions/MYS/index.stm
+Malik, K. (2013). Human development report 2013. The rise of the South: Human progress in a diverse world. The Rise of the South: Human Progress in a Diverse World (March 15, 2013). UNDP-HDRO Human Development Reports.
+Malthus, T. R. (1798). An essay on the principle of population (Vol. 1). Cosimo, Inc..
+Mandelbrot, B. B. (1983). The fractal geometry of nature. Macmillan
+Matlock, M. (2008). Water profile of United Arab Emirates. Retrieved June 2015, from The Encyclopedia of Earth: http://www.eoearth .org/view/article/51cbef337896bb431f69d0df/
+Montz, B. E. (2000). The generation of flood hazards and disasters by urban development of floodplains. Floods, 1, 116-127.
+Nhapi, I., Hoko, Z., Siebel, M. A., & Gijzen, H. J. (2002). Assessment of the major water and nutrient flows in the Chivero catchment area, Zimbabwe. Physics and Chemistry of the Earth, Parts A/B/C, 27(11), 783-792.
+Novitski, R. P., Smith, R. D., & Fretwell, J. D. (1996). Wetland functions, values, and assessment. National Summary on Wetland Resources. USGS Water Supply Paper, 2425, 79-86.
+Occupied Palestinian Territory. (2009). Retrieved June 14, 2015, from Food and Agricultural Organization of the United Nations: http://www.fao.org/nr/water/aquastat/countries_regions/PSE/index.stm
+Oki, T., & Kanae, S. (2006). Global hydrological cycles and world water resources. science, 313(5790), 1068-1072.
+Papua New Guinea. (2012). Retrieved June 14, 2015, from Food and Agriculture Organization of the United Nations: http://www.fao.org/nr/water/aquastat/countries_regions/PNG/index.stm
+Peralta, J. T., & Salazar, L. A. (1974). Pre-Spanish Manila: a reconstruction of the pre-history of Manila. National Historical Commission.
+Pereira, L. S., Cordery, I., & Iacovides, I. (2009). Coping with water scarcity: Addressing the challenges. Springer Science & Business Media.
+Petersen, M. M. (1999). A natural approach to watershed planning, restoration and management. Water Science and Technology, 39(12), 347-352.
+Philippines. (2012). Retrieved June 14, 2015, from Food and Agricultural Organization of the United Nations: http://www.fao.org/nr /water/aquastat/countries_regions/PHL/index.stm
+Postel, S. L. (1998). Water for food production: Will there be enough in 2025?. BioScience, 629-637.
+Postel, S. L. (2000). Entering an era of water scarcity: the challenges ahead. Ecological applications, 10(4), 941-948.
+Qatar. (2009). Retrieved June 14, 2015, from Food and Agriculture Organization of the United Nations: http://www.fao.org/nr/water /aquastat/countries_regions/QAT/index.stm
+Saudi Arabia. (2009). Retrieved June 14, 2015, from Food and Agriculture Organization of the United Nations: http://www.fao.org/nr /water/aquastat/countries_regions/SAU/index.stm
+Savenije, H. H., & Van der Zaag, P. (2000). Conceptual framework for the management of shared river basins; with special reference to the SADC and EU. Water policy, 2(1), 9-45.
+Schulte, P. (2014). Pacific Institute Insight. Retrieved September 29, 2015, from Pacific Institute: http://pacinst.org/water-definitions/
+Swain, A. (2008). Mission not yet accomplished: managing water resources in the Nile River basin. Journal of International Affairs-Columbia University, 61(2), 201.
+Syrian Arab Republic. (2009). Retrieved June 14, 2015, from Food and Agriculture Organization of the United Nations: http://www.fao.org/nr/water/aquastat/countries_regions/SYR/index.stmTabel-Aoul, M. (2011). Innovating Ways to Face the Effects of
+Environmental Degradation. The Environment and the Middle East , 28 - 31.
+Tortajada, C. (2009). Water management in 2020 and beyond (pp. 1-34). A. K. Biswas (Ed.). Berlin: Springer.
+UNDP. (2013 ). Human Development Reports. Retrieved November 2014, from United Nations Development Programme: hdr.undp.org/en/data
+United Arab Emirates. (2009). Retrieved June 14, 2015, from Food and Agriculture Organization of the United Nations: http://www.fao.org/nr/water/aquastat/countries_regions/ARE/index.stm
+Varis, O., & Vakkilainen, P. (2001). Chinaâ€™s 8 challenges to water resources management in the first quarter of the 21st Century. Geomorphology, 41(2), 93-104.
+VÃ¶rÃ¶smarty, C. J., Green, P., Salisbury, J., & Lammers, R. B. (2000). Global water resources: vulnerability from climate change and population growth. science, 289(5477), 284-288.
+Water, S. (2003). Population and the Future of Renewable Water Supplies. Population Action International, Washington, DC.
+Yemen. (2009). Retrieved June 14, 2015, from Food and Agriculture Organization of the United Nations: http://www.fao.org/nr /water/aquastat/countries_regions/YEM/index.stm
+Zimmerman, M. (2015). Man-made disasterâ€™: Critics say California drought caused by misguided environment policies. Retrieved October 11, 2015, from FOX NEWS: http://www.foxnews.com/us/2015/04/16/man-made-disaster-critics-say-california-drought-caused-by-misguided/
+Downloads
+PDF
+Published
+2015-06-30
+How to Cite
+Salazar, R. K., & Petralba, J. E. (2015). Fractal Analysis of Global Fresh Water Use. Recoletos Multidisciplinary Research Journal, 3(1). https://doi.org/10.32871/rmrj1503.01.06
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 3 No. 1 (2015)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Most read articles by the same author(s)
+Randy K. Salazar,
+Rosario L. Cabillada,
+Mark S. Borres,
+Anthony Jagures,
+Fractal Dimensions of Voice Patterns and Voice Recognition
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Roberto N. Padua,
+Mark S. Borres,
+Randy K. Salazar,
+A Generalized Bootstrap Technique for Dependent Observations
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Randy K. Salazar,
+Cris Lawrence B. Laurente,
+Emissivity of â€œGreyâ€ Bodies, Surface Roughness and other Measures
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 2 (2014)
+Roberto N. Padua,
+Randy K. Salazar,
+The Ubiquity of Statistical Fractal Observations
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 1 (2013)
+Josephine E. Petralba,
+Paths to Global Competitiveness
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 2 (2014)
+Roberto N. Padua,
+Efren O. Barabat,
+Mark S. Borres,
+Randy K. Salazar,
+Some Results on Multifractal Spectral Analysis
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+Randy K. Salazar,
+Fractal Analysis of Sea Surface Temperature Anomaly and Tropical Depression Occurrence
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+Randy K. Salazar,
+Efren O. Barabat,
+Socio Political Economic Dimensions of Technological Advancement
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 1 (2013)
+Similar Articles
+Mark S. Borres,
+Jergen D. Orias,
+Alvin Mercado,
+A Mathematical Model on Social Integration Explaining Global Suicide Rate Among Men and Women
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+You may also start an advanced similarity search for this article.
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

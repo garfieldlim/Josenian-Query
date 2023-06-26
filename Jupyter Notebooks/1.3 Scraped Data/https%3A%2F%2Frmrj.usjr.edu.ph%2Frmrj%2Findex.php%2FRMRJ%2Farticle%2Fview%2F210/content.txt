@@ -1,0 +1,105 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/210
+Integration of Specular Reflector in a Dual Axis Solar Tracker
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 5 No. 1 (2017)
+/
+Articles
+Integration of Specular Reflector in a Dual Axis Solar Tracker
+Authors
+Teofrenz A. Ycot
+John Vincent L. Tiansing
+Michaela B. Aliganga
+Rachel Mabanag Chong
+Cebu Institute of Technology-University
+Jun-Jun Alegrado Obiso
+Cebu Technological University
+DOI:
+https://doi.org/10.32871/rmrj1705.01.01
+Keywords:
+specular reflector assembly, 											solar tracker, 											solar collectors, 											solar reflectors
+Abstract
+In the Philippines, the installation of solar panels on the rooftops of residential and commercial buildings has increased in popularity. Even if the country has high solar insolation, energy conversion is still inefficient since the solar panel arrays are not always facing in perpendicular to the sun. Technologies related to increasing the solar panel efficiency such as solar trackers are usually complex and expensive. This problem is addressed by designing a low cost dual axis solar tracker with the integration of specular reflector system. The dual axis tracker system can move the panel and the reflector assembly in a precise and controlled manner to ensure maximum output. This was achieved by using a LDR (Light Dependent Resistor) compass assembly, gear system, and stepper motor mechanism. To measure the solar panel output, a voltage sensing circuit was incorporated instead of using the existing optical and time-based techniques. The system performance was tested in both the controlled and the actual environments. Experimental data have shown that when the panel is perpendicular to the light source, the system yields maximum energy. The need for a tracking and planar reflector system is notably important when the light source moves away from the normal because this results to a significant drop of the panelâ€™s average efficiency. The addition of the tracker alone had greater enhancement effect than with the specular reflector only. The tracker boosts the efficiency by 69.55% while the specular reflector boosts it by only 15.12%. Combining the tracker and the specular reflector yields the best result with a 92.33% boost on the average efficiency.Â
+Author Biographies
+Teofrenz A. Ycot
+Alumna, Electronics Engineering, CIT-University
+John Vincent L. Tiansing
+Alumnus, Electronics Engineering, CIT-University
+Michaela B. Aliganga
+Alumna, Electronics Engineering, CIT
+Rachel Mabanag Chong, Cebu Institute of Technology-University
+Research Director,Cebu Institute of Technology-University
+Jun-Jun Alegrado Obiso, Cebu Technological University
+Part-time Instructor, Electronics Engineering Department, CIT University
+References
+Baccoli, R., Mastino, C.C., Innamorati, L. (2015). A
+mathematical model of a solar collector augmented by a flat plate above reflector: optimum inclination of collector and
+reflector.Energy Procedia (81), 205-214.
+Bentaher, H. 2014). A simple tracking system to monitor solar PV panels. Energy Conversion and Management (78), 872-875.
+Dang, A. (1986). Collector, collector-reflector systems-an analytical and practical study.Energy Conversion Management (26), 33-39
+Garg, H.P., Hrishikesan, D.S. (1988). Enhancement of solar energy on flat-plate collector by Plane booster mirrors. Solar Energy (40), 295-307.
+Gunerhan, H.and Hepbasli, A. (2007). Determination of the optimum tilt angle of solar collectors for building applications. Build.Env., (42), 779-783
+Ideriah, F.J.K.and Suleman, S.O. (1989). Sky condition at Ibadan during 1975-1980. Solar Energy,31(1), 119-124
+Kostic, L.T., Pavlovic, T.M., Pavlovic, Z.T. (2010). Optimal design of orientation of PV/T collector with reflectors. Applied Energy (87), 3023-3029
+Oko, C. and Nnamchi. (2012). Optimum collector tilt angles for low altitudes. The Open Renewable Energy Journal (5). 7-14
+Downloads
+PDF
+Published
+2017-10-11
+How to Cite
+Ycot, T. A., Tiansing, J. V. L., Aliganga, M. B., Chong, R. M., & Obiso, J.-J. A. (2017). Integration of Specular Reflector in a Dual Axis Solar Tracker. Recoletos Multidisciplinary Research Journal, 5(1). https://doi.org/10.32871/rmrj1705.01.01
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 5 No. 1 (2017)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

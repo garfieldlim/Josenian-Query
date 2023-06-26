@@ -1,0 +1,175 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/57
+Classical-Romantic Compositions: A Musical Variation Analysis
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 1 No. 2 (2013)
+/
+Articles
+Classical-Romantic Compositions: A Musical Variation Analysis
+Authors
+Jessica M. Avenido
+University of San Jose-Recoletos
+Jesse S. Susada
+University of San Jose-Recoletos
+Efren O. Barabat
+University of San Jose-Recoletos
+DOI:
+https://doi.org/10.32871/rmrj1301.02.13
+Keywords:
+classical music, 											fractal dimension, 											musical score, 											musical composition
+Abstract
+This study looks into the patterns found in the musical scores of selected composers in the Classical-Romantic period. Random masterpieces were taken from six (6) composers with five (5) musical compositions from each. The image of each musical score was analyzed to obtain its fractal dimension, with the idea of identifying a signature style of music for each composer. Findings revealed that there was consistency with less variance of the fractal dimensions of musical scores for each composer. Furthermore, the minimal disparity of the fractal dimensions across composers, discloses the common influence of Classical-Romantic era where pieces during this period are mostly homophonic, and capitalize on melody and accompaniment.
+Author Biographies
+Jessica M. Avenido, University of San Jose-Recoletos
+finished her M.A. in Religious Education at Mother of Life Center, Quezon City, Philippines. Her catechetical training paved the way for her 5-year stint as staff member of the Campus Ministry. Eventually, she engaged herself in full time catechetical instruction in the tertiary level. Among her field of interests are education, religion, curriculum development and values education. Currently, she is an assistant professor in the Center for Religious Education of the University of San Jose-Recoletos, Cebu City, Philippines and handles the formation program of a core group of the children of the Overseas Filipino Workers (OFW).
+Jesse S. Susada, University of San Jose-Recoletos
+is a graduate of Bachelor of Science in Commerce Major In Computer Science in 2000 from the University of San Jose-Recoletos and finished his Masters Business Administration (MBA) last 2003 from the same school. He is assigned at the Center for Policy, Research, and Development Studies (formerly Research Center) of the same University and teaches Part-time of the College of Commerce. As a staff of the Center, he is the Turnitin in-charge and the same time the ITSO Technical staff.
+Efren O. Barabat, University of San Jose-Recoletos
+is an Electronics Engineer, graduated from the University of San Jose-Recoletos in 2010, Cum Laude honors. He ranked as top 9 examinee in the April 2011 ECE Licensure Examination. He worked as Field Engineer in SMART Communications, Inc. from 2011 to 2012. Currently, a full-time faculty member of the Electronics Engineering Department of USJ-R College of Engineering, handling Mathematics and Major Subjects of ECE.
+References
+Almirol, C., Lapinig, V., Sabandal, MN. (2013). Classification of Marine Seagrasses by Leaf Fractal Dimensions Analysis.
+Asafyev, B. ,(1947) â€œThe Great Russian Composer. In Russian Symphony: Thought about Tchaikovsky. New York: The Philosophical Library.
+Bolstein, L. (1998). â€œMusic as the Language of Psychological Realmâ€.In Tchaikovsky and His World. New York. Princeton University Press.
+Brown, D. (2007). Tchaikovsky: The Man and His Music: New York. Pegasus Books.
+Brown, D. (1983). Tchaikovsky: The Crisis Years 1874-1878. New York. W.W. Norton.
+Brown, D. (1986). Tchaikovsky: The Early Years 1840-1874. New York. W.W. Norton.
+Brown, D. (1991). Tchaikovsky: The Years of Wandering 1878-1885. New York. W.W. Norton.
+Grout, D. (1973). A History of Western Music.W.W. Norton
+Grout, D. J., Palisca, C. (1988). A History of Western Music. Norton
+Han Ju, Jian-XinXu, Van Dongen A. (2010).Classification of Musical Styles Using Liquid State Machines.
+History of Music-Classical Period.(2013). OracleThinkQuest.
+Hsu, K J. & Hsu, A. 1990. Fractal Geometry of Music
+Johnson, J. (2002). Who Needs Classical Music?: cultural choice and musical value.Oxford University Press.
+Kennedy, M. ed. (2006).â€Classicalâ€, The Oxford Concise Dictionary of Music,, Musical Periods. (1995-2013). www.classical.net
+Pestana, P. &Pestana, D. (2011).Philip Glassâ€™ FaÃ§ade- A Case Study on the Complexity of Music Scores.
+Randel, D. (1999). The Harvard Concise Dictionary of Music and Musicians. Cambridge, Massachusetss. Harvard University Press.
+Salamon, J., Rocha, B., Gomez., E. (2012). Musical Genre Classification Melody Features Extracted From Polyphonic Music Signals
+Swafford, J. (1992). The Vintage Guide to Classical Music. New York: Vintage Books.
+Downloads
+full paper
+Published
+2013-12-31
+How to Cite
+Avenido, J. M., Susada, J. S., & Barabat, E. O. (2013). Classical-Romantic Compositions: A Musical Variation Analysis. Recoletos Multidisciplinary Research Journal, 1(2). https://doi.org/10.32871/rmrj1301.02.13
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 1 No. 2 (2013)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Most read articles by the same author(s)
+Tonette M. Villanueva,
+Jessica M. Avenido,
+Juanito B. AliÃ±o Jr.,
+Melvin R. de Castro,
+The Satisfaction Congruency Theory: The Case of Sexual Satisfaction
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Mark S. Borres,
+Queen Heneylour S. Relatorres,
+Efren O. Barabat,
+Societal Offenders In Prison: Global In-Country Analysis By Fractals
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Roberto N. Padua,
+Mark S. Borres,
+Efren O. Barabat,
+On a Logistic Approximation to the Normal and Other Cumulative Distribution Functions
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 1 (2014)
+Jessica M. Avenido,
+Efren O. Barabat,
+A Fractal View on the Suicide Incidence of Countries
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+Jessica M. Avenido,
+Roberto M. Cabardo,
+Juanito B. AliÃ±o Jr.,
+Casual Sex among Young People
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 1 (2013)
+Agnes C. SequiÃ±o,
+Jessica M. Avenido,
+The Worldâ€™s Leader in the Palm Oil Industry : Indonesia
+,
+Recoletos Multidisciplinary Research Journal: Vol. 3 No. 1 (2015)
+Roberto M. Cabardo,
+Jessica M. Avenido,
+Efren O. Barabat,
+Socio-Economic and Technological Factors of English Proficiency Index
+,
+Recoletos Multidisciplinary Research Journal: Vol. 2 No. 2 (2014)
+Efren O. Barabat,
+Roberto M. Cabardo,
+Feature Changes of Selected Cebu City Landmarks: Forms and Roughness Analysis
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+Jessica M. Avenido,
+Roberto M. Cabardo,
+Rosario L. Cabillada,
+Vote Pricing Spatial Probability Models in the Philippines
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+Jesse S. Susada,
+Marisa A. Mahilum,
+Dionisel Y. Regalado,
+Simulation Model for the Maintenance of Government and Private Facilities in the Philippine Context
+,
+Recoletos Multidisciplinary Research Journal: Vol. 3 No. 1 (2015)
+1 2 > >>
+Similar Articles
+Mark S. Borres,
+Jessica M. Avenido,
+Research and Innovation Expenditure: A Key to Global Competitiveness, a Fractal Validation
+,
+Recoletos Multidisciplinary Research Journal: Vol. 1 No. 2 (2013)
+You may also start an advanced similarity search for this article.
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

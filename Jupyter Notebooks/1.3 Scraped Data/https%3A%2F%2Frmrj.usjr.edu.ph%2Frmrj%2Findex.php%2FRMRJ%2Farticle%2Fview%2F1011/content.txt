@@ -1,0 +1,123 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/1011
+Utilization of Wastewater from Different Sources as Potential Electrical Energy Source
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 9 No. 1 (2021)
+/
+Articles
+Utilization of Wastewater from Different Sources as Potential Electrical Energy Source
+Authors
+Melvin D. Hagonob
+Visayas State University, Baybay City, Leyte, Philippines
+https://orcid.org/0000-0002-6925-1778
+Leomarich F. Casinillo
+Visayas State University, Baybay City, Leyte, Philippines
+https://orcid.org/0000-0003-3966-8836
+DOI:
+https://doi.org/10.32871/rmrj2109.01.04
+Keywords:
+wastewater, 											carbon electrodes, 											biofilm anode, 											microbial fuel cell, 											electrical energy
+Abstract
+This study is about the generated electricity from wastewater using carbon electrodes with the absence/presence of salt bridge through the biofilm anode of the microbial fuel cell (MFC) technology. The three wastewater samples used were from a pond, an abaca pulp mill, and rice fields. Results showed that one of the abaca pulp mill treatments, using carbon rod electrodes with salt bridge presence, reached the highest mean voltage and current to 578.7 mV and 0.2022 mV, respectively. The study revealed that the number of sensible power generation days, from start to end of experimentation, has a significant difference between treatments. Throughout the 20-day fermentation process, a total count of 8.94x105 colony forming units (CFU) per ml was found and purified from the biofilm anodes from pond wastewater. Likewise, 9.14x105 CFU per ml isolates from the abaca pulp mill, and 1.65x106 CFU per ml isolates from the rice field.
+References
+Abedinzadeh, N., Shariat, M., Monavari, S. M., & Pendashteh, A. (2018). Evaluation of color and COD removal by Fenton from biologically (SBR) pre-treated pulp and paper wastewater. Process Safety and Environmental Protection, 116, 82-91. https://doi.org/10.1016/j.psep.2018.01.015
+Ashoka, H., Shalini, R., & Bhat, P. (2012). Comparative studies on electrodes for the construction of microbial fuel cell. International Journal of Advanced Biotechnology and Research, 3(4), 785-789. https://www.researchgate.net/publication/325486176_COMPARATIVE_STUDIES_ON_ELECTRODES_FOR_THE_CONSTRUCTION_OF_MICROBIAL_FUEL_CELL
+Atanacio, M. A. R., Tan, D. L. S., & Amestoso, F. J. (2010). Cassava grates processing wastes as source of electrical energy. Annals of Tropical Research, 32(1), 55-71. https://doi.org/10.32945/atr3214.2010
+Banaticla, J. E. G., & Rivera, W. L. (2011). Detection and subtype identification of Blastocystis isolates from wastewater samples in the Philippines. Journal of Water and Health, 9(1), 128-137. 10.2166/wh.2010.127
+Brockway, P. E., Owen, A., Brand-Correa, L. I., & Hardt, L. (2019). Estimation of global final-stage energy-return-on-investment for fossil fuels with comparison to renewable energy sources. Nature Energy, 4, 612-621. https://doi.org/10.1038/s41560-019-0425-z
+Cheng, S., Liu, H., & Logan, B. E. (2006). Increased performance of single-chamber microbial fuel cells using an improved cathode structure. Electrochemistry Communications, 8(3), 489-494. https://doi.org/10.1016/j.elecom.2006.01.010
+Gellman, I. (1988). Environmental effects of paper industry wastewaters-an overview. Water Science and Technology, 20(2), 59-65. https://doi.org/10.2166/wst.1988.0046
+Gosse, J. L., Engel, B. J., Rey, F. E., Harwood, C. S., Scriven, L. E., &Flickinger, M. C. (2007). Hydrogen production by photoreactivenanoporous latex coatings of nongrowing Rhodopseudomonaspalustris CGA009. Biotechnology Progress, 23(1), 124-130. 10.1021/bp060254+
+Jardon, M. (2006, May 10). Microbial fuel cells from Rhodopherax ferrireducens.The Science Creative Quarterly. https://www.scq.ubc.ca/microbial-fuel-cells-from-rhodopherax-ferrireducens/
+Jensen, O., & Wu, H. (2018). Urban water security indicators: Development and pilot. Environmental Science & Policy, 83, 33-45. https://doi.org/10.1016/j.envsci.2018.02.003
+Kato Marcus, A., Torres, C. I., &Rittmann, B. E. (2007). Conduction based modeling of the biofilm anode of a microbial fuel cell. Biotechnology and Bioengineering, 98(6), 1171-1182. 10.1002/bit.21533.
+Kharbanda, P., Madaan, T., Sharma, I., Vashishtha, S., Kumar, P., Chauhan, A., Mittal, S., Bangruwa, J. S., &Verma, V. (2019). Ferrites: Magnetic materials as an alternate source of green electrical energy. Heliyon, 5, e01151. 10.1016/j.heliyon.2019.e01151
+Kim, J. R., Jung, S. H., Regan, J. M., & Logan, B. E. (2007). Electricity generation and microbial community analysis of alcohol powered microbial fuel cells. Bioresource Technology, 98(13), 2568-2577. https://doi.org/10.1016/j.biortech.2006.09.036
+Li, J. (2013). An experimental study of microbial fuel cells for electricity-generating: Performance characterization and capacity improvement. Journal of Sustainable Bioenergy Systems, 3(3), 171-178. 10.4236/jsbs.2013.33024
+Liu, J., Chen, X., Cao, S., & Yang, H. (2019). Overview on hybrid solar photovoltaic-electrical energy storage technologies for power supply to buildings. Energy Conversion and Management, 187, 103-121. https://doi.org/10.1016/j.enconman.2019.02.080
+Liu, X., Shi, L., &Gu, J. D. (2018). Microbial electrocatalysis: Redox mediators responsible for extracellular electron transfer. Biotechnology Advances, 36(7), 1815-1827. https://doi.org/10.1016/j.biotechadv.2018.07.001
+Logan, B. E. (2005). Simultaneous wastewater treatment and biological electricity generation. Water Science and Technology, 52(1-2), 31-37. 10.2166/wst.2005.0495
+Lyngberg, O. K., Ng, C. P., Thiagarajan, V., Scriven, L. E., &Flickinger, M. C. (2001). Engineering the microstructure and permeability of thin multilayer latex biocatalytic coatings containing E. coli. Biotechnology Progress, 17(6), 1169-1179. https://doi.org/10.1021/bp0100979
+Marzougui, H., Kadri, A., Martin, J. P., Amari, M., Pierfederici, S., & Bacha, F. (2019). Implementation of energy management strategy of hybrid power source for electrical vehicle. Energy Conversion and Management, 195, 830-843. https://doi.org/10.1016/j.enconman.2019.05.037
+Min, B., Kim, J.R., Oh, S.E., Regan, J. M., & Logan, B. E. (2005). Electricity generation from swine wastewater using microbial fuel cells. Water Research, 39(20), 4961-4968. https://doi.org/10.1016/j.watres.2005.09.039
+Panwar, N. L., Kaushik, S. C., & Kothari, S. (2011). Role of renewable energy sources in environmental protection: A review. Renewable and Sustainable Energy Reviews, 15(3), 1513-1524. https://doi.org/10.1016/j.rser.2010.11.037
+Rossi, R., Cario, B. P., Santoro, C., Yang, W., Saikaly, P. E., & Logan, B. E. (2019). Evaluation of electrode and solution area-based resistances enables quantitative comparisons of factors impacting microbial fuel cell performance. Environmental Science & Technology, 53(7), 3977-3986. 10.1021/acs.est.8b06004
+Ryu, H., & Kim, S. W. (2019). Emerging pyroelectric nanogenerators to convert thermal energy into electrical energy. Small. https://doi.org/10.1002/smll.201903469
+Tan, D. L. S., Tan, J. D., Atanacio, M.A.R., & Delantar, R. (2013). Potential of rootcrops as source of electrical energy. Annals of Tropical Research, 35(2), 22-39. 10.32945/atr3522.2013
+Treesubsuntorn, C., Chaiworn, W., Surareungchai, W., &Thiravetyan, P. (2019). Increasing of electricity production from Echinodosuscordifolius-microbial fuel cell by inoculating Bacillus thuringiensis. Science of the Total Environment, 686, 538-545. https://doi.org/10.1016/j.scitotenv.2019.06.063
+Zhang, Y., Liu, M., Zhou, M., Yang, H., Liang, L., &Gu, T. (2019). Microbial fuel cell hybrid systems for wastewater treatment and bioenergy production: Synergistic effects, mechanisms and challenges. Renewable and Sustainable Energy Reviews, 103, 13-29. https://doi.org/10.1016/j.rser.2018.12.027
+Zielke, E. A. (2005). Design of a single chamber microbial fuel cell. http://www.lacc-terryb.com/files/Engr_499_final_zielke.pdf
+Downloads
+pdf
+Published
+2021-05-28
+How to Cite
+Hagonob, M. D., & Casinillo, L. F. (2021). Utilization of Wastewater from Different Sources as Potential Electrical Energy Source. Recoletos Multidisciplinary Research Journal, 9(1), 39–54. https://doi.org/10.32871/rmrj2109.01.04
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 9 No. 1 (2021)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Most read articles by the same author(s)
+Dennis T. Caredo,
+Argina M. Pomida,
+Angelita L. Paradero,
+Leomarich F. Casinillo,
+Modeling Employee Retention Amidst COVID-19 Pandemic: An Econometric Approach
+,
+Recoletos Multidisciplinary Research Journal: Vol. 10 No. 1 (2022)
+Jerry B. Guanco,
+Leomarich F. Casinillo,
+Performance Evaluation of a Rice Hull-fueled Cabinet Food Dryer
+,
+Recoletos Multidisciplinary Research Journal: Vol. 9 No. 1 (2021)
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

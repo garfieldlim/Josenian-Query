@@ -1,0 +1,129 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/108
+ASEAN Integration: The Domination and Subordination among Member Nations
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 3 No. 2 (2015)
+/
+Articles
+ASEAN Integration: The Domination and Subordination among Member Nations
+Authors
+Herben M. Tautho
+University of San Jose-Recoletos
+Maria Sheila E. CaÃ±ete
+University of San Jose-Recoletos
+DOI:
+https://doi.org/10.32871/rmrj1503.02.06
+Keywords:
+ASEAN integration, 											competition, 											cooperation, 											economic disparity, 											regional cooperation
+Abstract
+The ASEAN from its original purpose of conception has evolved into what it is envisioned now of integrating the 10 individual economies into a single regional economy. Its traditional practice of consensus and consultation poses a challenge and as a factor in lagging behind the development of its implementation. But what state from among the ten members is the best candidate to lead the organization remained to be a question. This research explores the possibility of determining the potential leader of the organization by considering several variables like corruption perception index, global competitiveness, government effectiveness, GNI, etc. and utilized the process known as exploratory data analysis or data mining in gathering data. Data gathered were then processed through the use of statistical software to cluster the variables. Cluster analysis was then performed to establish relevant relationships, similarities, or differences of the data collected. Results and data gathered from several relevant studies about the topic were also collectively analyzed to determine the gap of perspectives from other notable scholars and to gain new insights to fill in that gap. Based on this method of analysis, it was revealed that thereâ€™s a single country that stands out from the rest and is the best candidate to lead the ASEAN Integration. A new paradigm shift is beginning to surface from collective to a single leadership.
+Author Biography
+Herben M. Tautho, University of San Jose-Recoletos
+a licensed professional teacher, obtained his Bachelor ofSecondary Education (BSEd) major in Social Science at Cebu Normal University in 2005. Right after graduation, he was hired as a fulltime faculty of the High School department of the University of San Jose Recoletos, Basak Campus teaching from World History, Philippine History, Asian Civilization to Economics for 11 years. With the full implementation of the K-12, he moved to the Senior High School department and is currently the Cluster head of the Humanities and Social Sciences strand and Technological, Vocational and Livelihood (TVL)track. Pursuing his Masters in Psychology major in Social Psychology and on pre-stagefor thesis writing.
+References
+Alave, K. L. (2006). Private sector not ready for ASEAN economic union. BusinessWorld, , 1. Retrieved from http://search.proquest.com/docview/233687412?accountid=33262
+All reports on â€œAsia Pacific Roundtable 1999â€ by,Anis Kamil, & Singh, P. (1999, Jun 02). Don: Lack of leadership a factor in diminished standing of asean. New Straits Times Retrieved from http://search.proquest.com/docview/266495650?accountid=33262
+Allen, K. (2015, Feb 01). Business: GDP: WHAT IT IS â€“ AND WHAT IT IS NOT. The Observer retrieved from http://search.proquest.com/docview/1650031519?=33262
+Areethamsirikul, S. (2008). The impact of ASEAN enlargement on economic integration: Successes and impediments under ASEAN political institution (Order No. 3314276). Available from ProQuest Central. (304450946). Retrieved from http://search.proquest.com/docview/304450946?accountid=33262
+Ba, A. (1997). The ASEAN regional forum: Maintaining the regional idea in southeast asia. International Journal, 52(4), 635. Retrieved from http://search.proquest.com/docview/220855673?accountid=33262
+BANGKOK POST: REGIONAL PROBLEMS: Can the regional grouping of southeast asian nations reform itself in time to avoid obsolesence?: Aseanâ€™s identity crisis. (2000, Sep 28). The Bangkok Post Retrieved from http://search.proquest.com/docview/308770187?accountid=33262
+Bayuni, E. (2007, Aug 08). Itâ€™s time to question ASEANâ€™s consensus model. The Jakarta Post
+Retrieved from http://ezproxy.usjr.edu.ph:2066/docview/288308315?accountid=33262
+Bellman, E., & Vaughan, M. (2011, May 09). World news: Indonesia seeks larger role in asean. The Wall Street Journal Asia Retrieved from http://search.proquest.com/docview/865154111?accountid=33262
+Blizkovsky, P. (2013). Economic governance: What can the EU and ASEAN learn from each other after the economic crises?Journal of Southeast Asian Economies, 30(1), 1-18. Retrieved from http://search.proquest.com/docview/1492268739?accountid=33262
+Bretherton, C., & Vogler, J., (2006). The European Union as a global actor (2nd ed.). London: Routledge.
+Caplen, B., & Ooi, G. T. (1991). Making the heirs apparent. Asian Business, 27(8), 24. Retrieved from http://search.proquest.com/docview/199850048?accountid=33262
+Chongkittavorn, K. (2014, Jan 13). Is thailand ready for asean economic community? The Nation Retrieved from http://search.proquest.com/docview/1476910089?accountid=33262
+Funston, J. (1999). Challenges facing ASEAN in a more complex age. Contemporary Southeast Asia, 21(2), 205-219. Retrieved from http://search.proquest.com/docview/205217303?accountid=33262
+Grimm, M. (1992). Japan and ASEAN: A new interdependence. East Asian Executive Reports, 14(4), 11. Retrieved from http://search.proquest.com/docview/204135567?accountid=33262
+Groff, S. P. (2014, June 23).
+Keynote speech: ASEAN integration and the private sector. Retrieved from https://www.adb.org/news/speeches/keynote-speech-asean-integration-and-private-sector-stephen-p-groff
+Ho, B., Singh, B., & Teo, S. (2015). Malaysiaâ€™s ASEAN chairmanship in 2015: Perspectives and prospects. Washington: East - West Center. Retrieved from http://search.proquest.com/docview/1675989494?accountid=33262
+Kim, M. (2011). Theorizing ASEAN integration. Asian Perspective, 35(3), 407-435. Retrieved from http://search.proquest.com/docview/928757491?accountid=33262
+Magalhaes, P.C. (2014). Government effectiveness and support for democracy. European Journal of Political Research, 53(1), 77-97.Doi:http://dx.doi.org/10.1111/1475-6765.1204
+Mattli, W. (1999). The logic of regional integration: Europe and beyond. Cambridge: Cambridge University Press.
+Medalla, E. M. (2012). Managing the ASEAN economic integration process in the philippines: An assessment of progress in trade liberalization and facilitation. Philippine Journal of Development, 39(1), 1-21. Retrieved from http://search.proquest.com/docview/1550131110?accountid=33262
+Morada, N. M. (2012). Europe and southeast asia: ASEAN-EU interregionalism between pluralist and solidarist societies. Review of European Studies, 4(3), 89-99. Retrieved from http://search.proquest.com/docview/1030094398?accountid=33262
+News analysis: ASEAN faces challenges in achieving regional economic integration. (2014, Apr 16). Xinhua News Agency â€“ CEIS Retrieved from http://search.proquest.com/docview/1516797354?accountid=33262
+Nur Ashikin, A. A. (2015, Jan 07). JAPAN, CHINA CONFIDENT MALAYSIA CAN TAKE LEADING ROLE TO BOOST ASEAN UNITY.BERNAMA : Malaysian National News Agency
+Retrieved from http://search.proquest.com/docview/1643153931?accountid=33262
+Nwosu, E. O., Orji, A., Urama, N., & Amuka, J. I. (2013). Regional integration and foreign investment: The case of asean countries. Asian Economic and Financial Review, 3(12), 1670-1680. Retrieved from http://search.proquest.com/docview/1534552183?accountid=33262
+Oh, E. S. (2015, June 12). Latest Sino-Malaysian encounter amidst South China Sea disputes â€“ Whither the shift in Malaysian reaction? TN News Retrieved from http://www.thanhniennews.com/commentaries/latest-sinomalaysian-encounter-amidst-south-china-sea-disputes-whither-the-shift-in-malaysian-reaction-46593.html
+PH tech-voc education ready for ASEAN integration. (2014, Sep 07). The Philippines News Agency (PNA) Retrieved from http://search.proquest.com/docview/1560537507?accountid=33262
+Philippines: RDC-9 holds ASEAN economic community forum. (2014, May 30). Asia News Monitor Retrieved from http://search.proquest.com/docview/1530385376?accountid=33262
+Purba, K. (2002, Nov 11). ASEAN needs collective leadership. The Jakarta Post Retrieved from http://search.proquest.com/docview/288197352?accountid=33262
+Rafi, B., & Lewis, P. (2012). Testing for the degree of economic integration in ASEAN. The Asia Pacific Journal of Economics & Business, 16(1), 51-63. Retrieved from
+http://search.proquest.com/docview/1355715832?accountid=33262
+Roberts, C. (2010, Dec 8). ASEAN institutionalisation: The function of political values and state capacity. RSIS Working Paper, (217).
+Schwartz, A., & Villinger, R. (2004). Integrating Southeast Asian Economies. The
+McKinsey Quarterly, (1).
+Smith, A. (1999). Indonesiaâ€™s role in ASEAN: The end of leadership? Contemporary Southeast Asia, 21(2), 238-260. Retrieved from http://search.proquest.com/docview/205217388?accountid=33262
+Vatikiotis, M., & McBeth, J. (2003). A tango speeds asean integration. Far Eastern Economic Review, 166(42), 16-18. Retrieved from http://search.proquest.com/docview/208237434?accountid=33262
+Wah, C. K. (2007). Introduction: ASEAN - facing the fifth decade. Contemporary Southeast Asia, 29(3), 395-405. Retrieved from http://search.proquest.com/docview/205221718?accountid=33262
+Young, O. R. (1991). Political leadership and regime formation: On the development of institutions of international society. International Organizations, 45(3), 281-308.
+Downloads
+PDF
+Published
+2015-12-03
+How to Cite
+Tautho, H. M., & CaÃ±ete, M. S. E. (2015). ASEAN Integration: The Domination and Subordination among Member Nations. Recoletos Multidisciplinary Research Journal, 3(2). https://doi.org/10.32871/rmrj1503.02.06
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 3 No. 2 (2015)
+Section
+Articles
+License
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Most read articles by the same author(s)
+Herben M. Tautho,
+Government Effectiveness and Corruption Control to the Global Competitiveness Level of ASEAN Countries
+,
+Recoletos Multidisciplinary Research Journal: Vol. 4 No. 1 (2016)
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755

@@ -1,0 +1,152 @@
+https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/1322
+The Determinants of Fake News Adaptation during COVID-19 Pandemic: A Social Psychology Approach
+| Recoletos Multidisciplinary Research Journal
+Skip to main content
+Skip to main navigation menu
+Skip to site footer
+Open Menu
+Home
+Register
+Current
+Archives
+About
+About the Journal
+Author Guidelines
+Editorial Team
+Publication Ethics and Malpractice
+Open Access and Copyright Policy
+Submissions
+Contact
+Announcements
+Search
+Register
+Login
+Home
+/
+Archives
+/
+Vol. 10 No. 2 (2022)
+/
+Articles
+The Determinants of Fake News Adaptation during COVID-19 Pandemic: A Social Psychology Approach
+Authors
+Choon Ling Kwek
+Tunku Abdul Rahman University College, Kuala Lumpur, Malaysia
+Ke Shin Yeow
+Tunku Abdul Rahman University College, Kuala Lumpur, Malaysia
+Li Zhang
+Tunku Abdul Rahman University College, Kuala Lumpur, Malaysia
+Kay Hooi Keoy
+UCSI University, Malaysia
+Genaro Japos
+North Eastern Mindanao State University, Philippines
+DOI:
+https://doi.org/10.32871/rmrj2210.02.05
+Keywords:
+adaptation, 											collectivism, 											social support, 											social endorsement, 											perceived credibility, 											issue involvement
+Abstract
+Because of COVID-19, people have felt the social distance and have resorted to the internet for information needs. Hence, fake news has become prevalent as people rely on information explored online. This research aims to examine the social-cultural impacts of fake news adaptation behavior from the social psychological perspective by investigating the relationship between collectivism, social support, sense of belonging, social endorsement, fear of missing out, perceived credibility, issue involvement, and adaptation on fake news among young adults in Malaysia. A quantitative research approach with an online self-administered survey was conducted, and 451 responses were obtained through snowball sampling. In the data analysis, measurement and structural equation modeling were adopted. Findings showed that the relationships among adaptation behaviors on fake news were significantly supported. This research consummates the understanding of the influences of social-cultural (collectivism) on the judgment formation of adaptation among internet users on fake news.
+References
+Akbar, Z., Toma, I., Garcia, J. M., & Fensel, D. (2015). Measuring the impact of content adaptation on social media engagement. In A. Mesquita & P. Peres (Eds.), Proceedings of the 2nd European conference on social media: ECSM 2015 (pp. 1-10). Academic Conferences and Publishing International Limited. https://books.google.com.ph/books?id=VDU7CgAAQBAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false
+Alt, D. (2015). College students’ academic motivation, media engagement and fear of missing out. Computers in Human Behavior, 49, 111-119. https://doi.org/10.1016/j.chb.2015.02.057
+Arpaci, I., & Baloğlu, M. (2016). The impact of cultural collectivism on knowledge sharing among information technology majoring undergraduates. Computers in Human Behavior, 56, 65-71. https://doi.org/10.1016/j.chb.2015.11.031
+Baltar, F., & Brunet, I. (2012). Social research 2.0: Virtual snowball sampling method using Facebook. Internet Research, 22(1), 57-74. https://doi.org/10.1108/10662241211199960
+Baumeister, R. F., & Leary, M. R. (1995). The need to belong: Desire for interpersonal attachments as a fundamental human motivation. Psychological Bulletin, 117(3), 497-529. https://pubmed.ncbi.nlm.nih.gov/7777651/
+Behar-Horenstein, L. S., & Feng, X. (2017). Dental student, resident, and faculty attitudes toward treating Medicaid patients. Journal of Dental Education, 81(11), 1291-1300. https://doi.org/10.21815/JDE.017.087
+Beyens, I., Frison, E., & Eggermont, S. (2016). I don’t want to miss a thing: Adolescents’ fear of missing out and its relationship to adolescents’ social needs, Facebook use, and Facebook related stress. Computers in Human Behavior, 64, 1-8. https://doi.org/10.1016/j.chb.2016.05.083
+Bhawuk, D. P. (2017). Individualism and collectivism. In Y.Y. Kim (Ed.), The international encyclopedia of intercultural communication. John Wiley & Sons, Inc. https://doi.org/10.1002/9781118783665.ieicc0107
+Bond, R. M., Settle, J. E., Fariss, C. J., Jones, J. J., & Fowler, J. H. (2017). Social endorsement cues and political participation. Political Communication, 34(2), 261-281. https://doi.org/10.1080/10584609.2016.1226223
+Borah, P., & Xiao, X. (2018). The importance of ‘likes’: The interplay of message framing, source, and social endorsement on credibility perceptions of health information on Facebook. Journal of Health Communication, 23(4), 399-411. https://doi.org/10.1080/10810730.2018.1455770
+Chua, A. Y. K., & Banerjee, S. (2018). Rumors and rumor corrections on Twitter: Studying message characteristics and opinion leadership. In 2018 4th international conference on information management (ICIM) (pp. 210-214). IEEE. https://doi.org/10.1109/INFOMAN.2018.8392837
+Chung, M. (2016). Social endorsement effects on message processing: Cross-cultural analysis. Journal of Communication Arts, 34(3). https://so02.tci-thaijo.org/index.php/jcomm/article/view/86008
+Cohen, J. (1988). Statistical power analysis for the behavioral sciences (2nd ed.). Routledge. https://doi.org/10.4324/9780203771587
+Datta, R., Yadav, A. K., Singh, A., Datta, K., & Bansal, A. (2020). The infodemics of COVID-19 amongst healthcare professionals in India. Medical Journal Armed Forces India, 76(3), 276-283. https://doi.org/10.1016/j.mjafi.2020.05.009
+Fornell, C., & Cha, J. (1994). Partial least squares. In R.P. Bagozzi (Ed.), Advanced methods of marketing research (pp52-78). Basil Blackwell. https://books.google.com.ph/books?id=bOxUEAAAQBAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false
+Fornell, C., & Larcker, D. F. (1981). Evaluating structural equation models with unobservable variables and measurement error. Journal of Marketing Research, 18(1), 39-50. https://doi.org/10.1177/002224378101800104
+Gardner, A. N. (2019). User's ability to detect fake news in online environments [Master’s thesis, University of Louisville]. ThinkIR The University of Louisville’s Institutional Repository. https://ir.library.louisville.edu/etd/3143/
+Gardner, R. G., Harris, T. B., Li, N., Kirkman, B. L., & Mathieu, J. E. (2017). Understanding “it depends” in organizational research: A theory-based taxonomy, review, and future research agenda concerning interactive and quadratic relationships. Organizational Research Methods, 20(4), 610-638. https://doi.org/10.1177/1094428117708856
+Geisser, S. (1974). A predictive approach to the random effect model. Biometrika, 61(1), 101-107. https://doi.org/10.2307/2334290
+Germani, A., Buratta, L., Delvecchio, E., & Mazzeschi, C. (2020). Emerging adults and COVID-19: The role of individualism-collectivism on perceived risks and psychological maladjustment. International Journal of Environmental Research and Public Health, 17(10), 3497. https://doi.org/10.3390/ijerph17103497
+Goodwin, R., & Plaza, S.H. (2000). Perceived and received social support in two cultures: Collectivism and support among British and Spanish students. Journal of Social and Personal Relationships, 17(2), 282-291. https://doi.org/10.1177/0265407500172
+Guo, T. C., & Cheng, Z. C. (2016). Sense of belonging based on novel posting: Individuals’ processes of social and psychological integration into virtual groups. Online Information Review, 40(2), 204-217. https://doi.org/10.1108/OIR-06-2015-0198
+Hair, J. F. Jr., Hult, G. T. M., Ringle, C. M., & Sarstedt, M. (2017). A primer on partial least squares structural equation modeling (PLS-SEM) (2nd ed.). SAGE Publications.
+Hajli, M. N., Sims, J., Featherman, M., & Love, P.E.D. (2015). Credibility of information in online communities. Journal of Strategic Marketing, 23(3), 238-253. https://doi.org/10.1080/0965254X.2014.920904
+Hui, E. C. M., Wong, F. K. W., Chung, K. W., & Lau, K. Y. (2014). Housing affordability, preferences and expectations of elderly with government intervention. Habitat International, 43, 11-21. https://doi.org/10.1016/j.habitatint.2014.01.010
+Hutcheon, L. (2013). A theory of adaptation (2nd ed.). Routledge.
+Kastenmüller, A., Greitemeyer, T., Jonas, E., Fischer, P., & Frey, D. (2010). Selective exposure: The impact of collectivism and individualism. The British Journal of Social Psychology, 49(4), 745-763. https://doi.org/10.1348/014466609X478988
+Keshavarz, R., & Baharudin, R., (2009). Parenting style in a collectivist culture of Malaysia. European Journal of Social Sciences, 10(1), 66-73. http://psasir.upm.edu.my/id/eprint/16042/
+Kliem, S., Mößle, T., Rehbein, F., Hellmann, D. F., Zenger, M., & Brähler, E. (2015). A brief form of the perceived social support questionnaire (F-SozU) was developed, validated, and standardized. Journal of Clinical Epidemiology, 68(5), 551-562. https://doi.org/10.1016/j.jclinepi.2014.11.003
+Kline, R.B. (2010). Principles and practice of structural equation modeling (3rd ed.). Guilford Press.
+Kumar, S., Huang, B., Cox, R. A. V., & Carley, K. M. (2021). An anatomical comparison of fake-news and trusted-news sharing pattern on Twitter. Computational and Mathematical Organization Theory, 27, 109-133. https://doi.org/10.1007/s10588-019-09305-5
+Lobburi, P. (2011). The influence of organizational and social support on turnover intention in collectivist contexts. Journal of Applied Business Research, 28(1), 93-104. https://doi.org/10.19030/jabr.v28i1.6687
+Love, M. S. (2007). Security in an insecure world: An examination of individualism‐collectivism and psychological sense of community at work. Career Development International, 12(3), 304-320. https://doi.org/10.1108/13620430710745917
+Lui, P. P., & Rollock, D. (2018). Greater than the sum of its parts: Development of a measure of collectivism among Asians. Cultural Diversity and Ethnic Minority Psychology, 24(2), 242-259. https://doi.org/10.1037/cdp0000163
+Malaysian Communications and Multimedia Commission. (2018). Internet users survey 2018: Statistical brief number twenty-three. Retrieved June 13, 2020, from https://www.mcmc.gov.my/skmmgovmy/media/General/pdf/Internet-Users-Survey-2018.pdf
+Malhotra, N. K. (2019). Marketing research: An applied orientation (7th ed). Pearson Education.
+Manalu, S.R., Pradekso, T., & Setyabudi, D. (2018). Understanding the tendency of media users to consume fake news. Jurnal Ilmu Komunikasi, 15(1), 1-16. https://doi.org/10.24002/jik.v15i1.1322
+McBeath, M. L. (2015). Sense of belonging, peer support, and social media: Examining the mental health, well-being and school to work transitions of co-operative and non-co-operative education students [Master's thesis, University of Waterloo]. UWSpace. https://uwspace.uwaterloo.ca/bitstream/handle/10012/10096/McBeath_Margaret.pdf;sequence=5
+McCroskey, J. C., & Young, T. J. (1981). Ethos and credibility: The construct and its measurement after three decades. Central States Speech Journal, 32(1), 24-34. https://doi.org/10.1080/10510978109368075
+Messing, S., & Westwood, S. J. (2012). Selective exposure in the age of social media: Endorsements trump partisan source affiliation when selecting news online. Communication Research, 41(8), 1042-1063. https://doi.org/10.1177/0093650212466406
+Nunnally, J.C. (1978). Psychometric theory (2nd ed.). McGraw-Hill.
+Podsakoff, P. M., MacKenzie, S. B., Lee, J. Y., & Podsakoff, N. P. (2003). Common method biases in behavioral research: A critical review of the literature and recommended remedies. Journal of Applied Psychology, 88(5), 879-903. https://doi.org/10.1037/0021-9010.88.5.879
+Preacher, K. J., & Hayes, A. F. (2008). Asymptotic and resampling strategies for assessing and comparing indirect effects in multiple mediator models. Behavior Research Methods, 40(3), 879-891. https://doi.org/10.3758/brm.40.3.879
+Quick, B. L., & Stephenson, M. T. (2007). Authoritative parenting and issue involvement as indicators of ad recall: An empirical investigation of anti-drug ads for parents. Health Communication, 22(1), 25-35. https://doi.org/10.1080/10410230701310273
+Quick, B. L., Scott, A. M., & Ledbetter, A. M. (2011). A close examination of trait reactance and issue involvement as moderators of psychological reactance theory. Journal of Health Communication, 16(6), 660-679. https://doi.org/10.1080/10810730.2011.551989
+Ramayah, T. J. F. H., Cheah, J., Chuah, F., Ting, H., & Memon, M. A. (2017). Partial least squares structural equation modeling (PLS-SEM) using smartPLS 3.0: An updated guide and practical guide to statistical analysis. Pearson. https://www.researchgate.net/publication/312460772_Partial_Least_Squares_Structural_Equation_Modeling_PLSSEM_using_SmartPLS_30_An_Updated_and_Practical_Guide_to_Statistical_Analysis
+Rampersad, G., & Althiyabi, T. (2020). Fake news: Acceptance by demographics and culture on social media. Journal of Information Technology & Politics, 17(1), 1-11. https://doi.org/10.1080/19331681.2019.1686676
+Rapp, D. N., & Salovich, N. A. (2018). Can’t we just disregard fake news? The consequences of exposure to inaccurate information. Behavioral and Brain Sciences, 5(2), 232-239. https://doi.org/10.1177/2372732218785193
+Segev, S., Wang, W., & Fernandes, J. (2014). The effects of ad–context congruency on responses to advertising in blogs: Exploring the role of issue involvement. International Journal of Advertising, 33(1), 17-36. https://doi.org/10.2501/IJA-33-1-017-036
+Setia, M. S. (2016). Methodology series module 3: Cross-sectional studies. Indian Journal of Dermatology, 61(3), 261-264. https://doi.org/10.4103/0019-5154.182410
+Sherman, L. E., Payton, A. A., Hernandez, L. M., Greenfield, P. M., & Dapretto, M. (2016). The power of the like in adolescence: Effects of peer influence on neural and behavioral responses to social media. Psychological Science, 27(7), 1027-1035. https://doi.org/10.1177/0956797616645673
+Shmueli, G., Sarstedt, M., Hair, J. F., Cheah, J. H., Ting, H., Vaithilingam, S., & Ringle, C. M. (2019). Predictive model assessment in PLS-SEM: Guidelines for using PLSpredict. European Journal of Marketing, 53(11), 2322-2347. https://doi.org/10.1108/EJM-02-2019-0189
+Soundy, A., Roskell, C., Elder, T., Collett, J., & Dawes, H. (2016). The psychological processes of adaptation and hope in patients with multiple sclerosis: A thematic synthesis. Open Journal of Therapy and Rehabilitation, 4, 22-47. https://doi.org/10.4236/ojtr.2016.41003
+Srite, M., & Karahanna, E. (2006). The role of espoused national cultural values in technology acceptance. MIS Quarterly, 30(3), 679-704. https://doi.org/10.2307/25148745
+Stone, M. (1974). Cross-validation and multinomial prediction. Biometrika, 61(3), 509-515. https://doi.org/10.1093/biomet/61.3.509
+Talwar, S., Dhir, A., Kaur, P., Zafar, N., & Alrasheedy, M. (2019). Why do people share fake news? Associations between the dark side of social media use and fake news sharing behavior. Journal of Retailing and Consumer Services, 51, 72-82. https://doi.org/10.1016/j.jretconser.2019.05.026
+Tandoc, E. C. Jr., Ling, R., Westlund, O., Duffy, A., Goh, D., & Lim, Z. W. (2018). Audiences’ acts of authentication in the age of fake news: A conceptual framework. New Media & Society, 20(8), 2745-2763. https://doi.org/10.1177/1461444817731756
+United Nations. (2020, April 13). During this coronavirus pandemic, ‘fake news’ is putting lives at risk: UNESCO. https://news.un.org/en/story/2020/04/1061592
+Voorhees, C. M., Brady, M. K., Calantone, R., & Ramirez, E. (2016). Discriminant validity testing in marketing: An analysis, causes for concern, and proposed remedies. Journal of the Academy of Marketing Science, 44, 119-134. https://doi.org/10.1007/s11747-015-0455-4
+Wheeler, J. D. III. (2017). How do you like me now? An examination of college students’ use of social media sites [Sociology honors thesis, Bridgewater State University]. Bridgewater State University Virtual Commons. https://vc.bridgew.edu/cgi/viewcontent.cgi?article=1243&context=honors_proj
+Wiggins, B. E. (2017). Navigating an immersive narratology: Factors to explain the reception of fake news. International Journal of E-Politics, 8(3), 16-29. https://doi.org/10.4018/IJEP.2017070102
+Yoon, H. J., & Tinkham, S. F. (2013). Humorous threat persuasion in advertising: The effects of humor, threat intensity, and issue involvement. Journal of Advertising, 42(1), 30-41. https://doi.org/10.1080/00913367.2012.749082
+Yuan, K. H., Bentler, P. M., & Zhang, W. (2005). The effect of skewness and kurtosis on mean and covariance structure analysis: The univariate case and its multivariate implication. Sociological Methods & Research, 34(2), 240-258. https://doi.org/10.1177/0049124105280200
+Downloads
+FULL PAPER
+Published
+2022-12-31
+How to Cite
+Kwek, C. L., Yeow, K. S., Zhang, L., Keoy, K. H., & Japos, G. (2022). The Determinants of Fake News Adaptation during COVID-19 Pandemic: A Social Psychology Approach. Recoletos Multidisciplinary Research Journal, 10(2), 19–39. https://doi.org/10.32871/rmrj2210.02.05
+More Citation Formats
+ACM
+ACS
+APA
+ABNT
+Chicago
+Harvard
+IEEE
+MLA
+Turabian
+Vancouver
+Download Citation
+Endnote/Zotero/Mendeley (RIS)
+BibTeX
+Issue
+Vol. 10 No. 2 (2022)
+Section
+Articles
+License
+Copyright (c) 2022 University of San Jose-Recoletos
+This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
+Copyright of the Journal belongs to the University of San Jose-Recoletos
+Information
+For Readers
+For Authors
+For Librarians
+Make a Submission
+Make a Submission
+Recoletos Multidisciplinary Research Journal Copyright @2017
+Center for Policy, Research, and Development Studies
+Contact Number: 032-2537900 loc. 244
+Email: recoletos_journal@usjr.edu.ph
+Print ISSN: 2423-1398
+Online ISSN: 2408-3755
