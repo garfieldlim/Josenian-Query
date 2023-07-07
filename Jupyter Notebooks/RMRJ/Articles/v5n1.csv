@@ -1,0 +1,108 @@
+Title,Keywords,Author,DOI,Abstract,References,Published Date,Link
+Integration of Specular Reflector in a Dual Axis Solar Tracker,"specular reflector assembly, solar tracker, solar collectors, solar reflectors","Teofrenz A. Ycot, John Vincent L. Tiansing, Michaela B. Aliganga, Rachel Mabanag Chong, Jun-Jun Alegrado Obiso",https://doi.org/10.32871/rmrj1705.01.01,"In the Philippines, the installation of solar panels on the rooftops of residential and commercial buildings has increased in popularity. Even if the country has high solar insolation, energy conversion is still inefficient since the solar panel arrays are not always facing in perpendicular to the sun. Technologies related to increasing the solar panel efficiency such as solar trackers are usually complex and expensive. This problem is addressed by designing a low cost dual axis solar tracker with the integration of specular reflector system. The dual axis tracker system can move the panel and the reflector assembly in a precise and controlled manner to ensure maximum output. This was achieved by using a LDR (Light Dependent Resistor) compass assembly, gear system, and stepper motor mechanism. To measure the solar panel output, a voltage sensing circuit was incorporated instead of using the existing optical and time-based techniques. The system performance was tested in both the controlled and the actual environments. Experimental data have shown that when the panel is perpendicular to the light source, the system yields maximum energy. The need for a tracking and planar reflector system is notably important when the light source moves away from the normal because this results to a significant drop of the panelâ€™s average efficiency. The addition of the tracker alone had greater enhancement effect than with the specular reflector only. The tracker boosts the efficiency by 69.55% while the specular reflector boosts it by only 15.12%. Combining the tracker and the specular reflector yields the best result with a 92.33% boost on the average efficiency.","Baccoli, R., Mastino, C.C., Innamorati, L. (2015). A mathematical model of a solar collector augmented by a flat plate above reflector: optimum inclination of collector and
+reflector.Energy Procedia (81), 205-214.
+
+Bentaher, H. 2014). A simple tracking system to monitor solar PV panels. Energy Conversion and Management (78), 872-875.
+
+Dang, A. (1986). Collector, collector-reflector systems-an analytical and practical study.Energy Conversion Management (26), 33-39
+
+Garg, H.P., Hrishikesan, D.S. (1988). Enhancement of solar energy on flat-plate collector by Plane booster mirrors. Solar Energy (40), 295-307.
+
+Gunerhan, H.and Hepbasli, A. (2007). Determination of the optimum tilt angle of solar collectors for building applications. Build.Env., (42), 779-783
+
+Ideriah, F.J.K.and Suleman, S.O. (1989). Sky condition at Ibadan during 1975-1980. Solar Energy,31(1), 119-124
+
+Kostic, L.T., Pavlovic, T.M., Pavlovic, Z.T. (2010). Optimal design of orientation of PV/T collector with reflectors. Applied Energy (87), 3023-3029
+
+Oko, C. and Nnamchi. (2012). Optimum collector tilt angles for low altitudes. The Open Renewable Energy Journal (5). 7-14",2017-10-11,https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/210
+Social Media Character Assessment for Talent Selection using Natural Language Processing,"social media analytics, text mining, NLP","Jovelyn Cuizon, Kent Ferolino",https://doi.org/10.32871/rmrj1705.01.02,This study aims to use social media data as corpus to assess personâ€™s character to provide a preliminary background check on job seekers. It will provide recruiters an initial assessment of the candidates as well as supplementary information to support traditional recruitment and talent acquisition activities thereby reducing time and cost spent for character investigation. The application uses social media analytics to assign a social profile score. Unstructured text data are preprocessed to include only keywords which are relevant to the analysis. Word sense disambiguation is applied to determine the underlying meaning of the words. The bag-of-word is then checked for occurrence of associated words defined for each factor. Posts containing at least one occurrence of words associated with the factors are further tested for content polarity. Social character score is computed using proposed formula. The system recommends applicants based on skills and uses social character score for relevancy ranking of candidates relative to the job posts.,NA,2017-10-11,https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/245
+Discursive Strategies in Negotiating Power: The Case of a Female Radio Show Host,"media discourse, discourse strategies, power, solidarity","Claudette Arcelon Baluran, Nancy Simoy Surmieda",https://doi.org/10.32871/rmrj1705.01.03,"Language as a major contestation site for power can manifest linguistic behavior between sexes to negotiate their power.Â  Framed within the poststructuralist framework, this study explored a female radio hostâ€™s discursive strategies to negotiate power in the context of Philippine media.Â  Dominant discourse strategies identified include topic control, utterance length, minimal response, and overlapping.Â  Topic control was utilized to dominate the flow of discourse while utterance length was used to minimize turns thereby allowing the female host to establish dominance during the live conversations. Although considered a weak discourse strategy, minimal responses were used not solely for the purpose of solidarity but to introduce the female radio show hostâ€™s ideas.Â  Overlapping was another strategy identified to control and negotiate power.Â  On an interesting note, prosodic elements were found to be likewise used to negotiate power.Â  The study sheds light on previously claimed weak discourse strategies identified with women.Â  Weak language in this study as well as discourse strategies associated with men has been found to be used by women as means to an endâ€”asÂ  a strategy to negotiate positions of dominance within power relations involving the opposite sex.","Cunha, et al. (2014). He Votes or she votes? female and male discursive strategies in Twitter political hashtags. Retrieved June 12, 2016 from
+
+Eckert, P. & Ginet-McConnet, S. (2003). Language and Gender. USA: Cambridge University Press, New York
+
+Fairclough, N. (1989). Language and power. New York: Longman Group UK Ltd.
+
+Kendall, S. and Tannen, D. (2015). Discourse and gender. in The Handbook of Discourse Analysis, 2nd Edition, ed. by Tannen, D., Hamilton, H., and Schiffrin, D. UK: John Wiley & Sons, Ltd.
+
+Lakoff, R. (1975). Language and womanâ€™s place. Harper and Row, New York, N.Y.
+
+Lakoff, R. (2003). The handbook of language and gender, ed. by Holmes, J. and Meyerhoff, M. USA: Blackwell Publishing Ltd.
+
+Tannen, D. (1989). Interpreting Interruption in Conversation. Papers from the 25th Annual Regional Meeting of the Chicago Linguistic Society. Part Two: Parasession on Language in Context, ed. byBradley Music, Randolph Graczyk, and Caroline Wiltshire, 266-87. Chicago: Chicago Linguistic Society
+
+Tannen, D. (1993). Women and Men in Conversation. The Workings of Language: From Prescriptions to Perspectives, ed. by Wheeler, R. London: Praeger
+
+Wilkinson, S. and Kitzinger, C. (2011). Conversation Analysis. Continuum Companion to Discourse Analysis, ed. by Hyland, K. and Paltridge, B. London: Continuum International Publishing Group
+
+Weedon, Cris. (2003). â€œSubjectsâ€. in A Concise Companion to Feminist Theory. Ed. Eagleton, Mary. UK: Blackwell Publishing Ltd., 2003. Print.
+
+Yieke, (2007) Gender and Topic Management in Discourse: The Glass Ceiling as a Reality for Women in Corporate Kenya. Stichproben. Wiener Zeitschrift fÃ¼r kritische Afrikastudien Nr. 13/2007, 7. Jg. Retrieved June 12, 2016 from https://stichproben.univie.ac.at/fileadmin/ user_upload/ p_stichproben/Artikel/Nummer13/Nr13_Yieke.pdf",2017-10-11,https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/242
+Teaching Indigenous Peace Concepts from Visayan Fisherfolks and Farmers through the Course Philosophy of the Human Person,"Life, Environment, Teaching of Peace, Indigenous Peace Concepts","Guiraldo Centino Fernandez, Sister Geraldine D Villaluz, RSCJ",https://doi.org/10.32871/rmrj1705.01.04,"This paper presents ways in teaching indigenous peace concepts from Visayan fisherfolks and farmers through their integration to the teaching of the Philosophy of the Human Person. This study aims to determine fisherfolks and farmers' notions of peace through the qualitative research method of hermeneutic phenomenology. This study finds out that the respondents understand peace through the concept of Kinabuhi sa Kinaiyahan , Gugma sa Isig ka TawoÂ  and Pagsalig ug Pagtuo sa Ginoo. These concepts are fit to be integrated in the four significant lessons of the course. This study concludes that this research has given marginalized people a chance to air their voices. This studyÂ also concludes that the integration Â  of indigenous peace concepts has made the teaching of Philosophy more meaningful and relevant.","Ajos, R. (1997). Teaching the Meaning of Peace in Schools.The Modern Teacher,Vol xlvi(3), 95.
+
+Congress of the Republic of the Philippines. (2013, May 15). Republic Act 10533. Retrieved June 6, 2016, from http://www.gov.ph/2013/05/15/republic-act- no-10533/
+
+Creswell J. W. 2007. Qualitative Inquiry and Research Design: Choosing Among Five Approaches, 2nd edn. Sage Publications, California.
+
+Dy, M. (2001).Philosophy of Man: Selected Readings. Makati City: Goodwill Trading Company, Incorporated.
+
+Maboloc, R. (2011). Philosophy of Man: The Existential Drama. Manila: Rex Book Store.
+
+Moga,M. (1995). What Makes a Man Truly Human?: A Philosophy of Man and Society. Manila:Saint Paulâ€™s Publication.
+
+Ortega, P. A. (Ed.). (2014). Visayan-Cebuano-English Dictionary. Cebu City, Philippines: Ropredave Book Supply.
+
+Pe-Pua, R. (Ed.).(2011). Sikolohiynag Pilipino. Quezon City: University of the Philippines Press.
+
+Read, A. (Ed.). (2004). The New International Webster's Comprehensive Dictionary of the English Language. Naples, Florida: Typhoon International Corporation.
+
+Routley, R. and Routley, V. (1982). â€œHuman Chauvinism and Environmental Ethicsâ€ in Don Mannison, Michael McRobbie and Richard Routley (eds), Environmental Philosophy. Canberra: Australian National University 96-189.
+
+Streblow, L., & Flores, R. (2007).The New Websterâ€™s Standard Dictionary with Philippinesâ€™s Major Eight and Special Supplements Encyclopedic, International, Illustrated, and Revised Edition (Revised ed., Vol. 1 and 2). Manila, Philippines: Kimball Enterprises
+
+Tirol, J. B. (2010). Kapulungan Dictionary: Binisaya-Iningles. Tagbilaran City: University of Bohol Research Center.
+
+Umali, G. (2013, June). Lagtang. Retrieved September 25, 2015, from Philippine Medicinal Plants: http://www.stuartxchange.com/Lagtang.html
+
+Wolff, J. (1972). A Dictionary of Cebuano-Visayan. New York, Cornell Univeristy Southeast Asia Program (Volume 1 and 2).",2017-10-12,https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/231
+Moral Life in Socratesâ€™ Ethical Intellectualism,"Socrates, Ethical Doctrine, Moral Life, Wisdom, Virtue, Ethical Intellectualism",Sheldon Ives G. Agaton,https://doi.org/10.32871/rmrj1705.01.05,"A moral life is indispensable to every human person. In the present day society where morality may vary from one understanding to another, there is a risk that its conception may be misconstrued by certain individuals. It is important in order for man to have a better understanding of what a moral life should be. A person who possesses a significant understanding of a moral theory like the Socratic ethics will have an underlying ethical foundation essential in facing situations that threaten his moral standards and beliefs. It is a fact that culture may play a role in the consideration of morality for a particular society, but this paper will focus on the individual personâ€™s concept of morality as taught by Socrates. Ethical Intellectualism is a standard of morality that may be imbibed and applied by the human person. It is an ancient method that can still hold true until today. This paper is an interpretation Socratesâ€™ Ethical Intellectualism regarding a moral person side by side with every individual personâ€™s ideal state of moral life.","Agapay, R. B. (2010). Ethics and the Filipino. Mandaluyong City: National Bookstore.
+
+Albert, E. M., Denise, T. C., & Peterfreund, S. P. (1969). Great Traditions in Ethics. Manila: Litton Educational Publishing, Inc.
+
+Brickhouse, T. C., & Smith, N. D. (2010). Socratic Moral Psychology. Cambridge, England: Cambridge University Press.
+
+Cahn, S. M., & Markie, P. (2009). Ethics: History, Theory, and Contemporary Issues. Oxford: Oxford University Press.
+
+Copleston, F. (1993). A History of Philosophy. United States of America: Doubleday.
+Corpuz, R. M., Dela Cruz, R. G., Estoque, R. S., & Tabotabo, C. V. (2007). Ethics: Standards of Human Conduct. Manila: Mindshapers Co., Inc.
+
+Editorial, T. M. (2013, December 2). The Manila Times. Retrieved from Slow Pace of Justice Worsening: http://www.manilatimes.net/slow-pace-of-justice-worsening/57526/
+
+Fernandez, A. (1996). Teologia Moral: Moral Fundamental I, 2a Edicion. Burgos, EspaÃ±a: Ediciones de Aldecoa.
+
+Glenn, P. J. (2010). Ethics: A Class Manual in Moral Philosophy. USA: Kessinger Publishing.
+
+Kant, I. (1803). Online Library of Liberty: A Collection of Scholarly Works about Individual liberty and Free Markets. Retrieved from Online Library of Liberty: http://oll.libertyfund.org/titles/kant-kant-on-education-uber-padagogik
+
+Long, G. (2014, February 3). The Philosophy of Antoninus. Retrieved from Bartleby: Great Books Online: http://www.bartleby.com/2/3/14.html
+
+MacLeod, I. (2016, September 21). Slow, Inefficient and Costly: Canada's criminal justice system needs urgent reform, report finds. Retrieved from National Post: http://nationalpost.com/news/politics/slow-inefficient-and-costly-canadas-criminal-justice-system-needs-urgent-reform-report-finds
+
+Mill, J. S. (1863). Utilitarianism.
+
+Miranda, J. R. (2016). 'Edukasyon sa Pagpapakatao' and Education for the Love of the World. Social Ethics Society, 65-78.
+
+Moore, B. G. (1980). Great Teachers: Their Philosophic Thoughts Applied to Formal Educatio. New York: Carlton Press, Inc.
+
+Panopio, I., & Raymundo, A. (2015). Sociology: Focus on the Philippines. Philippines: Ken Incorporated.
+
+Parry, R. (2014, August 13). Ancient Ethical Theory. Retrieved from Stanford Encyclopedia of Philosophy: https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=ethics-ancient
+
+Plato. (1956). Protagoras. Indianapolis: The Bobbs-Merrill Company, Inc.
+
+Plato. (1989). The Republic and Other Works. USA: Anchor Books.
+
+Principe, J. D. (2013). Socrates' Sailings: Philosophy in the Phaedo. Suri, 24-35.
+
+Segvic, H. (2000). No One Errs Willingly: The Meaning of Socratic Intellectualism. Oxford, England.
+
+Valdes, D. H. (2013). Socrates on Egoism. Does he say we should be virtuous and egoist? Revista Co-Herencia, 41-56.",2017-10-12,https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/205

@@ -1,0 +1,365 @@
+Title,Keywords,Author,DOI,Abstract,References,Published Date,Link
+Perfect Outer-connected Domination in the Join and Corona of Graphs,"perfect dominating set, outer-connected dominating set, perfect outer-connected dominating set","Enrico Enriquez, Valerie Fernandez, Teodora Punzalan, Jonecis Dayap",https://doi.org/10.32871/rmrj1604.02.01,"Let G be a connected simple graph. A dominating set S ⊆ V(G) is called a perfect dominating set of G if each u ∈ V(G) \ S is dominated by exactly one element of S. A set S of vertices of a graph G is an outer-connected dominating set if every vertex not in S is adjacent to some vertex in S and the subgraph induced by V(G) \ S is connected. A perfect dominating set S of a graph G is a perfect outer-connected dominating set if the subgraph induced by V(G) \ S is connected. The perfect outer—cormected domination number of G, denoted by γpc (G), is the smallest cardinality of a perfect outer-connected dominating set S of G. A perfect outer-connected dominating set with cardinality γpc (G) is called γpc-set of G. In this paper, we will show that given positive integers, a, b, c, and n such that a ≤ b ≤ c ≤ n — 1, there exists a connected graph G with |V(G)| = n, γ(G) = a, γp (G) = b, and γpc (G) = c. Further, we give the characterization of the perfect outer-connected dominating set of the join and corona of two graphs and give their corresponding perfect outer-connected domination number.","[1] B. Arriola, and S. Canoy, Jr., Doubly Connected Domination in the Corona and Lexicographic Product of Graphs. Applied Mathematical Sciences, Vol. 8, 2014, no. 31, 1521-1533.
+[2] E.J. Cockayne, B.L. Hartnell, S.T. Hedetniemi and R. Laskar, Perfect domination in graphs, J. Combin. Inform. System Sci. 18(1993), 136-148.
+[3] E.J. Cockayne, and S.T. Hedetniemi Towards a theory of domination in graphs, Networks, (1977) 247-261.
+[4] D.P. Salve and E.L. Enriquez Inverse Perfect Domination in Graphs, Global Journal of Pure and Applied Mathematics. Vol. 12, No. 1 (2016), pp. 1-10. http://www.ripublication.com/gjpam.",2016-12-31,https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/165
+Disjoint Secure Domination in the Join of Graphs,"dominating set, secure dominating set, inverse secure dominating set, disjoint secure dominating set.","Jonecis Dayap, Enrico Enriquez",https://doi.org/10.32871/rmrj1604.02.02,"Let G = (V(G),E(G)) be a simple connected graph. A dominating set S in G is called a secure dominating set in G if for every u âˆˆ V (G) \ S, there exists v âˆˆ S âˆ© NG(u) such that (S \ {v}) âˆª {u} is a dominating set. The minimum cardinality of secure dominating set is called the secure domination number of G and is denoted by Î³s(G). A secure dominating set of cardinality Î³s(G) is called Î³s-set of G. Let D be a minimum secure dominating set in G. The secure dominating set Â Â SâŠ† V(G)\D is called an inverse secure dominating set with respect to D. The inverse secure domination number of G denoted by Î³sâˆ’1(G) is the minimum cardinality of an inverse secure dominating set in G. An inverse secure dominating set of cardinality Î³sâˆ’1(G) is called Î³sâˆ’1-set. A disjoint secure dominating set in G is the set C = D âˆª S âŠ† V(G). The disjoint secure domination number of G denoted by Î³Î³r(G) is the minimum cardinality of a disjoint secure dominating set in G. A disjoint secure dominating set of cardinality Î³Î³s(G) is called Î³Î³s-set. In this paper, we show that every integers k and n with k âˆˆ {2, 4, 5, ...n âˆ’ 1, n} is realizable as disjoint secure domination number, and order of G respectively. Further, we give the characterization of the disjoint secure dominating set in the join of two graphs.","[1] C.M. Mynhardt, H.C. Stwart and E. Ungerer Excellent trees and secure domination, Utilitas Math 67(2005) 255-267.
+[2] E.C. Castillano, R.L. Ugbinada, and S.R. Canoy,Jr. Secure domination in the join of graphs, Applied Mathematical Sciences, 8 (105), 5203-5211.http://dx.doi.org/10.12988/ams.2014.47519
+[3] E.J. Cockayne, and S.T. Hedetniemi Towards a theory of domination in graphs, Networks, (1977) 247-261.
+[4] E.J. Cockayne, O. Favaron and C.M. Mynhardt Secure domination, weak Roman domination and forbidden subgraphs, Bull. Inst. Combin. Appl.39(2003) 87-100.
+[5] E.J. Cockayne, Irredundance, secure domination and maximum degree in trees, Discrete Math, 307(2007) 12-17.
+[6] E.L. Enriquez Secure restrained domination in the Join and Corona of graphs, Global Journal of Pure and Applied Mathematics, 12(1) 507-516.
+[7] E.L. Enriquez and E.M. Kiunisala Inverse Secure domination in graphs,Global Journal of Pure and Applied Mathematics, 12(1) 147-155.
+[8] G. Chartrand and P. Zhang. A First Course in Graph Theory, Dover Publication, Inc., New York, 2012.
+[9] M. Hedetnieme, S.T. Hedetniemi, R.C. Laskar, L.R. Markus, P.J. Slater, Disjoint Dominating Sets in Graphs, Proc. of ICDM, (2006), 87-100
+[10] O. Ore. Theory of Graphs. American Mathematical Society, Provedence,R.I., 1962.
+[11] V.R. Kulli and S.C. Sigarkanti, Inverse domination in graphs, Nat. Acad.Sci. Letters, 14(1991) 473-475.",2016-12-31,https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/162
+Inverse Clique Domination in Graphs,"dominating set, clique dominating set, inverse clique dominating set","Carmelita Loquias, Enrico Enriquez, Jonecis Dayap",https://doi.org/10.32871/rmrj1604.02.03,Let G be a connected simple graph. A nonempty subset S of the vertex set V (G) is a clique in G if the graph <S> induced by S is complete. A clique S in G is a clique dominating set if it is a dominating set. Let C be a minimum clique dominating set in G. The clique dominating setÂ Â Â  SâŠ†V(G)\C is called an inverse clique dominating set with respect to C. The minimum cardinality of inverse clique dominating set is called an inverse clique domination number of G and is denoted by Î³cl âˆ’1 (G). An inverse clique dominating set of cardinality Î³cl âˆ’1(G) is called Î³cl âˆ’1-set of G. In this paper we investigate the concept and give some important results.,"[1] E.J. Cockayne, R.M. Dawes and S.T. Hedetniemi, Total domination in graphs, Networks 10, (1980) 211-219.
+[2] E.J. Cockayne, and S.T. Hedetniemi, Towards a theory of domination in graphs, Networks 7, (1977) 247-261.
+[3] E.S. Wolk, A note on the comparability graph of a tree, Proc. Amer. Math. Sot. 16 (1965) 17-20.
+[4] L.L. Kelleher and M.B. Cozzens, Dominating sets in social network graphs, Math. Social Sci., Vol. 16, no. 3 1988, 267-279.
+[5] M.B. Cozzens and L. Kelleher, Dominating cliques in graphs, Discrete Mathematics, 86 (1990), 101 - 116. http://dx.doi.org/10.
+[6] O. Ore. Theory of Graphs. American Mathematical Society, Provedence, R.I., 1962.13
+[7] T. V. Daniel and Sergio R. Canoy, Jr., Clique domination in a Graph, Applied Mathematical Sciences, Vol. 9, 2015, no. 116, 5749 - 5755",2016-12-31,https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/163
+Optimal Scheduling of Battery Energy Storage for Grid-Connected Load Using Photovoltaic System (PV) via Binary Particle Swarm Optimization (BPSO),"Binary particle swarm optimization, battery energy storage system, photovoltaic system, interruptible load program, time-of-use scheme","Eduardo D. Piedad Jr., Marc Edwin F. Montilla, Mark Joseph E. Ortega",https://doi.org/10.32871/rmrj1604.02.04,"This paper presents an optimal dispatch of battery storage and its economic viability with a photovoltaic system. There are four modelled scenarios based on the combination of interruptible load program and the time-of-use scheme. The scenarios were modelled using a Binary Particle Swarm Optimization and were simulated using Matlab v6. In all the scenarios, this model successfully optimizes the battery dispatch scheduling while simultaneously minimizes the DUâ€™s penalty from exceeding the maximum allowable power demand. This algorithm also optimizes the linearly forecasted demand for the next six year for all the scenarios. Then, an economic analysis for the possible investment to the combined BESS and PV system is conducted through the comparison of the payback periods of each scenario. The first scenario is implemented without ILP and a ToU scheme and has 79.86 payback years. With ILP scheme only, the second scenario has 33.37 payback years. Then the third scenario with ToU scheme only has a 30.29 payback years. Finally, the fourth scenario, with both ILP and ToU schemes, shows the fastest recovery of the investment with 21.57 payback years. Thus the combination of both ILP and ToU schemes provide the best economic benefit. Though the current proposed system is still not economically feasible however the foreseen positive trends on solar and battery technologies will make this system viable.",NA,2016-12-31,https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/198
+"Practices of Entomophagy and Entomotherapy in Cebu Island, Philippines","Entomophagy, Entomotherapy, Entomology, Key Informants","Jake Joshua Chi Garces, Zanrda O. Jarito, Leslie Ann T. Barriga, Froilen C. Domecillo, Nimfa R. Pansit",https://doi.org/10.32871/rmrj1604.02.05,"The different features of entomophagy and entomotherapy practiced by the key informants and local villagers in Cebu Island, Philippines were documented.A survey was conducted in remote areas of Barangay Alambijud, Argao and BarangayLusaran, Cebu City, Cebu from June-October,2012 to discover the medicinal and edible uses of different insect species in these sites. Fourteen key informants were identified with the aid of two sampling methods- snowball technique and purposive sampling. Open-ended questionnaires were employed to obtain authentic and significant information from the key informants. An inventory on the knowledge on the wild edible and medicinal insects in the study areas is presented here. Results showedthat these key informants profusely utilized wide range of biological resources in diverse ways, and thus contribute to their daily activities. As a whole, the factors that influenced their entomological practices include their socio-demographic and educational background, accessibility to urban societies and the open availability of certain resources particularly the insects they use and the influence brought about by their family and community. Moreover, these informants had different insects used in their practices, and they had their ways of preparing and administering these as medicines and food. Regardless of these differences, all of them were able to perceive that the insects used as medicine and food were equally beneficial to them.Traditional knowledge regardingentomotherapy and entomophagy in Cebu is very essential since folk medicine is still one of the most important resources for food and discovery of unknown natural drug resources. It is indicated that these medicinal and edible insects are comparable with other conventional food commodities by incorporating scientific validation to the traditional knowledge.","Adalla, C.B. &Cervancia C. R. (2008). Philippine edible insects: a new opportunity to bridgethe protein gap of resources-poor families and to manage pests. University of the Philippines, Los Banos. College of Agriculture; Institute of Biological Sciences.
+
+Alhassan, A.J., Sulel, M.S, Hsassan A, Baba B.A., Aliyu, A., &Aliyu, M.D. (2009). Proximate andElemental Composition of White Grubs.Bayero Journal of Pare and Applied Sciences. Vol 2(2):188-190.
+
+Andary, C., Motte-Florac, E., Ramos-Elorduy, J., &Privat, A. (1996). Chemical screening: Updated methodology applied to medicinal insects. The 3rd European Colloquium on Ethnopharmacology and 1st International Conference of Anthropology and History of Health and Disease. Abstracts, ErgaEdizione. s.p., Genes.
+
+Amorim, J. P. (1963). Medicina Popular emAlagoas, DepartamentoEstadual de Cultura, Maceio Ì.
+
+Antonio, T. M. F. (1994). Insects as remedies in Zaire. The Food Insects Newsletter. Vol. 7(3): 4â€“5.
+
+Atkinson, P., & Coffey, A. (2004). Analyzing documentary realities. In: D. Silverman, (Ed.), Qualitative research: Theory, method and practice in London: Sage Publications Ltd. pp. 45â€“62
+
+Bodenheimer, F.S. (1951). Insects as Human Food: A Chapter of the Ecology of Man. TheHague: Dr. W. Junk, Publisher. 352.
+
+Bonnet, D.D. (1948). Certain Aspects of Medical Entomology in Hawaii.Proc. Hawn. Ent.Soc. Vol. 8(2):225-233.
+
+Brooks, M.A. (1964). Symbiotes and the Nutrition of Medically Important Insects.Bull WildHealth Org. Vol. 31: 555-559.
+
+Burnham, T., & Phelan, J. (2012). Mean genes: From sex to money to food: Taming our primal instincts. Basic Books.
+
+Cameron, K. (2010). Entomotherapy: Revolting Recipes or Marvellous Medicine(Internet). Animal Sciences; (cited 2012 July 22). Retrieved from:http://cabiblog.typepad.com/hand_picked/2010/06/entomotherapy-revolting-
+recipes-or-marvellous-medicine.html
+
+Che, S.J.& Li, C.H. (1996). Current situation and development strategy of insect food. China:Food and Nutrition. Vol. 4, 14-17.
+
+Chen, X.M., &Feng, Y. (1999). Edible insects in China, Beijing.China: Science and Technology Press.
+
+Chen, Z.Y. (2008). Insect world and human society. Guang Zhou:Zhongshan University Press.
+
+de Conconi E and Moreno, J.M. (1988). The Utilization of Insects in the empiricalmedicine of ancient Mexicans. Journal Ethnobiology.Vol. 8(2):195-202.
+
+Costa-Neto, E.M.C. (2002). The Use of Insects in Folk Medicine in the State of Bahia,Northeastern Brazil: with Notes on Insects Reported Elsewhere in Brazilian Folk Medicine. Human Ecology.Vol. (2): 254-263.
+
+Conconi, J. R. E., &Pino, M. J. M. (1988). The utilization of insects in the empirical medicine
+of ancient Mexicans. Journal of EthnobiologyVol. 8(2): 195â€“202.
+
+DeFoliart, G.R. (2002). The Human Use of Insects as a Food Resource: A BibliographicAccount in Progress. Retrieved from: http://www.food-insects.com.
+
+Dong,W.G., &Gao, J.R. (2005). High nutrition insect food-black grasshopper. Food and Drug.); Vol. (7) 62-63.
+
+Etefar-Oskouei, T. &Najafi, M. (2013). Traditional and Modern Uses of Natural Honey in Human Diseases: A Review. Iran J. Basic Med Sci. Vol 16 (6). Pp. 731-742.
+
+Food and Agriculture Organizations (2010). Edible insects. Future prospects for food and feed security. FAO Forestry Paper. ISSN. 0258-6150.
+
+Garcia, V.R., Marti, N., Medade, T., Tanner, &Vadez, S.V. (2007). Concepts and Methods instudies measuring individual Ethnobotanical knowledge.Journal of Ethnobiology. Vol. 27(2):182203.
+
+Gautam, A. P., Shivakoti, G. P., & Webb, E. L. (2004). A review of forest policies, institutions, and changes in the resource condition in Nepal. International forestry review, 6(2), 136-148.
+
+Ghosh, A. (1982). Sengupta T: Handbook on Insect collection, presentation and studyKolkata.India: ZoolSurv.
+
+Godfray, H. C. J., Beddington, J. R., Crute, I. R., Haddad, L., Lawrence, D., Muir, J. F., ... &Toulmin, C. (2010). Food security: the challenge of feeding 9 billion people. science, Vol. 327(5967), 812-818.
+
+Kyale, S. (1996). An Induction to Qualitative Research Interviewing. Sage Publications.
+
+Keiter, R. B. (1998). Ecosystems and the law: toward an integrated approach. Ecological Applications, Vol. 8(2), 332-341.
+
+Lin, N.Y., Liu, W.Z., &Li, W.L. (2000). Study on the Chemical Components of Blapsjapanensis
+yunnanenis Mars.Chinese Journal of Ethnomedicine and Ethnopharmacy. Vol. 3, 162-164. 186.
+
+Manyi-Loh, C.E., Clarke, A.M. &Ndip, R.N. (2011). An overview of honey: Therapeutic properties and contribution in nutrition and human health. African Journal of Microbiology Research. Vol. 5(8), pp. 844-852. Available online: http:// www.academicjournals.org/ajmr.doi:10.5897/AJMR10.008.ISSN 1996-0808. Academic Journal.
+
+Mason, J. (1996). Qualitative researching. Thousand Oaks, CA: Sage Publications, Inc.
+
+McNamara, C. (1999). General Guidelines for conducting Interviews.Minisota Publication.
+
+Meiselman, H. L. (1996). The contextual basis for food acceptance, food choice and food intake: the food, the situation and the individual. In Food choice, acceptance and consumption. Springer US, pp. 239-263.
+
+Meyer-Rochow, V.B. (2009). Food taboos: their origins and purposes. Journal of Ethnobiology and Ethnomedicine.Vol. 5(18):1-10.
+
+Mitsuhashi, J. (2008). Sekaikonchushokotaizen Tokyo, YasakaShobo.
+
+Molan, P. (2001). Why honey is effective as medicine: 2. The scientific explanation of its effects. Bee world, Vol 82(1), pp.22-40.
+
+Molan, P.C. & Betts, J.A. (2004). Clinical usage of honey as a wound dressing: an update. J. Wound Care. Vol. 5:40-54.
+
+Narzari, S. &Sarmah, J. (2015). A study on the prevalence of entomophagy among Bodos of Assam. E-ISSN: 2320-7078. Journal of Entomology and Zoology Studies. 3(2): 315-320.
+
+Negri, M.C. &Hinchman, R.R. (1996). Plants that Remove Contaminants from the Environment. Laboratory Medicine. Vol. 27(1): 36-40.
+
+Nonaka, K. (2005). Ethnoentomology - Insect Eating and Human-Insect RelationshipTokyo, University of Tokyo Press; 2005.
+
+Oliver, P. (2006). The Sage Dictionary of Social Research Methods. Retrieved from: srmo.sagepub.com/view/the-sage-dictionary-of-social research-methods/n162.xml
+
+Orhan, F., Sekerel, B. E., Kocabas, C. N., Sackesen, C., Adalioglu, G., &Tuncer, A. (2003). Complementary and alternative medicine in children with asthma. Annals of Allergy, Asthma & Immunology, Vol. 90(6), 611-615.
+
+Pearce, D. W., & Turner, R. K. (1990). Economics of natural resources and the environment. JHU Press.
+
+Peng, W.Z., Luo, H.R., &Wang, K.Q. (2003). Present status and development Countermeasures
+In insect food industry.Human Agricultural Sciences. Vol. (3): 69-71.
+
+Pemberton, R.W. (1999). Insect and other Arthropads used as drugs in KoreanTraditional medicine.Journal Ethnopharmacol. Vol. (65): pp. 207-216.
+
+Posey, D.A. (1981). Wasps, Warrior and Fearless Men: Ethnoentomology of the KayapoIndians of Central Brazil.Journal Ethnobiology. Vol. 1(1): 165-174.
+
+Randolph, J. (2009). A Guide to Writing the Dissertation Literature Review. PracticalAssessment Research & Evaluation. Vol. 14 (13): 7. Retrieved from: pareonline.net/pdf/v14n13.pdf
+
+Ranjit-Singh, A., Padmahatha, C. (2004). Ethnoentomological Practices in Tirunelvelidistrict,Tamil Nadu.Indian Journal of Traditional Knowledge. Vol. 3(4): 422-446.
+
+Rastogi N. 2011. Provisioning services from ants: food and pharmaceuticals. AsianMyrmecology. Vol. (4): 103-120.
+
+Reim, H. (1962). Die Insektennahrung der australischenUreinwohner Berlin, AkademieVerlag.
+
+Rendel, M., Mayer. C., Weninger. W.,&Tschachler, E. (2001). Topically Applied of lactic acidincreases spontaneous secretion of muscular endothelial growth factor by human constructed epidermis. Br. J Dermatol. Vol. 145: 3-9.
+
+Reynaldo, J., Santos, A. (1999). Cronbach's Alpha: A Tool for Assessing the Reliability of ScalesJournal of Extension. Vol. 37 (2).Retrieved from: http://www.joe.org/joe/1999april/tt3.php
+
+Rosales, M.C. (2010). Buhisan Insect Attact: Damage teak trees producing new leaves(Internet). The Freeman.Retrieved from: www.philstar.com/Article.aspx?articleId=599618&publicationSubCategoryId=107
+
+Savithramma, N., Sulochana, C., & Rao, K. N. (2007). Ethnobotanical survey of plants used to treat asthma in Andhra Pradesh, India. Journal of Ethnopharmacology, 113(1), 54-61.
+
+Sabre, Z.L., Kambhampati, S.,& Moran, N.A. (2009). Nitrogen recycling and nutritionalprovisioning by Blattabacterium, the cockroach endosymbion. ProcNatlAcadSci USAVol. 106 (46). Retrieved from: doi: 10. 1073/pnas. 0907504106.
+
+Silverman, D. (2006). Interpreting qualitative data: Methods for analyzing talk, text and interaction (3rd ed.) Thousand Oaks, CA: Sage Publications Ltd.Available online: www.ijiit.webs.com
+
+Shantibala, T., Lokeshwari, R.K. &Debaraj-Sharma, H. (2012). Entomophagy Practices among the ethnic communities of Manipur, North-east India. International Journal of Integrative Sciences, Innovation and Technology. ISSN 2278-1145.
+
+Srivastava, S.K., Babu, N.,& Pandey, H. (2008). Traditional insects biorefeeling â€“ As humanfood and medium. (NRCWA) National Research Centre for Women in Agriculture. P.O. Baramunda, Bhubaneswar 751003, Urissa.
+
+Starr, C.K. (1993). YamiEthnoentomology. Taipei: Field Materials.InstittuteEthnol, Acad.Sinica. Vol. (8):117-134.
+
+Stepp, J.R. (2005). Advances in Ethnobiological Field Methods Vol. (11); 17 (3):211-218. Available from: doi: 10.117/1525822xo5277459.
+
+Thapa, R. (2012). Honeybees of Nepal: diversity, beekeeping, and medical products ofBee products. Sansik Journal. Vol. (11). 4: 1-9.
+
+Van Hui, A (2003). Insects as food in Sub-Saharan Africa. Insect SciApplic. Vol 23:163-185.
+
+Van Trijp, H. C., & Steenkamp, J. B. E. (1992). Consumers' variety seeking tendency with respect to foods: measurement and managerial implications. European Review of Agricultural Economics, Vol. 19(2), 181-195.
+
+Xiaoming, C., Ying, F., Hong, Z. &Zhiyong, C. (2010). Review of the nutritive value of edible insects. In P.B. Durst, D.V. Johnson, R.L. Leslie. & K. Shono, eds. Forest insects as food: humans bite back, proceedings of a workshop on Asia-Pacific resources and their potential for development. Bangkok, FAO Regional Office for Asia and the Pacific.
+
+Yang, G.H. (1998). Utilization and Industrialization of Insect Resources in China, Beijing.China: Agricultural Press.
+
+Yen, A.L. (2010). Edible insects and other invertebrates in Australia: future prospects. InP.B. Durst, D.V. Johnson, R.L. Leslie. & K. Shono, eds. Forest insects as food: humans bite back, proceedings of a workshop on Asia-Pacific resources and their potential for development. Bangkok, FAO Regional Office for Asia and the Pacific.pp. 65â€“84.
+
+Yen, A.L. (2012). Edible insects and management of country. Ecological Management & Restoration, 13(1): 97â€“99.
+
+Yi, C., He, Q., Wang, L., &Kuang, R. (2010). The Utilization of Insect-resources in ChineseRural Area. Journal of Agriculture Science. Vol. 2(3): 146-154. Available from: www.ccsenet.org/jas.pdf
+
+Wang, X.Q., Chen, C.Q., &Zhao, H. (2002). Rearing Clanisbilineaca in soybean field and its profit. Entomological Knowledge. Vol. 39(1): 30-33.",2016-12-31,https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/122
+Maximizing the Storage Capacity of Free Cloud Storage Providers,"Abstracted cloud storage, data warehousing, centralized cloud service, free larger storage capacity","Marisa Mahilum Buctuanon, Kristine Joanne I. Tigue, Ralph J. Pepito",https://doi.org/10.32871/rmrj1604.02.06,"This study aims to resolve the problem on the free cloud storage services. With innumerable providers, data and files are dispersed across multiple cloud repositories. Users try to have multiple accounts on the same cloud storage provider or to sign up for an account from different providers. Hence, Fuse creates an illusion of a larger capacity of data volume that will be made available for free for public consumption. With Fuse, files are consolidated and managed in a sophisticated manner to ensure data preservation and performance efficiency.Â  This centralized cloud service is made to utilize todayâ€™s emerging cloud services such as Google Drive, Dropbox, and Box. With 1 account, users will be able to store files online and access them anywhere with larger storage capacity than what is available today.","Abu-Libdeh, H., Princehouse, L., & Weatherspoon, H. (2010, June). RACS: A Case for Cloud Storage Diversity. In Proceedings of the 1st ACM symposium on Cloud computing (pp. 229-240). ACM.
+
+Adammbalogh/box-php-sdk. (n.d.). Retrieved from https://goo.gl/8Mrczf
+
+API Reference. (n.d.). Retrieved from https://goo.gl/mnasQQ
+
+Butler, B. (2015, June 09). 19 free cloud storage options. Retrieved March 17, 2017, from https://goo.gl/h4KfTm
+
+Fisher, S. (n.d.). 17 Free Cloud Storage Services - No Strings Attached. Retrieved March 18, 2017, from https://goo.gl/SHqf2T
+
+Free APP to Combine Cloud Storage into One. (n.d.). Retrieved March 18, 2017, from https://goo.gl/votQLU
+
+Google Drive - Cloud Storage & File Backup for Photos, Docs & More. (n.d.). Retrieved from https://www.google.com.ph/drive/
+
+Box Developer Platform. (n.d.). Retrieved March 24, 2017, from https://docs.box.com/v2.0/reference
+
+Odrive | Combine all your storage. (n.d.). Retrieved from https://www.odrive.com/m/
+
+Otixo: Encryption and file manager for multiple clouds. (n.d.). Retrieved October 1, 2015.
+
+PHP Core API - Dropbox. (n.d.). Retrieved from https://goo.gl/5jvmz7
+
+PHP Quickstart. (n.d.). Retrieved from https://goo.gl/88cDUl
+
+Qian, L., Luo, Z., Du, Y., & Guo, L. (2009). Cloud computing: an overview. In Cloud Computing (pp. 626-631). Springer Berlin Heidelberg.
+
+Use Google Drive Api in Laravel 5. (n.d.). Retrieved from http://goo.gl/F7LYLw",2016-12-31,https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/202
+Drug Trafficking and the Socio-Political Economic Contexts in Selected Countries,"drug war, drug trafficking, illegal drugs, GDP, corruption index, drug laws","Englevert Pongan Reyes, Jose D. Velez Jr., Ma. Aira Chenessa C. Benitez",https://doi.org/10.32871/rmrj1604.02.07,"As international criticism of the Philippine governmentâ€™s war on drugs continues, this study aims to find out the rate of drug trafficking incidences of various countries in the world and explore how this is affected by the respective countriesâ€™ legal and socio-economic conditions, specifically: (1) Gross Domestic Product (GDP) per country, (2) public sectorâ€™s perceived corruption index, and (3) countryâ€™s legal standing on prohibited drugs. This study utilizes data mining or exploratory method. Data on the various variables were gathered from statistical reports from various reputable world agencies and subjected to statistical analysis in order to determine their significance in relation to drug trafficking.Â Of the three dimensions analyzed in this study, only economic and social factors show relationship to drug trafficking. Rich countries have less corruption; thus, they have better law-enforcement. As a result, they register more drug trafficking apprehensions. Corrupt countries however, have lower apprehensions; thus, registering a lower drug trafficking rate. Poor countries register higher corruption index and lesser apprehensions of illegal drugs. To fight drug trafficking, it is important to eradicate corruption in order to gain ground in the fight against drugs.The lone dimension that shows no relationship is the political dimension such as restrictive and non-restrictive government policies on drugs. This is corroborated by other studies that indicated a War on Drugs to be ineffective as compared to drug treatment.","Fazey, C. (2007). INTERNATIONAL POLICY ON ILLICIT DRUG TRAFFICKING: THE FORMAL AND INFORMAL MECHANISMS. Journal of Drug Issues, 37(4), 755-779. Retrieved from http://search.proquest.com/docview/208835058?accountid=33262
+
+Jenner, M. S. (2011). International drug trafficking: A global problem with a domestic solution. Indiana Journal of Global Legal Studies, 18(2), 901-927. Retrieved from http://search.proquest.com/docview/906065074?accountid=33262
+
+Morris, S. D. (2013). Drug trafficking, corruption, and violence in mexico: Mapping the linkages. Trends in Organized Crime, 16(2), 195-220. doi:http://dx.doi.org/10.1007/s12117-013-9191-7
+
+Garcia, R. R. (2003). Drug trafficking and its impact on colombia: An economic overview. Canadian Journal of Latin American & Caribbean Studies, 28(55), 277-304. Retrieved from http://search.proquest.com/docview/220282278?accountid=33262
+
+https://mic.com/articles/110344/14-years-after-portugal-decriminalized-all-drugs-here-s-what-s-happening#.4JgJBbv2c
+http://useconomy.about.com/od/glossary/g/Gdp-Per-Capita.htm
+
+S. (n.d.). United Nations Office on Drugs and Crime. Retrieved July 18, 2016, from https://www.unodc.org/unodc/en/data-and-analysis/WDR-2007.html
+
+Professor Robert Neild from Trinity College, Cambridge University wrote the book Public Corruption; The Dark Side of Social Evolution (London: Anthem Press, 2002)
+
+James Cockayne and Phil Williams, The Invisible Tide: Towards an International Strategy to Deal with Drug Trafficking Through West Africa (New York: International Peace Institute, 2009), p. 15
+
+Shelley L (2005) The unholy trinity: transnational crime, corruption, and terrorism. Brown J World Aff 11(2):101â€“111
+
+Floyd, L. J., Alexandre, P. K., Hedden, S. L., Lawson, A. L., Latimer, W. W., & Giles, N. (2010). Adolescent Drug Dealing and Race/Ethnicity: A Population-Based Study of the Differential Impact of Substance Use on Involvement in Drug Trade. The American Journal of Drug and Alcohol Abuse, 36(2), 87â€“91. http://doi.org/10.3109/00952991003587469
+http://www.legalmatch.com/law-library/article/drug-trafficking-penalties.html#sthash.EaR7pjAl.dpuf
+
+Fighting drug abuse, trafficking must be part of anti-poverty battle: UN chief. (2010, Jun 26). Xinhua News Agency - CEIS Retrieved from http://search.proquest.com/docview/521450459?accountid=33262
+
+Rafael Lorente Washington Bureau Staff Writer Doreen Hemlock contributed to,this report. (2005, Jun 05). ALL IS NOT WELL IN THE AMERICAS AS THE DELEGATES GATHER TODAY, THEY CONFRONT AN ARRAY OF PROBLEMS INCLUDING POLITICAL INSTABILITY, POVERTY, AND DRUG TRAFFICKING. South Florida Sun - Sentinel Retrieved from http://search.proquest.com/docview/389966854?accountid=33262
+
+'Poverty, corruption promote drug trafficking'. (2013, Oct 16). AllAfrica.Com Retrieved from http://search.proquest.com/docview/1442260675?accountid=33262
+REFERENCES:
+
+UN: Drug trafficking, terrorism, deepening poverty, among issues addressed as general assembly continues annual debate; new york city mayor addresses member states -- part 1 of 2. (2002, Sep 16). M2 Presswire Retrieved from http://search.proquest.com/docview/443890108?accountid=33262
+
+Williams, C. J. (2004, Jun 19). The world; haitians look to charge aristide; officials are reviewing government deals and financial records for evidence of corruption, and probing allegations of drug trafficking. Los Angeles Times Retrieved from http://search.proquest.com/docview/422088500?accountid=33262
+
+Morris, S. D. (2013). Drug trafficking, corruption, and violence in mexico: Mapping the linkages. Trends in Organized Crime, 16(2), 195-220. doi:http://dx.doi.org/10.1007/s12117-013-9191-7
+
+Thorton, Mark. 2007. https://www.independent.org/pdf/tir/tir_11_03_05_thornton.pdf
+
+Travis, A. (2014, October 29). Eleven countries studied, one inescapable conclusion â€“ the drug laws don't work. Retrieved July 18, 2016, from https://www.theguardian.com/society/2014/oct/30/drug-laws-international-study-tough-policy-use-problem
+
+(n.d.). Retrieved July 18, 2016, from http://www.drugwatch.org/resources/publications/position-statements-and-resolutions/163-against-legalization-or-decriminalization-of-drugs.html
+
+Thearling, K. (n.d.). Data Mining and Customer Relationships, What is data mining? (Retrieved February 25 2013, from http:// www.thearling.com/text/ whexcerpt/whexcerpt.htm",2016-12-31,https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/201
+Studentsâ€™ Grade vs. Teachersâ€™ Evaluation: An Empirical Validation,"midterm grade, teacherâ€™s evaluation, education",Jesse Sagayno Susada,https://doi.org/10.32871/rmrj1604.02.08,"The importance of studentâ€™s evaluation for promotion leads teachers to be lenient in exchange of a good evaluation result.Â  This study looks into the possible effects of midterm grades to the evaluation results of teachers at the end of the semester.Â  The study utilized data mining approach using midterm grades and evaluation results of full-time and part-time faculty members.Â  Both parametric and non-parametric analyses were employed in the study. Findings revealed a weak correlation between the midterm grades of students and their evaluation rating of teachers.Â  Looking at grading leniency versus teacher status, it was found out that grades of full-time faculty was significantly higher compared to part time and grades of tenured faculty was significantly higher compared to their probationary counterpart.Â  Therefore, administrators in higher education institution, who uses studentâ€™s evaluation result as a key indicator of instructorâ€™s effectiveness, should be very careful as these results might not represent the true performance of a teacher inside the classroom.","Barry, T. & Thomson, R. (1997). Some intriguing relationships in business teaching evaluations. Journal of Education for Business, 72, 303-311.
+
+Bolge, R. (1995). Examination of student learning as a function of instructor status (full-time versus part -time). ERIC Document Reproduction Service. ED 383, 241.
+
+Boretz, E. (2004). Grade inflation and the myth of student consumerism. College Teaching. 52, 42-47.
+
+Centra, J. A. (2003). Will teachers receive higher student evaluations by giving higher grades and less course work? Research in Higher Education, 44(5), 495-518. Doi:http://dx.doi.org/10.1023/A:1025492407752
+
+Clark, B. (1990). Comparison of the achievement of students taught by full-time versus adjunct faculty: Governance and management. ERIC Document Reproduction Service. ED 330, 261.
+
+Dâ€™Applonia, S. & Abrami, P. (1997). Navigating Studentâ€™s rating of instruction. American Psychologist, 52 1198-1208.
+
+Ehie, I.C., & Karathanos, D. (1994). Business faculty performance evaluation based on the new AACSB accreditation standards. Journal of Education for Business, 69, (5), 257-262.
+
+Filson, C., & Whittington, M. S. (2013). Engaging undergraduate students through academic advising. NACTA Journal, 57(4), 10-17.
+Gardner, Howard (1983). Frames of Mind: The Theory of Multiple Intelligences.
+
+Harisson, P.O., Douglas, O.K., & Burdsal, C.A. (2004). The relative merits of different types of overall evaluations of teaching effectiveness. Research in Higher Education, 45, 311-323.
+
+Isely, P., & Singh, H. (2005). Do higher grades lead to favorable student evaluations? Journal of Economic Education, 36(1), 29-42.
+
+Johnson, A. E., Pitts, S. T., & Kamery, R. H. (2006). The Effects Of Part-Time Instruction on Final Grades in The English Composition Course at a Comprehensive Iia University. Academy of Educational Leadership Journal,10(3), 23-35.
+
+Landrum, R. (1999). Student expectations of grade inflation. Journal of Research and Development in Education, 32(2), 124-128.
+
+Marks, R.B. (2000). Determinants of Students evaluations of global measures of instructor and course value. Journal of Marketing Education, 22, 108-119.
+
+McSpirit, S. & A. Chapman (2000). Faculty ironies in grade inflation. Journal of Instructional Psychology, 27(2), 7578.
+
+Pascale, PJ. (1979). Knowledge of final grade and effect on student evaluation of instruction. Educational Research Quarterly, 4(2), 52-57.
+
+Sander,W. & Krautmann A. (1999). Grades and Student evaluations of Teachers. Economics of Review Education. Volume 18 no. 1. Pages 59-63.
+
+Smith, G.S. (2004). Assessment Strategies: What is being measured in student course evaluations? Accounting Education, 13, 3-28.
+
+Sonner, B. & A. Sharland (1993). Grading differences between graduate teaching assistants and faculty members in the introductory marketing class. Journal of Marketing Education, 15(2), 44-49.
+
+Sonner, B. (2000). A is for ""Adjunct"": Examining grade inflation in higher education. Journal of Education for Business, 75(1), 5-10.
+
+Wiliams, W.M. & Ceci, S. J. (1997). â€œHoVm I doing?â€ Problems with student ratings of instructors courses. Change. 29, 13-23.
+
+Wright, R. E., & Palmer, J. C. (2006). A comparative analysis of different models explaining the relationship between instructor ratings and expected student grades. Educational Research Quarterly, 30(2), 3-18.",2016-12-31,https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/135
+Social Media in the National and International Arenas,"Social change, social media, national issues and concerns, viral posts, social media posts, viral videos, viral hit, social media post in other countries","Jose D. Velez Jr., Mark N. Abadiano",https://doi.org/10.32871/rmrj1604.02.09,"This paper aims to analyze the interest generated in social media of posts that were originally, just local or national concerns; yet, in time, became global phenomena. It studies two recent phenomena: the Arab Spring and Psysâ€™ Gangnam Style which demonstrate the transformative power of social media. Using secondary online data through data mining method, it looked into the Arab Spring incident and the popular video of Psy â€œThe Gangnam Style, â€œ which is a global Â sensation. Results reveal the spread of popularity across the world of the two from being mere national phenomena. Â This validates the theory used in this study.","Abadiano, M.N., Bonotan, A., &Makiling, R.V.(2014). The Dynamics of Netizens' Infor-mation- Sharing In Social Media: Why Do We Share Information In Social Media. Re-trieved https://www.academia.edu/20731653/The_Dynamics_of_Netizens_Information_Sharing_In_Social_Media_Why_Do_We_Share_Information_In_Social_Media.
+
+Briggs, C. (2010). â€œBlendTec Will It Blendâ€ A Viral Video Case Study. SociaLens. Retrieved from http:// www.socialens.com/wpcontent/uploads/2009/04/20090127_case_blendtec11.pdf.
+
+Carvajal, N. C. (July 12, 2013). ""NBI probes P10-B scam"". Philippine Daily Inquirer (Philippine Daily Inquirer, Inc.). Retrieved August 19, 2013.
+
+Caverlee, J. (2012). The Power of Social Media, Finding, Identifying, and evaluating online crowds for change.
+
+Carvajal, N. C. (July 16, 2013). ""Malampaya fund lost P900M in JLN
+racket"". Philippine Daily Inquirer (Philippine Daily Inquirer, Inc.). Retrieved August 19, 2013.
+
+Fletcher, D. (2010). Charlie Bit My Finger. Time. Retrieved from
+http://www.time.com/time/specials/packages/article/0,28804,1974961_1974925_1974954,00.html
+
+Hilderbrand, L. (2007). YouTube: Where Cultural Memory and Copyright Converge. Film Quarterly. 61: 48-58. Retrieved from http://caliber.ucpress.net/doi/abs/10.1525/fq.2007.61.1.48
+
+Li ,Jessica P., Shin K.S. and Sanders, G. L.(2007) about Prediction of Information Sharing Behavior in China: Understanding the Cultural and Social Determinants.
+
+Kaplan, A.M. (Marchâ€“April 2012). ""If you love something, let it go mobile: Mobilemarketing and mobile social media 4x4"". Business Horizons 55 (2): 129â€“139. Retrieved 9 December 2012.
+
+Kriewald, L. (2013). The Power of Social Media, Finding, Identifying, and evaluating online crowds for change.
+
+Rosenberg, B. (2010). What I Learned from YouTube. The Chronicle of Higher Education. 1-9. Retrieved from http://chronicle.com/article/What-I-Learned-From-YouTube/65141/
+
+Sagan, P. and Tom L. (2010). The Internet and the Future of News. Daedalus.139: 2. Retrieved from http://www.mitpressjournals.org/doi/pdf/10.1162/daed.2010.139.2.119
+
+Sheddy, C..2011). Social Media for Social Change: A Case Study of
+Social Media Use in the 2011 Egyptian Revolution
+
+SunStar (2013). PDAF â€œPork Barrel Newsâ€ retrieved from www.sunstar.com.ph dated july-november 2013
+
+
+Smith, A.( 2013). What PsyOfGangnam Style Could Teach Us About #SocialMedia, retrieved from https://anisesmithmarketing.com/2012/10/07/what-psy-of-gangnam-style-could-teach-us-about-socialmedia/ December 2, 2013.
+
+Southgate, W. (2010). Creative determinants of viral video viewing. International Journal of Advertising. 29: 349-368. Retrieved from www.millwardbrown.com/.../Creative_Viral_PoÂ¬tential-IAJ_v29n4_2010.sflb.ashx
+
+West, T.( 2011). Going Viral: Factors That Lead Videos to Become
+InternetPhenomenaThe Elon Journal of Undergraduate Research in 2011.",2016-12-31,https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/127
+Reality of Human Experience and the Search for Unity,"Philosophy, Philosophy of Man, human experience, unity.",Mario Mapote,https://doi.org/10.32871/rmrj1604.02.10,"Manâ€™s basic attitude towards reality determines his end.Â  Man either opts to accept reality and becomes an optimist or denies and becomes a pessimist.Â  The study presented the reality of human experience.Â  And these experiences of human reality all boil into the experience of oneâ€™s self and become a test of subjectivity.Â  In the history of philosophy of Man, this outlook into the experience of the self develops into three stages: first, dualism propagated by the Greeks and Aristotle turned into second, monism which extremely focused on one aspect of human reality in relation to man, then, turned into pluralism which views various aspects of man in relation to the kind of society that becomes the by-product of such development and yet makes the identity of man more complicated.Â  In the history of philosophy, human consciousness was so caught up in dualism between body and spirit-mind that became an issue for philosophers like the Greek such as Socrates, Plato and Aristotle and followers such as Augustine, Aquinas, Descartes and others until it split into extreme monism of either materialism or intellectualism-spiritualism developed into more complex pluralism that resulted to a pluralist society.Â  Hence, there is a call for unity especially for existential-phenomenologist in order to gather and link every piece of event and experience into a complete history of human reality as well as to form this experiential event called humanity.","Aquino, R., 1991, Man at Worship: A Philosophical Study of Religion, Lyceum of Aparri.
+
+Aquino, R., 1991, To Be Man: Essays on Philosophy of Man, Lyceum of Aparri.
+
+Cooke, V., 1975, Hans Kng on Propositions and their Problematic: A Critique, VM Cooke - Thomist: a Speculative Quarterly Review, 1975 - search. proquest.com, google scholar, retrieved June, 2016.
+
+Coplestone, F., 1985, A History of Philosophy, New York, Image.
+
+Cottingham, J., 2013, RenÃ© Descartes: Meditations on first philosophy: With selections from the objections and replies, R Descartes, J
+
+Cottingham - 2013 - books.google.com, google scholar, retrieved June, 2016.
+
+Dreyfus, H., 2009, Being-in-the-world: A Commentary on Heidegger's Being and Time, Division I, 2009, https://books.google.com, retrieved on June, 2016.
+
+Dy, M., 1986, Philosophy of Man, Manila, Goodwill Trading Co..
+Finley, J., 1976, Christian Morality and You, Notre Dame, Ave Maria Press.
+
+Gallagher, S, and D. Zahavi ., 2005, Conscience de Soi, [HTML] Phenomenological approaches to self-consciousness, S Gallagher, D
+Zahavi - 2005 - stanford.library. sydney.edu.au, google scholar, retrieved on June 2016,.
+
+Harbage, A., 1952, Shakespeare and the Rival Traditions, A Harbage - 1952 - New York, Macmillan, google scholar, retrieved on June, 2016.
+
+Ibana, R., 1991, A Lauer Reader: The Ateneo Collection, Manila, Ateneo De ManilaUniversity.
+
+John Paul II, 1984, Salvifici Doloris: Apostolic Letter of His Holiness pope John Paul II on the Christian Meaning of Human Suffering, John Paul II, Pasay, Daughter of St. Paul.
+
+Kierkegaard, S., 2004, Either/or: A fragment of life, S Kierkegaard - 2004 - books. google.com, retrieved on June, 2016.
+
+Luijpen, W., 1969, Existential phenomenology, W Luijpen - 1969 - philpapers.org, google scholar, retrieved on June, 2016.
+
+Luijpen, W., 1969, Introduction to Existential Phenomenology, Pittsburgh, Duquesne University Press.
+
+Marcel, G., 1951, The mystery of being, G Marcel, GS Fraser - 1951 â€“ dominicana journal.org, google scholar, retrieved on June, 2016.
+
+Nagel, T., 2012, Mind and cosmos: why the materialist neo-Darwinian conception of nature is almost certainly false, T Nagel - 2012 - books.google.com, retrieved June, 2016.
+
+Stambaugh, J. and DJ Schmidt., 2010, Being and time, M Heidegger, 2010 - books. google.com, retrieved on June, 2016.
+
+Stocks, J., 1915, Plato and the tripartite soul, JL Stocks - Mind, 1915 â€“ JSTOR, google scholar, retrieved on June, 2016.
+
+Rahner, K., 1975, Karl Rahner - 1975 - â€ŽPreview - â€ŽMore editions, Encyclopedia of Theology: A Concise Sacramentum Mundi - Page 158, https://books.google.com., retrieved on June, 2016.
+
+Sadala, M. and R. Adorno, 2002, Phenomenology as a method to investigate the experience lived: a perspective from Husserl and Merleau
+
+Ponty's thought - Journal of advanced nursing, 2002 - Wiley Online Library, google scholar, retrieved June, 2016.
+
+Wippel, J., 2000, The metaphysical thought of Thomas Aquinas: from finite being to uncreated being, - 2000 - books.google.com, retrieved on June, 2016.
+
+Wojtyla, K., 1979, The Acting Person, Analecta Husserliana, Dodrecht, D. Reidel Publishing Co..
+
+Vander Veken, J., 1987, God and Change: Process Thought and the Christian doctrine of God, Leuven, Center for Metaphysics and Philosophy of God.
+
+Vasquez, J. The power of power politics, JA Vasquez - 1983 â€“ JSTOR, google scholar, retrieved June, 2016.",2016-12-31,https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/206

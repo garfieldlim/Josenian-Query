@@ -1,0 +1,645 @@
+Title,Keywords,Author,DOI,Abstract,References,Published Date,Link
+"Angle Trisection, Bhaskaraâ€™s Proof, and Pythagorean Theorem","right angle, angle trisection, Bhaskaraâ€™s first proof, Pythagorean theorem",Emiliano C. De Catalina,https://doi.org/10.32871/rmrj2109.01.01,"This paper deals with 1) angle trisection, 2) Bhaskaraâ€™s first proof, and 3) Pythagorean theorem. The purpose of this paper is threefold. First, to show a new, direct method of trisecting the 900 angle using unmarked straight edge and compass; secondly, to show Bhaskaraâ€™s first proof of the Pythagorean theorem (c2 = a2 + b2) as embedded in this new, direct trisection of the 900 angle; lastly, to show the derivation of the Pythagorean theorem from this trisection of the 900 angle. This paper employs the direct dissection method. It concludes by presenting four points: a) the concept of trisectability as distinct from concept of constructability; b) the trisection of the 900 angle as really a new, different method; c) Bhaskaraâ€™s first proof of the Pythagorean theorem as truly embedded in this trisection of the 900 angle and; d) another way of deriving Pythagorean theorem from this trisection of the 900 angle.","Bailey, D. H. (2018). Simple proofs: The impossibility of trisection.
+https://mathscholar.org/2018/09/simple -proofs-the -impossibility- oftrisection/#:~:
+text=Gist%20of%20the%20proof%3A&text=Since%20the%20only%20
+numbers%20and,60%2Ddegree%20angle%20is%20impossible
+
+Bhat, R. (2019). Ram's theorem for trisection.
+https://www.researchgate.net/publication/331034329_Ram's_theorem_for_Trisection
+
+Bogomolny, A. (2016). Pythagorean theorem.
+https://www.cut-the-knot.org/pythagoras/
+
+Head, A. (n.d.). Pythagorean theorem. http://jwilson.coe.uga.edu/EMT668/EMT668.Student.Folders/HeadAngela/essay1/Pythagorean.HTML
+
+Heilbron, J. L. (2001). Trisecting the angle: Archimedes' method.
+In Britinnica Online Encyclopedia. Retrieved September 16, 2019, from
+https://www.britannica.com/topic/Trisecting-the-Angle-Archimedes-Method-724632
+
+Loomis, E. S. (1968). The pythagorean proposition.
+The National Council of Teachers of Mathematics, Inc. (ED037335). ERIC.
+https://files.eric.ed.gov/fulltext/ED037335.pdf
+
+Yates, R. C. (1971). The trisection problem. National
+Council of Teachers of Mathematics, Inc.(ED058058). ERIC.
+https://files.eric.ed.gov/fulltext/ED058058.pdf
+
+Zimba, J. (2009). On the possibility of trigonometric
+proofs of the Pythagorean theorem. Forum Geometricorum, 9.
+https://forumgeom.fau.edu/FG2009volume9/FG200925.pdf",2021-05-28,https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/987
+A Computer Vision Application for Measuring the Deflection in a Two-dimensional View of Reinforced Concrete Beams,"beam deflection, computer vision, dial gauge, structural member, reinforced concrete, reaction framework","Eduardo Jr. Piedad, Barne Roxette Carpio, Kristine Sanchez, Marven Jabian",https://doi.org/10.32871/rmrj2109.01.02,"A novel computer vision application is developed to measure the deflection of two-dimensional (2D) reinforced concrete structural members. Eight beam samples, with dimensions of 160 mm x 150 mm x 1400 mm are loaded and simulated under a four-point loading test until failure using a reaction framework machine. A camera is fixed at the center front view of the concrete beams to capture the deflection of the samples while testing. In each test, a dial indicator is installed and the maximum deflection is manually recorded. Based on the results, the maximum deflection values recorded by the proposed application obtained an average error of 18.38 % when compared to the manual measured results. This indicates that computer vision-based application can provide a beam-wide scale deflection performance, compared to the traditional point-based deflection reading. This study paves a new possibility of aiding manual measurements of concrete beams and all other structural studies.","American Society for Testing and Materials, International. (2001). Standard test method
+for density, relative density (specific gravity), and absorption of coarse aggregate, C127-15.
+ASTM International. 10.1520/C0127-15
+
+American Society for Testing and Materials, International. (2002). Standard practice
+for making and curing test specimens in the laboratory, C192-C192M-02. ASTM
+International. 10.1520/C0192_C0192M-02
+
+American Society for Testing and Materials, International. (2003). Standard test method
+for density, relative density and absorption of fine aggregate, C128-01. ASTM International.
+10.1520/C0128-01E01
+
+Bradski, G.,&Kaehler, A. (2008). Learning OpenCV: Computer vision with the OpenCV library.
+Oâ€™Reilly Media, Inc.
+
+Chaczko, Z., Yeoh, L. A., & Mahadevan, V. (2010, February 9-11). A preliminary investigation
+on computer vision for telemedicine systems using OpenCV [Conference session]. Second
+International Conference on Machine Learning and Computing, Bangalore, India.
+10.1109/ICMLC.2010.70
+
+Florczyk, S. (2005). Robot vision: Video-based indoor exploration with autonomous and
+mobile robots. WILEY-VCH Verlag GmbH & Co. KGaA.
+
+LÃ¼, C., Wang, X., & Shen, Y. (2013, December 16-18). A stereo vision measurement system
+based on OpenCV [Conference session]. 6th International Congress on Image and Signal
+Processing, Hangzhou, China. 10.1109/CISP.2013.6745259
+
+Maas, H. G., & Hampel, U. (2006). Photogrammetric techniques in civil engineering material testing
+and structural monitoring. Photogrammetric Engineering & Remote Sensing, 72(1),39-45.
+https://www.asprs.org/wp-content/uploads/
+
+Piedad, E. J. (2015). Civil-ivision. https://github.com/epiedadjr/civil-ivision.git
+
+Piedad, E.D. Jr., & Villeta, R. B. (2016). Displacement and illumination levels effect on shortdistance
+measurement errors of using a camera. Recoletos Multidisciplinary Research Journal, 4(1). https://doi.org/10.32871/rmrj1604.01.06
+
+Piedad, E. J., Le, T. T., Aying, K., Pama, F. K., & Tabale, I. (2019, October 17-20). Vehicle count system
+based on time interval image capture method and deep learning mask R-CNN [Conference session].
+TENCON 2019-2019 IEEE Region 10 Conference (TENCON), Kochi, India. 10.1109/TENCON.2019.8929426
+
+Vernon, D. (1991). Machine vision: Automated visual inspection and robot vision.
+Prentice-Hall International.",2021-05-28,https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/895
+Performance Evaluation of a Rice Hull-fueled Cabinet Food Dryer,"rice hull, cabinet food dryer, thermal conversion efficiency, energy use efficiency, heat utilization efficiency","Jerry B. Guanco, Leomarich F. Casinillo",https://doi.org/10.32871/rmrj2109.01.03,"This study was conducted to determine the technical performance of a rice hull-fueled cabinet food dryer. Data gathered from the drying performance in terms of drying behavior, drying rate, and dryer heat utilization efficiency using cassava chips was analyzed through an experimental design. The study also evaluated fuel consumption, thermal conversion efficiency, energy use efficiency, heat utilization efficiency, temperature distribution and economic performance. Results indicated that the dryer's average fuel consumption and the thermal conversion efficiency is 11.19 kg/hr and 6.17%. While the energy use efficiency is 41.51%, and the dryer efficiency is 11.79 %. The moisture reduction of the rice hull-fueled dryer is 8.156 kg/hr, and the heat utilization efficiency is 41.51%. The break-even of using the dryer is â‚± 4.988/kg; if rented out at â‚± 59.86/hr, the payback period is 0.988 batch/hr.","Adapa, P. K, Sokhansanj, S., & Schoenau, G. J. (2002). Performance study of a re-circulating cabinet dryer using a household dehumidifier. Drying Technology: An International Journal, 20(8), 1673-1689. https://doi.org/10.1081/DRT-120015407
+
+Boateng, A. A., Walawender, W. P., Fan, L. T., & Chee, C. S. (1992). Fluidized-bed steam gasification of rice hull. Bioresource Technology, 40(3), 235-239. https://doi.org/10.1016/0960-8524(92)90148-Q
+
+Brennan, J. G., Butters, J. R., Cowelli, N. D., & Lilly, A. E. V. (1976). Food engineering operations (2nd ed.). Applied Science Publishers Limited.
+
+Descoteaux, S., & Savoie, P. (2003, July 6-9). Development and evaluation of a dryer for big square hay bales [Paper presentation]. Canadian Society for Engineering in Agricultural, Food, and Biological Systems/ La Societe Canadienne de Genie Agroalimentaire et Biologique 2003 Meeting, Montreal Quebec. file:///C:/Users/imcmain/Downloads/DEVELOPMENT_AND_EVALUATION_OF_A_DDRYE_FOR_BIG_SQUA.pdf
+
+Erbay, Z., & Hepbasli, A. (2014). Advanced exergoeconomic evaluation of a heat pump food dryer. Biosystems Engineering, 124, 29-39. https://doi.org/10.1016/j.biosystemseng.2014.06.008
+
+Erbay, Z., & Hepbasli, A. (2017). Exergoeconomic evaluation of a ground-source heat pump food dryer at varying dead state temperatures. Journal of Cleaner Production, 142, 1425-1435. https://doi.org/10.1016/j.jclepro.2016.11.164
+
+Eze, J. I. (2010). Evaluation of the efficacy of a family sized solar cabinet dryer in food preservation. American Journal of Scientific and Industrial Research, 1(3), 610-617. 10.5251/ajsir.2010.1.3.610.617
+
+Gan, D. K. W., Loy, A. C. M., Chin, B. L. F., Yusup, S., Unrean, P., Rianawati, E., & Acda, M. N. (2018). Kinetics and thermodynamic analysis in one-pot pyrolysis of rice hull using renewable calcium oxide-based catalysts. Bioresource Technology, 265, 180-190. https://doi.org/10.1016/j.biortech.2018.06.003
+
+Gatea, A. A. (2010). Design, construction and performance evaluation of solar maize dryer. Journal of Agricultural Biotechnology and Sustainable Development, 2(3), 39-46. https://academicjournals.org/journal/JABSD/article-full-text-pdf/4842C16588
+
+Iranmanesh, M., Akhijahani, H. S., & Jahromi, M. S. B. (2020). CFD modeling and evaluation the performance of a solar cabinet dryer equipped with evacuated tube solar collector and thermal storage system. Renewable Energy, 145, 1192-1213. https://doi.org/10.1016/j.renene.2019.06.038
+
+Liu, Y., Guo, F., Li, X., Li, T., Peng, K., Guo, C., & Chang J. (2017). Catalytic effect of iron and nickel on gas formation from fast biomass pyrolysis in a micro fluidized bed reactor: A kinetic study. Energy Fuels, 31(11), 12278-12287. https://doi.org/10.1021/acs.energyfuels.7b02214
+
+Loy, A. C. M., Gan, D. K. W., Yusup, S., Chin, B. L. F., Lam, M. K., Shahbaz, M., Unrean, P., Acda, M. N., & Rianawati, E. (2018). Thermogravimetric kinetic modelling of in-situ catalytic pyrolytic conversion of rice husk to bioenergy using rice hull ash catalyst. Bioresource Technology, 261, 213-222. https://doi.org/10.1016/j.biortech.2018.04.020
+
+Luh, E. P. (1980). Rice production and utilization. AVI Publishing Company.
+
+McNaughton, A. (1983). Report of a seminar on energy conservation in food processing industries [Manuscript reports]. International Development Research Center. https://idl-bnc-idrc.dspacedirect.org/handle/10625/7048
+
+Pardhi, C. B., & Bhagoria, J. L. (2013). Development and performance evaluation of mixed-mode solar dryer with forced convection. International Journal of Energy and Environmental Engineering, 4(23). https://doi.org/10.1186/2251-6832-4-23
+
+Smith, D. W., Sims, B. G., & Oâ€™neil, D. H. (1994). Testing and evaluation of agricultural machinery and equipment: Principles and practices. Publications Division, Food and Agriculture Organization of the United Nations. http://www.fao.org/3/t1841e/t1841e.pdf
+
+Valchev, I., Lasheva, V., Tzolov, T., & Josifov, N. (2009). Silica products from rice hulls. Journal of the University of Chemical Technology and Metallurgy, 44(3), 257-261. https://dl.uctm.edu/journal/node/j2009-3/7_Lasheva_257-261.pdf
+
+Winzer, F., Kraska, T., Elsenberger, C., KÃ¶tter, T., & Pude, R. (2017). Biomass from fruit trees for combined energy and food production. Biomass and Bioenergy, 107, 279-286. https://doi.org/10.1016/j.biombioe.2017.10.027",2021-05-28,https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/962
+Utilization of Wastewater from Different Sources as Potential Electrical Energy Source,"wastewater, carbon electrodes, biofilm anode, microbial fuel cell, electrical energy","Melvin D. Hagonob, Leomarich F. Casinillo",https://doi.org/10.32871/rmrj2109.01.04,"This study is about the generated electricity from wastewater using carbon electrodes with the absence/presence of salt bridge through the biofilm anode of the microbial fuel cell (MFC) technology. The three wastewater samples used were from a pond, an abaca pulp mill, and rice fields. Results showed that one of the abaca pulp mill treatments, using carbon rod electrodes with salt bridge presence, reached the highest mean voltage and current to 578.7 mV and 0.2022 mV, respectively. The study revealed that the number of sensible power generation days, from start to end of experimentation, has a significant difference between treatments. Throughout the 20-day fermentation process, a total count of 8.94x105 colony forming units (CFU) per ml was found and purified from the biofilm anodes from pond wastewater. Likewise, 9.14x105 CFU per ml isolates from the abaca pulp mill, and 1.65x106 CFU per ml isolates from the rice field.","Abedinzadeh, N., Shariat, M., Monavari, S. M., & Pendashteh, A. (2018). Evaluation of color and COD removal by Fenton from biologically (SBR) pre-treated pulp and paper wastewater. Process Safety and Environmental Protection, 116, 82-91. https://doi.org/10.1016/j.psep.2018.01.015
+
+Ashoka, H., Shalini, R., & Bhat, P. (2012). Comparative studies on electrodes for the construction of microbial fuel cell. International Journal of Advanced Biotechnology and Research, 3(4), 785-789. https://www.researchgate.net/publication/325486176_COMPARATIVE_STUDIES_ON_ELECTRODES_FOR_THE_CONSTRUCTION_OF_MICROBIAL_FUEL_CELL
+
+Atanacio, M. A. R., Tan, D. L. S., & Amestoso, F. J. (2010). Cassava grates processing wastes as source of electrical energy. Annals of Tropical Research, 32(1), 55-71. https://doi.org/10.32945/atr3214.2010
+
+Banaticla, J. E. G., & Rivera, W. L. (2011). Detection and subtype identification of Blastocystis isolates from wastewater samples in the Philippines. Journal of Water and Health, 9(1), 128-137. 10.2166/wh.2010.127
+
+Brockway, P. E., Owen, A., Brand-Correa, L. I., & Hardt, L. (2019). Estimation of global final-stage energy-return-on-investment for fossil fuels with comparison to renewable energy sources. Nature Energy, 4, 612-621. https://doi.org/10.1038/s41560-019-0425-z
+
+Cheng, S., Liu, H., & Logan, B. E. (2006). Increased performance of single-chamber microbial fuel cells using an improved cathode structure. Electrochemistry Communications, 8(3), 489-494. https://doi.org/10.1016/j.elecom.2006.01.010
+
+Gellman, I. (1988). Environmental effects of paper industry wastewaters-an overview. Water Science and Technology, 20(2), 59-65. https://doi.org/10.2166/wst.1988.0046
+
+Gosse, J. L., Engel, B. J., Rey, F. E., Harwood, C. S., Scriven, L. E., &Flickinger, M. C. (2007). Hydrogen production by photoreactivenanoporous latex coatings of nongrowing Rhodopseudomonaspalustris CGA009. Biotechnology Progress, 23(1), 124-130. 10.1021/bp060254+
+
+Jardon, M. (2006, May 10). Microbial fuel cells from Rhodopherax ferrireducens.The Science Creative Quarterly. https://www.scq.ubc.ca/microbial-fuel-cells-from-rhodopherax-ferrireducens/
+
+Jensen, O., & Wu, H. (2018). Urban water security indicators: Development and pilot. Environmental Science & Policy, 83, 33-45. https://doi.org/10.1016/j.envsci.2018.02.003
+
+Kato Marcus, A., Torres, C. I., &Rittmann, B. E. (2007). Conduction based modeling of the biofilm anode of a microbial fuel cell. Biotechnology and Bioengineering, 98(6), 1171-1182. 10.1002/bit.21533.
+
+Kharbanda, P., Madaan, T., Sharma, I., Vashishtha, S., Kumar, P., Chauhan, A., Mittal, S., Bangruwa, J. S., &Verma, V. (2019). Ferrites: Magnetic materials as an alternate source of green electrical energy. Heliyon, 5, e01151. 10.1016/j.heliyon.2019.e01151
+
+Kim, J. R., Jung, S. H., Regan, J. M., & Logan, B. E. (2007). Electricity generation and microbial community analysis of alcohol powered microbial fuel cells. Bioresource Technology, 98(13), 2568-2577. https://doi.org/10.1016/j.biortech.2006.09.036
+
+Li, J. (2013). An experimental study of microbial fuel cells for electricity-generating: Performance characterization and capacity improvement. Journal of Sustainable Bioenergy Systems, 3(3), 171-178. 10.4236/jsbs.2013.33024
+
+Liu, J., Chen, X., Cao, S., & Yang, H. (2019). Overview on hybrid solar photovoltaic-electrical energy storage technologies for power supply to buildings. Energy Conversion and Management, 187, 103-121. https://doi.org/10.1016/j.enconman.2019.02.080
+
+Liu, X., Shi, L., &Gu, J. D. (2018). Microbial electrocatalysis: Redox mediators responsible for extracellular electron transfer. Biotechnology Advances, 36(7), 1815-1827. https://doi.org/10.1016/j.biotechadv.2018.07.001
+
+Logan, B. E. (2005). Simultaneous wastewater treatment and biological electricity generation. Water Science and Technology, 52(1-2), 31-37. 10.2166/wst.2005.0495
+
+Lyngberg, O. K., Ng, C. P., Thiagarajan, V., Scriven, L. E., &Flickinger, M. C. (2001). Engineering the microstructure and permeability of thin multilayer latex biocatalytic coatings containing E. coli. Biotechnology Progress, 17(6), 1169-1179. https://doi.org/10.1021/bp0100979
+
+Marzougui, H., Kadri, A., Martin, J. P., Amari, M., Pierfederici, S., & Bacha, F. (2019). Implementation of energy management strategy of hybrid power source for electrical vehicle. Energy Conversion and Management, 195, 830-843. https://doi.org/10.1016/j.enconman.2019.05.037
+
+Min, B., Kim, J.R., Oh, S.E., Regan, J. M., & Logan, B. E. (2005). Electricity generation from swine wastewater using microbial fuel cells. Water Research, 39(20), 4961-4968. https://doi.org/10.1016/j.watres.2005.09.039
+
+Panwar, N. L., Kaushik, S. C., & Kothari, S. (2011). Role of renewable energy sources in environmental protection: A review. Renewable and Sustainable Energy Reviews, 15(3), 1513-1524. https://doi.org/10.1016/j.rser.2010.11.037
+
+Rossi, R., Cario, B. P., Santoro, C., Yang, W., Saikaly, P. E., & Logan, B. E. (2019). Evaluation of electrode and solution area-based resistances enables quantitative comparisons of factors impacting microbial fuel cell performance. Environmental Science & Technology, 53(7), 3977-3986. 10.1021/acs.est.8b06004
+
+Ryu, H., & Kim, S. W. (2019). Emerging pyroelectric nanogenerators to convert thermal energy into electrical energy. Small. https://doi.org/10.1002/smll.201903469
+
+Tan, D. L. S., Tan, J. D., Atanacio, M.A.R., & Delantar, R. (2013). Potential of rootcrops as source of electrical energy. Annals of Tropical Research, 35(2), 22-39. 10.32945/atr3522.2013
+
+Treesubsuntorn, C., Chaiworn, W., Surareungchai, W., &Thiravetyan, P. (2019). Increasing of electricity production from Echinodosuscordifolius-microbial fuel cell by inoculating Bacillus thuringiensis. Science of the Total Environment, 686, 538-545. https://doi.org/10.1016/j.scitotenv.2019.06.063
+
+Zhang, Y., Liu, M., Zhou, M., Yang, H., Liang, L., &Gu, T. (2019). Microbial fuel cell hybrid systems for wastewater treatment and bioenergy production: Synergistic effects, mechanisms and challenges. Renewable and Sustainable Energy Reviews, 103, 13-29. https://doi.org/10.1016/j.rser.2018.12.027
+
+Zielke, E. A. (2005). Design of a single chamber microbial fuel cell. http://www.lacc-terryb.com/files/Engr_499_final_zielke.pdf",2021-05-28,https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/1011
+A Sound-based Machine Learning to Predict Traffic Vehicle Density,"vehicle density, sound features, sound intensity, machine learning, traffic prediction, random forest, artificial neural network, support vector machine","Geoferleen Flores, Eduardo Jr. Piedad, Anzeneth Figueroa, Romari Tumamak, Nesrah Jane Marie Berdon",https://doi.org/10.32871/rmrj2109.01.05,"Traffic flow mismanagement is a significant challenge in all countries especially in crowded cities. An alternative solution is to utilize smart technologies to predict traffic flow. In this study, frequency spectrum describing traffic sound characteristics is used as an indicator to predict the next five-minute vehicle density. Sound frequency and vehicle intensity are collected during a thirteen-hour data gathering. The collected sound intensity and frequency are then used to learn three machine-learning models - support vector machine, artificial neural network, and random forest and to predict vehicle intensity. It was found out that the performances of the three models based on root-mean-square-error values are 12.97, 16.01, and 10.67, respectively. These initial and satisfactory results pave a new way to predict traffic flow based on traffic sound characteristics which may serve as a better alternative to conventional features.","Caladcad, J. A., Cabahug, S., Catamco, M. R., Villaceran, P. E., Cosgafa, L., Cabizares, K. N., Hermosilla, M., & Piedad, E. (2020). Determining Philippine coconut maturity level using machine learning algorithms based on acoustic signal. Computers and Electronics in Agriculture, 172, 105327. https://doi.org/10.1016/j.compag.2020.105327
+
+Celikoglu, H.B. (2013). An approach to dynamic classification of traffic flow patterns.
+
+Computer-Aided Civil and Infrastructure Engineering, 28(4), 273-288. https://doi.org/10.1111/j.1467-8667.2012.00792.x
+
+Chang, H. C., Kuo, C. C., Chen, Y. T., Wu, W. B., & Piedad, E. J. (2018, August 19-21). Energy consumption level prediction based on classification approach with machine learning technique [Paper presentation]. 4th World Congress on New Technologies (NewTechâ€™18), Madrid, Spain. https://www.semanticscholar.org/paper/Energy-Consumption-Level-Prediction-Based-on-with-Chang-Kuo/f54dd7d4ac0cd1723f4725ef0326d35d8ddb54ed
+
+Chen, Y. T., Piedad, E., & Kuo, C. C. (2019). Energy consumption load forecasting using a level-based random forest classifier. Symmetry, 11(8), 956. https://doi.org/10.3390/sym11080956
+
+The city of the future â€“ sustainable social, economic and environmental management. (2016, April 4). Planet Energies. https://www.planete-energies.com/en/medias/close/city-future-sustainable-social-economic-and-environmental-Management
+
+Halim, H., & Abdullah, R. (2014). Equivalent noise level response to number of vehicles: A comparison between a high traffic flow and low traffic flow highway in Klang Valley, Malaysia. Frontiers in Environmental Science, 2, 1-4. https://doi.org/10.3389/fenvs.2014.00013
+
+Hegina, A. J. (2015, January 20). PH traffic ranks 9th worst in the world-study. Inquirer.Net. https://globalnation.inquirer.net/117785/ph-traffic-ranks-9th-worst-in-the-world-study
+
+Kumar, K., Parida, M., & Katiyar, V.K. (2015). Short term traffic flow prediction in heterogeneous conditions using artificial neural network. Transport, 30(4), 397-405. https://doi.org/10.3846/16484142.2013.818057
+
+Lisangan, E. A., & Sumarta, S. C. (2017, October 26-27). Route selection based on real time traffic condition using Ant Colony System and Fuzzy Inference System [Conference session]. 2017 3rd International Conference on Science in Information Technology (ICSITech), Bandung, Indonesia. https://doi.org/10.1109/ICSITech.2017.8257087
+
+Litman, T. (2006). Smart transportation investments II reevaluating the role of public transit for improving urban transportation. ETDEWEB. https://www.osti.gov/etdeweb/biblio/20818730
+
+Piedad, E. J., Le, T. T., Aying, K., Pama, F. K., & Tabale, I. (2019, October 17-20). Vehicle count system based on time interval image capture method and deep learning Mask R-CNN [Conference session]. IEEE Region 10 Conference (TENCON) 2019. https://doi.org/10.1109/tencon.2019.8929426
+
+Silvano, A., & Bang, K. L. (2016). Impact of speed limits and road characteristics on free-Flow speed in urban areas. Journal of Transportation Engineering, 142(2). https://doi.org/10.1061/(ASCE)TE.1943-5436.0000800
+
+Tan, L. (2016, September 15). Waze: Cebu is the worst place in the world for drivers. CNN. https://cnnphilippines.com/news/2016/09/15/Cebu-Metro-Manila-Philippines-traffic-Waze.html#:~:text=GPS%2Dbased%20traffic%20app%20Waze,countries%20and%20235%20metro%20areas
+
+Vergel, K. N., Cacho, F. T., & Capiz, C. L. E. (2004). A study on roadside noise generated by tricycles. Philippine Engineering Journal, 25(12), 1â€“22. http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.919.8016&rep=rep1&type=pdf
+
+Vlahogianni, E. I., & Karlaftis, M. G., & Golias, J.C. (2014). Short-term traffic forecasting: Where we are and where weâ€™re going. Transportation Research Part C: Emerging Technology, 43(Part 1), 3-19. https://doi.org/10.1016/j.trc.2014.01.005
+
+Wild, D. (1997). Short-term forecasting based on a transformation and classification of traffic volume time series. International Journal of Forecasting, 13(1), 63â€“72. https://doi.org/10.1016/S0169-2070(96)00701-7",2021-05-29,https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/982
+Uniform Minimum Variance Unbiased Estimator of Fractal Dimension,"fractal dimension, fractal distribution, uniform minimum variance unbiased estimator","Zeny L. Maureal, Elmer C. Castillano, Roberto N. Padua",https://doi.org/10.32871/rmrj2109.01.06,The paper introduced the concept of a fractal distribution using a power-law distribution. It proceeds to determining the relationship between fractal and exponential distribution using a logarithmic transformation of a fractal random variable which turns out to be exponentially distributed. It also considered finding the point estimator of fractional dimension and its statistical characteristics. It was shown that the maximum likelihood estimator of the fractional dimension Î» is biased. Another estimator was found and shown to be a uniformly minimum variance unbiased estimator (UMVUE) by Lehmann-Scheffeâ€™s theorem.,"Bauke, H. (2007). Parameter estimation for power-law distributions by maximum likelihood methods. European Physical Journal B, 58,167â€“173. https://doi.org/10.1140/epjb/e2007-00219-y
+
+Clauset, A., Shalizi, C. R., & Newman, M. E. J. (2009). Power-law distributions in empirical data. SIAM Review, 51(4), 661â€“703. https://doi.org/ 10.1137/070710111
+
+Feller, W. (1991). An introduction to probability theory and its applications (2nd ed.). New York.
+
+Lehman, P. (1998) Theory of point estimation (2nd ed.). Springer-Verlag.
+
+Malik, H. J. (1970). Estimation of the parameters of the PARETO distribution. Metrika. 15,126â€“132. https://doi.org/10.1007/BF02613565
+
+Mandelbrot, B. B. (1983). The fractal geometry of nature. W. H. Freeman.
+
+Mandelbrot, B.B., & Van Ness, J.W. (1968). Fractional brownian motions, fractional noises and applications. SIAM Review, 10(4), 422â€“437 https://www.jstor.org/stable/2027184?seq=1
+
+Newman, M. (2005). Power laws, Pareto distributions and Zipf's law. Contemporary Physics, 46(5), 323-351. https://doi.org/10.1080/00107510500052444
+
+Padua, R.N., Baldado, M., Adanza, J. G.,& Panduyos, J. B. (2013), Statistical analysis of fractal observations: Applications in education and in poverty estimation. SDSSU Multidisciplinary Research Journal, 1(1). https://www.smrj.sdssu.edu.ph/index.php/SMRJ/article/view/84
+
+Padua, R. N.,& Borres, M.S. (2013). From fractal geometry to fractal statistics. Recoletos Multidisciplinary Journal of Research, 1(1). https://doi.org/10.32871/rmrj1301.01.09
+
+Padua, R. N., Ontoy, D. S., Palompon, D. R., & Mirasol, J. M. (2015). Statistical fractal inference. University of the Visayas - Journal of Research, 9(1), 15-22. https://doi.org/10.5281/zenodo.Z144190
+
+Ramachandran, K. M., & Tsokos, C. P. (2009). Mathematical statistics with applications. Elsevier. https://books.google.com.ph/books?id=YFyhXk-ONWwC&printsec=frontcover#v=onepage&q&f=false
+
+Regalado, D. Y., Padua, R.N., Azura, R.B., & Perez, K. B. (2018). Minimum variance unbiased estimation of the scale parameter of exponential distributions and related logarithmic integrals. Journal of Higher Education Research Disciplines, 3(1). https://nmsc.edu.ph/ojs/index.php/jherd/article/view/97
+
+Ross, S.M. (2009). Introduction to probability and statistics for engineers and scientists (4th ed.). Academic Press. https://doi.org/10.1016/B978-0-12-370483-2.X0001-X
+
+Temme, N. M. (2010), Exponential, logarithmic, sine, and cosine integrals. In F.W. Olver, D.W. Lozier, R. F. Boisvert, & C. W. Clark (Eds.), The NIST handbook of mathematical functions. Cambridge University Press.",2021-05-29,https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/989
+Sequential Pattern Mining of Tourist Spatiotemporal Movement,"data mining, sequence pattern mining, spatiotemporal, flowmaps, Aprioriall","Maria Isabel R. Abucejo, Jovelyn C. Cuizon",https://doi.org/10.32871/rmrj2109.01.07,"The study aimed to develop a software application to capture tourist activity information, extract movement patterns from the dataset through sequential pattern mining (SPM), and visualize spatiotemporal movement. Tourist activity information was captured through crowdsourced trajectory movements by scanning unique QR (Quick Response) codes for each visited tourist spots. The AprioriAll algorithm was used to find frequent trajectory patterns on tourist visits. The resulting maximal k-sequences and their subsequences represent the recommended trip itinerary. The spatial and temporal movements were visualized through a flow map and a heat map, respectively. The directed edges in the flow map show the recommended sequence of tourist sites to visit. The heat map shows the density of tourist visits in different areas at time intervals. The application was validated with selected tour planning experts to verify functional suitability, usability, and acceptability. Experimental results show positive indicators that the application met the usersâ€™ expectations.","Basiri, A., Amirian, P., & Mooney, P. (2016). Using crowdsourced trajectories for automated OSM data entry approach. Sensors, 16(9), 1510. 10.3390/s16091510
+
+Basiri, A., Amirian, P., Winstanley, A., & Moore, T. (2018). Making tourist guidance systems more intelligent, adaptive and personalised using crowd sourced movement data. Journal of Ambient Intelligence and Humanized Computing, 9, 413â€“427. https://doi.org/10.1007/s12652-017-0550-0
+
+Bermingham, L., & Lee, I. (2014). Spatio-temporal sequential pattern mining for tourism sciences. Procedia Computer Science, 29, 379â€“389. https://doi.org/10.1016/j.procs.2014.05.034
+
+Caldeira, A.M., & Kastenholz, E. (2015). Spatiotemporal behaviour of the urban multi-attraction tourist: Does distance travelledfrom country of origin make a difference? Tourism & Management Studies, 11(1), 91-97. https://www.researchgate.net/publication/277863124_Spatiotemporal_behaviour_of_the_urban_multi-attraction_tourist_does_distance_travelled_from_country_of_origin_make_a_difference
+
+Fournier-Viger, P. (2010). A hybrid model for supporting learning in procedural and ill-defined areas [Doctoral dissertation, UniversitÃ© du QuÃ©bec Ã  MontrÃ©al]. https://www.researchgate.net/publication/49121771_Un_modele_hybride_pour_le_support_a_l'apprentissage_dans_les_domaines_proceduraux_et_mal_definis
+
+Grinberger, A., Shoval, N., & Mckercher, B. (2014). Typologies of touristsâ€™ timeâ€“space consumption: A new approach using GPS data and GIS tools. Tourism Geographies, 16(1), 105 - 123. https://doi.org/10.1080/14616688.2013.869249
+
+Kumar, K.M.V.M., & Srinivas, P.V.S. (2011). Algorithms for mining sequential patterns. International Journal of Information Sciences and Application, 3(1), 59-69. http://www.irphouse.com/ijisa/ijisav3n1_9.pdf
+
+Lew, A., & McKercher, B. (2006). Modeling tourist movement: A local destination analysis. Annals of Tourism Research, 33(2), 403â€“423. doi:10.1016/j.annals.2005.12.002
+
+Li, Z. (2014). Spatiotemporal pattern mining: Algorithms and applications. In C.C. Aggarwal, & J. Han (Eds.), Frequent pattern mining (pp. 283-306). Springer International Publishing. 10.1007/978-3-319-07821-2_12
+
+Ni, B., Shen, Q., Xu, J., & Qu, H. (2017). Spatio-temporal flow maps for visualizing movement and contact patterns. Visual Informatics, 1(1), 57-64. https://doi.org/10.1016/j.visinf.2017.01.007
+
+Raun, J., Ahas, R., & Tiru, M. (2016). Measuring tourism destinations using mobile tracking data. Tourism Management, 57, 202-212. https://doi.org/10.1016/j.tourman.2016.06.006
+
+Talpur, A., & Zhang, Y. (2018, October 23-26). A study of tourist sequential activity pattern through Location Based Social Network (LBSN) [Conference session]. 2018 International Conference on Orange Technologies (ICOT), Nusa Dua, BALI, Indonesia. 10.1109/ICOT.2018.8705895
+
+The Tourism Act. (2004). 14th Congress. 2nd Regular Session. Metro Manila. http://tourism.gov.ph/Downloadable%20Files/Updated_RA_9593_and_IRR_(as_of_01_Nov_2020).pdf
+
+Thimm, T., & Seepold, R. (2016). Past, present and future of tourist tracking. Journal of Tourism Futures, 2(1), 43-55. 10.1108/JTF-10-2015-0045
+
+Xia, J., Ciesielski, V., & Arrowsmith, C. (2005). Data mining of touristsâ€™ spatio-temporal movement patterns - a case study on Phillip Island [Paper presentation]. 8th International Conference on GeoComputation, University of Michigan, USA. http://www.geocomputation.org/2005/Xia.pdf",2021-05-29,https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/965
+Remote Learning Readiness and Challenges: Perceptions and Experiences among Tertiary State University Management Students,"remote learning, online learning, Student Readiness for Online Learning (SROL) instrument",Mary Gretchen F. Chaves,https://doi.org/10.32871/rmrj2109.01.08,"COVID-19 has disrupted the education system globally, leading education institutions to migrate into remote learning. This study on online learning readiness and competence was conducted among management students on their perceptions on the importance of, and the confidence level of their online learning competence factors. Using the Student Readiness for Online Learning (SROL) instrument, the results show that the students consider Technical Competence as very important and that they are somewhat confident with their online learning competence. Both perceptions of the importance of the online competence factors and competency levels significantly correlate with the studentsâ€™ self-report of whether or not they have learned in the course. Among the eight online learning challenges, the students find the â€œlack of technical skills in using online learningâ€ as the least challenging. This study concludes with the recommendations that pedagogical and technological interventions be pursued to address the inadequacies in the online teaching-learning process.","Alvarez, A. J. (2020). The phenomenon of learning at a distance through emergency remote teaching amidst the pandemic crisis. Asian Journal of Distance Education, 15(1), 144-153. https://doi.org/10.5281/zenodo.3881529
+
+Bautista, C. R. (2020). Office of the Vice President for Academic Affairs Memorandum No. 2020-68. University of the Philippines, Diliman, Quezon City, (632), 1â€“7. https://www.up.edu.ph/wp-content/uploads/2020/07/20200702-OVPAA-Final-cbb-June-22-Memorandum-2020-68-2.pdf
+
+Bouilheres, F., Le, L. T. V. H., McDonald, S., Nkhoma, C., & Jandug-Montera, L. (2020). Defining student learning experience through blended learning. Education and Information Technologies, 25(4), 3049â€“3069. https://doi.org/10.1007/s10639-020-10100-y
+
+Chung, E., Subramaniam, G., & Dass, L. C. (2020). Online learning readiness among university students in Malaysia amidst Covid-19. Asian Journal of University Education, 16(2), 45â€“58. https://doi.org/10.24191/AJUE.V16I2.10294
+
+Cuaton, G. (2020). Philippines higher education institutions in the time of COVID-19 Pandemic. Revista Romaneasca Pentru Educatie Multidimensionala, 12(1Sup2), 61â€“70. https://doi.org/10.18662/rrem/12.1sup2/247
+Hodges, C., Moore, S., Lockee, B., Trust, T., & Bond, A. (2020). The Difference Between Emergency Remote Teaching and Online Learning. https://er.educause.edu/articles/2020/3/the-difference-between-emergency-remote-teaching-and-online-learning
+
+Hollweck, T., & Doucet, A. (2020). Pracademics in the pandemic: pedagogies and professionalism. Journal of Professional Capital and Community. 5(3), 295-305. https://doi.org/10.1108/JPCC-06-2020-0038
+
+Hung, M. L., Chou, C., Chen, C. H., & Own, Z. Y. (2010). Learner readiness for online learning: Scale development and student perceptions. Computers and Education, 55(3), 1080â€“1090. https://doi.org/10.1016/j.compedu.2010.05.004
+
+Martin, F., Stamper, B., & Flowers, C. (2020). Examining student perception of readiness for online learning: Importance and confidence. Online Learning Journal, 24(2), 38â€“58. https://doi.org/10.24059/olj.v24i2.2053
+
+Moore, J. L., Dickson-deane, C., & Galyen, K. (2011). e-Learning, online learning, and distance learning environments: Are they the same?, The Internet and Higher Education, 14(2) 129-135. https://doi.org/10.1016/j.iheduc.2010.10.001
+
+Murphy, M. P. A. (2020). COVID-19 and emergency eLearning: Consequences of the securitization of higher education for post-pandemic pedagogy. Contemporary Security Policy, 41(3), 492â€“505. https://doi.org/10.1080/13523260.2020.1761749
+Picciano, A. G. (2017). Theories and frameworks for online education: Seeking an integrated model. Online Learning Journal, 21, 166â€“190. https://doi.org/10.24059/olj.v21i3.1225
+
+Radu, M.-C., Schnakovszky, C., Herghelegiu, E., Ciubotariu, V.-A., & Cristea, I. (2020). The impact of the COVID-19 pandemic on the quality of educational process: A student survey. International Journal of Environmental Research and Public Health, 17(21). https://doi.org/10.3390/ijerph17217770
+
+Rotas, E., & Cahapay, M. (2020). Difficulties in Remote Learning: Voices of Philippine University Students in the Wake of COVID-19 Crisis. Asian Journal of Distance Education, 15(2), 147-158. https://doi.org/10.5281/zenodo.4299835
+
+Schultz, R. B., & DeMers, M. N. (2020). Transitioning from emergency remote learning to deep online learning experiences in geography education. Journal of Geography, 119(5), 142â€“146. https://doi.org/10.1080/00221341.2020.1813791
+
+Toquero, C. M. (2021). Emergency remote education experiment amid COVID-19 pandemic. IJERI: International Journal of Educational Research and Innovation, (15), 162-176. https://doi.org/10.46661/ijeri.5113",2021-05-31,https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/967
+Mortality Analysis of Early COVID-19 Cases in the Philippines Based on Observed Demographic and Clinical Characteristics,"subgroup susceptibility, exposure, length of hospitalization, survival analysis, vaccination program",Roel F. Ceballos,https://doi.org/10.32871/rmrj2109.01.09,"This study aims to determine the demographic, epidemiologic, and clinical characteristics of COVID-19 cases that are highly susceptible to COVID-19 infection, with longer hospitalization and at higher risk of mortality and to provide insights that may be useful to assess the vaccination priority program and allocate hospital resources. Methods that were used include descriptive statistics, nonparametric analysis, and survival analysis. Results of the study reveal that women are more susceptible to infection while men are at risk of longer hospitalization and higher mortality. Significant risk factors to COVID-19 mortality are older age, male sex, difficulty breathing, and comorbidities like hypertension and diabetes. Patients with these combined symptoms should be considered for admission to the COVID-19 facility for proper management and care. Also, there is a significant delay in the testing and diagnosis of those who died, implying that timeliness in the testing and diagnosis of patients is crucial in patient survival.","Albert, J.R.G., Orbeta, A.C. Jr., Paqueo, V.B., Serafica, R. B., Dadios, E.P., Culaba, A. B., Bandala, A.A., & Bairan, J.C.A. (2018). Harnessing governments role for the fourth industrial revolution [PIDS Policy Notes No. 2018-14]. https://pidswebs.pids.gov.ph/CDN/PUBLICATIONS/pidspn1814.pdf
+
+Arentz, M., Yim, E., Klaff, L., Lokhandwala, S., Riedo, F., Chong, M., & Lee, M. (2020). Characteristics and outcomes of 21 critically ill patients with COVID-19 in Washington State. JAMA, 323(16), 1612-1614. https://doi.org/10.1001/jama.2020.4326
+
+Assaad, S., Avrillon, V., Fournier, M. L., Mastroianni, B., Russias, B., Swalduz, A., Cassier, P., Eberst, L., Steineur, M.P., Kazes, M., Perol, M., Michallet, A.S., Rey,P., Erena-Penet, A.S., Morel, A., Brahmi, M., Dufresne, A., Tredan, O., Chvetzoff, G., Fayette, J., â€¦ Blay, J. Y. (2020). High mortality rate in cancer patients with symptoms of COVID-19 with or without detectable SARS-COV-2 on RT-PCR. European Journal of Cancer, 135, 251-259. https://doi.org/10.1016/j.ejca.2020.05.028
+
+Bandyopadhyay, S., Baticulon, R. E., Kadhum, M., Alser, M., Ojuka, D. K., Badereddin, Y., Kamath, A., Parepalli, S. A., Brown, G., Iharchane, S., Gandino, S., Markovic-Obiago, Z., Scott, S., Manirambona, E., Machhada, A., Aggarwal, A., Benazaize, L., Ibrahim, M., Kim, D., â€¦ Khundkar, R. (2020). Infection and mortality of healthcare workers worldwide from COVID-19: A systematic review. BMJ Global Health, 5(12), e003097. http://dx.doi.org/10.1136/bmjgh-2020-003097
+
+Belingheri, M., Paladino, M. E., & Riva, M. A. (2021). Working schedule, sleep quality, and susceptibility to Coronavirus disease 2019 in healthcare workers. Clinical Infectious Diseases, 72(9), 1676. https://doi.org/10.1093/cid/ciaa499
+
+Bertocchi, G. (2020). But are women really more resistant to Covid-19? https://www.lavoce.info/archives/65305/ma-davvero-le-donne-sono-piu-resistenti-al-covid-19/
+
+Breslow, N. E. (1975). Analysis of survival data under the proportional hazards model. International Statistical Review, 43(1), 45-57. https://doi.org/10.2307/1402659
+
+Ceballos, R. (2020). What quarantine measures can do? Modelling the dynamics of COVID-19 transmission in Davao region. University of Southeastern Philippines. https://www.usep.edu.ph/blog/2020/04/04/what-quarantine-measures-can-do-modelling-the-dynamics-of-covid-19-transmission-in-davao-region/
+
+Center for Disease Control and Prevention [CDC] COVID-19 Response Team. (2020). Preliminary estimates of the prevalence of selected underlying health conditions among patients with Coronavirus disease 2019 â€” United States, February 12â€“March 28, 2020. Morbidity and Mortality Weekly Report, 69(13), 382-386. https://doi.org/10.15585/mmwr.mm6913e2
+
+Chen, F.J., Li, F.R., Zheng, J.Z., Zhou, R., Liu, H.M., Wu, K.Y., Zhang, B., Dong, H., Lu, J.Y. Lei, C.L., & Wu, X.B. (2021). Factors associated with duration of hospital stay and complications in patients with COVID-19. Journal of Public Health and Emergency, 5(6). https://doi.org/10.21037/jphe-20-74
+
+Chen, N., Zhou, M., Dong, X., Qu, J., Gong, Y. H., Qiu, Y., Wang, J., Liu, Y., Wei, Y., Xia, J., Yu, T., Zhang, X., & Zhang, L. (2020). Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: A descriptive study. The Lancet, 395, 507-513. https://doi.org/10.1016/S0140-6736(20)30211-7
+
+de Almeida-Pititto, B., Dualib, P. M., Zajdenverg, L., Dantas, J. R., De Souza, F. D., Rodacki, M., & Bertoluci, M. C. (2020). Severity and mortality of COVID 19 in patients with diabetes, hypertension and cardiovascular disease: A meta-analysis. Diabetology & Metabolic Syndrome, 12(75). https://doi.org/10.1186/s13098-020-00586-4
+
+Department of Health. (2021). IATF adopts COVID-19 vaccination priority framework amid limited vaccine supply. https://doh.gov.ph/doh-press-release/IATF-ADOPTS-COVID-19-VACCINATION-PRIORITY-FRAMEWORK-AMID-LIMITED-VACCINE-SUPPLY
+
+Grasselli, G., Greco, M., Zanella, A., Albano, G., Antonelli, M., Bellani, G., Bonanomi, E., Cabrini, L., Carlesso, E., Castelli, G., Cattaneo, S., Cereda, D., Colombo, S., Coluccello, A., Crescini, G., Forastieri Molinari. A., Foti, G., Fumagalli, R., Iotti, G.A., Langer, T., â€¦ Cecconi, M. (2020). Risk factors associated with mortality among patients with COVID-19 in intensive care units in Lombardy, Italy. JAMA Internal Medicine, 180(10), 1345-1355, https://doi.org/10.1001/jamainternmed.2020.3539
+
+
+Guan, W.J, Ni, Z.Y., Hu, Y.,Liang, W. H., Ou, C.Q., He, J.X., Liu, L., Shan, H., Lei, C.L., Hui, D.S.C., Du, B., Li, L.J., Zeng, G., Yuen, K.Y., Chen, R.C., Tang, C.L., Wang, T., Chen, P.Y., Xiang, J., Li, S. Y., â€¦ Zhong, N. S. (2020). Clinical characteristics of Coronavirus disease 2019 in China. The New England Journal of Medicine, 382, 1708-1720. http://doi.org/10.1056/NEJMoa2002032
+
+Ho, F. K., Petermann-Rocha, F., Gray, S. R., Jani, B. D., Katikireddi, S. V., Niedzwiedz, C. L., Foster, H., Hastie, C.E., Mackay, D.F., Gill, J. M., Oâ€™Donnell, M., Welsh, P., Mair, F., Sattar, N., Celis-Morales, C.A., & Pell, J. P. (2020). Is older age associated with COVID-19 mortality in the absence of other risk factors? General population cohort study of 470,034 participants. PloS One, 15(11), e0241824. https://doi.org/10.1371/journal.pone.0241824
+
+Hu, Z., Song, C., Xu. C, Jin, G., Chen, Y., Xu, X., Ma, H., Chen, W., Lin, Y., Zheng, Y., Wang, J., Hu, Z., Yi, Y., & Shen, H. (2020). Clinical characteristics of 24 asymptomatic infections with COVID-19 screened among close contacts in Nanjing, China. Science China Life Sciences, 63(5), 706-711. https://doi.org/10.1007/s11427-020-1661-4
+
+Huang, C., Wang, Y., Li, X., Ren, L., Zhao, J., Hu, Y., Zhang, L., Fan, G., Xu, J., Gu, X., Cheng, Z., Yu, T., Xia, J., Wei, Y., Wu, W., Xie, X., Yin, W., Liu, M., Xiao, Y., Gao, H., Gao., H., â€¦ Cao, B. (2020). Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. The Lancet, 395(10223), 497-506. https://doi.org/10.1016/S0140-6736(20)30183-5
+
+Kang, S. J., & Jung, S. I. (2020). Age-related morbidity and mortality among patients with COVID-19. Infection & Chemotherapy, 52(2), 154â€“164. https://doi.org/10.3947/ic.2020.52.2.154
+
+Kruskal, W. H., & Wallis, W. A. (1952). Use of ranks in one-criterion variance analysis. Journal of the American Statistical Association, 47(260), 583-621. https://doi.org/10.2307/2280779
+
+Liu, H., Wang, L. L., Zhao, S. J., Kwak-Kim, J., Mor, G., & Liao, A. H. (2020). Why are pregnant women susceptible to COVID-19? An immunological viewpoint. Journal of Reproductive Immunology, 139, 103122. https://doi.org/10.1016/j.jri.2020.103122
+
+Masetti, C., Generali, E., Colapietro, F., Voza, A., Cecconi, M., Messina, A., Omodei, P., Angelini, C., Ciccarelli, M., Badalamenti, S., Canonica, G.W., Lleo, A., & Aghemo, A. (2020). High mortality in COVIDâ€19 patients with mild respiratory disease. European Journal of Clinical Investigation, 50(9), e13314. https://doi.org/10.1111/eci.13314
+
+Peckham, H., de Gruijter, N. M., Raine, C., Radziszewska, A., Ciurtin, C., Wedderburn, L. R., Rosser, E.C., Webb, K., & Deakin, C. T. (2020). Male sex identified by global COVID-19 meta-analysis as a risk factor for death and ITU admission. Nature Communications, 11(6317). https://doi.org/10.1038/s41467-020-19741-6
+
+Philippine Statistics Authority. (2021). GDP declines by -4.2 percent in the first quarter of 2021 (at Constant 2018 Prices). https://psa.gov.ph/foreign-investments/technical-notes
+
+Qiu, H., Wu, J., Hong, L., Luo, Y., Song, Q., & Chen, D. (2020). Clinical and epidemiological features of 36 children with coronavirus disease 2019 (COVID-19) in Zhejiang, China: An observational cohort study. Lancet Infectious Disease, 20(6), 689â€“696. https://doi.org/10.1016/S1473-3099(20)30198-5
+
+Rabajante, J. (2020). Insights from early mathematical models of 2019-nCoV acute respiratory disease (COVID-19) dynamics. Journal of Environmental Science and Management, 23(1). https://ovcre.uplb.edu.ph/journals-uplb/index.php/JESAM/article/view/329
+
+Saladino,V., Algeri, D., & Auriemma, V. (2020). The psychological and social impact of Covid-19: New perspectives of well-being. Frontiers in Psychology, 11, 2550. https://doi.org/10.3389/fpsyg.2020.577684
+
+Sanchez, M.J. (2021). Number of hospital beds per 10,000 population in the Philippines 2020, by region. Statista. https://www.statista.com/statistics/1122326/philippines-number-of-hospital-beds-by-region/#statisticContainer
+
+Sandoiu, A. (2020). Sex difference in COVID-19. https://www.medicalnewstoday.com/articles/sex-differences-in-covid-19
+
+Shi, C., Wang, C., Wang, H., Yang, C., Cai, F., Zeng, F., Cheng, F., Liu, Y., Zhou, T., Deng, B., Vlodavsky, I., Li, J. P., & Zhang, Y. (2020). The potential of low molecular weight heparin to mitigate cytokine storm in severe COVID-19 patients: A retrospective clinical study. Clinical and Translational Science, 13(6), 1087-1095. https://doi.org/10.1111/cts.12880
+
+Shi, Y., Wang, X., Liu, G., Zhu, Q., Wang, J., Yu, H., Wang, C., Wang, L., Zhang, M., Zhang, L., Lu, G., Lu, Z., Yu, J., Qiao, Z., Gu, Y., Shen, G., Xu, H., Zeng, M., Zhai, X., & Huang, G. (2020). A quickly, effectively screening process of novel corona virus disease 2019 (COVID-19) in children in Shanghai, China. Annals of Translational Medicine, 8(5), 241. https://doi.org/10.21037/atm.2020.03.22
+
+Vecino-Ortiz, A. I., Congote, J.V., Bedoya, S.Z., & Cucunuba, Z. M. (2021). Impact of contact tracing on COVID-19 mortality: An impact evaluation using surveillance data from Colombia. PLos One, 16(3), e0246987. https://doi.org/10.1371/journal.pone.0246987
+
+Wang, D., Hu, B., Hu, C., Zhu, F., Liu, X., Zhang, J., Wang, B., Xiang, M., Cheng, Z., Xiong, Y., Zhao, Y., Li, Y., Wang, X., & Peng, Z. (2020). Clinical characteristics of 138 hospitalized patients with 2019 Novel Coronavirus-infected pneumonia in Wuhan, China. Jama, 323(11), 1061-1069. https://doi.org/10.1001/jama.2020.1585
+
+Wang, L., He, W., Yu, X., Hu, D., Bao, M., Liu, H., Zhou, J., & Jiang, H. (2020). Coronavirus disease 2019 in elderly patients: Characteristics and prognostic factors based on 4-week follow-up. The Journal of Infection, 80(6), 639â€“45. https://doi.org/ 10.1016/j.jinf.2020.03.019
+
+Wei, C., Lee, C.C., Hsu, T.C., Chan, C.C., Chen, S.C., & Chen, C.J. (2020). Correlation of population mortality of COVID-19 and testing coverage: A comparison among 36 OECD countries. Epidemiology and Infection, 149, e1. https://doi.org/10.1017/S0950268820003076
+
+Wenham, C., Smith, J., & Morgan, R. (2020). COVID-19: The gendered impacts of the outbreak. The Lancet, 395(10227), 846-848. https://doi.org/10.1016/S0140-6736(20)30526-2
+
+Wu, C., Chen, X., Cai, Y., Xia, J., Zhou, X., Xu, S., Huang, H., Zhang, L., Zhou, X., Du, C., Zhang, Y., Song, J., Wang, S., Chao, Y., Yang, Z., Zu, J., Zhou, X., Chen, D., Xiong, W., Xu, L., â€¦ Song, Y. (2020). Risk factors associated with acute respiratory distress syndrome and death in patients with Coronavirus disease 2019 pneumonia in Wuhan, China. JAMA Internal Medicine, 180(7), 934-940. https://doi.org/10.1001/jamainternmed.2020.0994
+
+Xia, W., Shao, J., Guo, Y., Peng, X., Li, Z., & Hu, D. (2020). Clinical and CT features in pediatric patients with COVID-19 infection: Different points from adults. Pediatric Pulmonology, 55(5), 1169-1174. https://doi.org/10.1002/ppul.24718
+
+Yanez, N. D., Weiss, N. S., Romand, J. A., & Treggiari, M. M. (2020). COVID-19 mortality risk for older men and women. BMC Public Health, 20(1), 1742. https://doi.org/10.1186/s12889-020-09826-8
+
+Yang, X., Yu, Y., Xu, J., Shu, H., Xia, J., Liu, H., Wu, Y., Zhang, L., Yu, Z., Fang, M., Yu, T., Wang, Y., Pan, S., Zou, X., Yuan, S, & Shang, Y. (2020). Clinical course and outcomes of critically ill patients with SARS-CoV-2 pneumonia in Wuhan, China: A single-centered, retrospective, observational study. The Lancet Respiratory Medicine, 8(5), 475-481. https://doi.org/10.1016/S2213-2600(20)30079-5
+
+Zar, J. H. (1999). Biostatistical analysis (4th ed.). New Jersey
+
+Zhou, F., Yu, T., Du, R., Fan, G., Liu, Y., Liu, Z., Xiang, J., Wang ,Y., Song, B., Gu, X., Guan, L., Wei, Y., Li, H., Wu, X., Xu, J., Tu, S., Zhang, Y., Chen, H., & Cao, B. (2020). Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: A retrospective cohort study. The Lancet, 395(10229), 1054-1062. https://doi.org/10.1016/S0140-6736(20)30566-3",2021-05-31,https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/1047
+The Philippine K to 12 Junior Science Program in Thematic Instruction,"Philippine K to 12 Science Curriculum, thematic instruction, thematic instructional model, K to 12 Program in the Philippines",The Philippine K to 12 Junior Science Program in Thematic Instruction,https://doi.org/10.32871/rmrj2109.01.10,"The present study describes the attempt to achieve the competencies of the Philippine K to 12 Science Program through thematic instruction. It seeks to address the challenges encountered by science teachers with the current curriculum design. The researchers used a thematic instructional model in giving classroom instruction. Two sets of pre-service teachers, taking part as facilitators and as observers, were purposely chosen in the study. The researchers used convergent mixed methods design in analysing the pre-service teachers' experience and observations in teaching through thematic instruction. Results revealed that the thematic instruction implemented in the study has the potential to address the challenges of the current K to 12 science curriculum in terms of design, lesson content, and implementation. Consequently, the results suggest that the thematic instruction design in the study can be used to help achieve the desired outcomes of the K to 12 Science Curriculum.","Argote, A. B. (2016). Spiral progression approach: The phenomenological plight of science teachers [Unpublished masterâ€™s thesis]. St. Maryâ€™s College of Tagum, Inc.
+
+Barrentine, S. J. (1999). Facilitating pre-service students' development of thematic units. The Teacher Educator, 34(4), 276-290. https://doi.org/10.1080/08878739909555207
+
+Bernardo, A. B. I. (1999). Contemplating a scientific science education reform. The Manila Journal of Science, 2(1). http://ejournals.ph/form/cite.php?id=287
+
+Contardi, G., Fall, M., Flora, G., Gandee, J., & Treadway, C. (2000). Integrated curriculum: A group investigation project. http://www.users.miamioh.edu/shermalw/edp603_group3-f00.html
+
+De Dios, A. (2013, May 25). Spiral curriculum: When and how? Redundant versus progressive? Philippine Basic Education. http://www.philippinesbasiceducation.us/2013/05/spiral-curriculum-when-and-how.html
+
+Department of Education. (2016). K to 12 curriculum guide: Science (Grade 3 to Grade 10). https://www.deped.gov.ph/wp-content/uploads/2019/01/Science-CG_with-tagged-sci-equipment_revised.pdf.
+
+Dilek, D. (2007). Using a thematic teaching approach based on the pupil's skill and interest in social studies teaching. History Education Research Journal, 7(1). https://10.18546/HERJ.07.1.02
+
+Fitzpatrick, K. R. (2016). Points of convergence in music education: The use of data labels as a strategy for mixed methods integration. Journal of Mixed Methods Research, 10(3), 273â€“291. https://doi.org/10.1177/1558689814560264
+
+Fogarty, R. (1991). Ten ways to integrate curriculum. Educational Leadership, 49(2), 61-65. http://www.ascd.org/ASCD/pdf/journals/ed_lead/el_199110_fogarty.pdf
+
+Hernandez, B. (2012, March 30). Building a literate society. Inquirer.Net. http://opinion.inquirer.net/25923/building-a-literate-society
+
+In other words: ABC of facilitation. (2018). MitOst. https://theodor-heuss-kolleg.de/wp-content/uploads/2019/08/THK-publications-In-Other-Words-ABC-Of-Facilitiation-English-revised-small.pdf
+
+Jacobs, H. H. (1991). Planning for curriculum integration. Educational Leadership, 49(2), 27-28. http://www.ascd.org/ASCD/pdf/journals/ed_lead/el_199110_jacobs.pdf
+
+Kysilka, M. (1998). Understanding integrated curriculum. The Curriculum Journal, 9(2), 197 -209. https://doi.org/10.1080/0958517970090206
+
+Min, K. C., Rashid, A. M., & Nazri, M. I. (2012). Teachersâ€™ understanding and practice towards thematic approach in teaching integrated living skills (ILS) in Malaysia. International Journal of Humanities and Social Science, 2(23), 273â€“281. http://www.ijhssnet.com/journals/Vol_2_No_23_December_2012/31.pdf
+
+Montebon, D.R.T., & Orleans, A.V. (2019). A thematic instructional model for a junior high school science curriculum [Unpublished doctoral dissertation]. Philippine Normal University, Manila.
+
+Mumford, D. (2000). Planning a theme-based unit. Pacific Edge Publishing Ltd. file:///C:/Users/imc-main/Downloads/PlanThem.pdf
+
+Okoro, C.O., & Okoro, C.U. (2016). Teachers' understanding and use of the thematic approach in teaching and learning of social studies in Rivers State. International Journal of Education, Learning and Development, 4(3), 64-69. https://www.eajournals.org/wp-content/uploads/Teachers----Understanding-and-Use-of-Thematic-Approach-in-Teaching-and-Learning-of-Social-Studies-in-Rivers-State1.pdf
+
+Orbe, J. R., Espinosa, A. A., & Datukan, J. T. (2018). Teaching chemistry in a spiral progression approach: Lessons from science teachers in the Philippines. Australian Journal of Teacher Education, 43(4), 17-30. http://dx.doi.org/10.14221/ajte.2018v43n4.2
+
+Piaget, J. (1952). The origins of intelligence in children. International Universities Press, Inc. https://www.pitt.edu/~strauss/origins_r.pdf
+
+Resurreccion, J. A., & Aldanza, J. (2015). Spiral progression approach in teaching science in selected private and public schools in Cavite. De La Salle University Research Congress Proceedings, 2015. https://10.17758/uruae.uh0516148
+
+Rugut, E. J., & Osman, A. A. (2013). Reflection on Paulo Freire and classroom relevance. American International Journal of Social Science, 2(2), 23-28. https://www.aijssnet.com/journals/Vol_2_No_2_March_2013/3.pdf
+
+Tapang, G. (2012, February 6). Science and K+12. Inquirer.Net. http://opinion.inquirer.net/22527/science-and-k12",2021-06-03,https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/845
+The Market Distortion Effect of Government Intervention in Higher Education,"higher education, government subsidy, government intervention, public HEIs, private HEIs, market distortion",Jezyl C. Cutamora,https://doi.org/10.32871/rmrj2109.01.11,"In the Philippines, a mixture of public and private higher education institutions (HEIs) exists. Because of the government subsidy among the public HEIs, the major concern of the private sector is the â€œuneven playing fieldâ€. This study hopes to eliminate this unhealthy competition and market distortion in the educational landscape. This study utilizes the quantitative non-experimental retrospective explanatory design. Results show that regardless of the extent of state intervention, the market can be distorted. Hence, assigning specific programs to be offered based on the type of HEI is a good alternative. The programs to be fully subsidized and offered by the government are agriculture, sciences, engineering, manufacturing and construction, and humanities and arts (HA) while services, health and welfare, education and social sciences, business and law programs will be for private sector service providers. This stimulates healthy competition among the HEIs leading to a better","Altbach, P., Reisberg, L. & Rumbley, L. (2009). Trends in global higher education: Tracking an academic revolution: A report prepared for the UNESCO 2009 world conference on higher education. http://www.cep.edu.rs/public/Altbach,_Reisberg,_Rumbley_Tracking_an_Academic_Revolution,_UNESCO_2009.pdf
+
+Asian Development Bank [ADB]. (2012). Higher education in dynamic asia: Counting the cost - financing asian higher eudcation for inclusive growth [Report No. RPS124448]. https://www.adb.org/publications/series/higher-education-dynamic-asia-study-reports
+
+Commission on Higher Education [CHED]. (2014). Guidelines for grants and proposals of center of excellence/center of development in Philosophy [CMO No. 3, s2014]. https://ched.gov.ph/wp-content/uploads/2017/10/CMO-03-2014.pdf
+
+Cutamora, J. C., & Padua, R. N. (2020). An economic rationalization framework for higher education. Recoletos Multidisciplinary Research Journal, 8(1), 43-65. https://doi.org/10.32871/rmrj2008.01.04
+
+Department of Budget and Management. (2016). National expenditure program 2016. https://www.dbm.gov.ph/index.php/budget-documents/2016/national-expenditure-program
+
+Department of Budget and Management, & Commission on Higher Education [CHED]. (2004). Application of normative funding (NF) in the allocation of expenditures to state universities and colleges (SUCs) starting FY 2005 budget and thereafter [Joint Circular No. 2, s.2004]. https://www.dbm.gov.ph/wp-content/uploads/2012/03/jc_2004-2_001.pdf
+
+Excellence vs. equity. (2015, March 28). The Economist. https://www.economist.com/sites/default/files/20150328_sr_univ2.pdf
+
+International Monetary Fund (2015, April). World economic and financial surveys. World Economic Outlook Database: https://www.imf.org/en/Publications/WEO/weo-database/2015/April
+
+Mismatch hounds labor market â€“ DOLE. (2016, March 10). The Philippine Star. https://www.philstar.com/business/2016/03/10/1561618/mismatch-hounds-labor-market-dole
+
+Puno, C. (n.d.). Higher education development strategies in the Philippines for a strong republic. http://www.asia-edu.org/EN/NewsCenter_View.asp?classid=75&id=366&parentclassid=
+
+Shaw, J. S. (2010). Education- a bad public good? The Independent Review: A Journal of Political Economy, 15(2), 241-256. https://www.independent.org/publications/tir/article.asp?id=804
+
+Smith, A. (n.d.). An inquiry into the nature and causes of the wealth of nations. https://books.google.com.ph/books/about/An_Inquiry_Into_the_Nature_and_Causes_of.html?id=0lYTWaIAQDYC&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false
+
+United Nations Educational, Scientific and Cultural Organization [UNESCO] Institute for Statistics. (2012). International Standard Classification of Education: ISCED 2011. http://uis.unesco.org/sites/default/files/documents/international-standard-classification-of-education-isced-2011-en.pdf
+
+United Nations Educational, Scientific and Cultural Organization [UNESCO] Institute for Statistics. (2014). Higher education in Asia: Expanding out, expanding up: The rise of graduate education and university research. http://uis.unesco.org/sites/default/files/documents/higher-education-in-asia-expanding-out-expanding-up-2014-en.pdf
+
+Unified Student Financial Assistance System for Tertiary Education. (n.d.). Universal Access to Quality Tertiary Education Act. https://unifast.gov.ph/uniqtea.php",2021-06-03,https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/977
+Factors Affecting Teachers' Resiliency Amidst the COVID-19 Pandemic,"education, resiliency, optimism, job stress, emotional exhaustion, descriptive correlational",Kevin T. Lagat,https://doi.org/10.32871/rmrj2109.01.12,"Despite the threat of the COVID-19 pandemic, teachers continue to navigate the new normal in education which demonstrate their resilience. This descriptive correlational study determined the level of optimism, job stress, and emotional exhaustion of 150 teachers amidst the COVID-19 pandemic, and it analyzed the relationship among these three variables. The data were analyzed using weighted mean, standard deviation, and Pearson r. Results revealed resiliency among teachers amidst the pandemic with a high level of optimism and a relatively low COVID-19 induced job stress and emotional exhaustion level. This study has also shown that optimism is not correlated with job stress and emotional exhaustion, but it found out significant relationship between the last two variables. Generally, it can be concluded that teachers are highly optimistic amidst the pandemic. This paper also validates earlier claims that lower levels of job stress contribute to lower incidents of emotional exhaustion.","Agaibi, C., & Wilson, J. P. (2005). Trauma, PTSD, and resilience: A review of the literature. Trauma, Violence, & Abuse, 6(3), 195-216. https://doi.org/10.1177/1524838005277438
+
+Alloy, L. B., Abramson, L. Y., Whitehouse, W. G., Hogan, M. E., Panzarella, C., & Rose, D. T. (2006). Prospective incidence of first onsets and recurrences of depression in individuals at high and low cognitive risk for depression. Journal of Abnormal Psychology, 115(1), 145- 156. https://doi.org/10.1037/0021-843X.115.1.145
+
+Alonso, F., Esteban, C., Gonzalez-Marin, A., Alfaro, E., & Useche, S. (2020). Job stress and emotional exhaustion at work in Spanish workers: Does unhealthy work affect the decision to drive? PLoS ONE, 15(1), e0227328. https://doi.org/10.1371/journal.pone.0227328
+
+Alves, R., Lopes, T., & Precioso, J. (2020). Teachersâ€™ well-being in times of Covid-19 pandemic: Factors that explain professional well-being. International Journal of Educational Research and Innovation, 15, 203â€“217. https://doi.org/10.46661/ijeri.5120
+
+Arslan, G., YÄ±ldÄ±rÄ±m, M., Tanhan, A., BuluÅŸ, M., & Allen, K.-A. (2020). Coronavirus stress, optimism-pessimism, psychological inflexibility, and psychological health: Psychometric properties of the Coronavirus stress measure. International Journal of Mental Health and Addiction, 4, 1-17. https://doi.org/10.1007/s11469-020-00337-6
+
+Asio, J. M., & Bayucca, S. A. (2021). Spearheading education during the COVID-19 rife: Administratorsâ€™ level of digital competence and schoolsâ€™ readiness on distance learning. Journal of Pedagogical Sociology and Psychology, 3(1), 19-26. http://www.doi.org/10.33902/JPSP.2021364728
+
+Askitas, N. T., Tatsiramos, K., & Verheyden, B. (2020). Lockdown strategies, mobility patterns, and covid-19 [IZA Discussion Paper No. 13293]. Institute of Labor and Economics. https://www.iza.org/publications/dp/13293/lockdown-strategies-mobility-patterns-and-covid-19
+
+Atmaca, Ã‡., RÄ±zaoglu, F., TÃ¼rkdogan, T., & YaylÄ±, D. (2020). An emotion focused approach in predicting teacher burnout and job satisfaction. Teaching and Teacher Education, 90, 103025 https://doi.org/10.1016/j.tate.2020.103025
+
+Auger, K. A., Shah, S. S., Richardson, T., Hartley, D., Hall, M., Warniment, A., Timmons, K., Bosse, D., Ferris, S. A., Brady, P. W., Schodelmeyer, A.C., & Thompson, J. E. (2020). Association between state-wide school closure and COVID-19 incidence and mortality in the US. JAMA, 324(9), 859-870. https://doi.org/10.1001/jama.2020.14348
+
+Basileyo, A. E. (2019). Spirituality and psychological well-being: The mediating role pessimism. LPU-Laguna Journal of Multidisciplinary Research, 3(3), 26-41. https://www.researchgate.net/publication/333797461_Spirituality_and_Psychological_Well-being_The_Mediating_Role_of_Pessimism
+
+Bjuggren, C. M., & Elert, N. (2019). Gender differences in optimism. Applied Economics, 51(47), 5160-5173. https://doi.org/10.1080/00036846.2019.1610714
+
+Britton, M., LaLonde, L., Oshio, A., & Taku, K. (2019). Relationships among optimism, pessimism, and posttraumatic growth in the US and Japan: Focusing on varying patterns of perceived stressfulness. Personality and Individual Differences, 151(1), 109513. https://doi.org/10.1016/j.paid.2019.109513
+
+Carver, C. S., Scheier, M. F., & Segerstrom, S. C. (2010). Optimism. Clinical Psychology Review, 30(7), 879â€“889. https://doi.org/10.1016/j.cpr.2010.01.006
+
+Cassidy, A., Fu, G., Valley, W., Lomas, C., Jovel, E., & Riseman, A. (2016). Flexible learning strategies in first through fourth- year course (EJ1104490). ERIC. https://files.eric.ed.gov/fulltext/EJ1104490.pdf
+
+Chidume, C. G., Oko-Otu, C. N., & Aro, G. C. (2021). State fragility and COVID-19 pandemic: Implications on the political economy of Nigeria. Social Sciences & Humanities Open, 3(1), 11127. https://doi.org/10.1016/j.ssaho.2021.100127
+
+Dabrowski, A. (2020). Teacher wellbeing during a pandemic: Surviving or thriving? Social Education Research, 2(1), 35-40. https://doi.org/10.37256/ser.212021588
+
+Ferdig, R., Baumgartner, E., Hartshorne, R., Kaplan-Rakowski, R., & Mouza, C. (Eds.). (2020). Teaching, technology, and teacher education during the COVID-19 pandemic: Stories from the field. Association for the Advancement of Computing in Education (AACE). https://www.learntechlib.org/p/216903/
+
+Fergus, S., & Zimmerman, M. (2005). Adolescent resilience: A framework for understanding healthy development in the face of risk. Annual Review of Public Health, 26(1), 399-419. https://doi.org/10.1146/annurev.publhealth.26.021304.144357
+
+Fernandez-Castro, J., Martinez-Zaragoza, F., Rovira, T., Edo, S., Solanes-Puchol, Ã., Del RÃ­o, B. M., Garcia-Siera, R., Benavides-Gil, G., & Doval, E. (2017). How does emotional exhaustion influence work stress? Relationships between stressor appraisals, hedonic tone, and fatigue in nursesâ€™ daily tasks: A longitudinal cohort study. International Journal of Nursing Studies, 75, 43-50. http://dx.doi.org/10.1016/j.ijnurstu.2017.07.002
+
+Garg, S., Aggarwal, D., Upadhyay, S. K., Kumar, G., & Singh, G. (2020). Effect of COVID-19 on school education system: Challenges and opportunities to adopt online teaching and learning. Humanities & Social Sciences Reviews, 8(6), 10-17. https://doi.org/10.18510/hssr.2020.862
+
+Gering, Z., & Kiraly, G. (2020). Challenges in teaching and learning- the challenges of flexible learning: Vol. 2. Decline or renewal of higher education? Threats and possibilities amidst a global epidemic situation. Future of Higher Education Research Center, Budapest Business School. https://www.researchgate.net/publication/341179378_CHANGES_IN_TEACHING_AND_LEARNING_THE_CHALLENGES_OF_FLEXIBLE_LEARNING_Decline_or_renewal_of_higher_education_Threats_and_possibilities_amidst_a_global_epidemic_situation_Horizon_Scanning_Report_Series
+
+Gillett-Swan, J. (2017). The challenges of online learning: Supporting engaging the isolated learner. Journal of Learning Design, 10(1), 20-30. https://www.jld.edu.au/article/view/293.html
+
+Gkiotsalitis, K. (2021). A model for modifying the public transport service patterns to account for the imposed COVID-19 capacity. Transportation Research Interdisciplinary Perspectives, 9, 100336. https://doi.org/10.1016/j.trip.2021.100336
+
+Golparvar, M., Kamkar, M., & Javadian, Z. (2012). Moderating effects of job stress in emotional exhaustion and feeling of energy relationships with positive and negative behaviors: Job stress multiple functions approach. International Journal of Psychological Studies, 4(4), 99-112. https://doi.org/10.5539/ijps.v4n4p99
+
+Gomez-Mollnero, R., Zayas, A., Ruiz-GonzÃ¡lez, P., & Guil, R. (2018). Optimism and resilience among university students. International Journal of Developmental and Educational Psychology, 1(1), 147-154. https://doi.org/10.17060/ijodaep.2018.n1.v1.1179
+
+Hardy, I. J. (2010). Teacher talk: Flexible delivery and academics' praxis in an Australian university. International Journal for Academic Development, 15(2), 131-142. https://doi.org/10.1080/13601441003738277
+
+Hou, F., Bi, F., Jiao, R., Luo, D., & Song, K. (2020). Gender differences of depression and anxiety among social media users during the COVID-19 outbreak in China: A crosssectional study. BMC Public Health, 20(1), 1648. https://doi.org/10.1186/s12889-020-09738-7
+
+Huang, R. H., Liu, D. J., Tlili, A., Yang, J., & Wang, H. (2020). Handbook on facilitating flexible learning during educational disruption: The Chinese experience in maintaining undisrupted learning in COVID-19 outbreak. https://iite.unesco.org/wp-content/uploads/2020/03/Handbook-on-Facilitating-Flexible-Learning-in-COVID-19-Outbreak-SLIBNU-V1.2-20200315.pdf
+
+JÃ¦ger, M., & BlaabÃ¦k, E. (2020). Inequality in learning opportunities: Evidence from library takeout. Research in Social Stratification and Mobility, 68, 100524 https://doi.org/10.1016/j.rssm.2020.100524
+Joan, R. (2013). Flexible learning design in classroom to promote quality education. Journal on School Educational Technology, 9(1), 37-42. https://doi.org/10.26634/jsch.9.1.2401
+
+Khan, A., Shah, I. M., Khan, S., & Gul, S. (2012). Teachersâ€™ stress, performance & resources: The moderating effects of resources on stress & performance. International Review of Social Sciences and Humanities, 2(2), 21-29. file:///C:/Users/imc-main/Downloads/ppr1.pdf
+
+Kuhfeld, M., Soland, J., Tarasawa, B., Johnson, A., Ruzek, E., & Liu, J. (2020). Projecting the potential impacts of COVID-19 school closures on academic achievement. Educational Researcher, 49(8), 549-565. https://doi.org/10.3102/0013189X20965918
+
+Lagat, K. (2020). Education amidst COVID-19 disruption: Perceived difficulty in implementing flexible learning strategies of teacher education faculty members in a state university. Philippine Social Science Journal, 3(3), 142-150. https://doi.org/10.52006/main.v3i3.264
+
+Lekamwasam, R., & Lekamwasam, S. (2020). Effects of COVID-19 pandemic on health and wellbeing of older people: A comprehensive review. Annals of Geriatric Medicine and Research, 24(3), 166-172. https://doi.org/10.4235/agmr.20.0027
+
+Liguori, E., & Winkler, C. (2020). From offline to online: Challenges and opportunities for entrepreneurship education following the COVID-19 pandemic. Entrepreneurship Education and Pedagogy, 3(4), 346-51. https://doi.org/10.1177/2515127420916738
+
+Mansor, A. N., Zabarani, N. H., Jamaludin, K. A., Mohd Nor, M. Y., Alias, B. S., & Mansor, A. Z. (2021). Home-based learning (HBL) teacher readiness scale: Instrument development and demographic analysis. Sustainability, 13, (4), 1-15. https://doi.org/10.3390/su13042228
+
+Marchand, A., Blanc, M.-E., & Beauregard, N. (2018). Do age and gender contribute to workersâ€™ burnout symptoms? Occupational Medicine, 68(6), 405â€“411. https://doi.org/10.1093/occmed/kqy088
+Martinez-Moreno, A., Ibanez-PÃ©rez, R. J., Cavas-GarcÃ­a, F., & Cano-Noguera, F. (2020). Older adultsâ€™ gender, age and physical activity effects on anxiety, optimism, resilience and engagement. International Journal Environmental Research and Public Health, 17, (20), 1-15. https://doi.org/10.3390/ijerph17207561
+
+Masten, A., & Reed, M. (2002). Resilience in development. In C.R. Synder, & S.J. Lopez (Eds.), Handbook of positive psychology (pp. 117-131). Oxford University Press.
+
+Mishra, K. K. (2013). Gender and age related differences in optimism and good life. Indian Journal of Social Science Researches, 10(1), 9-17. https://www.researchgate.net/publication/265683327_Gender_and_age_related_differences_in_optimism_and_good_life#:~:text=Analysis%20of%20the%20data%20revealed,optimism%20in%20favor%20of%20females.&text=Male%20respondents%20reported%20better%20life,to%20other%20three%20age%20groups.
+
+Moralista, R. B., & Oducado, R.M.F. (2020). Faculty perception toward online education in a state college in the Philippines during the Coronavirus disease 19 (COVID-19) pandemic. Universal Journal of Educational Research, 8(10), 4736 - 4742. https://doi.org/10.13189/ujer.2020.081044
+
+Obligacion, F. R. (1997). The empowering impact of faith among Filipino women: Implications for development initiatives. International Journal of Sociology of the Family, 27(1), 13-33. https://www.jstor.org/stable/23070591?seq=1
+
+Oducado, R. M. F. (2020). Survey instrument validation rating scale. https://doi.org/10.13140/RG.2.2.25263.59040
+
+Ã–zdemir, S., & Kerse, G. (2020). The effects of COVID 19 process on health care workers: Analysing of the relationships between optimism, job stress and emotional exhaustion. International and Multidisciplinary Journal of Social Sciences, 9(2), 178-201. http://doi.org/10.17583/rimcis.2020.5849
+
+Palupi, R., & Findyartini, A. (2019). The relationship between gender and coping mechanisms with burnout events in first-year medical students. Korean Journal of Medical Education, 31(4), 331-342. https://doi.org/10.3946/kjme.2019.143
+
+Panchal, S., Mukherjee, S., & Kumar, U. (2016). Optimism in relation to well-being, resilience, and perceived Stress. International Journal of Education and Psychological Research, 5(2). http://ijepr.org/panels/admin/papers/256ij1.pdf
+
+Parrocha, A. (2020, April 27). Majority of pinoys optimistic PH can overcome Covid-19 pandemic. Philippine News Agency. https://www.pna.gov.ph/articles/1101139
+
+Purvanova, R. K., & Muros, J. P. (2010). Gender differences in burnout: A meta-analysis. Journal of Vocational Behavior, 77(2), 168â€“185. https://doi.org/10.1016/j.jvb.2010.04.006
+
+Reyes, C. Q., & Valencia, M. (2014, July 13-19). Competitive edge of migrant Filipino teachers in selected countries [Conference session]. XVIII ISA World Congress of Sociology, Yokohama, Japan. https://www.researchgate.net/publication/268138812
+
+Reyes, M. E., Dillague, S. G., Fuentes, M. I., Malicsi, C. A., Manalo, D. C., Melgarejo, J. M., & Cayubit, R. F. (2019). Self-esteem and optimism as predictors of resilience among selected Filipino active duty military personnel in military camps. Journal of Positive Psychology & Wellbeing, 4(1), 15-25. https://www.journalppw.com/index.php/JPPW/article/view/159
+
+Scheier, M. F., & Carver, C. S. (1985). Optimism, coping, and health: Assessment and implications of generalized outcome expectancies. Health Psychology, 4(3), 219-247. https://doi.org/10.1037/0278-6133.4.3.219
+
+Sheriffdeen, S. A. S. (2007). Challenges faced by staff and students at tertiary level in flexible learning environment [Master's thesis, Unitec Institute of Technology, NZ]. https://www.researchbank.ac.nz/bitstream/handle/10652/1278/fulltext.pdf?sequence=1
+
+Siemens, G., GaÅ¡evid, D., & Dawson, S. (2015). Preparing for the digital university: A review of the history and current state of distance, blended, and online learning. http://linkresearchlab.org/PreparingDigitalUniversity.pdf.
+
+Souri, H., & Hasanirad, T. (2011). Relationship between resilience, optimism, and psychological well-being of students of medicine. Procedia- Social and Behavioral Sciences, 30, 1541-1544. https://doi.org/10.1016/j.sbspro.2011.10.299
+
+Sousa, V., Driessnack, M., & Mendes, I. A. C. (2007). An overview of research designs relevant to nursing: Part 1: Quantitative research designs. Revista Latino-Americana de Enfermagem, 15(3), 502-507. https://doi.org/10.1590/s0104-11692007000300022
+
+SÃ¼ÄŸÃ¼mlÃ¼, Ãœ. (2021). A case study on teaching Turkish through distance education. International Journal of Psychology and Educational Studies, 8(1), 174-190. http://dx.doi.org/10.17220/ijpes.2021.8.1.278
+
+Teymori, A. N., & Fardin, M. A. (2020). COVID-19 and educational challenges: A review of the benefits of online education. Annals of Military and Health Sciences Research, 18(3), 105778. https://doi.org/10.5812/amh.105778
+
+Toquero, C. M. (2020). Challenges and opportunities for higher education amid the COVID-19 pandemic: The Philippine context. Pedagogical Research, 5(4), 1-5. https://doi.org/10.29333/pr/7947
+
+Torres- MartÃ­n, C., Acal, C., El Honrani, M., & Mingorance Estrada, Ã.C. (2021). Impact on the virtual learning environment due to COVID-19. Sustainability, 13, (582), 1-16. https://doi.org/10.3390/su13020582
+
+United Nations Educational, Scientific and Cultural Organization [UNESCO]. (2020, March 19 a). Half of worldâ€™s student population not attending school: UNESCO launches global coalition to accelerate deployment of remote learning solutions. https://en.unesco.org/news/half-worlds-student-population-%20not-attending-school-unesco-launches-global-coalition-accelerate
+
+United Nations, Educational Scientific and Cultural Organization [UNESCO]. (2020, April b). Re-opening schools after COVID-19 closures: Webinars by UNESCO, UNICEF and the World Bank. https://en.unesco.org/news/framework-reopening-schools
+
+Upoalkpajor, J.-L. N., & Upoalkpajor, C. B. (2020). The impact of COVID-19 on education in Ghana. Asian Journal of Education and Social Studies, 9(1), 23-33. https://doi.org/10.9734/AJESS/2020/v9i130238
+
+Viernes, R. M., & de Guzman, A. B. (2005). Filipino teachersâ€™ experiences of supportive relationships with colleagues: A narrative-biographical inquiry. Asia Pacific Education Review, 6(2), 137-142. https://doi.org/10.1007/BF03026781
+
+Wangui, M. F., Ombui, K., & Iravo, M. (2013). Effects of work-related stress on teachers performance in public secondary schools in KikuyuSub County, Kenya. International Journal of Science and Research, 5(5), 1645-1651. https://www.ijsr.net/archive/v5i5/20051601.pdf
+
+Wong, A. Y.-Y., Ling, S. K.-K., Louie, L. H.-T., Law, G. Y.-K., So, R. C.-H., Lee, D. C.-W., Yau, F. C-F., & Yung, P. S.-H. (2020). Impact of the COVID-19 pandemic on sports and exercise. Asia-Pacific Journal of Sports Medicine, Arthroscopy, Rehabilitation and Technology, 22, 39-44. https://doi.org/10.1016/j.asmart.2020.07.006
+
+Workie, E., Mackolil, J., Nyika, J., & Ramadas, S. (2020). Deciphering the impact of COVID-19 pandemic on food security, agriculture, and livelihoods: A review of the evidence from developing countries. Current Research in Environmental Sustainability, 2, 100014. https://doi.org/10.1016/j.crsust.2020.100014
+
+Yang, Y., Altschuler, B., Liang, Z., & Li, X. (in press). Monitoring the global COVID-19 impact on tourism: The COVID19 tourism index. Annals of Tourism Research. https://doi.org/10.1016/j.annals.2020.103120
+
+Zautra, A. J., Hall, J. S., & Murray, K. E. (2010). Resilience: A new definition of health for people and communities. In J. W. Reich, A. Zautra, & J. S. Hall. (Eds.), Handbook of adult resilience (pp. 3-34). https://books.google.com.ph/books?id=lyRc8ZshU98C&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false",2021-06-03,https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/1027
+Extended Technology Acceptance Model to Examine the Use of Google Forms â€“ based Lesson Playlist in Online Distance Learning,"digital learning technology, extended technology acceptance model, COVID-19, online distance learning, Philippine Senior High School students, PLS-SEM",Fritz M. Ferran,https://doi.org/10.32871/rmrj2109.01.13,"Shifting to online distance learning due to the COVID-19 pandemic challenged educators' roles as instructional materials designers. This study aimed to examine the students' acceptance of the teacher-designed e-learning tool called Google Forms-based Lesson Playlist (GF-LP) in a home-based online distance learning environment. This quantitative research analyzed 570 responses from Grades 11 and 12 students at a private school in the Philippines using the partial least squares-structural equation modeling. Results showed that perceived self-efficacy and system quality strongly affect the users' perceived ease of use while perceived ease of use highly influenced the students' perceived usefulness of GF-LP. Facilitating conditions do not affect the users' attitudes towards using the e-learning tool, which confirmed the effective utilization of GF-LP in online distance learning. The relationships between the original constructs of the Technology Acceptance Model (TAM) were also presented. This study recommends the use of GF-LP or its features for remote learning.","Adnan, M., & Anwar, K. (2020). Online learning amid the COVID-19 pandemic: Studentsâ€™ perspectives. Journal of Pedagogical Sociology and Psychology, 2(1), 45-51. https://doi.org/10.33902/JPSP.
+
+Almaiah, M. A., Alamri, M. M., & Al-rahmi, W. (2019). Applying the UTAUT model to explain the studentsâ€™ acceptance of mobile learning system in higher education. IEEE Access, 7, 174673â€“174686. https://doi.org/10.1109/ACCESS.2019.2957206
+
+Ancho, I. (2020). Graduate education during COVID-19 pandemic: Inputs to policy formulation in the new normal. Recoletos Multidisciplinary Research Journal, 8(2), 87-105. https://doi.org/10.32871/rmrj2008.02.07
+
+Asiimwe, E. N., & GrÃ¶nlund, Ã…. (2015). MLCMS actual use, perceived use, and experiences of use. International Journal of Education and Development Using Information and Communication Technology, 11(1), 101â€“121. https://files.eric.ed.gov/fulltext/EJ1061487.pdf
+
+Binyamin, S. S., Rutter, M. J., & Smith, S. (2019). Extending the Technology Acceptance Model to understand studentsâ€™ use of learning management systems in Saudi higher education. International Journal of Emerging Technologies in Learning, 14(3), 4â€“21. https://doi.org/10.3991/ijet.v14i03.9732
+
+Bohol, D. O., & Prudente, M. S. (2020, January 10-12). Using lesson playlist through schoology-based Flipping The Classroom (FTC) approach in enhancing STEM studentsâ€™ performance in General Biology 1 [Conference session]. The 11th International Conference on E-Education, E-Business, E-Management, and E-Learning, Osaka, Japan. https://doi.org/10.1145/3377571.3377588
+
+Brown, M., Dehoney, J., & Millichap, N. (2015). The next generation digital learning environment: A report on research [ELI Paper]. https://library.educause.edu/resources/2015/4/the-next-generation-digital-learning-environment-a-report-on-research
+
+Chen, T., Peng, L., Jing, B., Wu, C., Yang, J., & Cong, G. (2020). The impact of the COVID-19 pandemic on user experience with online education platforms in China. Sustainability, 12(18), 7329. https://doi.org/10.3390/SU12187329
+
+Davis, F. D. (1989). Perceived usefulness, perceived ease of use, and user acceptance of information technology. MIS Quarterly, 13(3), 319â€“340. https://doi.org/10.2307/249008
+
+Fathema, N., Shannon, D., & Ross, M. (2015). Expanding the Technology Acceptance Model (TAM) to examine faculty use of Learning Management Systems (LMSs) in higher education institutions. MERLOT Journal of Online Learning and Teaching, 11(2), 210â€“232. https://www.researchgate.net/publication/281842180_Expanding_The_Technology_Acceptance_Model_TAM_to_Examine_Faculty_Use_of_Learning_Management_Systems_LMSs_In_Higher_Education_Institutions
+
+Fearnley, M.R., & Amora, J. T. (2020). Learning management system adoption in higher education using the extended technology acceptance model. IAFOR Journal of Education, 8(2), 89â€“106. https://doi.org/10.22492/ije.8.2.05
+
+Fei, V. L., & Hung, D. (2016). Teachers as learning designers: What technology has to do with learning. A view from Singapore. Educational Technology, 56(4), 26â€“29. https://www.researchgate.net/publication/306080401_Teachers_as_Learning_Designers_What_Technology_has_to_do_with_Learning_A_View_from_Singapore#:~:text=It%20proposes%20that%20as%20a,the%20mastery%20of%20subject%20knowledge.
+
+Fornell, C., & Larcker, D. F. (1981). Evaluating structural equation models with unobservable variables and measurement error. Journal of Marketing Research, 18(1), 39. https://doi.org/10.1177/002224378101800104
+
+GraniÄ‡, A., & MaranguniÄ‡, N. (2019). Technology acceptance model in educational context: A systematic literature review. British Journal of Educational Technology, 50(5), 2572â€“2593. https://doi.org/10.1111/bjet.12864
+
+Hanif, A., Jamal, F. Q., & Imran, M. (2018). Extending the Technology Acceptance Model for use of e-learning systems by digital learners. IEEE Access, 6, 73395â€“73404. https://doi.org/10.1109/ACCESS.2018.2881384
+
+Janadari, M. P. N., Ramalu, S. S., & Wei, C. C. (2018). Measurement of organizational citizenship behaviour; reliability and validity in Sri Lankan context. Kelaniya Journal of Human Resource Management, 13(1), 1-9. http://doi.org/10.4038/kjhrm.v13i1.45
+
+Kashada, A., Li, H., & Koshadah, O. (2018). Analysis approach to identify factors influence digital learning technology adoption and utilization in developing countries. International Journal of Emerging Technologies in Learning, 13(2), 48â€“59. https://doi.org/10.3991/ijet.v13i02.7399
+
+Kock, N. (2020). WarpPLS 7.0 user manual: Version 7.0. https://www.scriptwarp.com/warppls/UserManual_v_7_0.pdf
+
+KÃ¶nig, J., JÃ¤ger-Biela, D. J., & Glutsch, N. (2020). Adapting to online teaching during COVID-19 school closure: Teacher education and teacher competence effects among early career teachers in Germany. European Journal of Teacher Education, 43(4), 608-622. https://doi.org/10.1080/02619768.2020.1809650
+
+Lin, H. M., Lee, M. H., Liang, J. C., Chang, H. Y., Huang, P., & Tsai, C. C. (2020). A review of using partial least square structural equation modeling in eâ€learning research. British Journal of Educational Technology, 51(4), 1354-1372. https://doi.org/10.1111/bjet.12890
+
+Mercader, C., & GairÃ­n, J. (2020). University teachersâ€™ perception of barriers to the use of digital technologies: The importance of the academic discipline. International Journal of Educational Technology in Higher Education, 17(4). https://doi.org/10.1186/s41239-020-0182-x
+
+Mothibi, G. (2015). A meta-analysis of the relationship between e-learning and studentsâ€™ academic achievement in higher education. Journal of Educational and Practice, 6(9), 6â€“10. https://www.iiste.org/Journals/index.php/JEP/article/view/21025
+
+Nikou, S. A., & Economides, A. A. (2019). Factors that influence behavioral intention to use mobile-based assessment: A STEM teachersâ€™ perspective. British Journal of Educational Technology, 50(2), 587â€“600. https://doi.org/10.1111/bjet.12609
+
+Ozerbas, M. A., & Erdogan, B. H. (2016). The effect of the digital classroom on academic success and online technologies self-efficacy. Educational Technology and Society, 19(4), 203â€“212. https://eric.ed.gov/?id=EJ1115665#:~:text=This%20study%20aimed%20to%20observe,efficacy%20of%207th%20grade%20students.&text=However%2C%20it%20has%20been%20shown,'%20online%20technologies%20self%2Defficacy.
+
+Panda, S., & Mishra, S. (2007). E-Learning in a Mega Open University: Faculty attitude, barriers, and motivators. Educational Media International, 44(4), 323â€“338. https://doi.org/10.1080/09523980701680854
+
+Putra, I. D. G. R. D. (2019). The evolution of Technology Acceptance Model (Tam) and recent progress on technology acceptance research in Elt: State of the art article. Yavana Bhashaâ€¯: Journal of English Language Education, 1(2), 25â€“37. https://doi.org/10.25078/yb.v1i2.724
+
+Rajab, M. H., Gazal, A. M., & Alkattan, K. (2020). Challenges to online medical education during the COVID-19 pandemic. Cureus, 12(7), e8966. https://doi.org/10.7759/cureus.8966
+
+Salloum, S. A. (2018). Investigating studentsâ€™ acceptance of E-learning system in higher educational environments in the UAE: Applying the extended Technology Acceptance Model (TAM) [Masterâ€™s thesis, The British University in Dubai]. The British in Dubai Digital Repository. https://bspace.buid.ac.ae/handle/1234/1150
+
+Salloum, S. A., Qasim Mohammad Alhamad, A., Al-Emran, M., Abdel Monem, A., & Shaalan, K. (2019). Exploring studentsâ€™ acceptance of e-learning through the development of a comprehensive technology acceptance model. IEEE Access, 7, 128445â€“128462. https://doi.org/10.1109/ACCESS.2019.2939467
+
+Scherer, R., Siddiq, F., & Tondeur, J. (2020). All the same or different? Revisiting measures of teachers' technology acceptance. Computers & Education, 143, 103656. https://doi.org/10.1016/j.compedu.2019.103656
+
+Siyam, N. (2019). Factors impacting special education teachersâ€™ acceptance and actual use of technology. Education and Information Technologies, 24(3), 2035â€“2057. https://doi.org/10.1007/s10639-018-09859-y
+
+Tarhini, A., Elyas, T., Akour, M. A., & Al-Salti, Z. (2016). Technology, demographic characteristics and e-learning acceptance: A conceptual model based on extended technology acceptance model. Higher Education Studies, 6(3), 72-89. https://doi.org/10.5539/hes.v6n3p72
+
+Tarhini, A., Hone, K., & Liu, X. (2014). Measuring the moderating effect of gender and age on e-learning acceptance in England: A structural equation modeling approach for an extended technology acceptance model. Journal of Educational Computing Research, 51(2), 163-184. https://doi.org/10.2190/EC.51.2.b
+
+Teeroovengadum, V., Heeraman, N., & Jugurnath, B. (2017). Examining the antecedents of ICT adoption in education using an Extended Technology Acceptance Model (TAM). International Journal of Education and Development Using Information and Communication Technology, 13(3), 4â€“23. https://files.eric.ed.gov/fulltext/EJ1166522.pdf
+
+Tenenhaus, M., Vinzi, V. E., Chatelin, Y. M., & Lauro, C. (2005). PLS path modeling. Computational Statistics & Data Analysis, 48(1), 159-205. https://doi.org/10.1016/j.csda.2004.03.005
+
+Teo, T., & Huang, F. (2019). Investigating the influence of individually espoused cultural values on teachersâ€™ intentions to use educational technologies in Chinese universities. Interactive Learning Environments, 27(5â€“6), 813â€“829. https://doi.org/10.1080/10494820.2018.1489856
+
+Teo, T., Huang, F., & Hoi, C. K. W. (2018). Explicating the influences that explain intention to use technology among English teachers in China. Interactive Learning Environments, 26(4), 460â€“475. https://doi.org/10.1080/10494820.2017.1341940
+
+Toquero, C. M. (2020). Challenges and opportunities for higher education amid the COVID-19 pandemic: The Philippine context. Pedagogical Research, 5(4). https://doi.org/10.29333/pr/7947
+
+Zanjani, N., Edwards, S. L., Nykvist, S., & Geva, S. (2017). The important elements of LMS design that affect user engagement with e-learning tools within LMSs in the higher education sector. Australasian Journal of Educational Technology, 33(1), 19â€“31. https://doi.org/10.14742/ajet.2938",2021-06-03,https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/955

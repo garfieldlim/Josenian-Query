@@ -1,0 +1,435 @@
+Title,Keywords,Author,DOI,Abstract,References,Published Date,Link
+"Configuration of Research Culture: Investment, Process, and Norm","research culture, teacher education, narrative inquiry",Michelle Mae Olvido,https://doi.org/10.32871/rmrj2008.02.01,"Research is a priority in higher education institutions. Considering that the development of research culture is highly influenced by the paradigm by which institutions operate on, this paper sought to identify the configuration of the research culture. The researcher conducted a narrative inquiry with key informants from seven reputable teacher education institutions in Region VII and coded the interview transcripts with the aid of NVIVO 11.3.2. Using Thematic Analysis (Braun and Clarke, 2006), three overarching themes on the configuration of the research culture, with its corresponding attributes and characteristics, were identified. The results showed that the research culture consists of observable and measurable inputs and outputs that interact in internal and external dynamics that are developmental and systemic, leading to standardized and contextualized practices in a teacher education institution. Therefore, research culture is an investment, a process, and a norm as it is evidence-based, dynamic, and distinct to the academic institution.","Braun, V., & Clarke, V. (2006). Using thematic analysis in psychology. Qualitative research in psychology, 3(2), 77-101.
+
+Clandinin, D. J., & Huber, J. (2010). Narrative inquiry. In Peterson, P. L., Baker, E., & McGaw, B. (eds.) International encyclopedia of education (3rd ed.). Elsevier Ltd.
+
+Cohen, L., Manion, L., & Morrison, K. (2007) Research Methods in Education (6th Ed). New York: Routledge
+
+Commission on Higher Education (2012). Policy-standard to enhance Quality Assurance (QA) in Philippine higher education through an outcomes-based and typology-based QA. http://www.ched.gov.ph/wp-content/uploads/2013/07/CMO-No.46-s2012.pdf
+
+Didegah, F., & Thelwall, M. (2013). Which factors help authors produce the highest impact research? Collaboration, journal, and document properties. Journal of Informetrics, 7(4), 861-873. https://doi.org/10.1016/j.joi.2013.08.006
+
+Evans, L. (2007, December). Developing research cultures and researchers in HE: the role of leadership. In Annual Conference of the Society for Research into Higher Education (SRHE), 1-6.
+
+Garde-Hansen, J., & Calvert, B. (2007). Developing a research culture in the undergraduate curriculum. Active Learning in Higher Education, 8(2), 105â€“116. https://doi.org/10.1177/1469787407077984
+
+Hanover Research (2014). Building a Culture of Research: Recommended Practices. http://www.hanoverresearch.com/media/Building-a-Culture-of-Research-Recommended-Practices.pdf
+
+Henson, R. K., Hull, D. M., & Williams, C. S. (2010). Methodology in our education research culture: Toward a stronger collective quantitative proficiency. Educational Researcher, 39(3), 229-240. https://doi.org/10.3102/0013189X10365102
+
+Hofstede, G. (1997). Cultures and Organizations: Software of the mind. McGraw Hill.
+
+Jameson, D. A. (2007). Reconceptualizing cultural identity and its role in intercultural business communication. The Journal of Business Communication, 44(3), 199-235. https://doi.org/10.1177/0021943607301346
+
+Jung, J. (2012). Faculty research productivity in Hong Kong across academic discipline. Higher Education Studies, 2(4), 1-13.
+
+Kumar, C. R. (2008). Research Methodology. APH Publishing Corporation.
+
+Marchant, T. (2009). Developing research cultureâ€”overcoming regional and historical obstacles. Professional doctorate research in Australia: commentary and case studies from business, education and indigenous studies, 55-64.
+
+Merriam-Webster. (2017). Phenomenon. In Merriam-Webster's.com dictionary. https://www.merriam-webster.com/dictionary/phenomenon.
+
+Samarasekera, I., & Amrhein, C. (2010). Top schools don't always get top marks. Edmonton Journal.
+
+Tan, E. B. (2007). Research experiences of undergraduate students at a comprehensive university. International Journal of Teaching and Learning in Higher Education, 19(3), 205-215.
+
+Times Higher Education (2015). World University Rankings. http://www.timeshighereducation.co.uk/world-university-rankings/
+
+Tynan, B. R., & Garbett, D. L. (2007). Negotiating the university research culture: Collaborative voices of new academics. Higher Education Research & Development, 26(4), 411-424. https://doi.org/10.1080/07294360701658617
+
+University of the Philippines Media and Public Relations Office. (2017). Pascual reports accomplishments, thanks UP. https://www.up.edu.ph/pascual-reports-accomplishments-thanks-up/
+
+Valencia, M. (2004). International scientific productivity of selected universities in the Philippines. Science Diliman, 16(1), 49-54.",2020-12-28,https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/861
+Wordnet Semantic Relations in a Chatbot,"Wordnet, Dialogflow, chatbot, semantic relation, phrase structure",Josephine Petralba,https://doi.org/10.32871/rmrj2008.02.02,"The goal of this research is to design and implement a chatbot for querying Wordnet semantic relations. The study creates a contextual chatbot named WordnetBot, a web application that utilizes the use of technologies such as Dialogflow, React, NodeJS, Javascript, and MariaDB. The Wordnet database which leverages all other dictionaries due to its semantic relations representation was used as the data source. Phrase Structure Analysis extracts the keyword and the semantic relation from a userâ€™s message or query. It complements the Machine Learning and AI capabilities of Dialogflow in the analysis. The researcher designed an architectural framework for the integration of the different components of WordnetBot.","AbuShawar, B., & Atwell, E. (2015). ALICE chatbot: trials and outputs. ComputaciÃ³n y Sistemas, 19(4), 625-632.
+
+Chou, P. T. M. (2011). The effects of vocabulary knowledge and background knowledge on reading comprehension of Taiwanese EFL students. Electronic Journal of Foreign Language Teaching, 8(1).
+
+Datta, D., Phillips, M., Chiu, J., Watson, G. S., Bywater, J. P., Barnes, L., & Brown, D. (2020). Improving classification through weak supervision in context-specific conversational agent development for teacher education. arXiv preprint arXiv:2010.12710.
+
+De Pietro, O., & Frontera, G. (2005). Tutorbot: an application aiml-based for web-learning. Advanced Technology for Learning, 2(1), 29-34.
+
+Feng, D., Shaw, E., Kim, J., & Hovy, E. (2006, January). An intelligent discussion-bot for answering student queries in threaded discussions. In Proceedings of the 11th international conference on Intelligent user interfaces, 171-177.
+
+Fryer, L., & Carpenter, R. (2006). Bots as language learning tools. Language Learning & Technology, 10(3), 8-14.
+
+Google. (2020). Quotas and limits Dialogflow Google Cloud. https://cloud.google.com/dialogflow/
+
+Kretzschmar Jr, W. A. (2015). Language and complex systems. Cambridge University Press.
+
+Miller, G. A., & Fellbaum, C. (1992). WordNet and the organization of lexical memory. In Intelligent tutoring systems for foreign language learning. Springer.
+
+Petralba, J. E. (2014a). An extracted database content from WordNet for natural language processing and word games. In 2014 International Conference on Asian Language Processing (IALP), 199-202.
+
+Petralba.(2014b). WordnetPort. http://wordnetport.sourceforge.net/
+
+Princeton University. (2010). Related Projects. https://wordnet.princeton.edu/related-projects
+
+Sciforce. (2019). NLP vs. NLU: From understanding a language to its processing. https://medium.com/sciforce/nlp-vs-nlu-from-understanding-a-language-to-its-processing-1bf1f62453c1",2020-12-29,https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/876
+Analysis and Forecasting of Fire incidence in Davao City,"R programming, forecasting, fire incidence, modeling for decision making","Merlito M. Villa, Roel F. Ceballos",https://doi.org/10.32871/rmrj2008.02.03,"Fire incidence is a big problem for every local government unit in the Philippines. The two most detrimental effects of fire incidence are economic loss and loss of life. To mitigate these losses, proper planning and implementation of control measures must be done. An essential aspect of planning and control measures is prediction of possible fire incidences. This study is conducted to analyze the historical data to create a forecasting model for the fire incidence in Davao City. Results of the analyses show that fire incidence has no trend or seasonality, and occurrences of fire are neither consistently increasing nor decreasing over time. Furthermore, the absence of seasonality in the data indicate that surge of fire incidence may occur at any time of the year. Therefore, fire prevention activities should be done all year round and not just during fire prevention month.","Adhikari, R., & Agrawal, R. K. (2013). An introductory study on time series modeling and forecasting. LAP Lambert Academic Publishing. arXiv preprint arXiv:1302.6613.
+
+Ahn, S., Kang, H., Cho, J., Kim, T. O., & Shin, D. (2015). Forecasting model design of fire occurrences with ARIMA models. Journal of the Korean Institute of Gas, 19(2), 20-28. https://doi.org/10.7842/KIGAS.2015.19.2.20
+
+Barker, J. (2005) Abstraction and Modeling. In: Beginning Java Objects. Apress
+
+Benjamin, P., Erraguntla, M., Delen, D., & Mayer, R. (1998). Simulation modeling at multiple levels of abstraction. 1998 Winter Simulation Conference. Proceedings (Cat. No.98CH36274), 1, 391-398. 10.1109/WSC.1998.745013
+
+Burroughs, M. (2016, September). International fire statistics. Retrieved from https://www.frsug.org/reports/International_Fire_Statistics_September_2016.pdf
+
+Colina, A. (2015, December 29). Fire incidents increase in Davao region. https://www.mindanews.com/top-stories/2015/12/66020/
+
+Commission on Audit (COA). (2018, December). Bureau of fire protection modernization program. Retrieved from https://www.coa.gov.ph/index.php/bureau-of-fire-protection-modernization-program#
+
+Contreras, J., Espinola, R., Nogales, F. J., & Conejo, A. J. (2003). ARIMA models to predict next-day electricity prices. IEEE transactions on power systems, 18(3). 10.1109/TPWRS.2002.804943
+
+Hyndman, R. J. (2001). Box-Jenkins modeling. In Regional Symposium on Environment and Natural Resources, Apr (pp. 10-11). Retrieved from https://robjhyndman.com/papers/BoxJenkins.pdf
+
+Kavasseri, R. G., & Seetharaman, K. (2009). Day-ahead wind speed forecasting using f-ARIMA models. Renewable Energy, 34(5), 1388-1393. 10.1016/j.renene.2008.09.006
+
+Keshvani, A. (2013, August 7). How to use the autocorrelation function (ACF)? Retrieved from Coolstatblog: https://coolstatsblog.com/2013/08/07/howto-use-the-autocorreation-function-acf/
+
+Kurbalija V., RadovanoviÄ‡ M., Geler Z., IvanoviÄ‡ M. (2010) A Framework for Time-Series Analysis. In: Dicheva D., Dochev D. (eds) Artificial Intelligence: Methodology, Systems, and Applications. AIMSA 2010. Lecture Notes in Computer Science, vol 6304. Springer, Berlin, Heidelberg. https://doi.org/10.1007/978-3-642-15431-7_5
+
+Manayaga, M. C. E., & Ceballos, R. F. (2019). Forecasting the remittances of the Overseas Filipino Workers in the Philippines. International Journal of Statistics and Economics ,20(3),36-44. http://www.ceser.in/ceserp/index.php/bse/article/view/6126
+
+Montgomery, D. C., Jennings, C. L., & Kulachi, M. (2015). Introduction to time series analysis and forecasting. John Wiley & Sons.
+
+National Disaster Risk Reduction and Management Council (NDRRMC). (2017). Fire incidence in Bankerohan Public Market. Retrieved from http://ndrrmc.gov.ph/20-incidents-monitored/3252-fire-incident-in-bangkerohan,-davao-city
+
+Panaji, D. R., Trisasongko, B. H., Susetyo, B., Raimadoya, M. A., & Lees, B. G. (2010). Historical fire detection of tropical forest from NDVI time-series data: a Case study on Jambi, Indonesia. Journal of Mathematical and Fundamental Sciences, 42(1), 49-66.
+
+Perez, E. G., & Ceballos, R. F. (2019). Malaria Incidence in the Philippines: Prediction using the Autoregressive Moving Average Models. International Journal of Engineering and Future Technology (2019), 16(4), 1-10. http://www.ceser.in/ceserp/index.php/IJEFT/article/view/5961
+
+Philippine Information Agency (PIA). (2018 April 10). March is Fire prevention Month. https://pia.gov.ph/features/articles/1019379
+
+Powell, S. G., & Baker, K. R. (2009). Management science: The art of modeling with spreadsheets, Wiley.
+
+Tatoy, A. M. A., & Ceballos, R. F. (2019). Human Immunodeficiency Virus (HIV) Cases in the Philippines: Analysis and Forecasting. JP Journal of Biostatistics, 16(2), 67-77. http://dx.doi.org/10.17654/BS016020067
+
+World Health Organization (WHO). (2018, March 6). Burns. https://www.who.int/en/news-room/fact-sheets/detail/burns
+
+Zhang, D., & Jiang, K. (2012). Application of data mining techniques in the analysis of fire incidents. Procedia Engineering, 43, 250-256. https://doi.org/10.1016/j.proeng.2012.08.043
+
+Zhanli, M. (2012). Disastrous forecasting of fire accidents in assembly occupancies. Energy procedia, 16, 1899-1903. https://doi.org/10.1016/j.egypro.2012.01.290",2020-12-29,https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/828
+DSS Framework: A Proposal for Disaster Logistic Support System for the Province of Laguna,"ICT-based logistic, logistics, decision tree models, provincial and municipal disaster risk reduction management","Rene H. Alipio, Francis F. Balahadia",https://doi.org/10.32871/rmrj2008.02.04,"The Philippinesâ€™ location within the Pacific Ring of Fire brings enormous threat to its people. Intervention and innovation are to be in place for survival and growth, since nothing can be done about its geographic location and the threats that come with it. This study aims to create a framework for developing a decision support system, a mobile and web application for the efficient implementation of the disaster logistics support system. The study will utilize Agile Methodology for the software development in the proposed framework. This proposed framework exhibits the features of the system such as identifying location, affected families, supplies, reports, management of inventory, vehicle outsourcing, and monitoring. The system framework can be a helpful tool for the efficient and speedy delivery of needed help and an effective approach to disaster supply chain issues.","A-Iryani, N. & Gassin, T. (2005). Logistic and transportation management. Master Thesis No. 2005:65. Retrieved from: https://gupea.ub.gu.se/bitstream/2077/2262/1/gbs_thesis_62.pdf
+
+Azmi, I., Hamid, N. A., Hussin, M. N. M., & Ibrahim, N. I. (2017). Logistics and supply chain management: The importance of integration for business processes. Journal of emerging economies and Islamic Research, 5(4), 73-80. Retrieved from: https://www.researchgate.net/publication/322553696
+
+Bastos, M., Campos, V., & Bandeira, R., (2014). Logistic processes in a post-disaster relief operation. Procedia - Social and Behavioral Sciences, 111, 1175-1184. https://doi.org/10.1016/j.sbspro.2014.01.152
+
+Dâ€™Uffizi A., Simonetti M., Stecca G., & Confessore G. (2015). A Simulation study of logistics for disaster relief operations. Procedia CIRP, 33, 157-162. https://doi.org/10.1016/j.procir.2015.06.029
+
+Li, X. (2014). Operations management of logistics and supply chain: Issues and directions. Discrete Dynamics in Nature and Society, 2014. https://doi.org/10.1155/2014/701938
+
+Nahleh Y., Kumar A., Daver A., & Al-Hindawi R., (2014). Decision tree modeling in emergency logistics planning. International Journal of Industrial and Manufacturing Engineering, 8(6), 1704-1708. Retrieved from: https://www.researchgate.net/publication/320294294_Decision_Tree_Modeling_in_Emergency_Logistics_Planning
+
+Ndonye, S. K., (2014). Influence of information technology on logistics performance in Kenya with reference to cargo transportation. Research Journal of Supply Chain Management. 1(2). Retrieved from: http://www.ijsrp.org/research-paper-0415/ijsrp-p40116.pdf
+
+Republic Act No. 10121. (2010). â€œPhilippine Disaster Risk Reduction and Management Act of 2010.â€ Retrieved from: https://lawphil.net/statutes/repacts/ra2010/ra_10121_2010.html
+
+Thaller, C., Moraitakis, N., Rogers, H., Sigge, D., Clausen, U., Pfohl, H. C., Hartmann, E., & Hellingrath, B. (2012). Analysis of the logistics research in Indiaâ€“white paper. BMBF, Germany. Under Contract IND, 11, A15. Retrived from: https://web.iitd.ac.in/~ravi1/4a_White%20Paper%20Logistics%20Research%20in%20India%20%282%29.pdf
+
+Van Dyk, E., Ittmann, H. W., Marais, M. A., & Meyer, I. (2006). State of logistics: Research priorities for sustained improvement. Retrieved from: http://hdl.handle.net/10204/1039",2020-12-29,https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/884
+Ratooning Response of Lowland Rice NSIC Rc352 (Oryza sativa L.) to Method of Nitrogen Application,"lowland rice, basal, fertilization, ratoon, topdress",Dionesio Maglahus Banoc,https://doi.org/10.32871/rmrj2008.02.05,"This study seeks to determine the effect of N fertilization method on ratoon lowland rice performance, to choose a fertilization method that provides high ratooned yield, and to assess its profitability adopting N fertilization method. The experiment lays out in a Randomized Complete Block Design with three replications and five N fertilization methods as treatments. Method of N application significantly affected the number of days to heading and maturity, plant height, leaf area index (LAI), number of productive tillers hill-1, panicle length and weight, number of filled and unfilled grains panicle-1. This method compensates cost of production of growing ratoon crop than those of the main crop. In fact, the highest profit (PhP25,564.80) was obtained in ratooned plants, which received 60 kg ha-1 N basal + 30 kg ha-1 N topdress application (T3) due to higher grain yield. Thereby, this is an appropriate option that provides high productivity and income for the ratoon growers.","Aulakh, M., Khera, T.S., Doran, J.W., Singh, K. & Singh, B. (2000). Yield under nitrogen dynamics in a rice-wheat system using green manure and inorganic fertilizer. Soil Sci. Soc. in America Journal, 64, 1867 - 1876. https://doi.org/10.2136/sssaj2000.6451867x
+
+Baoy, R.A. & BaÃ±oc, D.M. (2017). Performance of inbred and hybrid rice (Oryza sativa L.) varieties as influenced by the combined application of organic and inorganic fertilizers. Annals of Tropical Research 39(1), 70 - 85. https://doi.org/10.32945/atr3915.2017
+
+Castillejo Sanchez, M.A., Kirchev, H. & Jorrin, J.V. (2010). Differences in the Triticale (X Triticosecale Wittmack) Flag Leaf 2-DE Protein Profile between Varieties and Nitrogen Fertilization Levels. Journal of Agricultural and Food Chemistry, 58(9), 5698 â€“ 5707. https://doi.org/10.1021/jf100215t
+
+Clatterbuck, W.K. (1914). Nutrient deficiencies in trees. Agricultural Extension Service. The University of Tennessee, Institute of Agriculture, Division of Forestry, U. S. Department of Agriculture.
+
+Elias, R.S. (1969). Rice production through minimal tillage. Outlook Agric, 6(2), 67 - 70. https://doi.org/10.1177/003072706900600204
+
+Fageria, N.K. & Baligar, V.C. (1996). Lowland rice response to N fertilization. Comm. Soil Sci. Plant Anal., 32, 1405 - 1429. https://doi.org/10.1081/CSS-100104202
+
+Fageria, N.K., Baligar, V.C. & Jones, C.A. (1997). Growth through nutrition of field crops (2nd ed.). Marcel Dekkar.
+
+Fernandez, M.O. (1991). Response of three upland rice varieties to nitrogen fertilizer [Unpublished - Undergraduate Thesis]. Leyte State University.
+
+Gomez, K.A. & Gomez, A.A. (1976). Statistical Procedures for Agricultural Research (2nd ed.). John Wiley and Sons.
+
+Gonzaga, D.A. (2006). Effects of combined cattle manure and inorganic fertilizer on lowland rice [Unpublished - Undergraduate Thesis]. Leyte State University.
+
+Kundu, D.K., Ladha, J.K. & Lapitan-De-Guzman, E. (1996). Tillage depth influence on soil nitrogen distribution and availability in a rice lowland. Soil Sci. Soc. Am. J. 60, 1153-1159. https://doi.org/10.2136/sssaj1996.03615995006000040028x
+
+Landon, J.R. (1991). Booker tropical soil manual: A handbook for soil survey and agricultural land evaluation in both tropics and subtropics. Long Scientific and Technical John Wiley and Sons, Inc.
+
+Lasco, V.P. (2017). Performance of lowland red rice (Oryza sativa L.) as influenced by the combined application of organic and inorganic fertilizers. [Unpublished-Undergraduate Thesis]. Visayas State University.
+
+Namoca, J.M. (2004). Response of upland rice to various rates of nitrogen application. [Unpublished - Undergraduate Thesis]. Leyte State University.
+
+Patolilic, R. G. (1988). Growth, yield of upland rice as affected by different methods of planting and levels of nitrogen fertilizer [Unpublished - Undergraduate Thesis]. Leyte State University.
+
+Plucknett, D.L., Enenson, J.P. & Sanford, W.G. (1970). Ratoon cropping. Adv. Agron. 22, 285-330. https://doi.org/10.1016/S0065-2113(08)60271-0
+
+Ratilla, M.D. & Cagasan, U.A. (2011). Growth and yield performance of selected lowland rice varieties under alternative wet and dry water management. Annals of Tropical Research. 33(2), 130 - 142. https://doi.org/10.32945/atr3327.2011
+
+Samson, B.T. (1980). Rice ratooning: Effects of varietal type and some cultural management practices. [Unpublished - Masterâ€™s Thesis]. University of the Philippines Los BaÃ±os, Laguna, Philippines.
+
+Sorita, M.Z. (1993). Effects of planting time, nitrogen levels on the growth and yield response of upland rice. [Unpublished - Undergraduate Thesis]. Leyte State University.
+
+Yoshida, S. (1981). Fundamentals of Rice Crop Science. International Rice Research Institute.
+
+Zhu, Z. & Chen, D. (2002). Nitrogen fertilizer use as a significant contribution to food production, impacts on the environment and best management strategies. Nutr. Cycl. Agroecosystem, 63, 117 - 27. https://doi.org/10.1023/A:1021107026067",2020-12-31,https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/880
+Direct and Indirect Factors Affecting Teachersâ€™ Burnout in the New Normal,"education, perceived control, teachersâ€™ personality traits, teachersâ€™ burnout, descriptive correlational, Philippines",Andrian A. Dela Cruz,https://doi.org/10.32871/rmrj2008.02.06,"The outbreak of the COVID-19 has brought about tiring tasks and unending demands in the Philippine educational system. With the abrupt shift of the teaching-learning process, teachers are pressured and stressed, which leads them to be burned out. The descriptive correlational research design determines the direct and indirect effects of perceived control to burnout through teachersâ€™ personality traits of the 240 early childhood teachers. Data are analyzed using the Pearson r formula, Bivariate parametric correlation, and the Structural Equation Model (SEM). The study reveals that despite the challenges experienced in this time of pandemic, teachers have control over themselves and with the people around them. The teachersâ€™ level of control does not influence their burnout; instead, their burnout is dependent on their emotional stability. Thus, burnout is a personal choice which is triggered by oneâ€™s emotion. A person with high perceived control may still be burned out if he does not have control over his emotions.","Becker, E., GÃ¶tz, T., Morger, V., & Ranellucci, J. (2014). The importance of teachersâ€™ emotions and instructional behavior for their studentsâ€™ emotions: An experience sampling analysis. Teaching and Teacher Education, 43, 15â€“26. https://doi.org/10.1016/j.tate.2014.05.002
+
+Bevis, K. (2008). Teacher Burnout: Locus of Control and its Correlation to Teacher Burnout and Job Satisfaction. Theses, Dissertations and Capstones, 466. https://mds.marshall.edu/etd/466
+
+Chang, M.-L. (2009). An appraisal perspective of teacher burnout: Examining the emotional work of teachers. Educational Psychology Review, 21(3), 193â€“218. https://doi.org/10.1007/s10648-009-9106-y
+
+Chipperfield, J. G., Perry, R. P., & Stewart, T. L. (2012). Perceived control. https://www.researchgate.net/publication/316747941_Perceived_control
+
+Cipriano, C. & Brackett, M. (2020). Teachers are anxious and overwhelmed. They need SEL now more than ever. https://www.edsurge.com/
+
+Colomeischi, A. & Colomeischi, T. (2014). Teachersâ€™ attitudes towards work in relation with emotional intelligence and self-efficacy. Procedia - Social and Behavioral Sciences, 159, 615-619.
+
+Corcoran, R. (2017). Teachersâ€™ emotions. https://irinstitutes.org/teacher- emotions/
+
+Dilekmen, M & Erdem, B. (2013). Depression levels of elementary school teachers. Procedia - Social and Behavioral Sciences, 106 (2013), 793 â€“ 806.
+
+Evers, W., Tomic, W., Brouwers, A. (2004). Burnout among teachers studentsâ€™ and teachersâ€™ perceptions compared. School Psychology International, 25(2), 131â€“148.
+
+Frenzel, A.C., LuÂ¨dtke, O., Pekrun, R., Goetz, T., & Sutton, R. (2009). Emotion transmission in the classroom: Exploring the relationships between teacher, and student enjoyment. Journal of Educational Psychology, 101(3), 705â€“716.
+
+Fore, C., Martin, C., & Bender, W. (2002). Teacher burnout in special education: The causes and the recommended solutions. The High School Journal, 86(1), 36-44. https://www.jstor.org/stable/40364344.
+
+Garcia, P. L. S., Kupczynski, L., & Holland, G. (2011). The impact of teacher personality styles on the academic excellence of secondary students. National Forum of Teacher Education Journal, 21, 1â€“8.
+
+Goldberg, Lewis R. (1992). The development of markers for the Big-Five factor structure. Psychological assessment, 4(1), 26.
+
+GÃ¶ncz, L. (2017). Teacher personality: a review of psychological research and guidelines for a more comprehensive theory in educational psychology, Open Review of Educational Research, 4(1), 75-95. https://doi.org/10.1080/23265507.2017.1339572
+
+Hammarberg, A. (2003). Pre-school teachersâ€™ perceived control and problem behaviours in children. Acta Universitatis Upsaliensis, 123(56).
+
+John, O. P., Naumann, L. P., & Soto, C. J. (2008). The Paradigm shift to the integrative big five trait taxonomy. Handbook of Personality: Theory and Research, 3, 114â€“158.
+
+Johnson, S., Cooper, C., Cartwright, S., Donald, I., Taylor, P., & Millet, C. (2005). The experience of work-related stress across occupations. Journal of Managerial Psychology, 20, 178â€“187. https://doi.org/10.1108/02683940510579803
+
+Judge, T. A., Rodell, J. B., Klinger, R. L., Simon, L. S., & Crawford, E. R. (2013). Hierarchical representations of the five-factor model of personality in predicting job performance: Integrating three organizing frameworks with two theoretical perspectives. Journal of Applied Psychology, 98, 875â€“925.
+
+Khatoon, N. (2015). Emotional stability, Self Professional Development and Its Role in Effective Teaching. International Journal of Business and General Management, 4(4), 9-14.
+
+Klassen, R. M., Durksen, T., Kim, L., Patterson, F. Rowett, E., Warwick, J., Warwick, P., Wolpert, M. et al. (2017). Developing a proof-of-concept selection test for entry into primary teacher education programs. International Journal of Assessment Tools in Education, 4, 96â€“114.
+
+Kim, L. E., & MacCann, C. (2018). Instructor personality matters for student evaluations: Evidence from two subject areas at university. British Journal of Educational Psychology, 88, 584â€“605, 4.
+
+Kim, L. E, Verena JÃ¶rg & Robert M. Klassen (2019). A meta-analysis of the effects of teacher personality on teacher effectiveness and burnout. Educational Psychology Review, 31, 163â€“195.
+
+Kyriacou, C. (2001). Teacher stress: Directions for future research. Educational Review, 53, 27â€“35.
+
+Maslach, C., Schaufeli, W. B., & Leiter, M. P. (2001). Job burnout. Annual Review of Psychology, 52, 397â€“422.
+
+Patrick, C. L. (2011). Student evaluations of teaching: Effects of the big five personality traits, grades, and the validity hypothesis. Assessment & Evaluation in Higher Education, 36, 239â€“249.
+
+Paulhus, D. (1990). The sphere of control scale: 10 yrs of research. Personality and Individual Differences, 32(1), 121-131. https://doi.org/10.1016/S0191-8869(01)00010-1
+
+Pagnini, F., Bercovitz, K., & Langer, E. (2016). Perceived control and mindfulness: Implications for clinical practice. Journal of Psychotherapy Integration, 26(2), 91â€“102. https://doi.org/10.1037/int0000035
+
+Pei, G.-g., Li, W.-d., & Zhang, J.-x. (2009). Perceived control, perceived organizational support, job burnout, and psychological health of officers in Chinese armed police force: An Structural Equation Modeling study. Chinese Journal of Clinical Psychology, 17(1), 115â€“117.
+
+Pianta, R. C., & Hamre, B. K. (2009). Conceptualization, measurement, and improvement of classroom processes: Standardized observation can leverage capacity. Educational Researcher, 38, 109â€“119.
+
+Pillay, H., Goddard, R., & Wilss, L. (2005). Well-Being, Burnout and Competence : Implications for Teachers. Australian Journal of Teacher Education, 30(2). http://dx.doi.org/10.14221/ajte.2005v30n2.3
+
+Reyes, C. & Valencia, M. (2014). Competitive edge of migrant Filipino teachers in selected countries. https://www.researchgate.net/publication/268138812
+
+Richmond, V. P., Wrench, J. C., & Gorham, J. (2001). Communication, affect, and learning in the classroom. Acton, MA: Tapestry Press.
+
+Sheema, A. (2005). Emotional stability among college Youth. Journal of Indian Academy of Applied Psychology, 31(1-2), 100-102.
+
+Tamban, V., & Banasihan G. (2017). Big Five Personality Traits and Teaching Performance of Faculty of College of Teacher Education, Laguna State Polytechnic University. International Journal of Research-Granthaalayah, 5(9), 99â€“105. http://doi.org/10.5281/zenodo.999273
+
+Tanjutco, C. (2017). Filipino teachers highly praised and in demand in the US. https://usa.inquirer.net/8169/filipino-teachers-highly-praised-demand-us
+
+Thompson, S & Spacapan, S, (2010). Perceptions of control in vulnerable populations. Journal of Social Issues, 47(4), 1 â€“ 21.
+
+Toussi, M., & Ghanizadeh, A. (2012). A study of EFL teachers' locus of control and self-regulation and the moderating role of self-efficacy. Theory and Practice in Language Studies, 2(11), 2363-2371.
+
+Tsytsarev S.V., Shiryaev E.B. (2017) Addictive nature of control: An issue of the psychopathology of power. International conference ""Psychology of Power."" St. Petersburg, 45-49.
+
+Viernes, R. & de Guzman A. (2005). Filipino Teachersâ€™ experiences of supportive relationships with colleagues: A narrative-biographical inquiry. Asia Pacific Education Review, 6(2), 137-142.
+
+World Health Organization (2019). Burn-out an ""occupational phenomenon"": International Classification of Diseases.
+
+Yazon, A. & Manaig, K. (2019). Emotional Intelligence, and Occupational Stress among Filipino Teachers. Universal Journal of Educational Research, 7(11): 2303-2313.",2020-12-31,https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/964
+Graduate Education during COVID-19 Pandemic: Inputs to Policy Formulation in the New Normal,"challenges, COVID-19, Filipino, graduate education, policy inputs",Inero Ancho,https://doi.org/10.32871/rmrj2008.02.07,"This qualitative research describes the experiences of Filipino graduate students as they continue with their schooling during the COVID-19 pandemic. Particular challenges faced are related to technology and internet access. As graduate work is expected to be about research tasks, subscribing to paid resources is seen as an issue. It is also crucial to recognize how the experience has caused stress for students. The experienced challenges are resolved by augmenting studentsâ€™ technological capacity, realigning personal values and perspectives, and resorting to free and open access journals to sustain research activities. The COVID-19 experience has taught graduate students the importance of technology, the significance of revisiting oneâ€™s values, and the reflection on their quest to finish their graduate studies. Lastly, assistance to graduate students can be done by proactively offering infrastructure assistance, socio-emotional support, and institutionalizing responsive and flexible communication mechanisms.
+
+","Aliyyah, R. R., Rachmadtullah, R., Samsudin, A., Syaodih, E., Nurtanto, M., & Tambunan, A. R. S. (2020). The perceptions of primary school teachers of online learning during the COVID-19 pandemic period: A case study in Indonesia. Journal of Ethnic and Cultural Studies, 7(2), 90-109.
+
+Angelova, M. (2020). Studentsâ€™ attitudes to the online university course of management in the context of COVID-19. International Journal of Technology in Education and Science (IJTES), 4(4), 283-292.
+
+Askitas, N., Tatsiramos, K., & Verheyden, B. (2020). Lockdown strategies, mobility patterns, and covid-19. arXiv preprint arXiv:2006.00531.
+
+Auger, K. A., Shah, S. S., Richardson, T., Hartley, D., Hall, M., Warniment, A. & Schondelmeyer, A. C. (2020). Association between state-wide school closure and COVID-19 incidence and mortality in the US. JAMA, 324(9):859â€“870.
+
+Bal, I. A., Arslan, O., Budhrani, K., Mao, Z., Novak, K., & Muljana, P. S. (2020). The balance of roles: Graduate student perspectives during the COVID-19 pandemic. TechTrends, 1-3.
+
+Bao, W. (2020). COVIDâ€19 and online teaching in higher education: A case study of Peking University. Human Behavior and Emerging Technologies, 2(2), 113-115.
+
+Bernstein, S. A., Gu, A., Chretien, K. C., & Gold, J. A. (2020). Graduate medical education virtual interviews and recruitment in the era of COVID-19. Journal of Graduate Medical Education, 12(5), 557-560.
+
+Bonaccorsi, G., Pierri, F., Cinelli, M., Flori, A., Galeazzi, A., Porcelli, F., & Pammolli, F. (2020). Economic and social consequences of human mobility restrictions under COVID-19. Proceedings of the National Academy of Sciences, 117(27), 15530-15535.
+
+Byrnes, Y. M., Civantos, A. M., Go, B. C., McWilliams, T. L., & Rajasekaran, K. (2020). Effect of the COVID-19 pandemic on medical student career perceptions: a national survey study. Medical education online, 25(1), 1798088.
+
+Calhoun, K. E., Yale, L. A., Whipple, M. E., Allen, S. M., Wood, D. E., & Tatum, R. P. (2020). The impact of COVID-19 on medical student surgical education: implementing extreme pandemic response measures in a widely distributed surgical clerkship experience. The American Journal of Surgery, 220 (1), pp. 44 â€“ 47.
+
+Cheng, S. Y., Wang, C. J., Shen, A. C. T., & Chang, S. C. (2020). How to safely reopen colleges and universities during COVID-19: experiences from Taiwan. Annals of Internal Medicine.
+
+Colgan, J. (2017). Gender bias in international relations graduate education? New evidence from Syllabi. PS: Political Science & Politics, 50(2), 456-460.
+
+Crawford, J., Butler-Henderson, K., Rudolph, J., Malkawi, B., Glowatz, M., Burton, R., ... & Lam, S. (2020). COVID-19: 20 countries' higher education intra-period digital pedagogy responses. Journal of Applied Learning & Teaching, 3(1), 1-20.
+
+Creswell, J. W. (2007). Qualitative inquiry and research design. Second Edition. California: Sage Publications.
+
+Das, S., Kim, A., & Karmakar, S. (2020). Change-point analysis of cyberbullying-related Twitter discussions during COVID-19. arXiv preprint arXiv:2008.13613.
+
+Dave, D., Friedson, A. I., Matsuzawa, K., & Sabia, J. J. (2020). When do shelterâ€inâ€place orders fight COVIDâ€19 best? Policy Heterogeneity Across States and Adoption Time. Economic Inquiry.
+
+Evans, T. M., Bira, L., Beltranâ€Gastelum, J., Weiss, L. T., & Vanderford, N. (2017). Mental health crisis in graduate education: The data and intervention strategies. The FASEB Journal, 31, 750-7.
+
+Fauzi, I., & Khusuma, I. H. S. (2020). Teachersâ€™ Elementary School in Online Learning of COVID-19 Pandemic Conditions. Jurnal Iqra': Kajian Ilmu Pendidikan, 5(1), 58-70.
+
+Fernandes, N. (2020). Economic effects of coronavirus outbreak (COVID-19) on the world economy. Available at SSRN 3557504.
+
+Garbe, A., Ogurlu, U., Logan, N., & Cook, P. (2020). Parentsâ€™ experiences with remote education during COVID-19 school closures. American Journal of Qualitative Research, 4(3), 45-65.
+
+Gonzalez, T., de la Rubia, M. A., Hincz, K. P., Comas-Lopez, M., Subirats, L., Fort, S., & Sacha, G. M. (2020). Influence of COVID-19 confinement on studentsâ€™ performance in higher education. PloS one, 15(10), e0239490.
+
+Jena, P. K. (2020). Impact of Covid-19 on higher education in India. International Journal of Advanced Education and Research (IJAER), 5.
+
+Keswani, R. N., Sethi, A., Repici, A., Messman, H., & Chiu, P. (2020). How to maximize trainee education during the COVID-19 pandemic: perspectives from around the world. Gastroenterology, 159 (1): 26â€“29.
+
+Khalil, R., Mansour, A. E., Fadda, W. A., Almisnid, K., Aldamegh, M., Al-Nafeesah, A., & Al-Wutayd, O. (2020). The sudden transition to synchronized online learning during the COVID-19 pandemic in Saudi Arabia: a qualitative study exploring medical studentsâ€™ perspectives. BMC medical education, 20(1), 1-10.
+
+KÃ¶nig, J., JÃ¤ger-Biela, D. J., & Glutsch, N. (2020). Adapting to online teaching during COVID-19 school closure: Teacher education and teacher competence effects among early career teachers in Germany. European Journal of Teacher Education, 43(4), 608-622.
+
+Lackie, K., Najjar, G., El-Awaisi, A., Frost, J., Green, C., Langlois, S., ... & Khalili, H. (2020). Interprofessional education and collaborative practice research during the COVID-19 pandemic: Considerations to advance the field. Journal of Interprofessional Care, 1-4.
+
+Li, H. O., & Bailey, A. (2020). Medical education amid the COVID-19 pandemic: New perspectives for the future. Academic medicine: journal of the Association of American Medical Colleges, 10.1097/ACM.0000000000003594. Advance online publication.
+
+Li, J., Xie, P., Ai, B., & Li, L. (2020). Multilingual communication experiences of international students during the COVID-19 Pandemic. Multilingua, 39(5), 529-539.
+
+Machado, R. A., Bonan, P. R. F., Perez, D. E. D. C., & Martelli Junior, H. (2020). COVID-19 pandemic and the impact on dental education: discussing current and future perspectives. Brazilian oral research, 34.
+
+Masonbrink, A. R., & Hurley, E. (2020). Advocating for children during the COVID-19 school closures. Pediatrics, 146(3).
+
+Melnick, H., & Darling-Hammond, L. (2020). Reopening schools in the context of COVID-19: Health and safety guidelines from other countries. Policy Brief. Learning Policy Institute.
+
+Meng, L., Hua, F., & Bian, Z. (2020). Coronavirus disease 2019 (COVID-19): emerging and future challenges for dental and oral medicine. Journal of Dental Research, 99(5), 481-487.
+
+Mogaji, E., & Jain, V. (2020). Impact of the pandemic on higher education in emerging countries: Emerging opportunities, challenges, and research agenda. Challenges and Research Agenda (June 8, 2020).
+
+Mohmmed, A. O., Khidhir, B. A., Nazeer, A., & Vijayan, V. J. (2020). Emergency remote teaching during Coronavirus pandemic: the current trend and future directive at Middle East College Oman. Innovative Infrastructure Solutions, 5(3), 1-11.
+
+Murphy, M. P. (2020). COVID-19 and emergency eLearning: Consequences of the securitization of higher education for post-pandemic pedagogy. Contemporary Security Policy, 1-14.
+
+Nicola, M., Alsafi, Z., Sohrabi, C., Kerwan, A., Al-Jabir, A., Iosifidis, C., & Agha, R. (2020). The socio-economic implications of the coronavirus pandemic (COVID-19): A review. International journal of surgery (London, England), 78, 185.
+
+O'Meara, K., Griffin, K. A., Kuvaeva, A., Nyunt, G., & Robinson, T. N. (2017). Sense of belonging and its contributing factors in graduate education. International Journal of Doctoral Studies, 12, 251-279.
+
+Pastor, C. K. L. (2020). Sentiment analysis on synchronous online delivery of instruction due to extreme community quarantine in the Philippines caused by Covid-19 pandemic. Asian Journal of Multidisciplinary Studies, 3(1), 1-6.
+
+Phelps, C., & Sperry, L. L. (2020). Children and the COVID-19 pandemic. Psychological Trauma: Theory, Research, Practice, and Policy, 12(S1), S73.
+
+Piryani, R. M., Piryani, S., Piryani, S., Shankar, P. R., & Shakya, D. R. (2020). Impact of COVID-19 pandemic on medical education: Challenges and opportunities for medical educators in South Asia. Journal of BP Koirala Institute of Health Sciences, 3(1), 28-38.
+
+Posselt, J. R., & Grodsky, E. (2017). Graduate education and social stratification. Annual review of sociology, 43, 353-378.
+
+Psacharopoulos, G., Collis, V., Patrinos, H. A., & Vegas, E. (2020). Lost wages: The COVID-19 cost of school closures. World Bank Policy Research Working Paper, (9246).
+
+Qiu, J., Shen, B., Zhao, M., Wang, Z., Xie, B., & Xu, Y. (2020). A nationwide survey of psychological distress among Chinese people in the COVID-19 epidemic: Implications and policy recommendations. General psychiatry, 33 (2).
+
+Ramos, M. Y. (2018). Internationalization of graduate education in. Educ. Pesqui, 44, e161579.
+
+Rana, T., Hackett, C., Quezada, T., Chaturvedi, A., Bakalov, V., Leonardo, J., & Rana, S. (2020). Medicine and surgery residentsâ€™ perspectives on the impact of COVID-19 on graduate medical education. Medical education online, 25(1), 1818439.
+
+Rapanta, C., Botturi, L., Goodyear, P., GuÃ rdia, L., & Koole, M. (2020). Online university teaching during and after the Covid-19 crisis: Refocusing teacher presence and learning activity. Postdigital Science and Education, 2(3), 923-945.
+
+SÃ¡iz-Manzanares, M. C., Marticorena-SÃ¡nchez, R., & Ochoa-Orihuel, J. (2020). Effectiveness of using voice assistants in learning: A study at the time of COVID-19. International journal of environmental research and public health, 17(15), 5618.
+
+Shahzad, S. K., Hussain, J., Sadaf, N., Sarwat, S., Ghani, U., & Saleem, R. (2020). Impact of virtual teaching on ESL learners' attitudes under COVID-19 circumstances at post graduate level in Pakistan. English Language Teaching, 13(9), 1-9.
+
+Sullivan, L. M., Velez, A. A., & Galea, S. (2020). Graduate public health education in the post-COVID-19 era. The Lancet Public Health, 5(9), e473.
+
+Sunasee, R. (2020). Challenges of teaching organic chemistry during COVID-19 pandemic at a primarily undergraduate institution. Journal of Chemical Education, 97(9), 3176-3181.
+
+Suryaman, M., Cahyono, Y., Muliansyah, D., Bustani, O., Suryani, P., Fahlevi, M., & Munthe, A. P. (2020). COVID-19 Pandemic and home learning system: Does it affect the quality of pharmacy school learning? Syst. Rev. Pharm, 11, 524-530.
+
+Talidong, K. J. B., & Toquero, C. M. D. (2020). Philippine teachersâ€™ practices to deal with anxiety amid COVID-19. Journal of Loss and Trauma, 1-7.
+
+Toquero, C. M. (2020). Emergency remote teaching amid COVID-19: The turning point. Asian Journal of Distance Education, 15(1), 185-188.
+
+Tran, V. T., & Ravaud, P. (2020). COVID-19â€“related perceptions, context and attitudes of adults with chronic conditions: Results from a cross-sectional survey nested in the ComPaRe e-cohort. PloS one, 15(8), e0237296.
+
+Van Lancker, W., & Parolin, Z. (2020). COVID-19, school closures, and child poverty: a social crisis in the making. The Lancet Public Health, 5(5), e243-e244.
+
+Verma, A., Verma, S., Garg, P., & Godara, R. (2020). Online teaching during COVID-19: perception of medical undergraduate students. Indian Journal of Surgery, 82(3), 299-300.
+
+Watanabe, T., & Omori, Y. (2020). Online consumption during the covid-19 crisis: Evidence from Japan. Covid Economics, 38(16), 218-252.
+
+Wu, D. T., Wu, K. Y., Nguyen, T. T., & Tran, S. D. (2020). The impact of COVIDâ€19 on dental education in North Americaâ€”Where do we go next?. European Journal of Dental Education, 00: 1â€“ 3
+
+Yen, T. F. T. (2020). The performance of online teaching for flipped classroom based on COVID-19 aspect. Asian Journal of Education and Social Studies, 57-64.
+
+Zhang, Y., & Ma, Z. F. (2020). Impact of the COVID-19 pandemic on mental health and quality of life among residents in Liaoning Province, China: A cross-sectional study. International journal of environmental research and public health, 17 (7), 2381.",2020-12-31,https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/934
+"Kakugi Ko, Kalambuan Mo (KKK Mo) as an Extension Program for Daycare Workers: An Impact Study","daycare workers, daycare centers, Theory of Change, impact study, Philippines","Maria Nancy Q. Cadosales, Angelito Jr. B. Cabanilla, Naila Y. Beltran",https://doi.org/10.32871/rmrj2008.02.08,"The Commission on Higher Education emphasized that extension programs provide the space to discover practical evidence, and science-based answers to real-world social, economic, and environmental challenges for partner communities. This descriptive study looked into the impact of an extension program to address the needs of the day care workers. It employed a questionnaire, unstructured interview, and focus group discussion in gathering the data. The study revealed that the parents and the social workers were responsive to the needs of the day care workers.  Seven themes emerged namely: eliciting parents and childrenâ€™s active involvement, improving collaboration and communication, learning from seminars, availing necessities and learning resources, improving pedagogical competence and practices of DCWs, and improving the learning environment. The extension program helped the day care workers established sustainable and effective day care centers through forging and sustaining strong partnerships with parents, government, and non-government organizations.","Abulon, E. L. (2013). Barangay day care center: Emergence, Current status and implications to Teacher Education. The Normal Lights Journal on Teacher Education, 5(1). http://pnuresearchportal.org/ejournal/index.php/normallights/article/view/57
+
+Bastiaanssen, I. L., Kroes, G., Nijhof, K. S., Delsing, M. J., Engels, R. C., & Veerman, J. W. (2012). Measuring group care worker interventions in residential youth care. Child & Youth Care Forum, 41(5), 447-460. https://doi.org/10.1007/s10566-012-9176-8
+
+Cadosales, M. N. Q. (2011). Enhancement activities for the day care centers and development workers. JPAIR Multidisciplinary Research Journal, 6(1). Retrieved from http://ejournals.ph/form/cite.php?id=7482
+
+Colaizzi, P. F. (1978). Psychological research as the phenomenologist views it. In R. Valle & M. King (Eds.), Existential phenomenological alternative for psychology.
+
+Costillas, J. M., Obus, M. E. & Vitor, F. E. (2016). Screening Indicators for an Improved Faculty Accomplishment. Recoletos Multidisciplinary Research Journal, 4(1), 85-104. https://doi.org/10.32871/rmrj1604.01.10
+
+Del Rosario, K., include all authors. (2018). Work-related factors as determinants of self-efficacy and resilience among selected Filipino child development workers. IAFOR Journal of Education 6(3). https://files.eric.ed.gov/fulltext/EJ1198684.pdf.
+
+Department of Social Welfare and Development. (2011). Administrative Order no. 15, s. 2011. https://www.dswd.gov.ph/issuances/AOs/AO_2011-015.pdf no in-text citation found
+
+Escarlos, G. S., Bermillo, J. E., Magday, E. R. J., & Salon, V. S. (2019). An impact study on mentoring barangay day care workers extension program of the College of Education. International Journal of Scientific and Technology Research, 8(11). http://www.ijstr.org/paper-references.php?ref=IJSTR-0919-22334
+
+Fuqua, R. W., & Greenman, J. T. (1982). Training of caregivers and change in daycare center environments. Child Care Quarterly, 11(4), 321â€“324. https://doi.org/10.1080/10901020600675117
+
+Garcia, L.E. & Thornton, O. (2014). The enduring importance of parental involvement. http://Neatoday.org/20 14/11/18/the- enduring-importance of parental-involvement-2/
+
+Gulnara, B., & Valeevaa, R. A. (2016). Study of family values of adolescents from families with many children formation. IEJME â€” Mathematics Education, 11 (6), 1919-1926. https://www.iejme.com/article/study-of-family-values-of-adolescents-from-families-with-many-children-formation
+
+Harries, E., Hodgson, L., & Noble, J. (2014). Creating your theory of change. https://www.thinknpc.org/wp-content/uploads/2018/07/Creating-your-theory-of-change1.pdf
+
+Irudayaraj, A. R. (2019). Teachersâ€™ Well-Being Through Work Engagement among Montfortian Schools in Asia. Recoletos Multidisciplinary Research Journal, 7(2), 61-78. https://doi.org/10.32871/rmrj1907.02.05
+
+Jarrar, Y. F., & Zairi, M. (2000). Best practice transfer for future competitiveness: a study of best practices. Total Quality Management, 11(4-6), 734-740. https://doi.org/10.1080/09544120050008147
+
+LaBahn, J. (1995). Education and parental involvement in secondary schools: Problems, solutions, and effects. Educational Psychology Interactive. http://www.edpsycinteractive/files/parinvol.html
+
+Lau, E. YH, Li, H. & Rao, H. (2011). Parental involvement and children's readiness for school in China. Educational Research, 53(1): 95-113. https://doi.org/10.1080/00131881.2011.552243
+
+LÃ¸vgren, M. (2016). Emotional exhaustion in daycare workers. European Early Childhood Education Research Journal, 24(1), 157â€“167. https://doi.org/10.1080/1350293X.2015.1120525
+
+Lowe, E. D., & Weisner, T. S. (2004). â€˜You have to push itâ€”who's gonna raise your kids?': Situating child care and child care subsidy use in the daily routines of lower-income families. Children and youth services review, 26(2), 143-171. https://doi.org/10.1016/j.childyouth.2004.01.011
+
+McCarthy, P. J., Brennan, L., & Vecchiarello, K. (2011). Parent â€“ school communication in the inclusive classroom: A comprehensive model of collaboration in education. International Journal of Humanities and Social Science, 1 (15), 55. http://www.ijhssnet.com/journals/Vol_1_No_15_Special_Issue_October_2011/7.pdf
+
+Ntekane, A. (2018). Parental involvement in education. DOI: 10.13140/RG.2.2.36330.21440
+
+Peisner-Feinberg E.S. (2007). Child care and its impact on young childrenâ€™s development. In: Tremblay RE, Boivin M, Peters RDeV, eds. Bennett J, topic ed. Encyclopedia on Early Childhood Development [online]. http://www.child-encyclopedia.com/child-care-early-childhood-education-and-care/according-experts/child-care-and-its-impact-young-1.
+
+Philippines. (2000). Republic Act No. 8980: Promulgating a comprehensive policy and system for Early Childhood Care and Development (ECCD). Quezon City, Philippines, Republic of the Philipines.
+
+Pines, A., & Maslach, C. (1980). Combatting staff burn-out in a daycare center: A case study. Child care quarterly, 9(1), 5-16. https://doi.org/10.1007/BF01555032
+
+Podmore, V. N., Ed. (1993). What is the government's role in early childhood education? [Conference Presentation]. New Zealand Council for Educational Research Invitational Seminar. https://eric.ed.gov/?id=ED362265
+
+Scriven, G. H., & Baldridge, J. E. (1982). An in-service program to train daycare workers. Early Child Development and Care, 8(1), 69â€“77. https://doi.org/10.1080/0300443820080107
+
+Serrat, O. (2017). Theories of change. 10.1007/978-981-10-0983-9_24
+
+Somayeh, G., SayyedMirshah, J., SayyedMostafa, S., & Azizollah, A. (2013). Investigating the effect of positive discipline on the learning process and its active strategies by focusing on the students' abilities. International Journal of Academic Research in Business and Social Sciences, 3 (5). 10.13140/2.1.3008.5128
+
+Talbert, P. Y. (2012). Strategies to Increase Enrollment, Retention, and Graduation Rates. Journal of Developmental Education, 36(1), 22. https://www.semanticscholar.org/paper/Strategies to Increase Enrollment, Retention, and Graduation Rates | Semantic Scholar
+
+United Nations Educational Scientific and Cultural Organization. (2015). UNESCO and sustainable development goals. https://en.unesco.org/sustainabledevelopmentgoals
+
+Whitebook, M. (1999). Child care workers: High demand, low wages. The ANNALS of the American Academy of Political and Social Science, 563(1), 146â€“161. https://doi.org/10.1177/000271629956300109
+
+Woolfolk, A. (2016). Educational psychology 13th Ed. Boston: Pearson.",2020-12-31,https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/970
