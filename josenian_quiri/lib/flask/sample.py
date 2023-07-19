@@ -122,7 +122,7 @@ def generate_response(prompt, database_json):
 
     # Generate the response using OpenAI API
     response = openai.ChatCompletion.create(
-        model="gpt-4",
+        model="gpt-3.5-turbo",
         messages=conversation,
         temperature=1,
         max_tokens=500,
